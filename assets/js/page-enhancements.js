@@ -3392,8 +3392,12 @@
       }
 
       function getSecondaryCardTitle(node) {
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(displayLabel)) {
+          return catchyTitle;
+        }
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(displayLabel)) {
           return "";
         }
@@ -5359,8 +5363,13 @@
 
       function getSecondaryCardTitle(node, displayLabel) {
 
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
+
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(compactLabel)) {
+          return catchyTitle;
+        }
 
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(compactLabel)) {
           return "";
