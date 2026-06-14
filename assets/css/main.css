@@ -16282,14 +16282,15 @@ a.fr-book-fit:focus-visible {
   }
 
   body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
   body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
   body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
   body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
   body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
-    display: -webkit-box;
-    overflow: hidden;
+    display: block;
+    overflow: visible;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: unset;
   }
 
   body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
