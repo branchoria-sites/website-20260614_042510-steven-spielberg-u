@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-14T03:20:17.403476Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1059,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 208,
+    "average_inline_inbound_links_per_visible_page": 5.02,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters/",
+        "inline_inbound_count": 179
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 114
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "title": "Roy Neary",
+        "permalink": "/roy-neary/",
+        "inline_inbound_count": 90
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "title": "Disclosure Day",
+        "permalink": "/disclosure-day/",
+        "inline_inbound_count": 84
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 78
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "title": "Credibility",
+        "permalink": "/credibility/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "title": "Devils Tower",
+        "permalink": "/devils-tower/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "title": "E T",
+        "permalink": "/e-t/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "title": "Cold War",
+        "permalink": "/cold-war/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "title": "Saucers",
+        "permalink": "/saucers/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "title": "NASA UAP",
+        "permalink": "/nasa-uap/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "title": "Whistleblowers",
+        "permalink": "/whistleblowers/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "title": "Outsiders",
+        "permalink": "/outsiders/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "title": "Timeline",
+        "permalink": "/timeline/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "title": "Five Notes",
+        "permalink": "/five-notes/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "title": "Disclosure Culture",
+        "permalink": "/disclosure-culture/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "title": "UAP Science",
+        "permalink": "/uap-science/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "title": "Mainstreaming",
+        "permalink": "/mainstreaming/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "title": "Moral Tests",
+        "permalink": "/moral-tests/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f",
+        "title": "Why Spielberg Still Defines UFO Wonder",
+        "permalink": "/steven-spielberg-and-ufos/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "title": "Vulnerable Alien",
+        "permalink": "/vulnerable-alien/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "title": "Sky Experts",
+        "permalink": "/sky-experts/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "title": "Belief Shift",
+        "permalink": "/belief-shift/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "title": "Child View",
+        "permalink": "/child-view/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "title": "Hope vs Fear",
+        "permalink": "/hope-vs-fear/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "title": "Hopeful Aliens",
+        "permalink": "/hopeful-aliens/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "title": "Hynek System",
+        "permalink": "/hynek-system/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "title": "Radar Realism",
+        "permalink": "/radar-realism/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "title": "Sound Light",
+        "permalink": "/sound-light/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "title": "War Worlds",
+        "permalink": "/war-worlds/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "title": "Wonder vs Proof",
+        "permalink": "/wonder-vs-proof/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_elliott_et_empathy_012958",
+        "title": "Elliott Et Empathy",
+        "permalink": "/elliott-et-empathy/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_et_adult_authority_653a82",
+        "title": "Et Adult Authority 653 A82",
+        "permalink": "/et-adult-authority-653-a82/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_et_farewell_ethics_1efd93",
+        "title": "Et Farewell Ethics 1 Efd 93",
+        "permalink": "/et-farewell-ethics-1-efd-93/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_et_phone_home_plea_4cde91",
+        "title": "Et Phone Home Plea 4 Cde 91",
+        "permalink": "/et-phone-home-plea-4-cde-91/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_et_quarantine_house_c9110b",
+        "title": "Et Quarantine House C9110 B",
+        "permalink": "/et-quarantine-house-c9110-b/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4_et_stranded_child_a004a4",
+        "title": "Et Stranded Child A004 A4",
+        "permalink": "/et-stranded-child-a004-a4/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_elliott_family_respo_cbeacb",
+        "title": "Elliott Family Respo",
+        "permalink": "/elliott-family-respo/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_et_vulnerable_alien_49029e",
+        "title": "Et Vulnerable Alien 49029 E",
+        "permalink": "/et-vulnerable-alien-49029-e/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_first_contact_patien_2ff4c8",
+        "title": "First Contact Patien 2 Ff 4 C8",
+        "permalink": "/first-contact-patien-2-ff-4-c8/",
+        "inline_inbound_count": 1
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_index",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f",
+        "to": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "parent"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_hynek_uap_definition_971a5d",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_index",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_nasa_aaro_governance_b6b8eb",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_nasa_no_alien_proof_049527",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_uap_reporting_stigma_9ebffe",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b_uap_sighting_evidenc_ce6c36",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "ancestor"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "parent"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_diegetic_music_plot_afe5ff",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_five_note_signal_sha_2d3c45",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_hand_signs_contact_cb0365",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_index",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_mothership_reply_69d5f3",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171_music_not_weapons_401dd8",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "ancestor"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "parent"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_ce3k_atc_near_miss_9c9879",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_faa_uap_reporting_ca103d",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_index",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_pilot_reporting_stig_482bec",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_primary_radar_limits_8ae3a0",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_radar_visual_trap_610f18",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_radio_chatter_realis_302703",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "ancestor"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "parent"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_sound_light_contact_277807",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_spielberg_belief_shi_340948",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_uap_science_claims_c02b9e",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_witness_credibility_c6d46d",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_witness_testimony_re_c9f417",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_index",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_mashed_potato_mounta_f23d00",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_roy_boarding_reward_a9715f",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_roy_credibility_cris_14bd7e",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_roy_family_collapse_a6345c",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_roy_vs_experts_cb4aad",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3_spielberg_roy_regret_3505fe",
+        "type": "child"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_roy_neary_witness_80c3a3",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "ancestor"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f",
+        "type": "parent"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_alien_vulnerability_69e0a4",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_aliens_moral_tests_7f68df",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_child_perspective_al_9a0a86",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_close_encounters_blu_a20151",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_cold_war_alien_fear_f86079",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_devils_tower_contact_d94aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_disclosure_day_retur_842eb0",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_et_intimate_contact_177e70",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_five_note_contact_d48171",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_government_secrecy_u_fb622b",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_hollywood_mainstream_2316ce",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_hynek_close_encounte_402c04",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c",
+        "type": "sibling"
+      },
+      {
+        "from": "steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590",
+        "to": "steven_spielberg_and_53b32f_nasa_uap_study_25636b",
+        "type": "sibling"
+      }
+    ]
+  }
+}
