@@ -71,7 +71,7 @@
 
   function cleanGeneratedTopicLabels() {
     var nodes = document.querySelectorAll(
-      ".article-branch-link-short, .sidebar-link, .sidebar-toggle"
+      ".article-branch-section a, .article-branch-link-short, .sidebar-link, .sidebar-toggle"
     );
     Array.prototype.forEach.call(nodes, function (node) {
       var original = String(node.textContent || "").replace(/\s+/g, " ").trim();
