@@ -446,7 +446,7 @@ image: /assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-ov
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-overview.webp" | relative_url }}" alt="Overview image for Disclosure Culture" loading="eager" decoding="sync" fetchpriority="high">
-That pattern still shadows modern UAP debate. Congressional hearings, whistleblower claims, official archives and scientific reports now use the language of oversight, data quality and national security rather than 1970s flying-saucer wonder. Yet the public hope is recognisably similar: that behind partial explanations and classified records there may be a fuller story. The difference is that today’s disclosure culture must survive a harder evidential test. Official bodies such as NASA and the Pentagon’s All-domain Anomaly Resolution Office have acknowledged unexplained cases, but they have not found verified evidence of extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+That pattern still shadows modern UAP debate. Congressional hearings, whistleblower claims, official archives and scientific reports now use the language of oversight, data quality and national security rather than 1970s flying-saucer wonder. Yet the public hope is recognisably similar: that behind partial explanations and classified records there may be a fuller story. The difference is that today’s disclosure culture must survive a harder evidential test. Official bodies such as NASA and the Pentagon’s All-domain Anomaly Resolution Office have acknowledged unexplained cases, but they have not found verified evidence of extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
@@ -455,11 +455,11 @@ That pattern still shadows modern UAP debate. Congressional hearings, whistleblo
 
 In *Close Encounters*, [secrecy]({{ 'secrecy/' | relative_url }}) is not just a plot device. It is the engine of expectation. The government knows where contact will happen, keeps civilians away from [Devils Tower]({{ 'devils-tower/' | relative_url }}), and uses a false public emergency to control access to the site. The result is a powerful disclosure fantasy: if the public could only get past the cover story, the hidden truth would be visible, luminous and undeniable.
 
-That structure resonated because it arrived after the closure of Project Blue Book, the US Air Force’s long-running UFO investigation. Blue Book ended in December 1969, and official summaries state that 12,618 sightings had been reported, with 701 remaining “unidentified”; the Air Force concluded that the investigated UFOs showed no threat to national security and no evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Afghanistan Ministry of Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">ghanistan Ministry of DefenseUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson...</span></span></span> For many sceptics, that was a bureaucratic ending. For many believers, it left a vacuum: if hundreds of cases were still unexplained, why stop looking?
+That structure resonated because it arrived after the closure of Project Blue Book, the US Air Force’s long-running UFO investigation. Blue Book ended in December 1969, and official summaries state that 12,618 sightings had been reported, with 701 remaining “unidentified”; the Air Force concluded that the investigated UFOs showed no threat to national security and no evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Afghanistan Ministry of Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">ghanistan Ministry of DefenseUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson...</span></span></span> For many sceptics, that was a bureaucratic ending. For many believers, it left a vacuum: if hundreds of cases were still unexplained, why stop looking?
 
 Spielberg’s film entered that vacuum and dramatised a more satisfying answer. It imagined that official closure did not mean the mystery was over; it meant the real story had moved behind fences, radio codes and controlled zones. That is why the film’s secrecy feels different from a simple conspiracy thriller. The cover-up is morally troubling, but it also functions as a promise that there is something worth covering up.
 
-This was central to later disclosure culture. Activists and researchers did not only ask whether UFOs were real; they asked what government agencies had already collected. Citizens Against UFO Secrecy, founded in 1977, used the Freedom of Information Act to pursue classified UFO material, including litigation involving the CIA and NSA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Citizens Against UFO Secrecy</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy</span></span></span> The timing matters: the same year Spielberg put a benevolent secret landing site on screen, disclosure activism was turning secrecy itself into the evidence trail.
+This was central to later disclosure culture. Activists and researchers did not only ask whether UFOs were real; they asked what government agencies had already collected. Citizens Against UFO Secrecy, founded in 1977, used the Freedom of Information Act to pursue classified UFO material, including litigation involving the CIA and NSA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Citizens Against UFO Secrecy</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy</span></span></span> The timing matters: the same year Spielberg put a benevolent secret landing site on screen, disclosure activism was turning secrecy itself into the evidence trail.
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-1-dark.svg" | relative_url }}" alt="Disclosure Culture illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,13 +467,13 @@ This was central to later disclosure culture. Activists and researchers did not 
 
 The strongest cultural afterlife of *Close Encounters* is not the mothership. It is the emotional vindication of the witness. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s sighting ruins his ordinary life before it gives him meaning. He cannot explain what he has seen, cannot make his family understand, and becomes socially embarrassing before he becomes narratively correct. That arc captured a central wound in UFO culture: the witness does not simply want to be believed; the witness wants reality itself to confirm that the experience mattered.
 
-Spielberg strengthened that effect by tying the film to real UFO research language. The title came from astronomer J. Allen Hynek’s classification system, and the American Film Institute records that Columbia purchased rights connected to Hynek’s *The UFO Experience* and hired him as technical adviser. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> Hynek’s presence gave the film a borrowed seriousness without making it a documentary. It suggested that testimony, classification and investigation could coexist with awe.
+Spielberg strengthened that effect by tying the film to real UFO research language. The title came from astronomer J. Allen Hynek’s classification system, and the American Film Institute records that Columbia purchased rights connected to Hynek’s *The UFO Experience* and hired him as technical adviser.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> Hynek’s presence gave the film a borrowed seriousness without making it a documentary. It suggested that testimony, classification and investigation could coexist with awe.
 
 That mattered because UFO disclosure culture has always depended on a difficult balance: testimony is compelling because it is human, but vulnerable because it is subjective. A pilot, radar operator or ordinary citizen may be sincere and still mistaken. *Close Encounters* does not solve that problem through evidence standards. It solves it emotionally. The witnesses’ inner compulsion is finally matched by an external event.
 
-Modern UAP politics often repeats this pattern in a more formal register. The 26 July 2023 House Oversight hearing brought testimony from former military and intelligence figures including Ryan Graves, David Fravor and David Grusch, framing UAP not as a fringe curiosity but as a matter of national security, aviation safety and government transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Oversight Committee The hearing’s cultural power came partly from credentials: pilots and intelligence officials seemed to occupy the same role that Spielberg gave his witnesses, moving from private disruption to public recognition.
+Modern UAP politics often repeats this pattern in a more formal register. The 26 July 2023 House Oversight hearing brought testimony from former military and intelligence figures including Ryan Graves, David Fravor and David Grusch, framing UAP not as a fringe curiosity but as a matter of national security, aviation safety and government transparency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Oversight Committee The hearing’s cultural power came partly from credentials: pilots and intelligence officials seemed to occupy the same role that Spielberg gave his witnesses, moving from private disruption to public recognition.
 
-Yet modern hearings also expose the limit of the Spielberg pattern. Grusch’s most explosive claims concerned alleged retrieval and reverse-engineering programmes, but public verification remained contested; reporting at the time noted Pentagon denials and the distinction between testimony, second-hand claims and independently available proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Disclosure culture still seeks the Roy Neary moment: the point at which the witness is not merely heard, but vindicated by evidence everyone can see.
+Yet modern hearings also expose the limit of the Spielberg pattern. Grusch’s most explosive claims concerned alleged retrieval and reverse-engineering programmes, but public verification remained contested; reporting at the time noted Pentagon denials and the distinction between testimony, second-hand claims and independently available proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Disclosure culture still seeks the Roy Neary moment: the point at which the witness is not merely heard, but vindicated by evidence everyone can see.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QY6naT5OZSc" title="Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer">Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 10.0K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QY6naT5OZSc">Open on YouTube</a></p></div></div></div>
@@ -482,11 +482,11 @@ Yet modern hearings also expose the limit of the Spielberg pattern. Grusch’s m
 
 The most important shift since *Close Encounters* is that disclosure has moved from cinematic revelation to records management. The old fantasy is a dramatic unveiling: a secret site, a final broadcast, a door opening. The modern process is slower and less cinematic: hearings, agency reviews, declassification rules, archive collections, redactions and disputes over what can be released.
 
-The clearest example is the UAP records collection created through the 2024 National Defence Authorization Act. The National Archives says it has established Record Group 615, the “Unidentified Anomalous Phenomena Records Collection”, for UAP records received from federal agencies under that law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span> Separate National Archives guidance required agencies to review, identify and organise UAP records in their custody for disclosure and transfer by October 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span>
+The clearest example is the UAP records collection created through the 2024 National Defence Authorization Act. The National Archives says it has established Record Group 615, the “Unidentified Anomalous Phenomena Records Collection”, for UAP records received from federal agencies under that law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span> Separate National Archives guidance required agencies to review, identify and organise UAP records in their custody for disclosure and transfer by October 2024.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span>
 
 That is disclosure as administration rather than revelation. It does not promise a mothership behind the hill. It promises that records should be findable, reviewable and, where possible, public. The emotional structure, however, remains close to Spielberg’s. The public is still positioned outside a controlled perimeter, asking what insiders already know.
 
-The failed or weakened parts of disclosure legislation are just as revealing. Senate proposals associated with Chuck Schumer and Mike Rounds were explicitly framed around declassifying UAP records and creating a structured public archive, modelled in part on earlier approaches to historically sensitive records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> Democratic Leadership Later commentary and reporting noted that stronger review-board-style provisions were reduced before final passage, feeding the familiar suspicion that transparency was being offered, but not enough of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The failed or weakened parts of disclosure legislation are just as revealing. Senate proposals associated with Chuck Schumer and Mike Rounds were explicitly framed around declassifying UAP records and creating a structured public archive, modelled in part on earlier approaches to historically sensitive records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> Democratic Leadership Later commentary and reporting noted that stronger review-board-style provisions were reduced before final passage, feeding the familiar suspicion that transparency was being offered, but not enough of it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is where *Close Encounters* still matters. The film trained audiences to read secrecy as a sign of withheld wonder. Modern institutions often describe secrecy in terms of sources, methods, sensor capabilities, defence systems or privacy. Disclosure culture hears another possibility: the more complex the restriction, the more meaningful the hidden content may be.
 
@@ -494,9 +494,9 @@ This is where *Close Encounters* still matters. The film trained audiences to re
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-2-dark.svg" | relative_url }}" alt="Disclosure Culture illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Disclosure Hopes and Old Movie Patterns
 
-Today’s UAP debate is not simply a replay of 1977. It is more bureaucratic, more technical and more cautious. NASA’s 2023 independent study report stated that there was no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin of UAP, while also arguing that better data and rigorous methods are needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> AARO’s 2024 historical review likewise said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity, or that the US government or private industry had access to extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+Today’s UAP debate is not simply a replay of 1977. It is more bureaucratic, more technical and more cautious. NASA’s 2023 independent study report stated that there was no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin of UAP, while also arguing that better data and rigorous methods are needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> AARO’s 2024 historical review likewise said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity, or that the US government or private industry had access to extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
-Those conclusions do not end disclosure culture, because disclosure culture is not driven only by positive evidence. It is driven by a pattern of partial acknowledgement: some cases remain unresolved; some records are classified; some witnesses have credentials; some official explanations are incomplete or delayed. AARO’s own public imagery page, for example, includes cases assessed as balloons, not anomalous, unresolved or still undergoing analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That mixed status is exactly the kind of ambiguity in which disclosure hopes thrive.
+Those conclusions do not end disclosure culture, because disclosure culture is not driven only by positive evidence. It is driven by a pattern of partial acknowledgement: some cases remain unresolved; some records are classified; some witnesses have credentials; some official explanations are incomplete or delayed. AARO’s own public imagery page, for example, includes cases assessed as balloons, not anomalous, unresolved or still undergoing analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That mixed status is exactly the kind of ambiguity in which disclosure hopes thrive.
 
 The old Spielberg pattern helps explain why. *Close Encounters* gave audiences three linked expectations:
 
@@ -520,7 +520,7 @@ The endurance of *Close Encounters* in disclosure culture comes from its unusual
 
 That optimism has shaped how people imagine “disclosure”. In a strictly evidential sense, disclosure could mean a searchable archive, a new reporting channel, a sensor dataset, or the release of historical files. In the Spielbergian sense, disclosure means a moment of collective reorientation: the sky becomes meaningful, the witness is vindicated, and humanity is invited into a larger story.
 
-This is also where scepticism remains essential. The emotional plausibility of a story does not make it true. The fact that a film made secrecy feel meaningful can encourage useful demands for transparency, but it can also make every gap look intentional and every redaction look cosmic. NASA’s and AARO’s recent findings show the divide clearly: UAP may be a legitimate subject for better reporting and investigation, yet unexplained does not automatically mean extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This is also where scepticism remains essential. The emotional plausibility of a story does not make it true. The fact that a film made secrecy feel meaningful can encourage useful demands for transparency, but it can also make every gap look intentional and every redaction look cosmic. NASA’s and AARO’s recent findings show the divide clearly: UAP may be a legitimate subject for better reporting and investigation, yet unexplained does not automatically mean extraterrestrial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 The lasting cultural effect of *Close Encounters* is therefore not that it made people believe one specific claim. It made a particular disclosure dream emotionally available: that ordinary witnesses, official secrecy and hidden contact might all be parts of the same story. Nearly half a century later, UAP hearings and archives operate in a very different world, but they still unfold under the shadow of that dream.
 
@@ -528,178 +528,178 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure Culture illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Close Encounters Shaped Disclosure Dreams. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Close Encounters Shaped Disclosure Dreams. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly fits disclosure culture, official secrecy, public belief and modern UAP debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly fits disclosure culture, official secrecy, public belief and modern UAP debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Explains the making and cultural impact of the film that shaped modern UFO revelation fantasies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the making and cultural impact of the film that shaped modern UFO revelation fantasies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s modern lane of whistleblowers, official secrecy and public pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s modern lane of whistleblowers, official secrecy and public pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supplies the UFO classification framework behind Close Encounters and disclosure-era expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies the UFO classification framework behind Close Encounters and disclosure-era expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eb6a7f32cc9ad9c38824.jpg' | relative_url }}" alt="Listing image for Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eb6a7f32cc9ad9c38824.jpg' | relative_url }}" alt="Listing image for Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Yoga Meditate Alien Contact ET UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6471abce4749e19f6497.jpg' | relative_url }}" alt="Listing image for SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6471abce4749e19f6497.jpg' | relative_url }}" alt="Listing image for SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">SCIFI ALIEN CONTACT Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b89cea06cf64108d7bcd.jpg' | relative_url }}" alt="Listing image for Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b89cea06cf64108d7bcd.jpg' | relative_url }}" alt="Listing image for Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Arma 3 Contact - Alien Ship Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact poster -book -books" data-ebay-reference="disclosure-culture-how-close-encounters-shaped-disclosure-dreams-steven-spielberg-and-ufos-alien-contact-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,270 +905,270 @@ The lasting cultural effect of *Close Encounters* is therefore not that it made 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsOn December 17, 1969, the Secretary of the Air Force announced the termin...</p></details>
    Published: December 17, 1969  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Citizens Against UFO Secrecy  
-   Link: <a href="https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsa.gov  
    Title: * Memorandum and Order  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA* Memorandum and Order - Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agen...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSA* Memorandum and Order - Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catalog.afi.com  
    Title: 67160 CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: National Archives Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: close.com  
-   Link: <a href="https://close.com/" target="_blank" rel="noopener noreferrer nofollow">https://close.com/</a>  
+   Link:<a href="https://close.com/" target="_blank" rel="noopener noreferrer nofollow">https://close.com/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/F-2004-01956%20APPEAL%5B16113565%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/F-2004-01956%20APPEAL%5B16113565%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/F-2004-01956%20APPEAL%5B16113565%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/F-2004-01956%20APPEAL%5B16113565%5D.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.house.gov  
-   Link: <a href="https://history.house.gov/Blog/Detail/15032395730" target="_blank" rel="noopener noreferrer nofollow">https://history.house.gov/Blog/Detail/15032395730</a>  
+   Link:<a href="https://history.house.gov/Blog/Detail/15032395730" target="_blank" rel="noopener noreferrer nofollow">https://history.house.gov/Blog/Detail/15032395730</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: amendments-rules.house.gov  
    Title: GARCRO 115 xml240529153551283  
-   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
+   Link:<a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: docs.house.gov  
    Title: By Event.aspx  
-   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
+   Link:<a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: burlison.house.gov  
    Title: rep burlison introduces uap disclosure act 2025 amendment ndaa  
-   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
+   Link:<a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ghanistan Ministry of DefenseUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ghanistan Ministry of DefenseUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+   Link:<a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
+   Link:<a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ru.scribd.com  
    Title: Citizens Against UFO Secrecy  
-   Link: <a href="https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy</a>  
+   Link:<a href="https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: how pop culture has shaped our understanding of aliens  
-   Link: <a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
+   Link:<a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2026/jun/09/[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2026/jun/09/[disclosure-day</a>  
+   Link:<a href="https://www.theguardian.com/film/2026/jun/09/[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2026/jun/09/[disclosure-day</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: movie-locations.com  
    Title: Close Encounters Of The Third Kind  
-   Link: <a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
+   Link:<a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: NASA UFO briefing: More science, less stigma needed to understand UAPs  
-   Link: <a href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xNpFEiiZ1Q4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Connection in &#x27;Close Encounters&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xNpFEiiZ1Q4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Connection in &#x27;Close Encounters&#x27;...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/</a>  
+   Link:<a href="https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
+   Link:<a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: sfcrowsnest.info  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1hmobq5/close_encounters_of_the_3rd_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hmobq5/close_encounters_of_the_3rd_kind/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1hmobq5/close_encounters_of_the_3rd_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hmobq5/close_encounters_of_the_3rd_kind/</a>  

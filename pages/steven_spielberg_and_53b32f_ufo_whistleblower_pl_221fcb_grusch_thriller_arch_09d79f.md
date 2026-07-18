@@ -264,13 +264,13 @@ image: /assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_gr
 
 ## Introduction
 
-The significance of the Grusch case lies not in the verification of his claims—which remains heavily disputed—but in the structure of those claims. The story pattern itself has become influential. It transforms UFO narratives from tales of sightings and encounters into stories about bureaucracy, oversight, whistleblowing, and contested evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+The significance of the Grusch case lies not in the verification of his claims—which remains heavily disputed—but in the structure of those claims. The story pattern itself has become influential. It transforms UFO narratives from tales of sightings and encounters into stories about bureaucracy, oversight, whistleblowing, and contested evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-1-dark.svg" | relative_url }}" alt="Grusch Thriller Arch 09 D79 F illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The credentialed insider as protagonist
 
-Earlier UFO fiction frequently centred on ordinary [witnesses]({{ 'witnesses/' | relative_url }}). The modern whistleblower story instead places authority in the hands of an insider who claims access to restricted knowledge. Grusch fit this role unusually well because he was not presented as a casual observer. In his congressional testimony and written statement, he emphasised his background as an intelligence officer and his work connected to UAP investigations, establishing credentials before making extraordinary allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+Earlier UFO fiction frequently centred on ordinary [witnesses]({{ 'witnesses/' | relative_url }}). The modern whistleblower story instead places authority in the hands of an insider who claims access to restricted knowledge. Grusch fit this role unusually well because he was not presented as a casual observer. In his congressional testimony and written statement, he emphasised his background as an intelligence officer and his work connected to UAP investigations, establishing credentials before making extraordinary allegations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 For thriller writers, this solves a recurring narrative problem: why should the audience believe the protagonist? The insider protagonist arrives with institutional legitimacy already built into the character.
 
@@ -292,7 +292,7 @@ This structure differs from classic UFO witness stories because the conflict is 
 
 ## Why blocked access creates suspense
 
-One of the most narratively powerful aspects of Grusch's account was his repeated assertion that he had learned of alleged crash-retrieval and reverse-engineering programmes but was denied access to them. In his opening statement, he described being informed of a multi-decade programme involving recovered craft while also being prevented from entering the compartments where the alleged evidence was stored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+One of the most narratively powerful aspects of Grusch's account was his repeated assertion that he had learned of alleged crash-retrieval and reverse-engineering programmes but was denied access to them. In his opening statement, he described being informed of a multi-decade programme involving recovered craft while also being prevented from entering the compartments where the alleged evidence was stored.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 For fiction, this is almost ideal suspense design.
 
@@ -311,7 +311,7 @@ That ambiguity keeps both believers and sceptics engaged. The protagonist may be
 
 ## Crash-retrieval claims as plot fuel
 
-Grusch's most famous allegations concerned claims that the United States possessed recovered craft of non-human origin and had attempted to reverse-engineer their technology over many decades. He testified that numerous officials had provided him with information pointing toward such activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</span></span></span>
+Grusch's most famous allegations concerned claims that the United States possessed recovered craft of non-human origin and had attempted to reverse-engineer their technology over many decades. He testified that numerous officials had provided him with information pointing toward such activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</span></span></span>
 
 Whether true or not, crash-retrieval claims function as exceptionally effective plot fuel because they immediately generate multiple story engines:
 
@@ -331,7 +331,7 @@ Unlike a simple UFO sighting, a crash-retrieval narrative creates a physical obj
 
 This is one reason the crash-retrieval concept appears so frequently in modern UFO fiction. It converts an abstract mystery in the sky into a tangible object hidden somewhere on Earth. The object may never be shown directly, but its existence drives the plot.
 
-The Grusch allegations provided a contemporary, real-world version of that familiar narrative mechanism, supplying fiction writers with language about reverse engineering, special-access programmes, and classified industrial partnerships that already sounds like thriller dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+The Grusch allegations provided a contemporary, real-world version of that familiar narrative mechanism, supplying fiction writers with language about reverse engineering, special-access programmes, and classified industrial partnerships that already sounds like thriller dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-2-dark.svg" | relative_url }}" alt="Grusch Thriller Arch 09 D79 F illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_grusch_thriller_arch_09d79f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -339,7 +339,7 @@ The Grusch allegations provided a contemporary, real-world version of that famil
 
 A crucial element of the Grusch story is that the alleged conflict extends beyond hidden technology. It also involves oversight and accountability.
 
-Grusch stated that he filed complaints through official whistleblower channels and asserted that information was being withheld from appropriate congressional oversight. He also alleged that he experienced retaliation after raising concerns. During congressional testimony, he described the retaliation as "very brutal". <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+Grusch stated that he filed complaints through official whistleblower channels and asserted that information was being withheld from appropriate congressional oversight. He also alleged that he experienced retaliation after raising concerns. During congressional testimony, he described the retaliation as "very brutal".<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 For thriller construction, this changes the stakes dramatically.
 
@@ -359,7 +359,7 @@ The threat is no longer simply an unknown phenomenon. The threat becomes the sys
 
 The result is a story that resembles political thrillers and conspiracy dramas as much as traditional science fiction.
 
-Importantly, oversight bodies become characters in the narrative. Inspectors general, congressional committees, intelligence officials, journalists, and watchdog institutions all gain dramatic roles. This reflects the structure of Grusch's own public account, which repeatedly emphasised formal reporting channels and questions of lawful oversight rather than direct personal encounters with extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+Importantly, oversight bodies become characters in the narrative. Inspectors general, congressional committees, intelligence officials, journalists, and watchdog institutions all gain dramatic roles. This reflects the structure of Grusch's own public account, which repeatedly emphasised formal reporting channels and questions of lawful oversight rather than direct personal encounters with extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SpzJnrwob1A" title="LIVE | Congress holds UFO hearing with retired Maj. David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer">LIVE | Congress holds UFO hearing with retired Maj. David Grusch</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.0M &middot; Uploaded: July 2023 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SpzJnrwob1A">Open on YouTube</a></p></div></div></div>
@@ -368,11 +368,11 @@ Importantly, oversight bodies become characters in the narrative. Inspectors gen
 
 Perhaps the most important storytelling contribution of the Grusch case is the way it reframes evidence itself as the mystery.
 
-Supporters point to his credentials, whistleblower status, and claims that multiple sources provided corroborating information. Some lawmakers have also stated that additional witnesses have approached congressional investigators with related allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Supporters point to his credentials, whistleblower status, and claims that multiple sources provided corroborating information. Some lawmakers have also stated that additional witnesses have approached congressional investigators with related allegations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-Critics, however, note that Grusch's public claims largely rely on information obtained from other individuals rather than physical evidence presented to the public. Scientists, sceptics, and government investigators have repeatedly argued that extraordinary claims require verifiable material proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Critics, however, note that Grusch's public claims largely rely on information obtained from other individuals rather than physical evidence presented to the public. Scientists, sceptics, and government investigators have repeatedly argued that extraordinary claims require verifiable material proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) stated in its 2024 historical review that it found no empirical evidence supporting claims that the US government or private companies had been reverse-engineering extraterrestrial technology. Subsequent Pentagon statements reiterated that conclusion. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> From a storytelling perspective, this unresolved tension is invaluable.
+The Pentagon's All-domain Anomaly Resolution Office (AARO) stated in its 2024 historical review that it found no empirical evidence supporting claims that the US government or private companies had been reverse-engineering extraterrestrial technology. Subsequent Pentagon statements reiterated that conclusion. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> From a storytelling perspective, this unresolved tension is invaluable.
 
 The audience is presented with:
 
@@ -411,201 +411,201 @@ The template is straightforward:
 
 </div>
 
-That sequence now sits at the centre of many contemporary UFO narratives. It updates older Spielberg-era themes of secrecy and wonder for an age of classified budgets, inspector-general complaints, congressional hearings, and institutional distrust. The alien mystery remains important, but the human struggle over access to knowledge increasingly becomes the real story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</span></span></span>
+That sequence now sits at the centre of many contemporary UFO narratives. It updates older Spielberg-era themes of secrecy and wonder for an age of classified budgets, inspector-general complaints, congressional hearings, and institutional distrust. The alien mystery remains important, but the human struggle over access to knowledge increasingly becomes the real story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OwSkXDmV6Io" title="UFO hearing: Eyewitnesses describe encounters with &quot;non human&quot; entities to Congress | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer">UFO hearing: Eyewitnesses describe encounters with &quot;non human&quot; entities to Congress | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 3.5M &middot; Uploaded: July 2023 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OwSkXDmV6Io">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Grusch Thriller Arch 09 D79 F. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Grusch Thriller Arch 09 D79 F. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="grusch-thriller-arch-09-d79-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,119 +811,119 @@ That sequence now sits at the centre of many contemporary UFO narratives. It upd
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
    Published: March 9, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: ufo hearing update congress whistleblower  
-   Link: <a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, David Grusch told the hearing. Grusch... Related stories. Startling claims made at UFO hearing in Congress, but lack direct eviden...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — UFO hearings: whistleblower David Grusch says &#x27;non-human...</p></details>
+   Link:<a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — UFO hearings: whistleblower David Grusch says &#x27;non-human...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: ufo alien vehicles us whistleblower evidence where is proof  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A whistleblower claims the US has alien vehicles. But...9 Jun 2023 — The government whistleblower who made the extraordinary claims has...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A whistleblower claims the US has alien vehicles. But...9 Jun 2023 — The government whistleblower who made the extraordinary claims has...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>claims,&quot; former intelligence official David Grusch testified Wednesday... Whistleblower testifies on government&#x27;s alleged covert alien p...</p></details>
+   Link:<a href="https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>claims,&quot; former intelligence official David Grusch testified Wednesday... Whistleblower testifies on government&#x27;s alleged covert alien p...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154 Rayburn Unidentified Anomalous P...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154 Rayburn Unidentified Anomalous P...</p></details>
    Published: July 26, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/ufo-whistleblower-hearing-house-oversight-non-human-craft-uap-navy-pilots-171759861.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/ufo-whistleblower-hearing-house-oversight-non-human-craft-uap-navy-pilots-171759861.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Whistleblower testifies government...26 Jul 2023 — UFO hearing: Whistleblower testifies government &#x27;absolutely&#x27; has possess...</p></details>
+   Link:<a href="https://www.yahoo.com/news/ufo-whistleblower-hearing-house-oversight-non-human-craft-uap-navy-pilots-171759861.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/ufo-whistleblower-hearing-house-oversight-non-human-craft-uap-navy-pilots-171759861.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Whistleblower testifies government...26 Jul 2023 — UFO hearing: Whistleblower testifies government &#x27;absolutely&#x27; has possess...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>crash-retrieval and reverse-engineering program to which I was denied access,&quot; Grusch said in his opening statement to the subcommittee...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>crash-retrieval and reverse-engineering program to which I was denied access,&quot; Grusch said in his opening statement to the subcommittee...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office finds no evidence for claims that a...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office finds no evidence for claims that a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — U.S. Has &#x27;No Evidence&#x27; of Alien Technology, New Pentagon Report Finds... ext...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — U.S. Has &#x27;No Evidence&#x27; of Alien Technology, New Pentagon Report Finds... ext...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) HearingOpening Statement from David Grusch, Former National Reco...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) HearingOpening Statement from David Grusch, Former National Reco...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The U.S. House Committee on Oversight and Accountability heard explosive testi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The U.S. House Committee on Oversight and Accountability heard explosive testi...</p></details>

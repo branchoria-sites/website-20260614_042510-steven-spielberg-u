@@ -264,15 +264,15 @@ image: /assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_do
 
 ## Introduction
 
-One of the most distinctive features of Steven Spielberg’s UFO research for *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* was his decision to treat ordinary household [witnesses]({{ 'witnesses/' | relative_url }}) as seriously as professional observers. Contemporary accounts of the film’s development note that Spielberg interviewed not only pilots and air traffic controllers but also housewives, seeking testimony from people whose experiences occurred far from official institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+One of the most distinctive features of Steven Spielberg’s UFO research for *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* was his decision to treat ordinary household [witnesses]({{ 'witnesses/' | relative_url }}) as seriously as professional observers. Contemporary accounts of the film’s development note that Spielberg interviewed not only pilots and air traffic controllers but also housewives, seeking testimony from people whose experiences occurred far from official institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-1-dark.svg" | relative_url }}" alt="Domestic UFO Witness 739 Edf illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This choice helped shift UFO storytelling from military bases and scientific investigations into kitchens, bedrooms and suburban streets. In Spielberg’s vision, the emotional reality of a UFO encounter was often revealed most clearly when it disrupted family routines. The resulting film presents domestic fear not as a side issue but as a crucial test of whether extraordinary claims feel believable. A witness who must explain strange lights to neighbours, protect a child, or cope with ridicule at home becomes as important as any government investigator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+This choice helped shift UFO storytelling from military bases and scientific investigations into kitchens, bedrooms and suburban streets. In Spielberg’s vision, the emotional reality of a UFO encounter was often revealed most clearly when it disrupted family routines. The resulting film presents domestic fear not as a side issue but as a crucial test of whether extraordinary claims feel believable. A witness who must explain strange lights to neighbours, protect a child, or cope with ridicule at home becomes as important as any government investigator.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 ## Why Ordinary Witnesses Mattered to Spielberg
 
-When Spielberg researched UFO reports, he deliberately looked beyond experts. The American Film Institute’s production history records that he interviewed “airline pilots, air traffic controllers, and housewives,” while trying to avoid sensational or unreliable sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+When Spielberg researched UFO reports, he deliberately looked beyond experts. The American Film Institute’s production history records that he interviewed “airline pilots, air traffic controllers, and housewives,” while trying to avoid sensational or unreliable sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 That detail reveals an important aspect of his approach. UFO reports often depend on witness testimony rather than physical proof. A housewife observing strange lights from a garden or seeing unusual activity around a home possesses little institutional authority. Yet such reports make up a large portion of UFO folklore. By listening to these witnesses, Spielberg gained access to recurring emotional patterns that professional observers did not necessarily provide:
 
@@ -287,16 +287,16 @@ That detail reveals an important aspect of his approach. UFO reports often depen
 
 </div>
 
-These themes became central to *Close Encounters*. Rather than presenting UFO sightings solely through experts interpreting evidence, the film repeatedly asks how ordinary people react when something impossible enters everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+These themes became central to *Close Encounters*. Rather than presenting UFO sightings solely through experts interpreting evidence, the film repeatedly asks how ordinary people react when something impossible enters everyday life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MjAp_NlOH1g" title="Extended interview: Steven Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MjAp_NlOH1g" target="_blank" rel="noopener noreferrer">Extended interview: Steven Spielberg</a></p><p class="youtube-embed-meta">Channel: CBS Sunday Morning &middot; Views: 144.6K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MjAp_NlOH1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MjAp_NlOH1g">Open on YouTube</a></p></div></div></div>
 
 ## Domestic Life as the Film’s Credibility Test
 
-The strongest expression of domestic UFO fear appears through Jillian Guiler, the single mother played by Melinda Dillon. Her storyline places the UFO phenomenon directly inside the home. Instead of encountering aliens in a laboratory or military facility, she experiences unexplained events through the most vulnerable part of family life: concern for her child. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
+The strongest expression of domestic UFO fear appears through Jillian Guiler, the single mother played by Melinda Dillon. Her storyline places the UFO phenomenon directly inside the home. Instead of encountering aliens in a laboratory or military facility, she experiences unexplained events through the most vulnerable part of family life: concern for her child.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
 
-The famous sequence surrounding Barry’s abduction demonstrates how Spielberg translated witness testimony into domestic drama. The terror does not come primarily from seeing extraterrestrials. It comes from ordinary household objects behaving strangely, lights entering the house, and a parent losing control of an environment that should feel safe. The kitchen, the front door and the child’s bedroom become sites of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
+The famous sequence surrounding Barry’s abduction demonstrates how Spielberg translated witness testimony into domestic drama. The terror does not come primarily from seeing extraterrestrials. It comes from ordinary household objects behaving strangely, lights entering the house, and a parent losing control of an environment that should feel safe. The kitchen, the front door and the child’s bedroom become sites of uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
 
 This approach differed from many earlier science-fiction films. Traditional invasion narratives often focused on governments, soldiers or scientists responding to a threat. Spielberg instead asked what happens when unexplained phenomena reach the level of everyday family life. The home becomes the place where extraordinary claims either feel emotionally true or collapse into implausibility.
 
@@ -308,7 +308,7 @@ For viewers, this domestic setting functioned as a [credibility]({{ 'credibility
 
 Household witnesses occupy a difficult position because they often lack access to official channels of validation. A pilot can file a report. A scientist can collect data. A parent or housewife describing strange lights outside a house may have little more than personal testimony.
 
-Spielberg understood the social consequences of that situation. The witnesses who interested him were not merely frightened by unexplained events; they were also vulnerable to embarrassment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+Spielberg understood the social consequences of that situation. The witnesses who interested him were not merely frightened by unexplained events; they were also vulnerable to embarrassment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 In *Close Encounters*, belief develops outside formal systems of authority. Characters struggle to explain what they have seen because ordinary language seems inadequate. Friends, relatives and neighbours frequently appear more concerned with restoring normality than investigating the event itself. This mirrors a recurring feature of historical UFO reports, where witnesses often describe hesitation before telling others what happened.
 
@@ -326,7 +326,7 @@ The second fear is especially important because it transforms a sighting into a 
 
 Many classic UFO narratives occur in settings that resemble ordinary family life: isolated houses, rural roads, farms and suburban neighbourhoods. Spielberg recognised that these environments were not accidental. They are places where witnesses are likely to be alone, away from institutional observation, and dependent on personal testimony.
 
-By drawing on such accounts, he gave *Close Encounters* a texture that felt closer to reported experiences than to conventional space adventure. The UFO phenomenon is repeatedly framed through reactions occurring in private spaces rather than public spectacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+By drawing on such accounts, he gave *Close Encounters* a texture that felt closer to reported experiences than to conventional space adventure. The UFO phenomenon is repeatedly framed through reactions occurring in private spaces rather than public spectacles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 This emphasis helped broaden the cultural image of the UFO witness. Before *Close Encounters*, popular media often associated sightings with enthusiasts, military personnel or fringe investigators. Spielberg elevated the status of ordinary observers, particularly women managing households and families, as central participants in the story of unexplained aerial phenomena.
 
@@ -336,205 +336,205 @@ The result was a film in which domestic witnesses are not comic relief, backgrou
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-3-dark.svg" | relative_url }}" alt="Domestic UFO Witness 739 Edf illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_domestic_ufo_witness_739edf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Home Witnesses Changed UFO Cinema
 
-The lasting significance of Spielberg’s approach lies in how seriously he treated domestic testimony. By incorporating experiences associated with housewives and family witnesses into his research, he expanded the dramatic possibilities of UFO storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+The lasting significance of Spielberg’s approach lies in how seriously he treated domestic testimony. By incorporating experiences associated with housewives and family witnesses into his research, he expanded the dramatic possibilities of UFO storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 Instead of asking only whether UFOs existed, *Close Encounters* explored what it felt like when an unexplained event entered ordinary life. The home became a place where belief and scepticism collided. A parent’s fear for a child, a family’s struggle to maintain normality, and the embarrassment of reporting an impossible experience all became forms of evidence about how people respond to the unknown.
 
-Within Spielberg’s broader engagement with UFOs, these household witnesses were therefore more than supporting characters. They were proof that the phenomenon, real or imagined, mattered because it affected everyday people in the spaces where they felt safest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
+Within Spielberg’s broader engagement with UFOs, these household witnesses were therefore more than supporting characters. They were proof that the phenomenon, real or imagined, mattered because it affected everyday people in the spaces where they felt safest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifi.ie">[Irish Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifi.ie</span><span class="citation-popover-snippet">Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1qirRRYSves" title="Close Encounters of the Third Kind | Roy&#x27;s Mashed Potatoes | Voyage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1qirRRYSves" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind | Roy&#x27;s Mashed Potatoes | Voyage</a></p><p class="youtube-embed-meta">Channel: Voyage &middot; Views: 4.9K &middot; Uploaded: March 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1qirRRYSves" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1qirRRYSves">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Domestic UFO Witness 739 Edf. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Domestic UFO Witness 739 Edf. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="domestic-ufo-witness-739-edf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,98 +740,98 @@ Within Spielberg’s broader engagement with UFOs, these household witnesses wer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: 67160 CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JFOGOEegHqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JFOGOEegHqw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | Roy&#x27;s Mashed Potatoes | Voyage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JFOGOEegHqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JFOGOEegHqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | Roy&#x27;s Mashed Potatoes | Voyage...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | Roy's Mashed Potatoes | Voyage  
-   Link: <a href="https://www.youtube.com/watch?v=1qirRRYSves" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1qirRRYSves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and says aliens &quot;have been here and they are here&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1qirRRYSves" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1qirRRYSves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and says aliens &quot;have been here and they are here&quot;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ifi.ie  
-   Link: <a href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ifi.ie/film/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</p></details>
+   Link:<a href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ifi.ie/film/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Film InstituteCLOSE ENCOUNTERS OF THE THIRD KINDAs a group of researchers investigate the increased number of UFO sightings, family...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sf-encyclopedia.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jillian Guiler (Dillon), whose small child is soon &quot;abducted&quot;. Neary becomes convinced that Aliens plan to land one of their craft on an...</p></details>
+   Link:<a href="https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jillian Guiler (Dillon), whose small child is soon &quot;abducted&quot;. Neary becomes convinced that Aliens plan to land one of their craft on an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Alien Inspiration Behind Steven Spielberg&#x27;s...2 days ago — The Portage County incident was one of several purpor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Alien Inspiration Behind Steven Spielberg&#x27;s...2 days ago — The Portage County incident was one of several purpor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Close Encounters of the Third Kind&#x27;: Steven Spielberg&#x27;s...Steven Spielberg is interviewed in 1977 by Claire Olsen for the Canadian...</p></details>
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Close Encounters of the Third Kind&#x27;: Steven Spielberg&#x27;s...Steven Spielberg is interviewed in 1977 by Claire Olsen for the Canadian...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bfi.org.uk  
    Title: close encounters third kind archive review startlingly innovative blockbuster  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind archive review13 Sept 2017 — Steven Spielberg&#x27;s alien visitation tale returns to cinemas for its 40th...</p></details>
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind archive review13 Sept 2017 — Steven Spielberg&#x27;s alien visitation tale returns to cinemas for its 40th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MjAp_NlOH1g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MjAp_NlOH1g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended interview: Steven SpielbergIn this web exclusive, director Steven Spielberg talks with Turner Classic Movies host Ben Mankiewicz...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MjAp_NlOH1g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MjAp_NlOH1g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extended interview: Steven SpielbergIn this web exclusive, director Steven Spielberg talks with Turner Classic Movies host Ben Mankiewicz...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: inverse.com  
    Title: close encounters of the third kind retrospective spielberg  
-   Link: <a href="https://www.inverse.com/entertainment/close-encounters-of-the-third-kind-retrospective-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/close-encounters-of-the-third-kind-retrospective-spielberg</a>  
+   Link:<a href="https://www.inverse.com/entertainment/close-encounters-of-the-third-kind-retrospective-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/close-encounters-of-the-third-kind-retrospective-spielberg</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theankler.com  
    Title: steven spielberg ufo aliens close encounters third kind  
-   Link: <a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — “He found the witness reports very credible,” Spielberg said, “and he fou...</p></details>
+   Link:<a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — “He found the witness reports very credible,” Spielberg said, “and he fou...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vulture.com  
-   Link: <a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For Close Encounters, he used the renowned ufologist J. Allen Hynek...Read more...</p></details>
+   Link:<a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For Close Encounters, he used the renowned ufologist J. Allen Hynek...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astortheatre.net.au  
    Title: Close Encounters of the Third Kind SYNOPSIS  
-   Link: <a href="https://www.astortheatre.net.au/films/close-encounters-of-the-third-kind-40th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.astortheatre.net.au/films/close-encounters-of-the-third-kind-40th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two parallel stories are told. In the first, a group of research scientists from a variety of backgrounds are investigating the strange a...</p></details>
+   Link:<a href="https://www.astortheatre.net.au/films/close-encounters-of-the-third-kind-40th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.astortheatre.net.au/films/close-encounters-of-the-third-kind-40th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two parallel stories are told. In the first, a group of research scientists from a variety of backgrounds are investigating the strange a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bfi.org.uk  
    Title: close encounter with steven spielberg  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A close encounter with Steven Spielberg | Sight and Sound10 Dec 2021 — We joined Spielberg on the set of his fourth feature, Close Encoun...</p></details>
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A close encounter with Steven Spielberg | Sight and Sound10 Dec 2021 — We joined Spielberg on the set of his fourth feature, Close Encoun...</p></details>

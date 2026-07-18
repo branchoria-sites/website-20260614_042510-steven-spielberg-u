@@ -264,7 +264,7 @@ image: /assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jil
 
 ## Introduction
 
-Jillian Guiler’s story in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* turns Steven Spielberg’s UFO mystery into a test of whether trauma can function as evidence. Unlike Roy Neary, who struggles to explain an overwhelming personal experience, Jillian faces something concrete and devastating: her young son Barry disappears after a series of extraordinary events linked to the UFO phenomenon. The audience witnesses the disappearance directly, but the people inside the film do not. As a result, Jillian becomes a traumatised witness whose [credibility]({{ 'credibility/' | relative_url }}) depends on whether others are willing to accept testimony that sounds impossible. Her storyline shows Spielberg’s central UFO problem in its most emotionally charged form: what happens when the person telling the truth sounds least believable because of what they have suffered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Jillian Guiler’s story in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* turns Steven Spielberg’s UFO mystery into a test of whether trauma can function as evidence. Unlike Roy Neary, who struggles to explain an overwhelming personal experience, Jillian faces something concrete and devastating: her young son Barry disappears after a series of extraordinary events linked to the UFO phenomenon. The audience witnesses the disappearance directly, but the people inside the film do not. As a result, Jillian becomes a traumatised witness whose [credibility]({{ 'credibility/' | relative_url }}) depends on whether others are willing to accept testimony that sounds impossible. Her storyline shows Spielberg’s central UFO problem in its most emotionally charged form: what happens when the person telling the truth sounds least believable because of what they have suffered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-1-dark.svg" | relative_url }}" alt="Jillian Trauma Testi 69 D965 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,11 +272,11 @@ Jillian Guiler’s story in *[Close Encounters]({{ 'close-encounters/' | relativ
 
 Before Barry vanishes, *Close Encounters* can still be understood as a story about unusual lights, strange memories and disputed sightings. After his disappearance, the issue becomes far more urgent. Jillian is no longer trying to interpret a mysterious event. She is trying to account for the loss of her child.
 
-Spielberg carefully constructs the abduction sequence around a mother’s inability to control events unfolding inside her own home. Barry is drawn toward the phenomenon long before anyone can explain it, and Jillian experiences escalating fear as ordinary objects behave in impossible ways. The film presents her terror as immediate and physical rather than speculative. When Barry is ultimately taken, the audience has already shared her perspective and understands why she is convinced something extraordinary has happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeandnothingmore.wordpress.com">[Life and Nothing More]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeandnothingmore.wordpress.com</span><span class="citation-popover-title">Life and Nothing More Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Life and Nothing MoreClose Encounters of the Third Kind - Life and Nothing More29 May 2016 — Single mother Jillian Guiler (Melinda Dillon...</span><span class="citation-popover-meta">Published: May 2016</span></span></span>
+Spielberg carefully constructs the abduction sequence around a mother’s inability to control events unfolding inside her own home. Barry is drawn toward the phenomenon long before anyone can explain it, and Jillian experiences escalating fear as ordinary objects behave in impossible ways. The film presents her terror as immediate and physical rather than speculative. When Barry is ultimately taken, the audience has already shared her perspective and understands why she is convinced something extraordinary has happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeandnothingmore.wordpress.com">[Life and Nothing More]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeandnothingmore.wordpress.com</span><span class="citation-popover-title">Life and Nothing More Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Life and Nothing MoreClose Encounters of the Third Kind - Life and Nothing More29 May 2016 — Single mother Jillian Guiler (Melinda Dillon...</span><span class="citation-popover-meta">Published: May 2016</span></span></span>
 
 This changes the evidential weight of her testimony. Roy’s account can be dismissed as obsession or fascination. Jillian’s account is tied to a missing child. In narrative terms, that raises the stakes because disbelief now carries consequences. If her story is ignored, there is no alternative explanation capable of accounting for what she witnessed and what she lost.
 
-The distinction matters because Spielberg does not present Jillian as a UFO enthusiast. Her concern is Barry. Reviews and retrospective analyses often note that her motivation remains rooted in parental fear rather than cosmic curiosity. That focus gives her testimony a practical credibility that differs from Roy’s increasingly visionary pursuit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusings.uk">[Movie Musings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusings.uk</span><span class="citation-popover-title">close encounters of the third kind review</span><span class="citation-popover-snippet">Movie MusingsClose Encounters of the Third Kind (1977)August 23, 2018 — 23 Aug 2018 — Spielberg&#x27;s more conservative view of women and esp...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+The distinction matters because Spielberg does not present Jillian as a UFO enthusiast. Her concern is Barry. Reviews and retrospective analyses often note that her motivation remains rooted in parental fear rather than cosmic curiosity. That focus gives her testimony a practical credibility that differs from Roy’s increasingly visionary pursuit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusings.uk">[Movie Musings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusings.uk</span><span class="citation-popover-title">close encounters of the third kind review</span><span class="citation-popover-snippet">Movie MusingsClose Encounters of the Third Kind (1977)August 23, 2018 — 23 Aug 2018 — Spielberg&#x27;s more conservative view of women and esp...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OTqsqAwv3hM" title="Close Encounters of the Third Kind (audiobook) - a novel by Steven Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OTqsqAwv3hM" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (audiobook) - a novel by Steven Spielberg</a></p><p class="youtube-embed-meta">Channel: vson8 &middot; Views: 6.1K &middot; Uploaded: May 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OTqsqAwv3hM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OTqsqAwv3hM">Open on YouTube</a></p></div></div></div>
@@ -289,7 +289,7 @@ After Barry's disappearance, Jillian is frightened, exhausted and desperate. Tho
 
 Spielberg exploits this tension throughout the film. Jillian knows that something happened, but she lacks conventional proof. Her strongest evidence is her own experience. The more emotionally affected she becomes, the more difficult it is for that experience to fit comfortably within ordinary systems of explanation.
 
-This is one reason the abduction sequence is so important. Spielberg allows viewers to see the event rather than merely hear about it afterwards. The audience therefore occupies a privileged position. We know Jillian is not inventing the story, misremembering it or seeking attention. The dramatic tension comes from watching a truthful witness struggle with circumstances that naturally make her appear less credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottholleran.com">[Scott Holleran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottholleran.com</span><span class="citation-popover-snippet">Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</span></span></span>
+This is one reason the abduction sequence is so important. Spielberg allows viewers to see the event rather than merely hear about it afterwards. The audience therefore occupies a privileged position. We know Jillian is not inventing the story, misremembering it or seeking attention. The dramatic tension comes from watching a truthful witness struggle with circumstances that naturally make her appear less credible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottholleran.com">[Scott Holleran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottholleran.com</span><span class="citation-popover-snippet">Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</span></span></span>
 
 The result is a recurring theme in Spielberg's UFO work: emotional intensity is not presented as evidence against an experience. Instead, emotional intensity becomes evidence of the experience's human cost.
 
@@ -299,11 +299,11 @@ The result is a recurring theme in Spielberg's UFO work: emotional intensity is 
 
 Roy and Jillian both receive the mysterious vision that draws them toward [Devils Tower]({{ 'devils-tower/' | relative_url }}), but they contribute different forms of testimony.
 
-Roy embodies the problem of obsession. His encounter leaves him fixated on a mental image that disrupts his family life and increasingly isolates him from those around him. Because his experience manifests as compulsion, others interpret it as instability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Roy embodies the problem of obsession. His encounter leaves him fixated on a mental image that disrupts his family life and increasingly isolates him from those around him. Because his experience manifests as compulsion, others interpret it as instability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 Jillian represents something else: loss. Her credibility rests not on a vision but on the absence of Barry. The emotional centre of her story is not wonder but grief and fear. That difference broadens Spielberg’s examination of UFO [witnesses]({{ 'witnesses/' | relative_url }}). If Roy demonstrates how extraordinary experiences can consume a person's identity, Jillian demonstrates how extraordinary experiences can wound a person and force them into the role of witness.
 
-Her presence also prevents the film from reducing UFO contact to a purely spiritual or transcendent journey. Barry's disappearance introduces moral and emotional consequences. The phenomenon is no longer just fascinating; it is frightening. Several commentators have noted that the abduction scenes remain among the film's most unsettling moments because they place parental anxiety at the centre of the narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanfare.pub">[Fanfare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanfare.pub</span><span class="citation-popover-snippet">Spielberg Celebration: Revisiting &#x27;Close Encounters of the...June 2, 2026 — 2 Jun 2026 — Regarding Jillian, Barry is abducted dur...</span><span class="citation-popover-meta">Published: June 2, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottholleran.com">[Scott Holleran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottholleran.com</span><span class="citation-popover-snippet">Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</span></span></span>
+Her presence also prevents the film from reducing UFO contact to a purely spiritual or transcendent journey. Barry's disappearance introduces moral and emotional consequences. The phenomenon is no longer just fascinating; it is frightening. Several commentators have noted that the abduction scenes remain among the film's most unsettling moments because they place parental anxiety at the centre of the narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanfare.pub">[Fanfare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanfare.pub</span><span class="citation-popover-snippet">Spielberg Celebration: Revisiting &#x27;Close Encounters of the...June 2, 2026 — 2 Jun 2026 — Regarding Jillian, Barry is abducted dur...</span><span class="citation-popover-meta">Published: June 2, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottholleran.com">[Scott Holleran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottholleran.com</span><span class="citation-popover-snippet">Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</span></span></span>
 
 Because of this, Jillian becomes an essential counterweight to Roy. She reminds viewers that UFO testimony is not always driven by curiosity, belief or obsession. Sometimes it emerges from trauma.
 
@@ -317,202 +317,202 @@ Because of this, Jillian becomes an essential counterweight to Roy. She reminds 
 
 The eventual return of Barry does not erase the significance of Jillian's experience. Instead, it validates her account. Throughout most of the film, she occupies a difficult position familiar to many witness narratives: she knows what happened, yet she cannot easily prove it to others.
 
-This is why Jillian's storyline remains central to Spielberg's exploration of witness credibility. Her testimony originates in an event that has shattered her sense of normality. The audience is asked to recognise that trauma can distort behaviour without necessarily distorting truth. Fear, panic and grief do not automatically make a witness unreliable. In Jillian's case, they are the natural consequences of an encounter that ordinary language and ordinary institutions are unequipped to process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+This is why Jillian's storyline remains central to Spielberg's exploration of witness credibility. Her testimony originates in an event that has shattered her sense of normality. The audience is asked to recognise that trauma can distort behaviour without necessarily distorting truth. Fear, panic and grief do not automatically make a witness unreliable. In Jillian's case, they are the natural consequences of an encounter that ordinary language and ordinary institutions are unequipped to process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
-Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial example of how emotional suffering and credibility can coexist. Her story argues that the most important witnesses may not be the most composed or persuasive. They may be the people whose lives have been most deeply disrupted by what they have seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial example of how emotional suffering and credibility can coexist. Her story argues that the most important witnesses may not be the most composed or persuasive. They may be the people whose lives have been most deeply disrupted by what they have seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-3-dark.svg" | relative_url }}" alt="Jillian Trauma Testi 69 D965 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_jillian_trauma_testi_69d965-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Jillian Trauma Testi 69 D965. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Jillian Trauma Testi 69 D965. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="jillian-trauma-testi-69-d965-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,115 +718,115 @@ Within Spielberg's larger UFO framework, Jillian therefore serves as a crucial e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fanfare.pub  
-   Link: <a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...June 2, 2026 — 2 Jun 2026 — Regarding Jillian, Barry is abducted dur...</p></details>
+   Link:<a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...June 2, 2026 — 2 Jun 2026 — Regarding Jillian, Barry is abducted dur...</p></details>
    Published: June 2, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lifeandnothingmore.wordpress.com  
    Title: Life and Nothing More Close Encounters of the Third Kind  
-   Link: <a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life and Nothing MoreClose Encounters of the Third Kind - Life and Nothing More29 May 2016 — Single mother Jillian Guiler (Melinda Dillon...</p></details>
+   Link:<a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life and Nothing MoreClose Encounters of the Third Kind - Life and Nothing More29 May 2016 — Single mother Jillian Guiler (Melinda Dillon...</p></details>
    Published: May 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scottholleran.com  
-   Link: <a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</p></details>
+   Link:<a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott HolleranMovie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — The scenes in which Barry is seized from his mother...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: moviemusings.uk  
    Title: close encounters of the third kind review  
-   Link: <a href="https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie MusingsClose Encounters of the Third Kind (1977)August 23, 2018 — 23 Aug 2018 — Spielberg&#x27;s more conservative view of women and esp...</p></details>
+   Link:<a href="https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusings.uk/2018/08/23/close-encounters-of-the-third-kind-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie MusingsClose Encounters of the Third Kind (1977)August 23, 2018 — 23 Aug 2018 — Spielberg&#x27;s more conservative view of women and esp...</p></details>
    Published: August 23, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sf-encyclopedia.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SFE: Close Encounters of the Third Kind12 May 2020 — [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;) (Dreyfuss), a Muncie power company technician, witnesses a series of UFO a...</p></details>
+   Link:<a href="https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/close_encounters_of_the_third_kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SFE: Close Encounters of the Third Kind12 May 2020 — [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;) (Dreyfuss), a Muncie power company technician, witnesses a series of UFO a...</p></details>
    Published: May 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of Roy Neary, an everyday blue-collar worker in Indi...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of Roy Neary, an everyday blue-collar worker in Indi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: letterboxd.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://letterboxd.com/tajlv/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/tajlv/film/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That the French UFO expert Claude Lacombe was played by François Truffaut. The...Read more...</p></details>
+   Link:<a href="https://letterboxd.com/tajlv/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/tajlv/film/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That the French UFO expert Claude Lacombe was played by François Truffaut. The...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: moriareviews.com  
    Title: close encounters of the third kind 1977  
-   Link: <a href="https://moriareviews.com/sciencefiction/close-encounters-of-the-third-kind-1977.htm" target="_blank" rel="noopener noreferrer nofollow">https://moriareviews.com/sciencefiction/close-encounters-of-the-third-kind-1977.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A rash of UFO sightings suddenly occur around the world. In Indiana, linesman Roy Neary encounters several UFOs while out on a remote...</p></details>
+   Link:<a href="https://moriareviews.com/sciencefiction/close-encounters-of-the-third-kind-1977.htm" target="_blank" rel="noopener noreferrer nofollow">https://moriareviews.com/sciencefiction/close-encounters-of-the-third-kind-1977.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A rash of UFO sightings suddenly occur around the world. In Indiana, linesman Roy Neary encounters several UFOs while out on a remote...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/207832886680498/posts/2011632922967143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/207832886680498/posts/2011632922967143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters film plot and castJillian Guiler is a single mother whose life is turned upside down when her young son, Barry, is abduc...</p></details>
+   Link:<a href="https://www.facebook.com/groups/207832886680498/posts/2011632922967143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/207832886680498/posts/2011632922967143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters film plot and castJillian Guiler is a single mother whose life is turned upside down when her young son, Barry, is abduc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: yahoo.com  
    Title: steven spielberg the first 10 years close encounters exclusive excerpt 195847036  
-   Link: <a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Steven Spielberg book explores the origins of &#x27;Close...24 Oct 2023 — In this exclusive excerpt from Spielberg: The First 10 Years, a...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Steven Spielberg book explores the origins of &#x27;Close...24 Oct 2023 — In this exclusive excerpt from Spielberg: The First 10 Years, a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: crittical-analysis.com  
    Title: close encounters and the cost of passion spielberg summer continues  
-   Link: <a href="https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS and the Cost of Passion: SPIELBERG...10 Aug 2024 — It&#x27;s an early Spielberg epic exploring humanity&#x27;s response to seeing...</p></details>
+   Link:<a href="https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS and the Cost of Passion: SPIELBERG...10 Aug 2024 — It&#x27;s an early Spielberg epic exploring humanity&#x27;s response to seeing...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each family has a member (Roy and Barry) that suffers from some sort of inexplicable syndrome.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each family has a member (Roy and Barry) that suffers from some sort of inexplicable syndrome.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mygeekblasphemy.com  
    Title: i guess youve noticed something a little strange with dad  
-   Link: <a href="https://mygeekblasphemy.com/2011/03/03/i-guess-youve-noticed-something-a-little-strange-with-dad/" target="_blank" rel="noopener noreferrer nofollow">https://mygeekblasphemy.com/2011/03/03/i-guess-youve-noticed-something-a-little-strange-with-dad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Guess You&#x27;ve Noticed Something A Little Strange With Dad.3 Mar 2011 — Roy Neary (Dreyfuss) becomes obsessed with his close encounter an...</p></details>
+   Link:<a href="https://mygeekblasphemy.com/2011/03/03/i-guess-youve-noticed-something-a-little-strange-with-dad/" target="_blank" rel="noopener noreferrer nofollow">https://mygeekblasphemy.com/2011/03/03/i-guess-youve-noticed-something-a-little-strange-with-dad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Guess You&#x27;ve Noticed Something A Little Strange With Dad.3 Mar 2011 — Roy Neary (Dreyfuss) becomes obsessed with his close encounter an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reactormag.com  
    Title: the birth of spielbergian close encounters of the third kind at 40  
-   Link: <a href="https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We begin with a nuclear family: Roy Neary, his wife Ronnie, and their three kids in a cluttered, noisy house.Read more...</p></details>
+   Link:<a href="https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We begin with a nuclear family: Roy Neary, his wife Ronnie, and their three kids in a cluttered, noisy house.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s abducted a child, if we spend too much time with the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s abducted a child, if we spend too much time with the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/162515850595909/posts/2391994247648047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/162515850595909/posts/2391994247648047/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ared vision brings them both together at the butte in...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/162515850595909/posts/2391994247648047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/162515850595909/posts/2391994247648047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ared vision brings them both together at the butte in...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rogerebert.com  
    Title: close encounters of the third kind 2017  
-   Link: <a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind movie review1 Sept 2017 — The film is more of a drama with conspiracy thriller overtones that looks at...</p></details>
+   Link:<a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind movie review1 Sept 2017 — The film is more of a drama with conspiracy thriller overtones that looks at...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bfi.org.uk  
    Title: close encounter with steven spielberg  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A close encounter with Steven Spielberg | Sight and Sound10 Dec 2021 — We joined Spielberg on the set of his fourth feature, Close Encoun...</p></details>
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A close encounter with Steven Spielberg | Sight and Sound10 Dec 2021 — We joined Spielberg on the set of his fourth feature, Close Encoun...</p></details>

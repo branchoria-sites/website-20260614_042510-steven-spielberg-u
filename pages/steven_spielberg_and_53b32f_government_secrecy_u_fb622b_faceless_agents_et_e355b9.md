@@ -264,15 +264,15 @@ image: /assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_fa
 
 ## Legs, Keys and Flashlights as Partial Authority
 
-Spielberg's most famous visual choice in *E.T.* is the way he fragments adult authority. During the early pursuit of the alien, agents are rarely presented as complete human beings. The camera often stays at a child's eye level, showing trouser legs, keys hanging from belts, torches cutting through darkness and vehicles approaching with harsh lights. The audience experiences the search exactly as Elliott does: not as a rational government operation but as an intrusion by mysterious powers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span>
+Spielberg's most famous visual choice in *E.T.* is the way he fragments adult authority. During the early pursuit of the alien, agents are rarely presented as complete human beings. The camera often stays at a child's eye level, showing trouser legs, keys hanging from belts, torches cutting through darkness and vehicles approaching with harsh lights. The audience experiences the search exactly as Elliott does: not as a rational government operation but as an intrusion by mysterious powers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-1-dark.svg" | relative_url }}" alt="Faceless Agents Et E355 B9 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The recurring image of the key ring is especially important. Peter Coyote's character is never identified by a conventional name in the film; he becomes "Keys" because the audience first recognises him through the keys hanging at his side. Film-study materials have long noted that the keys function as a symbol of authority and access—literally suggesting someone who possesses the means to unlock secrets and enter restricted spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resource.download.wjec.co.uk">[WJEC Resource Download]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resource.download.wjec.co.uk</span><span class="citation-popover-snippet">WJEC Resource DownloadET, The Extra TerrestrialMay 23, 2017 — Close ups of Keys&#x27; keys indicate that this is an authority figure with know...</span><span class="citation-popover-meta">Published: May 23, 2017</span></span></span>
+The recurring image of the key ring is especially important. Peter Coyote's character is never identified by a conventional name in the film; he becomes "Keys" because the audience first recognises him through the keys hanging at his side. Film-study materials have long noted that the keys function as a symbol of authority and access—literally suggesting someone who possesses the means to unlock secrets and enter restricted spaces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resource.download.wjec.co.uk">[WJEC Resource Download]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resource.download.wjec.co.uk</span><span class="citation-popover-snippet">WJEC Resource DownloadET, The Extra TerrestrialMay 23, 2017 — Close ups of Keys&#x27; keys indicate that this is an authority figure with know...</span><span class="citation-popover-meta">Published: May 23, 2017</span></span></span>
 
 The flashlights work in a similar way. Rather than illuminating the truth, they often signal surveillance and pursuit. Beams of light sweep through forests and suburban spaces that had previously belonged to children. The effect is not merely visual suspense. It conveys a shift in ownership. Once the agents arrive, the children's private world is no longer private.
 
-This technique also reflects Spielberg's broader interest in point of view. Because the film largely follows Elliott's perspective, adults become partial figures. Children often recognise authority through signs—uniforms, keys, cars, voices and rules—before they understand the people behind those symbols. Spielberg turns that childhood experience into cinematic language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span>
+This technique also reflects Spielberg's broader interest in point of view. Because the film largely follows Elliott's perspective, adults become partial figures. Children often recognise authority through signs—uniforms, keys, cars, voices and rules—before they understand the people behind those symbols. Spielberg turns that childhood experience into cinematic language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G1EhzJwagjU" title="The Skinny on Cuban Intelligence with Ean Forsyth | SpyCast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G1EhzJwagjU" target="_blank" rel="noopener noreferrer">The Skinny on Cuban Intelligence with Ean Forsyth | SpyCast</a></p><p class="youtube-embed-meta">Channel: International Spy Museum &middot; Views: 4.1K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G1EhzJwagjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G1EhzJwagjU">Open on YouTube</a></p></div></div></div>
@@ -283,7 +283,7 @@ The faceless presentation of the agents does more than create suspense. It chang
 
 A conventional villain has a face, personality and motive. Spielberg withholds all three. As a result, the audience does not fear an individual agent; it fears the institution represented by the agents. The government becomes a collective presence that can appear anywhere, listen to conversations, track movements and ultimately enter the family home.
 
-This distinction is important because Spielberg's films rarely argue that individual officials are malicious. Instead, they often show ordinary people being absorbed into large bureaucratic structures. In *E.T.*, anonymity strips away personal identity and leaves only institutional power. The agents seem interchangeable, making them feel larger than any single person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Darkness in the Bliss-Out: A Reconsideration of the Films</span><span class="citation-popover-snippet">Spielberg would later use to dehumanize the government agents in E.T. (1982). The viewer doesn&#x27;t actually see Indiana&#x27;s face until severa...</span></span></span>
+This distinction is important because Spielberg's films rarely argue that individual officials are malicious. Instead, they often show ordinary people being absorbed into large bureaucratic structures. In *E.T.*, anonymity strips away personal identity and leaves only institutional power. The agents seem interchangeable, making them feel larger than any single person.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Darkness in the Bliss-Out: A Reconsideration of the Films</span><span class="citation-popover-snippet">Spielberg would later use to dehumanize the government agents in E.T. (1982). The viewer doesn&#x27;t actually see Indiana&#x27;s face until severa...</span></span></span>
 
 The choice connects directly to a recurring Spielberg concern. Throughout his UFO stories, extraordinary encounters begin as intensely personal experiences. Contact with the unknown belongs to [witnesses]({{ 'witnesses/' | relative_url }}), families and children. Government agencies arrive later, bringing procedures, containment and control. The conflict is therefore not simply humans versus aliens. It is private wonder versus institutional management.
 
@@ -295,16 +295,16 @@ The result is a nuanced form of distrust. Spielberg does not portray authority a
 
 The most revealing moment comes when Spielberg finally allows the audience to see Keys' face.
 
-For much of the film, Keys functions almost like a monster in a horror film. His presence is announced before he is fully shown. The audience knows him through movement, symbols and pursuit. When his face is finally revealed, however, the film fundamentally changes its message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
+For much of the film, Keys functions almost like a monster in a horror film. His presence is announced before he is fully shown. The audience knows him through movement, symbols and pursuit. When his face is finally revealed, however, the film fundamentally changes its message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
 
-Keys turns out not to be a villain at all. He speaks gently to Elliott and reveals that he too had hoped for an encounter with extraterrestrials when he was young. Rather than representing hatred of the unknown, he represents someone who has spent a lifetime chasing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
+Keys turns out not to be a villain at all. He speaks gently to Elliott and reveals that he too had hoped for an encounter with extraterrestrials when he was young. Rather than representing hatred of the unknown, he represents someone who has spent a lifetime chasing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
 
 This revelation accomplishes two things simultaneously:
 
 * It humanises the institution by restoring an individual face.
 * It exposes the gap between personal intentions and institutional consequences.
 
-Keys may be sympathetic, but the machinery that arrives with him still overwhelms the household. Scientists flood the home, quarantine procedures are imposed and E.T.'s relationship with Elliott is subjected to official control. The damage is not caused by personal cruelty. It is caused by the sheer scale of the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crittical-analysis.com/articles/et-light-in-darkness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crittical-analysis.com">[Crittical Analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crittical-analysis.com</span><span class="citation-popover-title">Crittical Analysis E.T</span><span class="citation-popover-snippet">and the Light in the Darkness: Spielberg Summer 2...10 Aug 2025 —... (Keys himself was once a young boy who believed in aliens). Howeve...</span></span></span>
+Keys may be sympathetic, but the machinery that arrives with him still overwhelms the household. Scientists flood the home, quarantine procedures are imposed and E.T.'s relationship with Elliott is subjected to official control. The damage is not caused by personal cruelty. It is caused by the sheer scale of the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crittical-analysis.com/articles/et-light-in-darkness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crittical-analysis.com">[Crittical Analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crittical-analysis.com</span><span class="citation-popover-title">Crittical Analysis E.T</span><span class="citation-popover-snippet">and the Light in the Darkness: Spielberg Summer 2...10 Aug 2025 —... (Keys himself was once a young boy who believed in aliens). Howeve...</span></span></span>
 
 That distinction is central to Spielberg's worldview. The frightening element is not necessarily the people inside institutions. It is the way institutions operate once activated.
 
@@ -318,200 +318,200 @@ That distinction is central to Spielberg's worldview. The frightening element is
 
 The faceless-agent imagery in *E.T.* remains powerful because it avoids a simple good-versus-evil framework. Spielberg first encourages viewers to see the agents as threatening shadows, then reveals that at least one of them is compassionate and deeply human. The fear never completely disappears, however, because the true source of anxiety was never Keys himself.
 
-By presenting authority through fragments—legs, keys, flashlights and unseen faces—Spielberg shows how institutions appear from below. To a child, government power is not experienced as policy or expertise. It arrives as an anonymous force that enters spaces, takes control and claims knowledge. When Keys finally steps out of the shadows, the audience learns that the people inside the system may be decent. Yet the system itself remains capable of overwhelming the fragile, personal connection at the centre of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[2Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
+By presenting authority through fragments—legs, keys, flashlights and unseen faces—Spielberg shows how institutions appear from below. To a child, government power is not experienced as policy or expertise. It arrives as an anonymous force that enters spaces, takes control and claims knowledge. When Keys finally steps out of the shadows, the audience learns that the people inside the system may be decent. Yet the system itself remains capable of overwhelming the fragile, personal connection at the centre of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film E.T</span><span class="citation-popover-snippet">Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</span><span class="citation-popover-meta">Published: January 4, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiefilmhustle.com">[2Indie Film Hustle®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiefilmhustle.com</span><span class="citation-popover-snippet">Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-3-dark.svg" | relative_url }}" alt="Faceless Agents Et E355 B9 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_government_secrecy_u_fb622b_faceless_agents_et_e355b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Faceless Agents Et E355 B9. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Faceless Agents Et E355 B9. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faceless-agents-et-e355-b9-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,93 +717,93 @@ By presenting authority through fragments—legs, keys, flashlights and unseen f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: slashfilm.com  
    Title: Slash Film E.T  
-   Link: <a href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/724080/[e-t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</p></details>
+   Link:<a href="https://www.slashfilm.com/724080/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/724080/[e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ending Explained: Spielberg Bids His Childhood...January 4, 2022 — 4 Jan 2022 — All the while, the duo are pursued by U.S. government ag...</p></details>
    Published: January 4, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: Darkness in the Bliss-Out: A Reconsideration of the Films  
-   Link: <a href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg would later use to dehumanize the government agents in E.T. (1982). The viewer doesn&#x27;t actually see Indiana&#x27;s face until severa...</p></details>
+   Link:<a href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg would later use to dehumanize the government agents in E.T. (1982). The viewer doesn&#x27;t actually see Indiana&#x27;s face until severa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: crittical-analysis.com  
    Title: Crittical Analysis E.T  
-   Link: <a href="https://www.crittical-analysis.com/articles/et-light-in-darkness" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/et-light-in-darkness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and the Light in the Darkness: Spielberg Summer 2...10 Aug 2025 —... (Keys himself was once a young boy who believed in aliens). Howeve...</p></details>
+   Link:<a href="https://www.crittical-analysis.com/articles/et-light-in-darkness" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/et-light-in-darkness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the Light in the Darkness: Spielberg Summer 2...10 Aug 2025 —... (Keys himself was once a young boy who believed in aliens). Howeve...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: resource.download.wjec.co.uk  
-   Link: <a href="https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WJEC Resource DownloadET, The Extra TerrestrialMay 23, 2017 — Close ups of Keys&#x27; keys indicate that this is an authority figure with know...</p></details>
+   Link:<a href="https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2016-17/16-17_1-23/_eng/et.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WJEC Resource DownloadET, The Extra TerrestrialMay 23, 2017 — Close ups of Keys&#x27; keys indicate that this is an authority figure with know...</p></details>
    Published: May 23, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: indiefilmhustle.com  
-   Link: <a href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</p></details>
+   Link:<a href="https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://indiefilmhustle.com/steven-spielberg-complete-guide-to-his-films-and-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Film Hustle®Ultimate Guide To Steven Spielberg And His Directing...December 21, 2022 — Keys is ultimately revealed as a benevolent...</p></details>
    Published: December 21, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tumblr.com  
    Title: Steven Spielberg: E.T  
-   Link: <a href="https://www.tumblr.com/directorsseries/58268246176/steven-spielberg-et-the-extra-terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/directorsseries/58268246176/steven-spielberg-et-the-extra-terrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE EXTRA-TERRESTRIALKeys is ultimately revealed as a benevolent character who is trying to help them after encountering these aliens him...</p></details>
+   Link:<a href="https://www.tumblr.com/directorsseries/58268246176/steven-spielberg-et-the-extra-terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/directorsseries/58268246176/steven-spielberg-et-the-extra-terrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE EXTRA-TERRESTRIALKeys is ultimately revealed as a benevolent character who is trying to help them after encountering these aliens him...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/280662626_Keys_Under_Doormats_Mandating_insecurity_by_requiring_government_access_to_all_data_and_communications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280662626_Keys_Under_Doormats_Mandating_insecurity_by_requiring_government_access_to_all_data_and_communications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Keys Under Doormats: Mandating insecurity by...PDF | Twenty years ago, law enforcement organizations lobbied to require data and c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/280662626_Keys_Under_Doormats_Mandating_insecurity_by_requiring_government_access_to_all_data_and_communications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280662626_Keys_Under_Doormats_Mandating_insecurity_by_requiring_government_access_to_all_data_and_communications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Keys Under Doormats: Mandating insecurity by...PDF | Twenty years ago, law enforcement organizations lobbied to require data and c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ovic.vic.gov.au  
-   Link: <a href="https://ovic.vic.gov.au/privacy/resources-for-organisations/information-sharing-and-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://ovic.vic.gov.au/privacy/resources-for-organisations/information-sharing-and-privacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for Sharing Personal InformationThis resource provides practical guidance to Victorian public sector organisations (organisation...</p></details>
+   Link:<a href="https://ovic.vic.gov.au/privacy/resources-for-organisations/information-sharing-and-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://ovic.vic.gov.au/privacy/resources-for-organisations/information-sharing-and-privacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for Sharing Personal InformationThis resource provides practical guidance to Victorian public sector organisations (organisation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amnesty.nl  
-   Link: <a href="https://www.amnesty.nl/content/uploads/2015/06/two_years_after_snowden_final_report_en_a4.pdf?x32866=" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.nl/content/uploads/2015/06/two_years_after_snowden_final_report_en_a4.pdf?x32866=</a>  
+   Link:<a href="https://www.amnesty.nl/content/uploads/2015/06/two_years_after_snowden_final_report_en_a4.pdf?x32866=" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.nl/content/uploads/2015/06/two_years_after_snowden_final_report_en_a4.pdf?x32866=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: csis.org  
-   Link: <a href="https://www.csis.org/analysis/eroding-trust-government-what-games-surveys-and-scenarios-reveal-about-alternative-cyber" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/eroding-trust-government-what-games-surveys-and-scenarios-reveal-about-alternative-cyber</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eroding Trust in Government: What Games, Surveys, and...8 Apr 2024 — In place of costly offensive cyber campaigns, malign actors will se...</p></details>
+   Link:<a href="https://www.csis.org/analysis/eroding-trust-government-what-games-surveys-and-scenarios-reveal-about-alternative-cyber" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/eroding-trust-government-what-games-surveys-and-scenarios-reveal-about-alternative-cyber</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eroding Trust in Government: What Games, Surveys, and...8 Apr 2024 — In place of costly offensive cyber campaigns, malign actors will se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: understanding and dealing with issues relating to parental responsibility  
-   Link: <a href="https://www.gov.uk/government/publications/dealing-with-issues-relating-to-parental-responsibility/understanding-and-dealing-with-issues-relating-to-parental-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/dealing-with-issues-relating-to-parental-responsibility/understanding-and-dealing-with-issues-relating-to-parental-responsibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and dealing with issues relating to parental...24 Aug 2023 — We&#x27;ve produced this guidance to help schools understand their obligations a...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/dealing-with-issues-relating-to-parental-responsibility/understanding-and-dealing-with-issues-relating-to-parental-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/dealing-with-issues-relating-to-parental-responsibility/understanding-and-dealing-with-issues-relating-to-parental-responsibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and dealing with issues relating to parental...24 Aug 2023 — We&#x27;ve produced this guidance to help schools understand their obligations a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G1EhzJwagjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1EhzJwagjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skinny on Cuban Intelligence with Ean Forsyth | SpyCastJoin host Andrew Hammond as he sits down with Ean Forsythe, Chair of the Count...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G1EhzJwagjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1EhzJwagjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skinny on Cuban Intelligence with Ean Forsyth | SpyCastJoin host Andrew Hammond as he sits down with Ean Forsythe, Chair of the Count...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PQpdfCCT_Zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PQpdfCCT_Zc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Government in E.T. is RightToday we return to philosophy with a break down of why the government agents in E.T. the Extra-Terrest...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PQpdfCCT_Zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PQpdfCCT_Zc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Government in E.T. is RightToday we return to philosophy with a break down of why the government agents in E.T. the Extra-Terrest...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: A seven-year-old actress believed the alien was real  
-   Link: <a href="https://www.facebook.com/61570647981103/posts/a-seven-year-old-actress-believed-the-alien-was-real-a-child-born-without-legs-h/122174779454688266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61570647981103/posts/a-seven-year-old-actress-believed-the-alien-was-real-a-child-born-without-legs-h/122174779454688266/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, as E.T.&#x27;s health begins to deteriorate, government agents led by &quot;Keys&quot; (Peter Coyote) discover him. In a heartbreaking moment...</p></details>
+   Link:<a href="https://www.facebook.com/61570647981103/posts/a-seven-year-old-actress-believed-the-alien-was-real-a-child-born-without-legs-h/122174779454688266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61570647981103/posts/a-seven-year-old-actress-believed-the-alien-was-real-a-child-born-without-legs-h/122174779454688266/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, as E.T.&#x27;s health begins to deteriorate, government agents led by &quot;Keys&quot; (Peter Coyote) discover him. In a heartbreaking moment...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Government takes over the house | E.T. the Extra-Terrestrial | CLIP  
-   Link: <a href="https://www.youtube.com/watch?v=1tuRBUkugfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1tuRBUkugfk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Steven Spielberg&quot; &quot;E.T.&quot; camera angle cinematography children J.J. Abrams, Steven Spielberg, and the Multi-Beat Shot What I See - Filmma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1tuRBUkugfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1tuRBUkugfk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Steven Spielberg&quot; &quot;E.T.&quot; camera angle cinematography children J.J. Abrams, Steven Spielberg, and the Multi-Beat Shot What I See - Filmma...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10162644682325086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10162644682325086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lect a child&#x27;s sense of fear and mistrust of authority.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10162644682325086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10162644682325086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lect a child&#x27;s sense of fear and mistrust of authority.Read more...</p></details>

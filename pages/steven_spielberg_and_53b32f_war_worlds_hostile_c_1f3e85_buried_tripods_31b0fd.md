@@ -259,18 +259,18 @@ image: /assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_bu
 
 ## From Wells’s Cylinders to Underground Machines
 
-In H. G. Wells’s 1898 novel, the Martians arrive in cylinders launched from Mars that crash into the English countryside. The invasion is visible and dramatic: humanity sees the threat coming, even if it fails to understand it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds</span><span class="citation-popover-snippet">November 2, 2002 — The War of the Worlds is a science fiction novel by English author H. G. Wells about an attempted invasion of Earth by...</span><span class="citation-popover-meta">Published: November 2, 2002</span></span></span>
+In H. G. Wells’s 1898 novel, the Martians arrive in cylinders launched from Mars that crash into the English countryside. The invasion is visible and dramatic: humanity sees the threat coming, even if it fails to understand it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds</span><span class="citation-popover-snippet">November 2, 2002 — The War of the Worlds is a science fiction novel by English author H. G. Wells about an attempted invasion of Earth by...</span><span class="citation-popover-meta">Published: November 2, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-1-dark.svg" | relative_url }}" alt="Buried Tripods 31 B0 Fd illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spielberg retained the idea of an alien force arriving from elsewhere but altered the delivery mechanism. In the film, lightning storms act as transport systems for the alien operators, while the enormous tripod machines themselves have apparently been hidden underground for ages. During a 2005 press conference, Tom Cruise recalled Spielberg conceiving the idea of machines “lying dormant” beneath the Earth, replacing the novel’s arrival-from-space imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span>
+Spielberg retained the idea of an alien force arriving from elsewhere but altered the delivery mechanism. In the film, lightning storms act as transport systems for the alien operators, while the enormous tripod machines themselves have apparently been hidden underground for ages. During a 2005 press conference, Tom Cruise recalled Spielberg conceiving the idea of machines “lying dormant” beneath the Earth, replacing the novel’s arrival-from-space imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span>
 
 The change accomplishes several things at once:
 
 * It avoids a science-fiction cliché of fleets of spaceships descending over cities.
 * It makes the invasion feel premeditated on a geological timescale.
 * It creates uncertainty about how long humanity has unknowingly shared the planet with the invaders’ infrastructure.
-* It allows the first attack to begin inside a populated community rather than at a distant landing site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War of the Worlds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</span></span></span>
+* It allows the first attack to begin inside a populated community rather than at a distant landing site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War of the Worlds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</span></span></span>
 
 The result is an invasion that feels less like an encounter and more like an awakening. The enemy does not cross a frontier. It emerges from underneath everyday life.
 
@@ -279,9 +279,9 @@ The result is an invasion that feels less like an encounter and more like an awa
 
 ## How Buried Machines Turn Neighbourhoods into War Zones
 
-The first tripod emergence is one of Spielberg’s most carefully constructed sequences. Strange lightning disables technology, people gather in confusion, the ground begins to crack, and an ordinary intersection becomes the centre of an apocalypse. Critics and film analysts have frequently highlighted the sequence as a masterclass in slow escalation and revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
+The first tripod emergence is one of Spielberg’s most carefully constructed sequences. Strange lightning disables technology, people gather in confusion, the ground begins to crack, and an ordinary intersection becomes the centre of an apocalypse. Critics and film analysts have frequently highlighted the sequence as a masterclass in slow escalation and revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
 
-What makes the scene distinctive is the relationship between scale and familiarity. The tripod is enormous, but it appears in a place designed for pedestrians, cars and shops. Streets buckle, buildings fracture and crowds scatter as something impossibly large forces its way upward through the foundations of the community. The invasion is not observed from afar; it erupts directly beneath the characters’ feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
+What makes the scene distinctive is the relationship between scale and familiarity. The tripod is enormous, but it appears in a place designed for pedestrians, cars and shops. Streets buckle, buildings fracture and crowds scatter as something impossibly large forces its way upward through the foundations of the community. The invasion is not observed from afar; it erupts directly beneath the characters’ feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
 
 This mechanism changes the emotional geography of the film. Traditional invasion cinema often begins with distant warning signs—a spacecraft in orbit, a landing zone, military detection systems. Spielberg removes that buffer. The attack starts where people live.
 
@@ -290,7 +290,7 @@ Several effects follow from this choice:
 * **No safe distance:** There is no period of observation before contact.
 * **Instant vulnerability:** Roads, houses and public spaces become hazards.
 * **Civilian perspective:** The audience learns about the invasion at the same moment as the crowd.
-* **Loss of control:** Established institutions are already behind events when the tripods emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
+* **Loss of control:** Established institutions are already behind events when the tripods emerge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
 
 The buried-tripod concept therefore supports Spielberg’s larger decision to keep the story at street level. The invasion is experienced as a local disaster before it is understood as a global one.
 
@@ -300,7 +300,7 @@ The buried-tripod concept therefore supports Spielberg’s larger decision to ke
 
 Spielberg had spent much of his career shaping popular images of UFOs and extraterrestrial encounters. In films such as *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, arrival from the sky is associated with mystery, communication and wonder. Repeating that visual language for a hostile invasion risked making *War of the Worlds* feel too familiar within both Spielberg’s own filmography and the wider science-fiction genre.
 
-Production accounts and later summaries repeatedly note Spielberg’s dislike of the standard alien-invasion image of spacecraft descending from the heavens. The buried machines offered a radically different visual and dramatic solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War of the Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</span></span></span>
+Production accounts and later summaries repeatedly note Spielberg’s dislike of the standard alien-invasion image of spacecraft descending from the heavens. The buried machines offered a radically different visual and dramatic solution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War of the Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</span></span></span>
 
 The inversion is significant. UFO stories traditionally encourage audiences to look upward. Spielberg instead directs attention downward. The source of danger is not the distant cosmos but the ground beneath a residential street.
 
@@ -318,206 +318,206 @@ Because the machines are hidden beneath familiar environments, the invasion feel
 
 ## The Psychological Effect of an Enemy Already Here
 
-The buried-tripod idea introduces a uniquely unsettling implication: the invasion may have been planned long before any human civilisation existed. Characters speculate that the aliens have prepared for their return over immense spans of time, and the film never fully explains the logistics of that preparation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">war of the worlds 2005 why didnt the aliens</span><span class="citation-popover-snippet">Reddit[War of the Worlds (2005)] Why didn&#x27;t the aliens takeover...August 5, 2025 — In the 2005 War of the Worlds adaptation, the tripods...</span><span class="citation-popover-meta">Published: August 5, 2025</span></span></span>
+The buried-tripod idea introduces a uniquely unsettling implication: the invasion may have been planned long before any human civilisation existed. Characters speculate that the aliens have prepared for their return over immense spans of time, and the film never fully explains the logistics of that preparation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">war of the worlds 2005 why didnt the aliens</span><span class="citation-popover-snippet">Reddit[War of the Worlds (2005)] Why didn&#x27;t the aliens takeover...August 5, 2025 — In the 2005 War of the Worlds adaptation, the tripods...</span><span class="citation-popover-meta">Published: August 5, 2025</span></span></span>
 
 From a narrative perspective, that ambiguity is useful. Spielberg is less interested in engineering details than in emotional consequences. The notion that the machines have been waiting beneath cities creates a sense that humanity was never truly secure. The invasion is not an unexpected attack but the activation of a hidden system.
 
-This helps explain why the film’s opening destruction feels so overwhelming. The tripods do not need to land, deploy or establish beachheads. They begin the war already positioned within the world they intend to conquer. As soon as they emerge, neighbourhoods become battlefields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fighting machine (The War of the Worlds</span><span class="citation-popover-snippet">Fighting machine (The War of the Worlds</span></span></span>
+This helps explain why the film’s opening destruction feels so overwhelming. The tripods do not need to land, deploy or establish beachheads. They begin the war already positioned within the world they intend to conquer. As soon as they emerge, neighbourhoods become battlefields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fighting machine (The War of the Worlds</span><span class="citation-popover-snippet">Fighting machine (The War of the Worlds</span></span></span>
 
-Within Spielberg’s broader exploration of UFOs and alien contact, this is a remarkable reversal. Earlier films often treated extraterrestrial presence as a mystery approaching from beyond Earth. *War of the Worlds* imagines the opposite: the alien presence was already here, hidden beneath the ordinary landscape, waiting for the moment when the ground itself would split open and reveal it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span>
+Within Spielberg’s broader exploration of UFOs and alien contact, this is a remarkable reversal. Earlier films often treated extraterrestrial presence as a mystery approaching from beyond Earth. *War of the Worlds* imagines the opposite: the alien presence was already here, hidden beneath the ordinary landscape, waiting for the moment when the ground itself would split open and reveal it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-3-dark.svg" | relative_url }}" alt="Buried Tripods 31 B0 Fd illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_buried_tripods_31b0fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Buried Tripods 31 B0 Fd. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Buried Tripods 31 B0 Fd. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="buried-tripods-31-b0-fd-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,176 +723,176 @@ Within Spielberg’s broader exploration of UFOs and alien contact, this is a re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The War of the Worlds  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2002 — The War of the Worlds is a science fiction novel by English author H. G. Wells about an attempted invasion of Earth by...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2002 — The War of the Worlds is a science fiction novel by English author H. G. Wells about an attempted invasion of Earth by...</p></details>
    Published: November 2, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Fighting machine (The War of the Worlds)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: war of the worlds 2005 why didnt the aliens  
-   Link: <a href="https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[War of the Worlds (2005)] Why didn&#x27;t the aliens takeover...August 5, 2025 — In the 2005 War of the Worlds adaptation, the tripods...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceFiction/comments/1mi352a/war_of_the_worlds_2005_why_didnt_the_aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[War of the Worlds (2005)] Why didn&#x27;t the aliens takeover...August 5, 2025 — In the 2005 War of the Worlds adaptation, the tripods...</p></details>
    Published: August 5, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarofTheWorlds/comments/1ankknv/tripods_underground/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/1ankknv/tripods_underground/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tripods underground?: r/WarofTheWorldsThe idea that the tripods were buried here before there were humans. In the book it&#x27;s explained th...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarofTheWorlds/comments/1ankknv/tripods_underground/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/1ankknv/tripods_underground/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tripods underground?: r/WarofTheWorldsThe idea that the tripods were buried here before there were humans. In the book it&#x27;s explained th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005 film)War of the Worlds is a 2005 American science fiction action thriller film directed by Steven Spielberg an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005 film)War of the Worlds is a 2005 American science fiction action thriller film directed by Steven Spielberg an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War6 hours ago — War is an armed conflict [a] between the armed forces of states, or between governmental forces and armed groups that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War6 hours ago — War is an armed conflict [a] between the armed forces of states, or between governmental forces and armed groups that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pgcQd60sXso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pgcQd60sXso</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Darkest Secret of &#x27;War Of The Worlds&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pgcQd60sXso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pgcQd60sXso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Darkest Secret of &#x27;War Of The Worlds&#x27;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Insane Invasion Strategy in WAR OF THE WORLDS explained  
-   Link: <a href="https://www.youtube.com/watch?v=7E41m2ip3ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7E41m2ip3ZQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): Ferry Crossing Turns Into a Nightmare | Tripod Attack Scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7E41m2ip3ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7E41m2ip3ZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): Ferry Crossing Turns Into a Nightmare | Tripod Attack Scene...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hgXa13p6DQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgXa13p6DQ4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): Hiding In The Basement From Aliens Full Scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hgXa13p6DQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgXa13p6DQ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): Hiding In The Basement From Aliens Full Scene...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LFYDgBhhE3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFYDgBhhE3Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=LFYDgBhhE3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFYDgBhhE3Q</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blackfilm.com  
-   Link: <a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</p></details>
+   Link:<a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was instantaneous. Because the machines are lying dormant. So many of the scenes are very...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: waroftheworlds.fandom.com  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</p></details>
+   Link:<a href="https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/War_of_the_Worlds_%282005_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds WikiWar of the Worlds (2005 film)The original Martian cylinders were discarded and Spielberg replaced the origins of th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theconflictedfilmsnob.com  
    Title: The Conflicted Film Snob The Art of the Reveal: "War of the Worlds" Edition  
-   Link: <a href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow">https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</p></details>
+   Link:<a href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow">https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</p></details>
    Published: July 10, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stanwinstonschool.com  
-   Link: <a href="https://www.stanwinstonschool.com/blog/war-of-the-worlds-behind-the-scenes-creating-alien-red-weeds-and-pods-practical-effects-at-stan-winston-studio" target="_blank" rel="noopener noreferrer nofollow">https://www.stanwinstonschool.com/blog/war-of-the-worlds-behind-the-scenes-creating-alien-red-weeds-and-pods-practical-effects-at-stan-winston-studio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Creating the Alien Red Weeds &amp; Pods...27 Mar 2025 — Go behind the scenes and see how the artists and FX wizards devis...</p></details>
+   Link:<a href="https://www.stanwinstonschool.com/blog/war-of-the-worlds-behind-the-scenes-creating-alien-red-weeds-and-pods-practical-effects-at-stan-winston-studio" target="_blank" rel="noopener noreferrer nofollow">https://www.stanwinstonschool.com/blog/war-of-the-worlds-behind-the-scenes-creating-alien-red-weeds-and-pods-practical-effects-at-stan-winston-studio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Creating the Alien Red Weeds &amp; Pods...27 Mar 2025 — Go behind the scenes and see how the artists and FX wizards devis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: waroftheworlds.fandom.com  
    Title: My Observations of (steven spielburgs war of the worlds tripod)  
-   Link: <a href="https://waroftheworlds.fandom.com/wiki/User_blog%3AJoshua95/My_Observations_of_%28steven_spielburgs_war_of_the_worlds_tripod%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/User_blog%3AJoshua95/My_Observations_of_%28steven_spielburgs_war_of_the_worlds_tripod%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>example these tentacles lower themselves to the ground to search for any human that...Read more...</p></details>
+   Link:<a href="https://waroftheworlds.fandom.com/wiki/User_blog%3AJoshua95/My_Observations_of_%28steven_spielburgs_war_of_the_worlds_tripod%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/User_blog%3AJoshua95/My_Observations_of_%28steven_spielburgs_war_of_the_worlds_tripod%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>example these tentacles lower themselves to the ground to search for any human that...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: waroftheworlds.fandom.com  
    Title: Aliens (Steven Spielberg)  
-   Link: <a href="https://waroftheworlds.fandom.com/wiki/Aliens_%28Steven_Spielberg%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/Aliens_%28Steven_Spielberg%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their appearance is vastly similar to the Tripods they brought to...</p></details>
+   Link:<a href="https://waroftheworlds.fandom.com/wiki/Aliens_%28Steven_Spielberg%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/Aliens_%28Steven_Spielberg%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their appearance is vastly similar to the Tripods they brought to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: talesfromtheneonbeach.com  
    Title: war of the worlds 2005 thunderbolts and lightning  
-   Link: <a href="https://talesfromtheneonbeach.com/2021/04/25/war-of-the-worlds-2005-thunderbolts-and-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://talesfromtheneonbeach.com/2021/04/25/war-of-the-worlds-2005-thunderbolts-and-lightning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg. - Neon Beach25 Apr 2021 — Spielberg also adds something new, in that Tripods have been buried on Earth for a long time...</p></details>
+   Link:<a href="https://talesfromtheneonbeach.com/2021/04/25/war-of-the-worlds-2005-thunderbolts-and-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://talesfromtheneonbeach.com/2021/04/25/war-of-the-worlds-2005-thunderbolts-and-lightning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg. - Neon Beach25 Apr 2021 — Spielberg also adds something new, in that Tripods have been buried on Earth for a long time...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/WMG/WarOfTheWorlds2005" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/WMG/WarOfTheWorlds2005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tripods themselves were what the lightning implanted in the ground.Read more...</p></details>
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/WMG/WarOfTheWorlds2005" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/WMG/WarOfTheWorlds2005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tripods themselves were what the lightning implanted in the ground.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)Basically the movie is only about Tom Cruise and his two children running and driving from city to city, from the...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)Basically the movie is only about Tom Cruise and his two children running and driving from city to city, from the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0407304/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/faq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) - FAQHow were those tripods underground for so long and no one noticed? One theory is that they came down with t...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0407304/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) - FAQHow were those tripods underground for so long and no one noticed? One theory is that they came down with t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: screenrant.com  
    Title: war of the worlds ending explained  
-   Link: <a href="https://screenrant.com/war-of-the-worlds-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/war-of-the-worlds-ending-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dec 2024 — The abrupt defeat of the Tripods is a somewhat confusing plot point in Spielberg&#x27;s War of the Worlds. Throughout the film...</p></details>
+   Link:<a href="https://screenrant.com/war-of-the-worlds-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/war-of-the-worlds-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dec 2024 — The abrupt defeat of the Tripods is a somewhat confusing plot point in Spielberg&#x27;s War of the Worlds. Throughout the film...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: earth-2.net  
    Title: war of the worlds 2005  
-   Link: <a href="https://earth-2.net/reviews/m/war-of-the-worlds-2005.php" target="_blank" rel="noopener noreferrer nofollow">https://earth-2.net/reviews/m/war-of-the-worlds-2005.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)And this whole idea that the Martian tech was buried here some time ago doesn&#x27;t sit well with me either. Though a...</p></details>
+   Link:<a href="https://earth-2.net/reviews/m/war-of-the-worlds-2005.php" target="_blank" rel="noopener noreferrer nofollow">https://earth-2.net/reviews/m/war-of-the-worlds-2005.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)And this whole idea that the Martian tech was buried here some time ago doesn&#x27;t sit well with me either. Though a...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10159944279695086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10159944279695086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s tripod scene in War of the Worlds is unsettlingSpielberg wanted a design that would be iconic while still providing a tribute...</p></details>
+   Link:<a href="https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10159944279695086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StevenSpielbergOfficial/posts/10159944279695086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s tripod scene in War of the Worlds is unsettlingSpielberg wanted a design that would be iconic while still providing a tribute...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40vinsonrnash/reading-too-much-into-a-story-7b473d7e2bee" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40vinsonrnash/reading-too-much-into-a-story-7b473d7e2bee</a>  
+   Link:<a href="https://medium.com/%40vinsonrnash/reading-too-much-into-a-story-7b473d7e2bee" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40vinsonrnash/reading-too-much-into-a-story-7b473d7e2bee</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: weminoredinfilm.com  
    Title: revisiting spielbergs war of the worlds the 9 11 parable is strong in this one  
-   Link: <a href="https://weminoredinfilm.com/2018/04/12/revisiting-spielbergs-war-of-the-worlds-the-9-11-parable-is-strong-in-this-one/" target="_blank" rel="noopener noreferrer nofollow">https://weminoredinfilm.com/2018/04/12/revisiting-spielbergs-war-of-the-worlds-the-9-11-parable-is-strong-in-this-one/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting Spielberg&#x27;s War of the Worlds: The 9/11 Parable...Apr 12, 2018 — Spielberg, however, responded to the real world crisis of 9/...</p></details>
+   Link:<a href="https://weminoredinfilm.com/2018/04/12/revisiting-spielbergs-war-of-the-worlds-the-9-11-parable-is-strong-in-this-one/" target="_blank" rel="noopener noreferrer nofollow">https://weminoredinfilm.com/2018/04/12/revisiting-spielbergs-war-of-the-worlds-the-9-11-parable-is-strong-in-this-one/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting Spielberg&#x27;s War of the Worlds: The 9/11 Parable...Apr 12, 2018 — Spielberg, however, responded to the real world crisis of 9/...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: alpenglowmemory.medium.com  
    Title: spielbergs war of the worlds and post 9 11 american cinema 6b375a82272d  
-   Link: <a href="https://alpenglowmemory.medium.com/spielbergs-war-of-the-worlds-and-post-9-11-american-cinema-6b375a82272d" target="_blank" rel="noopener noreferrer nofollow">https://alpenglowmemory.medium.com/spielbergs-war-of-the-worlds-and-post-9-11-american-cinema-6b375a82272d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSpielberg&#x27;s War of the Worlds and the Post-9/11 InfluenceSpielberg&#x27;s most upfront treatment of the impact 9/11 has left on Amer...</p></details>
+   Link:<a href="https://alpenglowmemory.medium.com/spielbergs-war-of-the-worlds-and-post-9-11-american-cinema-6b375a82272d" target="_blank" rel="noopener noreferrer nofollow">https://alpenglowmemory.medium.com/spielbergs-war-of-the-worlds-and-post-9-11-american-cinema-6b375a82272d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSpielberg&#x27;s War of the Worlds and the Post-9/11 InfluenceSpielberg&#x27;s most upfront treatment of the impact 9/11 has left on Amer...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/902349343110685/posts/5372343852777856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/902349343110685/posts/5372343852777856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing attacks on humanity, Ray and his children must embark...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/902349343110685/posts/5372343852777856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/902349343110685/posts/5372343852777856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing attacks on humanity, Ray and his children must embark...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: villains.fandom.com  
    Title: Villains Wiki Aliens (War of the Worlds)  
-   Link: <a href="https://villains.fandom.com/wiki/Aliens_%28War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://villains.fandom.com/wiki/Aliens_%28War_of_the_Worlds%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Villains WikiAliens (War of the Worlds) - Villains Wiki - FandomAt the start of the film, the aliens begin transporting themselves to Ear...</p></details>
+   Link:<a href="https://villains.fandom.com/wiki/Aliens_%28War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://villains.fandom.com/wiki/Aliens_%28War_of_the_Worlds%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Villains WikiAliens (War of the Worlds) - Villains Wiki - FandomAt the start of the film, the aliens begin transporting themselves to Ear...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: syfy.com  
-   Link: <a href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Inspired Steven Spielberg&#x27;s War of the WorldsApr 23, 2026 — Steven Spielberg&#x27;s 2005 adaptation of War of the Worlds put a post-9/11...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Inspired Steven Spielberg&#x27;s War of the WorldsApr 23, 2026 — Steven Spielberg&#x27;s 2005 adaptation of War of the Worlds put a post-9/11...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Tripods Anatomy Explored  
-   Link: <a href="https://www.youtube.com/watch?v=TVhfafWXG6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TVhfafWXG6k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Gave The Tripods Energy...Tripods Anatomy Explored - What Gave The Tripods Energy For Thousands Of Years? Purpose Of Horns? #waroft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TVhfafWXG6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TVhfafWXG6k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Gave The Tripods Energy...Tripods Anatomy Explored - What Gave The Tripods Energy For Thousands Of Years? Purpose Of Horns? #waroft...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: movies.stackexchange.com  
    Title: I understand  
-   Link: <a href="https://movies.stackexchange.com/questions/26533/what-were-the-tripods-spraying-and-what-does-it-have-to-do-with-the-red-weed-in" target="_blank" rel="noopener noreferrer nofollow">https://movies.stackexchange.com/questions/26533/what-were-the-tripods-spraying-and-what-does-it-have-to-do-with-the-red-weed-in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>were the tripods spraying and what does it have to...23 Oct 2014 — in the remake of War of the Worlds (2005), what exactly were the alie...</p></details>
+   Link:<a href="https://movies.stackexchange.com/questions/26533/what-were-the-tripods-spraying-and-what-does-it-have-to-do-with-the-red-weed-in" target="_blank" rel="noopener noreferrer nofollow">https://movies.stackexchange.com/questions/26533/what-were-the-tripods-spraying-and-what-does-it-have-to-do-with-the-red-weed-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>were the tripods spraying and what does it have to...23 Oct 2014 — in the remake of War of the Worlds (2005), what exactly were the alie...</p></details>

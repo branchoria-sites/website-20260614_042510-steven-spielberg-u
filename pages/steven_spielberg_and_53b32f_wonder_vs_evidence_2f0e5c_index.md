@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-wonder-vs/
 description: Focused pages that expand on Wonder vs Proof.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c
 parent_title: Wonder vs Proof
@@ -16,7 +16,7 @@ parent_permalink: /wonder-vs-proof/
 
 # Explore Topics in Wonder vs Proof
 
-The following pages expand on the main **[Wonder vs Proof]({{ '/wonder-vs-proof/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Wonder vs Proof]({{ '/wonder-vs-proof/' | relative_url }})** page and cover its key branches in.
 
 - [Hynek UFO Language 3 B8 A72]({{ '/hynek-ufo-language-3-b8-a72/' | relative_url }})
 - [NASA UAP Stigma 133 Ee 6]({{ '/nasa-uap-stigma-133-ee-6/' | relative_url }})

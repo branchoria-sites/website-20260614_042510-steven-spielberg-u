@@ -265,9 +265,9 @@ The result is one of Spielberg's clearest examples of aliens functioning as [mor
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_elliott_family_respo_cbeacb-Illustration-1-dark.svg" | relative_url }}" alt="Elliott Family Respo illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_elliott_family_respo_cbeacb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df_elliott_family_respo_cbeacb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Divorce, Absence, and the Need to Care
 
-The film establishes Elliott as a child living in the aftermath of family breakdown. His father has left the family, and conversations about him remain painful. The absence shapes the emotional atmosphere of the household long before E.T. appears. Critics and scholars have repeatedly noted that Elliott and E.T. mirror one another: both are separated from home, both feel abandoned, and both are trying to navigate a world that suddenly feels incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+The film establishes Elliott as a child living in the aftermath of family breakdown. His father has left the family, and conversations about him remain painful. The absence shapes the emotional atmosphere of the household long before E.T. appears. Critics and scholars have repeatedly noted that Elliott and E.T. mirror one another: both are separated from home, both feel abandoned, and both are trying to navigate a world that suddenly feels incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
-This connection was not accidental. Spielberg has explained that the project grew from his desire to explore the impact of his parents' divorce through a science-fiction story. He imagined a lonely child who would be forced to become responsible for another life form, allowing emotional wounds to be expressed through an alien friendship rather than direct family drama. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg shot the film in continuity to help the child actors perform more naturally. This approach, along with Matheson&#x27;s insightful wr...</span></span></span>
+This connection was not accidental. Spielberg has explained that the project grew from his desire to explore the impact of his parents' divorce through a science-fiction story. He imagined a lonely child who would be forced to become responsible for another life form, allowing emotional wounds to be expressed through an alien friendship rather than direct family drama.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg shot the film in continuity to help the child actors perform more naturally. This approach, along with Matheson&#x27;s insightful wr...</span></span></span>
 
 The crucial mechanism is responsibility. Elliott initially discovers E.T. out of curiosity, but the relationship quickly becomes a commitment. He hides him, feeds him, protects him and worries about his safety. These actions require Elliott to move beyond passive sadness. Instead of simply suffering from loss, he becomes responsible for someone else's wellbeing.
 
@@ -278,9 +278,9 @@ In Spielberg's UFO-related cinema, this is a recurring moral pattern. The unknow
 
 ## Why the Alien Becomes a Substitute for Family
 
-E.T. fills a specific emotional role in Elliott's life. Spielberg has described the alien as emerging from feelings he experienced after his own parents divorced, when an imagined companion helped him cope with loneliness. The film transforms that childhood fantasy into a narrative about connection and healing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+E.T. fills a specific emotional role in Elliott's life. Spielberg has described the alien as emerging from feelings he experienced after his own parents divorced, when an imagined companion helped him cope with loneliness. The film transforms that childhood fantasy into a narrative about connection and healing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
-E.T. does not replace Elliott's father in a literal sense. Instead, he creates a relationship built on trust and mutual dependence. The telepathic bond between the two characters makes Elliott feel understood in a way that nobody else in the film initially understands him. Their connection allows him to express fear, affection and vulnerability without embarrassment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+E.T. does not replace Elliott's father in a literal sense. Instead, he creates a relationship built on trust and mutual dependence. The telepathic bond between the two characters makes Elliott feel understood in a way that nobody else in the film initially understands him. Their connection allows him to express fear, affection and vulnerability without embarrassment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 What makes the relationship morally significant is that it works both ways. Elliott receives companionship, but E.T. also depends on Elliott's protection. The friendship is not simply therapeutic; it is reciprocal. Spielberg's message is that healing does not come from receiving care alone. It comes from learning how to give it.
 
@@ -292,11 +292,11 @@ This distinction separates *E.T.* from many stories about magical companions. E.
 
 One of the film's most important developments is the transformation of family relationships around the alien secret.
 
-At the beginning of the story, Elliott's older brother Michael often teases him, and the siblings operate as separate emotional units within a strained household. As E.T.'s situation becomes more urgent, however, the children begin cooperating. Michael moves from scepticism to protection. Gertie becomes a trusted participant in keeping E.T. safe. The alien effectively creates a shared mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+At the beginning of the story, Elliott's older brother Michael often teases him, and the siblings operate as separate emotional units within a strained household. As E.T.'s situation becomes more urgent, however, the children begin cooperating. Michael moves from scepticism to protection. Gertie becomes a trusted participant in keeping E.T. safe. The alien effectively creates a shared mission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 This shift matters because family repair in *E.T.* is collective rather than individual. Elliott's growth would be incomplete if it occurred in isolation. The film instead shows siblings discovering common purpose through care for someone vulnerable.
 
-Research on family dynamics has often found that supportive sibling relationships can help children cope with family disruption and conflict, providing emotional stability during periods of parental absence or stress. While *E.T.* is a fictional narrative rather than a psychological case study, its depiction of siblings becoming collaborators rather than rivals reflects that broader understanding of resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate We are in this Together: Retrospective Parentification,</span><span class="citation-popover-snippet">We are in this Together: Retrospective Parentification...October 1, 2020 — 15 May 2020 — The findings underline the importa...</span><span class="citation-popover-meta">Published: October 1, 2020</span></span></span>
+Research on family dynamics has often found that supportive sibling relationships can help children cope with family disruption and conflict, providing emotional stability during periods of parental absence or stress. While *E.T.* is a fictional narrative rather than a psychological case study, its depiction of siblings becoming collaborators rather than rivals reflects that broader understanding of resilience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate We are in this Together: Retrospective Parentification,</span><span class="citation-popover-snippet">We are in this Together: Retrospective Parentification...October 1, 2020 — 15 May 2020 — The findings underline the importa...</span><span class="citation-popover-meta">Published: October 1, 2020</span></span></span>
 
 The alien therefore functions as a catalyst. E.T. does not directly solve the family's problems. He creates conditions in which family members begin acting differently toward one another.
 
@@ -307,7 +307,7 @@ The alien therefore functions as a catalyst. E.T. does not directly solve the fa
 
 The climax of the film turns caregiving into collective action.
 
-When E.T. becomes gravely ill and government authorities intervene, the family's concern for the alien intensifies. What began as Elliott's private responsibility expands into a coordinated rescue effort involving siblings and friends. The famous bicycle escape is exciting as adventure cinema, but its deeper function is moral. The children choose loyalty over convenience and compassion over obedience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+When E.T. becomes gravely ill and government authorities intervene, the family's concern for the alien intensifies. What began as Elliott's private responsibility expands into a coordinated rescue effort involving siblings and friends. The famous bicycle escape is exciting as adventure cinema, but its deeper function is moral. The children choose loyalty over convenience and compassion over obedience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 The rescue mission also reverses the emotional logic of abandonment that dominates the film's background. Elliott cannot stop his father from leaving. He cannot repair the divorce. But he can refuse to abandon E.T.
 
@@ -321,201 +321,201 @@ By the end of the story, the family remains imperfect. The father has not return
 
 Among Spielberg's UFO and alien stories, *E.T.* stands out because the extraterrestrial encounter is inseparable from domestic life. The alien is not testing governments, scientists or military institutions first. He is testing a family.
 
-The central lesson is that contact with the unknown reveals character. Elliott's family is wounded by absence, but the presence of E.T. forces its members to practise responsibility, loyalty and empathy. The alien's vulnerability becomes a moral challenge, and meeting that challenge helps transform a broken household into a more connected one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In that sense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>, E.T. does not heal the family through supernatural power. He heals it by giving its members someone to care for together. The alien encounter becomes an opportunity to replace isolation with responsibility, and responsibility with renewed trust.
+The central lesson is that contact with the unknown reveals character. Elliott's family is wounded by absence, but the presence of E.T. forces its members to practise responsibility, loyalty and empathy. The alien's vulnerability becomes a moral challenge, and meeting that challenge helps transform a broken household into a more connected one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In that sense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>, E.T. does not heal the family through supernatural power. He heals it by giving its members someone to care for together. The alien encounter becomes an opportunity to replace isolation with responsibility, and responsibility with renewed trust.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NTKlNeRdmSg" title="The Broken Innocence of E.T." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NTKlNeRdmSg" target="_blank" rel="noopener noreferrer">The Broken Innocence of E.T.</a></p><p class="youtube-embed-meta">Channel: Channel Awesome &middot; Views: 18.6K &middot; Uploaded: June 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NTKlNeRdmSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NTKlNeRdmSg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Elliott Family Respo. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Elliott Family Respo. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-family-respo-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The central lesson is that contact with the unknown reveals character. Elliott's
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The central lesson is that contact with the unknown reveals character. Elliott's
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The central lesson is that contact with the unknown reveals character. Elliott's
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The central lesson is that contact with the unknown reveals character. Elliott's
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The central lesson is that contact with the unknown reveals character. Elliott's
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,89 +721,89 @@ The central lesson is that contact with the unknown reveals character. Elliott's
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: E.T. the Extra-Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/movies/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/movies/[e-t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg shot the film in continuity to help the child actors perform more naturally. This approach, along with Matheson&#x27;s insightful wr...</p></details>
+   Link:<a href="https://ew.com/movies/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/movies/[e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg shot the film in continuity to help the child actors perform more naturally. This approach, along with Matheson&#x27;s insightful wr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ew.com  
    Title: steven spielberg and aliens tracing a decades long obsession 11995978  
-   Link: <a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate We are in this Together: Retrospective Parentification,  
-   Link: <a href="https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We are in this Together: Retrospective Parentification...October 1, 2020 — 15 May 2020 — The findings underline the importa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341421587_We_are_in_this_Together_Retrospective_Parentification_Sibling_Relationships_and_Self-Esteem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are in this Together: Retrospective Parentification...October 1, 2020 — 15 May 2020 — The findings underline the importa...</p></details>
    Published: October 1, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
    Title: all about steven spielberg sisters 8641795  
-   Link: <a href="https://people.com/all-about-steven-spielberg-sisters-8641795" target="_blank" rel="noopener noreferrer nofollow">https://people.com/all-about-steven-spielberg-sisters-8641795</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s 3 Siblings: All About His Sisters Anne...4 Aug 2024 — Director Steven Spielberg has three sisters: Anne, Sue and Nanc...</p></details>
+   Link:<a href="https://people.com/all-about-steven-spielberg-sisters-8641795" target="_blank" rel="noopener noreferrer nofollow">https://people.com/all-about-steven-spielberg-sisters-8641795</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s 3 Siblings: All About His Sisters Anne...4 Aug 2024 — Director Steven Spielberg has three sisters: Anne, Sue and Nanc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/FanTheories/comments/cm7mn6/et_the_extra_terrestrial_elliots_father_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/cm7mn6/et_the_extra_terrestrial_elliots_father_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra Terrestrial ] Elliot&#x27;s Father Was Affected By...She doesn&#x27;t understand why he&#x27;d go to Mexico. She even states his father hates...</p></details>
+   Link:<a href="https://www.reddit.com/r/FanTheories/comments/cm7mn6/et_the_extra_terrestrial_elliots_father_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/cm7mn6/et_the_extra_terrestrial_elliots_father_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra Terrestrial ] Elliot&#x27;s Father Was Affected By...She doesn&#x27;t understand why he&#x27;d go to Mexico. She even states his father hates...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SecondChanceDogRescueMansfield/posts/-hoarding-rescue-update-not-long-ago-we-pulled-12-dogs-from-heartbreaking-condit/930350286003762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SecondChanceDogRescueMansfield/posts/-hoarding-rescue-update-not-long-ago-we-pulled-12-dogs-from-heartbreaking-condit/930350286003762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Chance Dog Rescue MansfieldHOARDING RESCUE UPDATE Not long ago, we pulled 12 dogs from heartbreaking conditions on a hoarding prop...</p></details>
+   Link:<a href="https://www.facebook.com/SecondChanceDogRescueMansfield/posts/-hoarding-rescue-update-not-long-ago-we-pulled-12-dogs-from-heartbreaking-condit/930350286003762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SecondChanceDogRescueMansfield/posts/-hoarding-rescue-update-not-long-ago-we-pulled-12-dogs-from-heartbreaking-condit/930350286003762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Second Chance Dog Rescue MansfieldHOARDING RESCUE UPDATE Not long ago, we pulled 12 dogs from heartbreaking conditions on a hoarding prop...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2020/08/steven-spielberg-father-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/08/steven-spielberg-father-arnold</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven credits his father&#x27;s influence as the key to his imaginative world, inspired by a memorable moment when Arnold showed him the Pers...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2020/08/steven-spielberg-father-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/08/steven-spielberg-father-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven credits his father&#x27;s influence as the key to his imaginative world, inspired by a memorable moment when Arnold showed him the Pers...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRxTdEdEb4R/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxTdEdEb4R/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DRxTdEdEb4R/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxTdEdEb4R/?hl=en</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/entertainment-arts/awards/story/2023-02-21/steven-spielberg-gave-his-sisters-veto-power-on-the-fabelmans-they-gave-him-their-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/awards/story/2023-02-21/steven-spielberg-gave-his-sisters-veto-power-on-the-fabelmans-they-gave-him-their-trust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg gave his sisters veto power on &#x27;The...21 Feb 2023 — Steven Spielberg gave his sisters veto power on &#x27;The Fabelmans.&#x27; Th...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/awards/story/2023-02-21/steven-spielberg-gave-his-sisters-veto-power-on-the-fabelmans-they-gave-him-their-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/awards/story/2023-02-21/steven-spielberg-gave-his-sisters-veto-power-on-the-fabelmans-they-gave-him-their-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg gave his sisters veto power on &#x27;The...21 Feb 2023 — Steven Spielberg gave his sisters veto power on &#x27;The Fabelmans.&#x27; Th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: moviejawn.com  
    Title: spielberg week childhood memory and memoir in the films of steven spielberg  
-   Link: <a href="https://www.moviejawn.com/home/2022/11/7/spielberg-week-childhood-memory-and-memoir-in-the-films-of-steven-spielberg?srsltid=AfmBOorBaac5aFGP7wSQlEnATIcI5htdyg1tUNlXzmNFRgYqGrGkceO9" target="_blank" rel="noopener noreferrer nofollow">https://www.moviejawn.com/home/2022/11/7/spielberg-week-childhood-memory-and-memoir-in-the-films-of-steven-spielberg?srsltid=AfmBOorBaac5aFGP7wSQlEnATIcI5htdyg1tUNlXzmNFRgYqGrGkceO9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Week: Childhood, memory, and memoir in the...7 Nov 2022 — Two of the main preoccupations of Steven Spielberg&#x27;s career have bee...</p></details>
+   Link:<a href="https://www.moviejawn.com/home/2022/11/7/spielberg-week-childhood-memory-and-memoir-in-the-films-of-steven-spielberg?srsltid=AfmBOorBaac5aFGP7wSQlEnATIcI5htdyg1tUNlXzmNFRgYqGrGkceO9" target="_blank" rel="noopener noreferrer nofollow">https://www.moviejawn.com/home/2022/11/7/spielberg-week-childhood-memory-and-memoir-in-the-films-of-steven-spielberg?srsltid=AfmBOorBaac5aFGP7wSQlEnATIcI5htdyg1tUNlXzmNFRgYqGrGkceO9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Week: Childhood, memory, and memoir in the...7 Nov 2022 — Two of the main preoccupations of Steven Spielberg&#x27;s career have bee...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OCrpeN-OP8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCrpeN-OP8g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Will You Adopt Me? Elliot&#x27;s StorySergio and I are on a rescue mission in the middle of Spain, editing... He is active, happy, loves life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OCrpeN-OP8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCrpeN-OP8g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Will You Adopt Me? Elliot&#x27;s StorySergio and I are on a rescue mission in the middle of Spain, editing... He is active, happy, loves life...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: No living being deserves such treatment, and no innocent life should  
-   Link: <a href="https://www.instagram.com/reel/DYj_k1QRq5q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYj_k1QRq5q/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We have officially wrapped up the rescue mission for the cats...Abandonment is a crime, and those responsible should be held accountable...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYj_k1QRq5q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYj_k1QRq5q/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have officially wrapped up the rescue mission for the cats...Abandonment is a crime, and those responsible should be held accountable...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theanimalrescuemission.org  
-   Link: <a href="https://www.theanimalrescuemission.org/meet-our-board" target="_blank" rel="noopener noreferrer nofollow">https://www.theanimalrescuemission.org/meet-our-board</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Being a part of the animal rescue mission means I can be a hero to other animals and that...Read more...</p></details>
+   Link:<a href="https://www.theanimalrescuemission.org/meet-our-board" target="_blank" rel="noopener noreferrer nofollow">https://www.theanimalrescuemission.org/meet-our-board</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Being a part of the animal rescue mission means I can be a hero to other animals and that...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskScienceFiction/comments/1hp7ie/et_what_do_you_think_happened_to_elliot_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceFiction/comments/1hp7ie/et_what_do_you_think_happened_to_elliot_his/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What kind of adult do you think Elliot turned out to be, and how about his sister &amp; brother &amp; mother?...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskScienceFiction/comments/1hp7ie/et_what_do_you_think_happened_to_elliot_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceFiction/comments/1hp7ie/et_what_do_you_think_happened_to_elliot_his/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What kind of adult do you think Elliot turned out to be, and how about his sister &amp; brother &amp; mother?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rescuemissionalliance.org  
-   Link: <a href="https://rescuemissionalliance.org/stories/" target="_blank" rel="noopener noreferrer nofollow">https://rescuemissionalliance.org/stories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives: StoriesStories · Upstate Doctor Considers Legacy · Dominique&#x27;s Journey Home · The Day Everything Changed · Nick&#x27;s Story of Rede...</p></details>
+   Link:<a href="https://rescuemissionalliance.org/stories/" target="_blank" rel="noopener noreferrer nofollow">https://rescuemissionalliance.org/stories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives: StoriesStories · Upstate Doctor Considers Legacy · Dominique&#x27;s Journey Home · The Day Everything Changed · Nick&#x27;s Story of Rede...</p></details>

@@ -266,13 +266,13 @@ image: /assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_ir
 
 ### A giant from the sky as Cold War fear
 
-The Giant enters the story in a form that seems tailor-made for Cold War nightmares. He falls from space, appears near military infrastructure, possesses unknown technology, and arrives in a culture already primed to expect attack. The film’s 1957 setting matters because public fears about nuclear war, espionage and surprise invasion shape how adults interpret the newcomer. Rather than presenting those fears as irrational, the film acknowledges that they have a basis: the Giant really is armed, and his defensive systems are terrifyingly powerful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prezi.com">[2prezi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prezi.com</span><span class="citation-popover-snippet">The Iron Giant and The Cold WarThe overall theme of the story establishes the directors opinion of a need for desperate change of point o...</span></span></span>
+The Giant enters the story in a form that seems tailor-made for Cold War nightmares. He falls from space, appears near military infrastructure, possesses unknown technology, and arrives in a culture already primed to expect attack. The film’s 1957 setting matters because public fears about nuclear war, espionage and surprise invasion shape how adults interpret the newcomer. Rather than presenting those fears as irrational, the film acknowledges that they have a basis: the Giant really is armed, and his defensive systems are terrifyingly powerful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prezi.com">[2prezi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prezi.com</span><span class="citation-popover-snippet">The Iron Giant and The Cold WarThe overall theme of the story establishes the directors opinion of a need for desperate change of point o...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-1-dark.svg" | relative_url }}" alt="Iron Giant Alien Wea 68 D7 Cf illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates an important difference from many friendly-alien stories. The audience is never asked to believe that the authorities are entirely wrong. The Giant is dangerous. What they misunderstand is not his capability but his character.
 
-That distinction allows the film to rework the invasion narrative rather than simply reverse it. Earlier science-fiction films often assumed that a strange object from space concealed hostile intent. *The Iron Giant* keeps the fear but relocates the threat. The real danger becomes the inability to imagine that something built for war might reject its purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentfilmreviews.org/?p=9223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentfilmreviews.org">[Student Film Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentfilmreviews.org</span><span class="citation-popover-snippet">Student Film ReviewsThe Iron Giant (Brad Bird, 1999): USA18 May 2010 — Set in the 1950&#x27;s amidst Cold War paranoia it works very well as a...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
+That distinction allows the film to rework the invasion narrative rather than simply reverse it. Earlier science-fiction films often assumed that a strange object from space concealed hostile intent. *The Iron Giant* keeps the fear but relocates the threat. The real danger becomes the inability to imagine that something built for war might reject its purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://studentfilmreviews.org/?p=9223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentfilmreviews.org">[Student Film Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentfilmreviews.org</span><span class="citation-popover-snippet">Student Film ReviewsThe Iron Giant (Brad Bird, 1999): USA18 May 2010 — Set in the 1950&#x27;s amidst Cold War paranoia it works very well as a...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-3-dark.svg" | relative_url }}" alt="Iron Giant Alien Wea 68 D7 Cf illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -280,24 +280,24 @@ That distinction allows the film to rework the invasion narrative rather than si
 
 The story’s emotional centre is the relationship between Hogarth Hughes and the Giant. Like Spielberg’s child protagonists, Hogarth responds to the unknown with curiosity before fear hardens into hostility. He encounters a being that behaves less like a conqueror than a child: confused, inquisitive and eager to learn.
 
-Adults, by contrast, often interpret the same evidence through the lens of national security. Federal agent Kent Mansley becomes the embodiment of Cold War suspicion. Every mystery points towards a threat, every uncertainty demands escalation. The Giant's existence confirms the worldview that danger is always approaching from outside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Iron Giant</span><span class="citation-popover-snippet">The Iron Giant</span></span></span>
+Adults, by contrast, often interpret the same evidence through the lens of national security. Federal agent Kent Mansley becomes the embodiment of Cold War suspicion. Every mystery points towards a threat, every uncertainty demands escalation. The Giant's existence confirms the worldview that danger is always approaching from outside.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Iron Giant</span><span class="citation-popover-snippet">The Iron Giant</span></span></span>
 
 The film does not portray trust as naïve innocence. Hogarth repeatedly [witnesses]({{ 'witnesses/' | relative_url }}) evidence that the Giant contains destructive capabilities. The crucial difference is that he treats the Giant as a moral being rather than a machine. He assumes that behaviour can be learned and choices can be made.
 
-This mirrors a recurring theme in post-Spielberg alien narratives: communication precedes judgement. Just as *E.T.* encouraged viewers to see the outsider before the authorities classified him, *The Iron Giant* asks whether understanding should come before military response. The answer is not guaranteed safety. Instead, the film argues that refusing to understand virtually guarantees tragedy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</span></span></span>
+This mirrors a recurring theme in post-Spielberg alien narratives: communication precedes judgement. Just as *E.T.* encouraged viewers to see the outsider before the authorities classified him, *The Iron Giant* asks whether understanding should come before military response. The answer is not guaranteed safety. Instead, the film argues that refusing to understand virtually guarantees tragedy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hTPUJDJqThw" title="How to pronounce the article THE - 3 rules| Accurate English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hTPUJDJqThw" target="_blank" rel="noopener noreferrer">How to pronounce the article THE - 3 rules| Accurate English</a></p><p class="youtube-embed-meta">Channel: AccurateEnglish &middot; Views: 1.2M &middot; Uploaded: November 2017</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hTPUJDJqThw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hTPUJDJqThw">Open on YouTube</a></p></div></div></div>
 
 ## The alien body as a choice, not a destiny
 
-The film's most significant idea is that the Giant's frightening body does not determine his identity. He resembles the ultimate alien weapon: enormous, metallic and equipped with an arsenal hidden beneath his exterior. Whenever he perceives a threat, those systems emerge automatically, suggesting that violence is built into him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Iron Giant</span><span class="citation-popover-snippet">The Iron Giant</span></span></span>
+The film's most significant idea is that the Giant's frightening body does not determine his identity. He resembles the ultimate alien weapon: enormous, metallic and equipped with an arsenal hidden beneath his exterior. Whenever he perceives a threat, those systems emerge automatically, suggesting that violence is built into him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Iron Giant</span><span class="citation-popover-snippet">The Iron Giant</span></span></span>
 
 Yet the narrative repeatedly separates instinct from decision. The Giant can activate weapons without wanting to hurt anyone. He can possess destructive capacity without embracing a destructive identity. This distinction reaches its clearest expression when Hogarth teaches him about heroes, particularly Superman. The lesson is simple but profound: what matters is not what one is capable of doing, but what one chooses to do.
 
 Brad Bird described the film's central premise as a variation on the question, “What if a gun had a soul?” The story therefore treats the Giant not as a monster seeking redemption but as a weapon discovering personhood. The drama comes from whether self-awareness can overcome original design. [-]
 
-The film's critique of violence becomes sharper because the Giant is not secretly harmless. A harmless creature choosing peace carries little moral weight. A being capable of catastrophic destruction choosing restraint carries enormous weight. The Giant's innocence is therefore not ignorance of violence but rejection of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bijou.uiowa.edu">[Bijou Film Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bijou.uiowa.edu</span><span class="citation-popover-snippet">Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</span></span></span>
+The film's critique of violence becomes sharper because the Giant is not secretly harmless. A harmless creature choosing peace carries little moral weight. A being capable of catastrophic destruction choosing restraint carries enormous weight. The Giant's innocence is therefore not ignorance of violence but rejection of it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bijou.uiowa.edu">[Bijou Film Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bijou.uiowa.edu</span><span class="citation-popover-snippet">Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IZC47tKSHZ0" title="THE IRON GIANT: Learning To Love A &quot;Monster&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IZC47tKSHZ0" target="_blank" rel="noopener noreferrer">THE IRON GIANT: Learning To Love A &quot;Monster&quot;</a></p><p class="youtube-embed-meta">Channel: Mr Nerdista &middot; Views: 12.5K &middot; Uploaded: October 2016</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IZC47tKSHZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IZC47tKSHZ0">Open on YouTube</a></p></div></div></div>
@@ -306,207 +306,207 @@ The film's critique of violence becomes sharper because the Giant is not secretl
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-2-dark.svg" | relative_url }}" alt="Iron Giant Alien Wea 68 D7 Cf illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_iron_giant_alien_wea_68d7cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the sacrifice matters
 
-The climax works because it resolves the tension between weapon and person. Faced with a nuclear missile, the Giant finally demonstrates that identity is determined by action rather than origin. He uses his extraordinary power not to dominate others but to protect them, even at the cost of his own existence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</span></span></span>
+The climax works because it resolves the tension between weapon and person. Faced with a nuclear missile, the Giant finally demonstrates that identity is determined by action rather than origin. He uses his extraordinary power not to dominate others but to protect them, even at the cost of his own existence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</span></span></span>
 
 In many invasion stories, salvation comes through superior firepower. In *The Iron Giant*, salvation comes through refusing the logic of escalation. The character built to be the perfect weapon becomes the only figure willing to break the cycle of fear and retaliation.
 
 That ending places the film within the broader tradition of hopeful alien stories that emerged after Spielberg helped popularise more empathetic forms of contact. Yet *The Iron Giant* reaches that hope through a uniquely difficult route. Its visitor is not a lovable creature whose goodness is obvious from the start. He is a machine whose appearance confirms humanity’s worst expectations. The achievement of the film is showing that trust is meaningful precisely because those expectations seem justified.
 
-The Giant's final lesson is therefore not that dangerous things are harmless. It is that power and purpose are not the same. A being may arrive from the sky carrying all the signs of an invader and still choose, in the decisive moment, to become a hero instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bijou.uiowa.edu">[Bijou Film Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bijou.uiowa.edu</span><span class="citation-popover-snippet">Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</span></span></span>
+The Giant's final lesson is therefore not that dangerous things are harmless. It is that power and purpose are not the same. A being may arrive from the sky carrying all the signs of an invader and still choose, in the decisive moment, to become a hero instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bijou.uiowa.edu">[Bijou Film Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bijou.uiowa.edu</span><span class="citation-popover-snippet">Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/03PGJ6TGDlQ" title="The Inspiring Origin of The Iron Giant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=03PGJ6TGDlQ" target="_blank" rel="noopener noreferrer">The Inspiring Origin of The Iron Giant</a></p><p class="youtube-embed-meta">Channel: Tim Thoughts &middot; Views: 8.4K &middot; Uploaded: August 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=03PGJ6TGDlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=03PGJ6TGDlQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Iron Giant Alien Wea 68 D7 Cf. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Iron Giant Alien Wea 68 D7 Cf. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="iron-giant-alien-wea-68-d7-cf-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,95 +712,95 @@ The Giant's final lesson is therefore not that dangerous things are harmless. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Iron Giant  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Iron_Giant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Iron_Giant</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: prezi.com  
-   Link: <a href="https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Iron Giant and The Cold WarThe overall theme of the story establishes the directors opinion of a need for desperate change of point o...</p></details>
+   Link:<a href="https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/7dmshgv6ahxu/the-iron-giant-and-the-cold-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Iron Giant and The Cold WarThe overall theme of the story establishes the directors opinion of a need for desperate change of point o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: studentfilmreviews.org  
-   Link: <a href="https://studentfilmreviews.org/?p=9223" target="_blank" rel="noopener noreferrer nofollow">https://studentfilmreviews.org/?p=9223</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Film ReviewsThe Iron Giant (Brad Bird, 1999): USA18 May 2010 — Set in the 1950&#x27;s amidst Cold War paranoia it works very well as a...</p></details>
+   Link:<a href="https://studentfilmreviews.org/?p=9223" target="_blank" rel="noopener noreferrer nofollow">https://studentfilmreviews.org/?p=9223</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Film ReviewsThe Iron Giant (Brad Bird, 1999): USA18 May 2010 — Set in the 1950&#x27;s amidst Cold War paranoia it works very well as a...</p></details>
    Published: May 2010  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bijou.uiowa.edu  
-   Link: <a href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow">https://bijou.uiowa.edu/bijou-blog/iron-giant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</p></details>
+   Link:<a href="https://bijou.uiowa.edu/bijou-blog/iron-giant" target="_blank" rel="noopener noreferrer nofollow">https://bijou.uiowa.edu/bijou-blog/iron-giant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bijou Film BoardThe Iron Giant - Bijou Film Board - The University of IowaJan 24, 2020 — The Iron Giant himself is a symbol of peace, not...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryused to say that the particular person or thing being mentioned is the best, most famous, etc. In...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryused to say that the particular person or thing being mentioned is the best, most famous, etc. In...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: learnenglish.britishcouncil.org  
    Title: definite article  
-   Link: <a href="https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article" target="_blank" rel="noopener noreferrer nofollow">https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;the&#x27; | LearnEnglishWe use the definite article in front of a noun when we believe the listener/reader knows exactly what we are referrin...</p></details>
+   Link:<a href="https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article" target="_blank" rel="noopener noreferrer nofollow">https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;the&#x27; | LearnEnglishWe use the definite article in front of a noun when we believe the listener/reader knows exactly what we are referrin...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pronouncing the word &quot;the&quot;: r/grammarIt is similar to the two forms of &quot;a&quot; (&quot;a&quot; and &quot;an&quot;) in that sense. It is &quot;thee apple&quot; and &quot;an appl...</p></details>
+   Link:<a href="https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pronouncing the word &quot;the&quot;: r/grammarIt is similar to the two forms of &quot;a&quot; (&quot;a&quot; and &quot;an&quot;) in that sense. It is &quot;thee apple&quot; and &quot;an appl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; Meaning1. a: used as a function word to indicate that a following noun or noun equivalent is definite or has been previ...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; Meaning1. a: used as a function word to indicate that a following noun or noun equivalent is definite or has been previ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/the" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/the</a>  
+   Link:<a href="https://www.dictionary.com/browse/the" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/the</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: yaledailynews.com  
    Title: the iron giant comforting nostalgic and not really meant for kids  
-   Link: <a href="https://yaledailynews.com/articles/the-iron-giant-comforting-nostalgic-and-not-really-meant-for-kids" target="_blank" rel="noopener noreferrer nofollow">https://yaledailynews.com/articles/the-iron-giant-comforting-nostalgic-and-not-really-meant-for-kids</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Iron Giant&quot;: comforting, nostalgic and not really meant...In Brad Bird&#x27;s 1999 animated feature &quot;The Iron Giant,&quot; set in the late 50...</p></details>
+   Link:<a href="https://yaledailynews.com/articles/the-iron-giant-comforting-nostalgic-and-not-really-meant-for-kids" target="_blank" rel="noopener noreferrer nofollow">https://yaledailynews.com/articles/the-iron-giant-comforting-nostalgic-and-not-really-meant-for-kids</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Iron Giant&quot;: comforting, nostalgic and not really meant...In Brad Bird&#x27;s 1999 animated feature &quot;The Iron Giant,&quot; set in the late 50...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Tragedy prompted story about a gun that didn't want to be  
-   Link: <a href="https://www.facebook.com/groups/disneyhistoryinstitute/posts/24146635764988353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/disneyhistoryinstitute/posts/24146635764988353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>giant robot—built as a weapon—who chooses not to destroy. Instead, he learns compassion, friendship, and ultimately sacrifice. Brad Bird...</p></details>
+   Link:<a href="https://www.facebook.com/groups/disneyhistoryinstitute/posts/24146635764988353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/disneyhistoryinstitute/posts/24146635764988353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>giant robot—built as a weapon—who chooses not to destroy. Instead, he learns compassion, friendship, and ultimately sacrifice. Brad Bird...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/1cproy/the_iron_giant_was_based_on_the_premise_what_if_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1cproy/the_iron_giant_was_based_on_the_premise_what_if_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>freedom from Wikipedia: The financial failure of Warner Bros.&#x27; previous...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/1cproy/the_iron_giant_was_based_on_the_premise_what_if_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1cproy/the_iron_giant_was_based_on_the_premise_what_if_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>freedom from Wikipedia: The financial failure of Warner Bros.&#x27; previous...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWAC1sWBRre/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAC1sWBRre/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ar about a boy who befriends a mysterious giant robot from space...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWAC1sWBRre/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAC1sWBRre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ar about a boy who befriends a mysterious giant robot from space...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbr.com  
    Title: the iron giant is an anti war movie  
-   Link: <a href="https://www.cbr.com/the-iron-giant-is-an-anti-war-movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbr.com/the-iron-giant-is-an-anti-war-movie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 of the Most Gripping Anti-War Movies Ever Made Is This...Aug 5, 2025 — The Iron Giant Discusses Themes of Anti-War and the Consequence...</p></details>
+   Link:<a href="https://www.cbr.com/the-iron-giant-is-an-anti-war-movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbr.com/the-iron-giant-is-an-anti-war-movie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 of the Most Gripping Anti-War Movies Ever Made Is This...Aug 5, 2025 — The Iron Giant Discusses Themes of Anti-War and the Consequence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cinemontage.org  
    Title: brad birds iron giant  
-   Link: <a href="https://cinemontage.org/brad-birds-iron-giant/" target="_blank" rel="noopener noreferrer nofollow">https://cinemontage.org/brad-birds-iron-giant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Bird&#x27;s &#x27;The Iron Giant&#x27; -1 Nov 2012 — What if a gun had a soul? That was the question that was pinned to walls, doors and bulletin b...</p></details>
+   Link:<a href="https://cinemontage.org/brad-birds-iron-giant/" target="_blank" rel="noopener noreferrer nofollow">https://cinemontage.org/brad-birds-iron-giant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Bird&#x27;s &#x27;The Iron Giant&#x27; -1 Nov 2012 — What if a gun had a soul? That was the question that was pinned to walls, doors and bulletin b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: the iron giant 1999 is one of those films that settles into your memory with a m  
-   Link: <a href="https://www.facebook.com/TeejWithaFeather/posts/the-iron-giant-1999-is-one-of-those-films-that-settles-into-your-memory-with-a-m/1232889968890829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeejWithaFeather/posts/the-iron-giant-1999-is-one-of-those-films-that-settles-into-your-memory-with-a-m/1232889968890829/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Bird didn’t just adapt Ted Hughes’s...</p></details>
+   Link:<a href="https://www.facebook.com/TeejWithaFeather/posts/the-iron-giant-1999-is-one-of-those-films-that-settles-into-your-memory-with-a-m/1232889968890829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeejWithaFeather/posts/the-iron-giant-1999-is-one-of-those-films-that-settles-into-your-memory-with-a-m/1232889968890829/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Bird didn’t just adapt Ted Hughes’s...</p></details>

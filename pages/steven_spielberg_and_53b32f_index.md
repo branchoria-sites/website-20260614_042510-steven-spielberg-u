@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-index/
 description: Focused pages that expand on steven spielberg and UFOs.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f
 parent_title: steven spielberg and UFOs
@@ -16,7 +16,7 @@ parent_permalink: /steven-spielberg-and-ufos/
 
 # Explore Topics in steven spielberg and UFOs
 
-The following pages expand on the main **[steven spielberg and UFOs]({{ '/steven-spielberg-and-ufos/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[steven spielberg and UFOs]({{ '/steven-spielberg-and-ufos/' | relative_url }})** page and cover its key branches in.
 
 - [Vulnerable Alien]({{ '/vulnerable-alien/' | relative_url }})
 - [Moral Tests]({{ '/moral-tests/' | relative_url }})

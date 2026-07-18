@@ -268,11 +268,11 @@ One of the most important findings from modern polling is that the public treats
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-1-dark.svg" | relative_url }}" alt="UFO Public Opinion H Baa 92 B illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Pew Research Center found that about 65% of Americans said their best guess was that intelligent life exists on other planets. At the same time, only around half thought military-reported UFOs were probably or definitely evidence of intelligent life beyond Earth. Most of those respondents expressed only tentative confidence rather than certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span>
+Pew Research Center found that about 65% of Americans said their best guess was that intelligent life exists on other planets. At the same time, only around half thought military-reported UFOs were probably or definitely evidence of intelligent life beyond Earth. Most of those respondents expressed only tentative confidence rather than certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span>
 
-Gallup reached a similar conclusion from a different angle. In 2019, three-quarters of Americans believed some form of life exists elsewhere in the universe, but only about half believed beings similar to humans existed elsewhere. When Gallup specifically asked about UFO sightings, scepticism remained the majority view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
+Gallup reached a similar conclusion from a different angle. In 2019, three-quarters of Americans believed some form of life exists elsewhere in the universe, but only about half believed beings similar to humans existed elsewhere. When Gallup specifically asked about UFO sightings, scepticism remained the majority view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
 
-This gap is significant. Popular culture often blends extraterrestrial life and alien visitation into a single idea, but survey respondents do not. Many people accept the possibility that the universe contains intelligent life while remaining unconvinced that UFO reports are evidence of visitors from another world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span>
+This gap is significant. Popular culture often blends extraterrestrial life and alien visitation into a single idea, but survey respondents do not. Many people accept the possibility that the universe contains intelligent life while remaining unconvinced that UFO reports are evidence of visitors from another world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span>
 
 For a discussion of Hollywood's influence, this distinction is crucial. Spielberg's films helped make extraterrestrial themes emotionally accessible, but the polling record suggests that audiences did not simply adopt a blanket belief in alien spacecraft.
 
@@ -293,7 +293,7 @@ Pew's 2021 survey of more than 10,000 American adults found several notable patt
 * Roughly two-thirds believed intelligent life exists elsewhere.
 * About 51% thought military-reported UFOs were probably or definitely evidence of extraterrestrial intelligence.
 * Most respondents who accepted that possibility chose "probably" rather than "definitely".
-* Few regarded UFOs primarily as a major national security threat. Pew Research Center <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[pewresearch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterArnold LauMost Americans believe in intelligent life beyond Earth; few see UFOs as a major national security threat. A...</span></span></span>
+* Few regarded UFOs primarily as a major national security threat. Pew Research Center<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[pewresearch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterArnold LauMost Americans believe in intelligent life beyond Earth; few see UFOs as a major national security threat. A...</span></span></span>
 
 </div>
 
@@ -306,9 +306,9 @@ The results point to widespread openness rather than certainty. Americans appear
 
 Gallup's trend data show that attitudes toward UFOs became somewhat less sceptical between 2019 and 2021.
 
-In 2021, 41% of Americans said some UFO sightings involved alien spacecraft, compared with 33% two years earlier. Even so, half of respondents still preferred explanations involving human activity or natural phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
+In 2021, 41% of Americans said some UFO sightings involved alien spacecraft, compared with 33% two years earlier. Even so, half of respondents still preferred explanations involving human activity or natural phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
 
-Gallup also found that reported UFO sightings became more common over time. Earlier generations reported such experiences less frequently than respondents in more recent surveys. Whether this reflects actual experiences, changing social norms, greater media exposure or a willingness to discuss unusual observations remains unclear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yougov.com">[YouGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yougov.com</span><span class="citation-popover-snippet">Three in five Americans think there is intelligent life on...3 Jun 2021 — In June 2019, 16% in the Gallup Poll said they had seen...</span><span class="citation-popover-meta">Published: June 2019</span></span></span>
+Gallup also found that reported UFO sightings became more common over time. Earlier generations reported such experiences less frequently than respondents in more recent surveys. Whether this reflects actual experiences, changing social norms, greater media exposure or a willingness to discuss unusual observations remains unclear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yougov.com">[YouGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yougov.com</span><span class="citation-popover-snippet">Three in five Americans think there is intelligent life on...3 Jun 2021 — In June 2019, 16% in the Gallup Poll said they had seen...</span><span class="citation-popover-meta">Published: June 2019</span></span></span>
 
 The pattern is consistent with [mainstreaming]({{ 'mainstreaming/' | relative_url }}). People may not be more convinced by the evidence itself, but they appear more comfortable discussing the possibility.
 
@@ -316,7 +316,7 @@ The pattern is consistent with [mainstreaming]({{ 'mainstreaming/' | relative_ur
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-2-dark.svg" | relative_url }}" alt="UFO Public Opinion H Baa 92 B illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_ufo_public_opinion_h_baa92b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A Public Comfortable With Uncertainty
 
-Recent polls continue to show strong interest in extraterrestrial life. Newer surveys indicate that majorities still believe intelligent life exists beyond Earth, while opinions remain divided on whether UFOs are alien in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent polls continue to show strong interest in extraterrestrial life. Newer surveys indicate that majorities still believe intelligent life exists beyond Earth, while opinions remain divided on whether UFOs are alien in origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This creates an unusual public landscape. Alien life is increasingly treated as a plausible scientific possibility, yet claims of alien visitation remain unresolved and controversial.
 
@@ -332,9 +332,9 @@ Several competing influences exist:
 * News coverage of military UFO investigations and government reports.
 * Television documentaries, books and internet communities.
 * Broader cultural fascination with space exploration.
-* High-profile congressional and military discussions of unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
+* High-profile congressional and military discussions of unidentified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
 
-Researchers studying public attitudes towards extraterrestrial life frequently note that beliefs emerge from a mix of scientific, cultural and psychological influences rather than a single source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7372666/science-communication-extraterrestrial-life-in-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">If They Find Life in Space, Scientists Are Worried About Breaking the News</span><span class="citation-popover-snippet">Here&#x27;s WhyThe article discusses the challenges scientists and communicators face in announcing the discovery of extraterrestrial life. Hi...</span></span></span>
+Researchers studying public attitudes towards extraterrestrial life frequently note that beliefs emerge from a mix of scientific, cultural and psychological influences rather than a single source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7372666/science-communication-extraterrestrial-life-in-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">If They Find Life in Space, Scientists Are Worried About Breaking the News</span><span class="citation-popover-snippet">Here&#x27;s WhyThe article discusses the challenges scientists and communicators face in announcing the discovery of extraterrestrial life. Hi...</span></span></span>
 
 What can reasonably be said is that Hollywood helped create a cultural environment in which extraterrestrial themes felt familiar rather than fringe. Spielberg's films did not provide evidence for UFO claims, but they contributed memorable images of contact, [secrecy]({{ 'secrecy/' | relative_url }}), wonder and possibility. Surveys show that many people today remain open to those possibilities, even while withholding firm conclusions.
 
@@ -344,203 +344,203 @@ What can reasonably be said is that Hollywood helped create a cultural environme
 
 The polling record suggests that Hollywood's greatest impact may not have been persuading people that aliens visit Earth. Instead, it helped normalise the idea that the question itself is worth considering.
 
-The modern public is neither overwhelmingly sceptical nor overwhelmingly convinced. Most people accept the possibility of intelligent life elsewhere in the cosmos, many are willing to consider extraterrestrial explanations for some UFO reports, and substantial numbers remain unconvinced by claims of alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
+The modern public is neither overwhelmingly sceptical nor overwhelmingly convinced. Most people accept the possibility of intelligent life elsewhere in the cosmos, many are willing to consider extraterrestrial explanations for some UFO reports, and substantial numbers remain unconvinced by claims of alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
 
-That middle ground is perhaps the clearest sign of mainstreaming. UFO belief today exists less as a fringe certainty and more as a socially acceptable subject of curiosity—situated between imagination, official investigation and unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
+That middle ground is perhaps the clearest sign of mainstreaming. UFO belief today exists less as a fringe certainty and more as a socially acceptable subject of curiosity—situated between imagination, official investigation and unanswered questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/87Uo_nzsFQ4" title="“I Really Believe” Steven Spielberg &amp; Colman Domingo Talk ‘Disclosure Day’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=87Uo_nzsFQ4" target="_blank" rel="noopener noreferrer">“I Really Believe” Steven Spielberg &amp; Colman Domingo Talk ‘Disclosure Day’</a></p><p class="youtube-embed-meta">Channel: Fandango &middot; Views: 193.3K &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=87Uo_nzsFQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=87Uo_nzsFQ4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to UFO Public Opinion H Baa 92 B. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to UFO Public Opinion H Baa 92 B. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ufo-public-opinion-h-baa-92-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,150 +746,150 @@ That middle ground is perhaps the clearest sign of mainstreaming. UFO belief tod
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.gallup.com  
    Title: americans believe ufos.aspx  
-   Link: <a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</p></details>
+   Link:<a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans Believe in UFOs?20 Aug 2021 — Larger Minority in U.S. Says Some UFOs Are Alien Spacecraft. Americans regard reports of UFOs les...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.gallup.com  
-   Link: <a href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical of UFOs, but Say Government Knows...6 Sept 2019 — Even more, 75%, believe that some form of life exists on other planets...</p></details>
+   Link:<a href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical of UFOs, but Say Government Knows...6 Sept 2019 — Even more, 75%, believe that some form of life exists on other planets...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.gallup.com  
    Title: larger minority says ufos alien spacecraft.aspx  
-   Link: <a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Says Some UFOs Are Alien...20 Aug 2021 — When asked which of two theories better explains UFO sightings, 41% of adults now believe some...</p></details>
+   Link:<a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Says Some UFOs Are Alien...20 Aug 2021 — When asked which of two theories better explains UFO sightings, 41% of adults now believe some...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yougov.com  
-   Link: <a href="https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three in five Americans think there is intelligent life on...3 Jun 2021 — In June 2019, 16% in the Gallup Poll said they had seen...</p></details>
+   Link:<a href="https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/articles/36273-americans-think-intelligent-life-outer-space</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three in five Americans think there is intelligent life on...3 Jun 2021 — In June 2019, 16% in the Gallup Poll said they had seen...</p></details>
    Published: June 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: today.yougov.com  
    Title: 53486 half of americans believe aliens have visited earth  
-   Link: <a href="https://today.yougov.com/health/articles/53486-half-of-americans-believe-aliens-have-visited-earth" target="_blank" rel="noopener noreferrer nofollow">https://today.yougov.com/health/articles/53486-half-of-americans-believe-aliens-have-visited-earth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Americans believe aliens have visited Earth25 Nov 2025 — A majority of Americans believe that aliens exist · Democrats are more likely...</p></details>
+   Link:<a href="https://today.yougov.com/health/articles/53486-half-of-americans-believe-aliens-have-visited-earth" target="_blank" rel="noopener noreferrer nofollow">https://today.yougov.com/health/articles/53486-half-of-americans-believe-aliens-have-visited-earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Americans believe aliens have visited Earth25 Nov 2025 — A majority of Americans believe that aliens exist · Democrats are more likely...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
    Title: If They Find Life in Space, Scientists Are Worried About Breaking the News  
-   Link: <a href="https://time.com/7372666/science-communication-extraterrestrial-life-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7372666/science-communication-extraterrestrial-life-in-space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s WhyThe article discusses the challenges scientists and communicators face in announcing the discovery of extraterrestrial life. Hi...</p></details>
+   Link:<a href="https://time.com/7372666/science-communication-extraterrestrial-life-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7372666/science-communication-extraterrestrial-life-in-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s WhyThe article discusses the challenges scientists and communicators face in announcing the discovery of extraterrestrial life. Hi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.gallup.com  
-   Link: <a href="https://news.gallup.com/topic/science.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/science.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup Topic22 Jul 2024 — UFO doubters still outnumber believers, but 41% now think some sightings… have involved alien visitors. The S...</p></details>
+   Link:<a href="https://news.gallup.com/topic/science.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/science.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup Topic22 Jul 2024 — UFO doubters still outnumber believers, but 41% now think some sightings… have involved alien visitors. The S...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</p></details>
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterMost Americans believe in intelligent life beyond Earth30 Jun 2021 — Most of this sentiment comes from people who say...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/arnold-lau/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterArnold LauMost Americans believe in intelligent life beyond Earth; few see UFOs as a major national security threat. A...</p></details>
+   Link:<a href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/arnold-lau/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterArnold LauMost Americans believe in intelligent life beyond Earth; few see UFOs as a major national security threat. A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/</a>  
+   Link:<a href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterReligious Americans less likely to believe intelligent life...28 Jul 2021 — Highly religious adults are much more ske...</p></details>
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterReligious Americans less likely to believe intelligent life...28 Jul 2021 — Highly religious adults are much more ske...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/science/religion-science-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/religion-science-1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion &amp; ScienceReligious Americans less likely to believe intelligent life exists on other planets... the possibility of extraterrest...</p></details>
+   Link:<a href="https://www.pewresearch.org/topic/science/religion-science-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/religion-science-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religion &amp; ScienceReligious Americans less likely to believe intelligent life exists on other planets... the possibility of extraterrest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/staff/courtney-kennedy/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/courtney-kennedy/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n intelligent life beyond Earth; few see UFOs as a...Read more...</p></details>
+   Link:<a href="https://www.pewresearch.org/staff/courtney-kennedy/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/courtney-kennedy/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n intelligent life beyond Earth; few see UFOs as a...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/formats/short-read/page/101/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/formats/short-read/page/101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntelligent life beyond Earth; few see UFOs as a...Read more...</p></details>
+   Link:<a href="https://www.pewresearch.org/formats/short-read/page/101/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/formats/short-read/page/101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ntelligent life beyond Earth; few see UFOs as a...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/science/science-issues/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/science-issues/space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceThe Alien Telescope Array at the Search for Extraterrestrial Intelligence Institute. (Seth Shostak/ · Most Americans believe in inte...</p></details>
+   Link:<a href="https://www.pewresearch.org/topic/science/science-issues/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/science-issues/space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceThe Alien Telescope Array at the Search for Extraterrestrial Intelligence Institute. (Seth Shostak/ · Most Americans believe in inte...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pewresearch.org  
    Title: TOPLINE Views on UFOs  
-   Link: <a href="https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overall, how would you rate the job the federal government is doing in dealing with reports of. UFO sightings? June 14-24. 2021. 5. Very...</p></details>
+   Link:<a href="https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overall, how would you rate the job the federal government is doing in dealing with reports of. UFO sightings? June 14-24. 2021. 5. Very...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/alien-intelligent-life-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/alien-intelligent-life-other-planets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>believe in sentient extraterrestrial life think... Though few Americans say they believe aliens have contacted us already, many more at...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/alien-intelligent-life-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/alien-intelligent-life-other-planets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>believe in sentient extraterrestrial life think... Though few Americans say they believe aliens have contacted us already, many more at...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: floridapolitics.com  
-   Link: <a href="https://floridapolitics.com/archives/788977-as-trump-orders-ufo-data-released-a-question-hangs-if-aliens-exist-what-would-they-think-of-us/" target="_blank" rel="noopener noreferrer nofollow">https://floridapolitics.com/archives/788977-as-trump-orders-ufo-data-released-a-question-hangs-if-aliens-exist-what-would-they-think-of-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If aliens exist, what would they think of us?4 Apr 2026 — “Absolutely, there are such things” as UAPs and UFOs, says Diamond, whose SETI...</p></details>
+   Link:<a href="https://floridapolitics.com/archives/788977-as-trump-orders-ufo-data-released-a-question-hangs-if-aliens-exist-what-would-they-think-of-us/" target="_blank" rel="noopener noreferrer nofollow">https://floridapolitics.com/archives/788977-as-trump-orders-ufo-data-released-a-question-hangs-if-aliens-exist-what-would-they-think-of-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If aliens exist, what would they think of us?4 Apr 2026 — “Absolutely, there are such things” as UAPs and UFOs, says Diamond, whose SETI...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389888537_Religious_Belief_and_Attitudes_about_the_Possibility_of_Extraterrestrial_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389888537_Religious_Belief_and_Attitudes_about_the_Possibility_of_Extraterrestrial_Life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligent extra-terrestrial life and... Values-based Research Reveals: The Search for Extraterrestrial Life Fascinates Billions.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389888537_Religious_Belief_and_Attitudes_about_the_Possibility_of_Extraterrestrial_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389888537_Religious_Belief_and_Attitudes_about_the_Possibility_of_Extraterrestrial_Life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligent extra-terrestrial life and... Values-based Research Reveals: The Search for Extraterrestrial Life Fascinates Billions.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: a 2021 survey conducted by the pew research center showed about two thirds of am  
-   Link: <a href="https://www.facebook.com/FOX2Now/posts/a-2021-survey-conducted-by-the-pew-research-center-showed-about-two-thirds-of-am/1510581283991830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX2Now/posts/a-2021-survey-conducted-by-the-pew-research-center-showed-about-two-thirds-of-am/1510581283991830/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adults who say that military-reported UFOs are at least probably evidence of intelligent life outside Earth, 26% say UFOs...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/FOX2Now/posts/a-2021-survey-conducted-by-the-pew-research-center-showed-about-two-thirds-of-am/1510581283991830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX2Now/posts/a-2021-survey-conducted-by-the-pew-research-center-showed-about-two-thirds-of-am/1510581283991830/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adults who say that military-reported UFOs are at least probably evidence of intelligent life outside Earth, 26% say UFOs...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>believe was a UFO, according to the poll. Read More. Filed under. aliens · polls · ufos · 6/11/26 · Read Next Pima County Sheriff Chris N...</p></details>
+   Link:<a href="https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>believe was a UFO, according to the poll. Read More. Filed under. aliens · polls · ufos · 6/11/26 · Read Next Pima County Sheriff Chris N...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wired.com  
    Title: americans are increasingly convinced that aliens have visited earth  
-   Link: <a href="https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans Are Increasingly Convinced That Aliens Have...Dec 19, 2025 —... alien beliefs and UFO experiences. “It&#x27;s not a poll about exp...</p></details>
+   Link:<a href="https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans Are Increasingly Convinced That Aliens Have...Dec 19, 2025 —... alien beliefs and UFO experiences. “It&#x27;s not a poll about exp...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: Pew Research: Religious Americans less likely to believe  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/plvw04/pew_research_religious_americans_less_likely_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/plvw04/pew_research_religious_americans_less_likely_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligent alien life effect the beliefs of the... r/ufo - Pew Research Survey: Most Americans believe in intelligent life beyond Earth...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/plvw04/pew_research_religious_americans_less_likely_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/plvw04/pew_research_religious_americans_less_likely_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligent alien life effect the beliefs of the... r/ufo - Pew Research Survey: Most Americans believe in intelligent life beyond Earth...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: **UFO NEWSWIRE**: Americans Increasingly Convinced  
-   Link: <a href="https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>believe UFOs to be extraterrestrial spacecraft. However, 68 percent... There&#x27;s a questionable interest in UFO/ UAV, extraterrestrial enc...</p></details>
+   Link:<a href="https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>believe UFOs to be extraterrestrial spacecraft. However, 68 percent... There&#x27;s a questionable interest in UFO/ UAV, extraterrestrial enc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSNews/posts/are-we-alone-a-pew-research-center-poll-shows-roughly-two-thirds-of-americans-be/1320035443321630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/are-we-alone-a-pew-research-center-poll-shows-roughly-two-thirds-of-americans-be/1320035443321630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f Americans believe UFOs are likely alien ships or life...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CBSNews/posts/are-we-alone-a-pew-research-center-poll-shows-roughly-two-thirds-of-americans-be/1320035443321630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/are-we-alone-a-pew-research-center-poll-shows-roughly-two-thirds-of-americans-be/1320035443321630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f Americans believe UFOs are likely alien ships or life...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aei.org  
    Title: ufos americans opinions on whats out there  
-   Link: <a href="https://www.aei.org/articles/ufos-americans-opinions-on-whats-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.aei.org/articles/ufos-americans-opinions-on-whats-out-there/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Americans&#x27; Opinions on What&#x27;s Out There3 Jun 2021 —... alien life somewhere in the universe... In 2019, 16 percent told Gallup in...</p></details>
+   Link:<a href="https://www.aei.org/articles/ufos-americans-opinions-on-whats-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.aei.org/articles/ufos-americans-opinions-on-whats-out-there/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Americans&#x27; Opinions on What&#x27;s Out There3 Jun 2021 —... alien life somewhere in the universe... In 2019, 16 percent told Gallup in...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Public opinion on extraterrestrial life  
-   Link: <a href="https://en.wikipedia.org/wiki/Public_opinion_on_extraterrestrial_life" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Public_opinion_on_extraterrestrial_life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public opinion on extraterrestrial lifeFurthermore, 30% of Americans explicitly believe that UFOs are probable alien ships or life for...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Public_opinion_on_extraterrestrial_life" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Public_opinion_on_extraterrestrial_life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public opinion on extraterrestrial lifeFurthermore, 30% of Americans explicitly believe that UFOs are probable alien ships or life for...</p></details>

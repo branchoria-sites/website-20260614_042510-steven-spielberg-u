@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-hopeful/
 description: Focused pages that expand on Hopeful Aliens.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5
 parent_title: Hopeful Aliens
@@ -16,7 +16,7 @@ parent_permalink: /hopeful-aliens/
 
 # Explore Topics in Hopeful Aliens
 
-The following pages expand on the main **[Hopeful Aliens]({{ '/hopeful-aliens/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Hopeful Aliens]({{ '/hopeful-aliens/' | relative_url }})** page and cover its key branches in.
 
 - [Arrival Listening Te 1 B0562]({{ '/arrival-listening-te-1-b0562/' | relative_url }})
 - [Cold War Alien Fear]({{ '/cold-war-alien-fear/' | relative_url }})

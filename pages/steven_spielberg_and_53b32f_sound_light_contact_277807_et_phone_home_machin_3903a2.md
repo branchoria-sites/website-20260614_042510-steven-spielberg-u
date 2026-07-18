@@ -264,15 +264,15 @@ image: /assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_
 
 ## Introduction
 
-Within Spielberg’s broader UFO imagination, the device continues a theme already present in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*: communication happens through signals before it happens through language. Yet *E.T.* shrinks that idea from a global event to a backyard invention. The communicator becomes a bridge between sound, light and friendship, showing that contact with the unknown can emerge from ordinary materials rather than official authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+Within Spielberg’s broader UFO imagination, the device continues a theme already present in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*: communication happens through signals before it happens through language. Yet *E.T.* shrinks that idea from a global event to a backyard invention. The communicator becomes a bridge between sound, light and friendship, showing that contact with the unknown can emerge from ordinary materials rather than official authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-1-dark.svg" | relative_url }}" alt="Et Phone Home Machin 3903 A2 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How E.T. Makes Contact From Junk
 
-The machine is deliberately assembled from recognisable objects. Viewers can identify an umbrella, a Speak & Spell educational toy, wires, a coffee can, a record-player mechanism and other scavenged components. The design makes the device look less like futuristic technology than a science-fair experiment built from whatever could be found around the house. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
+The machine is deliberately assembled from recognisable objects. Viewers can identify an umbrella, a Speak & Spell educational toy, wires, a coffee can, a record-player mechanism and other scavenged components. The design makes the device look less like futuristic technology than a science-fair experiment built from whatever could be found around the house.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
 
-That appearance was not accidental. The communicator was designed for the film by science and technology educator Henry Feinberg, who was recruited during production and later described creating a device that would look both improvised and technically plausible. Feinberg’s goal was to suggest that an advanced intelligence could repurpose common Earth technology into a functioning transmitter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
+That appearance was not accidental. The communicator was designed for the film by science and technology educator Henry Feinberg, who was recruited during production and later described creating a device that would look both improvised and technically plausible. Feinberg’s goal was to suggest that an advanced intelligence could repurpose common Earth technology into a functioning transmitter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
 
 The machine therefore works on two levels:
 
@@ -281,7 +281,7 @@ The machine therefore works on two levels:
 
 * **As a prop**, it looks understandable enough for children to believe it could be built.
 * **As a story device**, it demonstrates E.T.’s intelligence without turning him into a conquering technological superior.
-* **As a communication system**, it converts ordinary objects into a pathway back to the stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
+* **As a communication system**, it converts ordinary objects into a pathway back to the stars.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
 
 </div>
 
@@ -294,9 +294,9 @@ Unlike many science-fiction films in which alien technology appears magical or i
 
 The emotional power of the machine comes from its scale. The signal may be travelling across space, but the materials belong to a suburban childhood.
 
-The Speak & Spell is especially important. It was a familiar educational toy in the early 1980s, associated with learning language. By incorporating it into the communicator, the film turns a child’s tool for spelling words into a device for reaching another world. The transformation symbolises one of Spielberg’s favourite ideas: wonder begins with ordinary curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
+The Speak & Spell is especially important. It was a familiar educational toy in the early 1980s, associated with learning language. By incorporating it into the communicator, the film turns a child’s tool for spelling words into a device for reaching another world. The transformation symbolises one of Spielberg’s favourite ideas: wonder begins with ordinary curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
 
-The umbrella serves a similar function. It is not presented as specialised aerospace hardware. It is an everyday object that acquires a new purpose when viewed through E.T.’s imagination. The visual message is simple: extraordinary contact does not require extraordinary ownership. It requires seeing possibilities that others miss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
+The umbrella serves a similar function. It is not presented as specialised aerospace hardware. It is an everyday object that acquires a new purpose when viewed through E.T.’s imagination. The visual message is simple: extraordinary contact does not require extraordinary ownership. It requires seeing possibilities that others miss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ettheextraterrestrial.fandom.com">[ettheextraterrestrial.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ettheextraterrestrial.fandom.com</span><span class="citation-popover-title">E.T.&#x27;s Communicator &#124; E.T</span><span class="citation-popover-snippet">The Extra Terrestrial Wiki &#124; FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</span></span></span>
 
 This is one reason the sequence remains memorable decades later. The machine resembles the kinds of inventions children build in games and fantasies. It validates a childhood belief that discarded objects can become spaceships, laboratories or communication networks if enough imagination is applied.
 
@@ -306,7 +306,7 @@ This is one reason the sequence remains memorable decades later. The machine res
 
 Many UFO stories place governments, military organisations or scientific institutions at the centre of contact. Spielberg takes a different route here.
 
-No observatory discovers the signal. No official programme decodes it. Instead, the essential participants are E.T., Elliott and a handful of children. The communicator bypasses the structures that normally claim authority over extraterrestrial encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+No observatory discovers the signal. No official programme decodes it. Instead, the essential participants are E.T., Elliott and a handful of children. The communicator bypasses the structures that normally claim authority over extraterrestrial encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 This creates a striking contrast with *Close Encounters of the Third Kind*. In that film, communication eventually becomes organised through experts, equipment and large-scale coordination. In *E.T.*, communication emerges from personal relationships and practical improvisation. The machine is built not because a research institution approves the project but because friends decide it must be done.
 
@@ -321,7 +321,7 @@ The communicator changes the purpose of first contact itself.
 
 Traditional alien-invasion stories often focus on arrival. The dramatic question is what happens when extraterrestrials reach Earth. Spielberg reverses that emphasis. E.T. is already here. The challenge is establishing communication in the opposite direction. The machine exists not to conquer distance but to overcome isolation.
 
-That shift turns alien contact into an emotional act. The signal is effectively a request for reunion. E.T. is not broadcasting power, issuing demands or gathering intelligence. He is asking for help. The famous desire to “phone home” frames communication as vulnerability rather than dominance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6xZif3WmG7I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube E.T. Phone Home</span><span class="citation-popover-snippet">E.T. Phone Home - E.T.: The Extra-Terrestrial (4/10) Movie...E.T. rigs up a communication device from junk he finds around the ho...</span></span></span>
+That shift turns alien contact into an emotional act. The signal is effectively a request for reunion. E.T. is not broadcasting power, issuing demands or gathering intelligence. He is asking for help. The famous desire to “phone home” frames communication as vulnerability rather than dominance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6xZif3WmG7I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube E.T. Phone Home</span><span class="citation-popover-snippet">E.T. Phone Home - E.T.: The Extra-Terrestrial (4/10) Movie...E.T. rigs up a communication device from junk he finds around the ho...</span></span></span>
 
 Because of this, the machine acquires symbolic meaning beyond its mechanical function. It represents:
 
@@ -335,7 +335,7 @@ Because of this, the machine acquires symbolic meaning beyond its mechanical fun
 
 </div>
 
-In Spielberg’s UFO films, light and sound often become shared languages. The communicator extends that pattern. It converts household noise, electronic signals and improvised engineering into a beacon aimed at the heavens. Contact is no longer a spectacle imposed from above; it becomes something built from below, by small hands and ordinary objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
+In Spielberg’s UFO films, light and sound often become shared languages. The communicator extends that pattern. It converts household noise, electronic signals and improvised engineering into a beacon aimed at the heavens. Contact is no longer a spectacle imposed from above; it becomes something built from below, by small hands and ordinary objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-3-dark.svg" | relative_url }}" alt="Et Phone Home Machin 3903 A2 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807_et_phone_home_machin_3903a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,201 +345,201 @@ The phone-home communicator endures because it captures a uniquely Spielbergian 
 
 Many cinematic alien technologies impress through complexity. E.T.’s communicator is memorable because of its simplicity. Viewers can recognise every component and still believe that something miraculous might happen when those pieces are combined in the right way. That balance between the familiar and the cosmic is central to Spielberg’s approach to UFOs.
 
-The machine ultimately presents first contact as an act of making. Before anyone can speak across the stars, someone has to gather the scraps, connect the wires and send a signal into the dark. In *E.T.*, that humble act becomes one of the most enduring images of communication in science-fiction cinema. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
+The machine ultimately presents first contact as an act of making. Before anyone can speak across the stars, someone has to gather the scraps, connect the wires and send a signal into the dark. In *E.T.*, that humble act becomes one of the most enduring images of communication in science-fiction cinema.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n5dux.com">[n5dux.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n5dux.com</span><span class="citation-popover-snippet">How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ppoH0kmvw6w" title="A Theoretical Lesson on Phoning Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ppoH0kmvw6w" target="_blank" rel="noopener noreferrer">A Theoretical Lesson on Phoning Home</a></p><p class="youtube-embed-meta">Channel: New Jersey Symphony &middot; Views: 4.7K &middot; Uploaded: May 2018</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ppoH0kmvw6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ppoH0kmvw6w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Et Phone Home Machin 3903 A2. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Et Phone Home Machin 3903 A2. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-phone-home-machin-3903-a2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ The machine ultimately presents first contact as an act of making. Before anyone
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ The machine ultimately presents first contact as an act of making. Before anyone
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ The machine ultimately presents first contact as an act of making. Before anyone
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ The machine ultimately presents first contact as an act of making. Before anyone
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ The machine ultimately presents first contact as an act of making. Before anyone
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,120 +745,120 @@ The machine ultimately presents first contact as an act of making. Before anyone
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: E.T. the Extra-Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: n5dux.com  
-   Link: <a href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</p></details>
+   Link:<a href="https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.n5dux.com/ham/files/pdf/How%20ET%20Really%20Called%20Home.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How ET Really Called Home.pdfIn this exclusive article, the designer of the little guy&#x27;s communicator unveils its inner workings. Henry R...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ettheextraterrestrial.fandom.com  
    Title: E.T.'s Communicator | E.T  
-   Link: <a href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow">https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra Terrestrial Wiki | FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</p></details>
+   Link:<a href="https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator" target="_blank" rel="noopener noreferrer nofollow">https://ettheextraterrestrial.fandom.com/wiki/E.T.%27s_Communicator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra Terrestrial Wiki | FandomThe communicator is composed of many household objects and appliances. A record player housing the buz...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube E.T. Phone Home  
-   Link: <a href="https://www.youtube.com/watch?v=6xZif3WmG7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6xZif3WmG7I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Phone Home - E.T.: The Extra-Terrestrial (4/10) Movie...E.T. rigs up a communication device from junk he finds around the ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6xZif3WmG7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6xZif3WmG7I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Phone Home - E.T.: The Extra-Terrestrial (4/10) Movie...E.T. rigs up a communication device from junk he finds around the ho...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ua3V_2mBtVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ua3V_2mBtVE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-Terrestrial | Phone Home (ft &#x27;Elliot&#x27;, Henry...E.T. gets all dressed up in girl&#x27;s clothing as Gertie (Drew Barrymore) tea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ua3V_2mBtVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ua3V_2mBtVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-Terrestrial | Phone Home (ft &#x27;Elliot&#x27;, Henry...E.T. gets all dressed up in girl&#x27;s clothing as Gertie (Drew Barrymore) tea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l-69HTc-ZHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l-69HTc-ZHU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bothered to actually watch the rest of the scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l-69HTc-ZHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l-69HTc-ZHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bothered to actually watch the rest of the scene...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/lxqJCof98Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/lxqJCof98Fc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ET Phone Home #ET #ShortsET extends his finger, delivering the iconic phrase, &quot;ET phone home&quot;. E.T. the Extra-Terrestrial. Stream now on...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/lxqJCof98Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/lxqJCof98Fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ET Phone Home #ET #ShortsET extends his finger, delivering the iconic phrase, &quot;ET phone home&quot;. E.T. the Extra-Terrestrial. Stream now on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ppoH0kmvw6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ppoH0kmvw6w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ppoH0kmvw6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ppoH0kmvw6w</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KR8oAKQeo8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR8oAKQeo8E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. - DER AUßERIRDISCHE Trailer German Deutsch (1982)E.T.&#x27;s Funniest Moments &amp; Classic Scenes | E.T. (1982) | Science Fiction Station. S...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KR8oAKQeo8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR8oAKQeo8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. - DER AUßERIRDISCHE Trailer German Deutsch (1982)E.T.&#x27;s Funniest Moments &amp; Classic Scenes | E.T. (1982) | Science Fiction Station. S...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: German E.T. nach Hause telefonieren | E.T  
-   Link: <a href="https://www.youtube.com/watch?v=atkVFJmIUgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atkVFJmIUgs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Der AußerirdischeE.T. hat einen Plan, um seine Familie zu kontaktieren. Film JETZT leihen oder kaufen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=atkVFJmIUgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atkVFJmIUgs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Der AußerirdischeE.T. hat einen Plan, um seine Familie zu kontaktieren. Film JETZT leihen oder kaufen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DGgoA9mwYzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGgoA9mwYzw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xtra-Terrestrial (1982) Epic Bicycle Chase Scene | 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DGgoA9mwYzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGgoA9mwYzw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xtra-Terrestrial (1982) Epic Bicycle Chase Scene | 4K...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: E.T.: The Extra-Terrestrial: You want to call someone? (HD CLIP)  
-   Link: <a href="https://www.youtube.com/watch?v=s4v027SwfEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4v027SwfEw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Phone Home | E.T. the Extra-Terrestrial | CLIP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s4v027SwfEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4v027SwfEw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Phone Home | E.T. the Extra-Terrestrial | CLIP...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Phoning Home: Behind the Scenes  
-   Link: <a href="https://www.youtube.com/watch?v=BWUXwBw7DQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWUXwBw7DQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video from YouTube features behind-the-scenes insights regarding the improvised communicator machine from the movie, aligning direct...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BWUXwBw7DQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWUXwBw7DQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video from YouTube features behind-the-scenes insights regarding the improvised communicator machine from the movie, aligning direct...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/577478936403574/posts/1194790144672447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1194790144672447/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. communicator made from everyday itemsThe communicator is complete! Pulling the string activates the SpeakNSpell. The record player a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/577478936403574/posts/1194790144672447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1194790144672447/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. communicator made from everyday itemsThe communicator is complete! Pulling the string activates the SpeakNSpell. The record player a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DDiNh_-T_k3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDiNh_-T_k3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BC DeLorean + Other Movie Cars on Instagram: &quot;We&#x27;ve been...We&#x27;ve been collecting items to build E.T.&#x27;s communicator device for a couple...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DDiNh_-T_k3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDiNh_-T_k3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BC DeLorean + Other Movie Cars on Instagram: &quot;We&#x27;ve been...We&#x27;ve been collecting items to build E.T.&#x27;s communicator device for a couple...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scifi.stackexchange.com  
    Title: how did [e t](&#123;&#123; 'e-t/' | relative_url &#125;&#125;) create a communicator device out of 1980 s earth junk  
-   Link: <a href="https://scifi.stackexchange.com/questions/295583/how-did-e-t-create-a-communicator-device-out-of-1980-s-earth-junk" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/295583/how-did-e-t-create-a-communicator-device-out-of-1980-s-earth-junk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>create a communicator device out of 1980&#x27;s...19 Mar 2025 — This may seem like an idiotic question; but was it ever explained what E.T. c...</p></details>
+   Link:<a href="https://scifi.stackexchange.com/questions/295583/how-did-e-t-create-a-communicator-device-out-of-1980-s-earth-junk" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/295583/how-did-e-t-create-a-communicator-device-out-of-1980-s-earth-junk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>create a communicator device out of 1980&#x27;s...19 Mar 2025 — This may seem like an idiotic question; but was it ever explained what E.T. c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/T-Extra-Terrestrial-Phone-Home/dp/0785355308" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/T-Extra-Terrestrial-Phone-Home/dp/0785355308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra-Terrestrial Phone HomeThis fun-filled telephone book lets kids practice using the phone with their favorite extra-terrestr...</p></details>
+   Link:<a href="https://www.amazon.de/T-Extra-Terrestrial-Phone-Home/dp/0785355308" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/T-Extra-Terrestrial-Phone-Home/dp/0785355308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra-Terrestrial Phone HomeThis fun-filled telephone book lets kids practice using the phone with their favorite extra-terrestr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/577478936403574/posts/1903046713846783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1903046713846783/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et the extra-terrestrial ET&#x27;s CommunicatorMakeshift communicator used by E.T. to phone home. Among its parts is a Speak &amp; Spell, an umbre...</p></details>
+   Link:<a href="https://www.facebook.com/groups/577478936403574/posts/1903046713846783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1903046713846783/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et the extra-terrestrial ET&#x27;s CommunicatorMakeshift communicator used by E.T. to phone home. Among its parts is a Speak &amp; Spell, an umbre...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/ETTheExtraTerrestrial" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/ETTheExtraTerrestrial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d objects—a saw blade on a record player with a fork...Read more...</p></details>
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/ETTheExtraTerrestrial" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/ETTheExtraTerrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d objects—a saw blade on a record player with a fork...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hackaday.io  
    Title: 752 et communicator phone home  
-   Link: <a href="https://hackaday.io/project/752-et-communicator-phone-home" target="_blank" rel="noopener noreferrer nofollow">https://hackaday.io/project/752-et-communicator-phone-home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Communicator (Phone Home)8 Apr 2014 — According to E.T. lore this was in the form of a saw blade, Speak and Spell, and an umbrella...</p></details>
+   Link:<a href="https://hackaday.io/project/752-et-communicator-phone-home" target="_blank" rel="noopener noreferrer nofollow">https://hackaday.io/project/752-et-communicator-phone-home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Communicator (Phone Home)8 Apr 2014 — According to E.T. lore this was in the form of a saw blade, Speak and Spell, and an umbrella...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 1300nerdcore.com.au  
    Title: How did E.T  
-   Link: <a href="https://www.1300nerdcore.com.au/post/et-the-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.1300nerdcore.com.au/post/et-the-movie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>create a communicator device out of 1980&#x27;s Earth junk?E.T. constructed his communicator device by. combining a Speak &amp; Spell toy, a porta...</p></details>
+   Link:<a href="https://www.1300nerdcore.com.au/post/et-the-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.1300nerdcore.com.au/post/et-the-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>create a communicator device out of 1980&#x27;s Earth junk?E.T. constructed his communicator device by. combining a Speak &amp; Spell toy, a porta...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/universalpicturesuk/videos/the-et-scene-weve-all-been-quoting-for-decades-nobody-does-it-like-spielberg/1686441662773588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universalpicturesuk/videos/the-et-scene-weve-all-been-quoting-for-decades-nobody-does-it-like-spielberg/1686441662773588/</a>  
+   Link:<a href="https://www.facebook.com/universalpicturesuk/videos/the-et-scene-weve-all-been-quoting-for-decades-nobody-does-it-like-spielberg/1686441662773588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universalpicturesuk/videos/the-et-scene-weve-all-been-quoting-for-decades-nobody-does-it-like-spielberg/1686441662773588/</a>  

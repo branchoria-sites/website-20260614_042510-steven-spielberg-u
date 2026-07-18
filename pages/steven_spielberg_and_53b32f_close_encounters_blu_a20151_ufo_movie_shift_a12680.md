@@ -259,7 +259,7 @@ image: /assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_uf
 
 ## Introduction
 
-When *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* arrived in 1977, it changed a basic assumption that had shaped UFO films for decades: a flying saucer did not have to mean invasion. Earlier science-fiction cinema often treated extraterrestrials as military threats, monsters, or symbols of Cold War anxiety. Steven Spielberg instead built a story around [witnesses]({{ 'witnesses/' | relative_url }}), mystery, government secrecy, and the possibility that contact might be meaningful rather than catastrophic. The result was not merely a successful film but a new template for how UFO stories could work. Its influence can be traced through later films, television series, and popular ideas about alien encounters, many of which adopted the same combination of ordinary witnesses, hidden official knowledge, and awe-filled discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
+When *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* arrived in 1977, it changed a basic assumption that had shaped UFO films for decades: a flying saucer did not have to mean invasion. Earlier science-fiction cinema often treated extraterrestrials as military threats, monsters, or symbols of Cold War anxiety. Steven Spielberg instead built a story around [witnesses]({{ 'witnesses/' | relative_url }}), mystery, government secrecy, and the possibility that contact might be meaningful rather than catastrophic. The result was not merely a successful film but a new template for how UFO stories could work. Its influence can be traced through later films, television series, and popular ideas about alien encounters, many of which adopted the same combination of ordinary witnesses, hidden official knowledge, and awe-filled discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-1-dark.svg" | relative_url }}" alt="UFO Movie Shift illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -269,14 +269,14 @@ Before *Close Encounters*, mainstream UFO cinema frequently framed alien arrival
 
 These stories reflected the anxieties of the post-war and [Cold War]({{ 'cold-war/' | relative_url }}) eras. UFOs often functioned as stand-ins for invasion fears, nuclear uncertainty, or distrust of foreign powers. Military responses, scientific countermeasures, and large-scale destruction were common narrative centrepieces. The audience was encouraged to identify with governments, soldiers, or scientists attempting to repel an outside force.
 
-*Close Encounters* did not completely abandon tension or uncertainty, but it shifted the emotional focus. The mystery was not how to defeat the visitors. It was how to understand them. As later commentators have noted, the film stood apart because it remained committed to contact rather than conflict. Even its climactic encounter is built around communication through music and light rather than warfare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
+*Close Encounters* did not completely abandon tension or uncertainty, but it shifted the emotional focus. The mystery was not how to defeat the visitors. It was how to understand them. As later commentators have noted, the film stood apart because it remained committed to contact rather than conflict. Even its climactic encounter is built around communication through music and light rather than warfare.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4flYTRE93yc" title="The Secrets of Close Encounters of the Third Kind - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4flYTRE93yc" target="_blank" rel="noopener noreferrer">The Secrets of Close Encounters of the Third Kind - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 6.9K &middot; Uploaded: July 2022</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4flYTRE93yc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4flYTRE93yc">Open on YouTube</a></p></div></div></div>
 
 ## How Spielberg Made the Witness the Emotional Centre
 
-One of Spielberg’s most important innovations was moving the UFO story away from institutions and towards ordinary people. [Roy Neary]({{ 'roy-neary/' | relative_url }}) is not a military commander or scientific expert. He is an everyday worker whose life is transformed by an unexplained sighting. The film follows the consequences of seeing something extraordinary rather than treating the sighting as a plot device on the way to a larger battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+One of Spielberg’s most important innovations was moving the UFO story away from institutions and towards ordinary people. [Roy Neary]({{ 'roy-neary/' | relative_url }}) is not a military commander or scientific expert. He is an everyday worker whose life is transformed by an unexplained sighting. The film follows the consequences of seeing something extraordinary rather than treating the sighting as a plot device on the way to a larger battle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 This witness-centred approach altered audience expectations in several ways:
 
@@ -292,7 +292,7 @@ This witness-centred approach altered audience expectations in several ways:
 
 This structure proved remarkably durable. Later UFO narratives repeatedly returned to the idea that the most important effects of contact occur inside the witness rather than on the battlefield. The sighting becomes a life event rather than merely an action sequence.
 
-The film also gave mainstream visibility to concepts already circulating within UFO culture. Its title came from J. Allen Hynek’s classification system for encounters with unidentified aerial phenomena, and Hynek himself served as an adviser and appeared briefly in the film. By incorporating ideas associated with real-world UFO investigation, Spielberg made witnesses feel more credible and culturally significant than they had often appeared in earlier genre cinema. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">, sighting of a UFO with physical trace evidence, and contact...</span></span></span>
+The film also gave mainstream visibility to concepts already circulating within UFO culture. Its title came from J. Allen Hynek’s classification system for encounters with unidentified aerial phenomena, and Hynek himself served as an adviser and appeared briefly in the film. By incorporating ideas associated with real-world UFO investigation, Spielberg made witnesses feel more credible and culturally significant than they had often appeared in earlier genre cinema.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">, sighting of a UFO with physical trace evidence, and contact...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-2-dark.svg" | relative_url }}" alt="UFO Movie Shift illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,7 +304,7 @@ The film does not present officials as simple villains. Instead, institutions ar
 
 This was a significant shift. Earlier invasion narratives often placed governments at the centre of humanity’s defence. Spielberg's film instead positioned official secrecy as a dramatic obstacle standing between witnesses and understanding. The idea proved enormously influential because it aligned with broader cultural suspicions that had emerged during the 1970s.
 
-Many later UFO stories adopted the same pattern: ordinary people experience something inexplicable, institutions conceal information, and the search for truth becomes as important as the phenomenon itself. The popularity of this structure can be seen in everything from alien-abduction dramas to conspiracy-driven television series. Even modern discussions of UFO disclosure frequently echo narrative elements that *Close Encounters* helped popularise for mass audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theankler.com">[The Ankler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theankler.com</span><span class="citation-popover-title">steven spielberg ufo aliens close encounters third kind</span><span class="citation-popover-snippet">The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</span></span></span>
+Many later UFO stories adopted the same pattern: ordinary people experience something inexplicable, institutions conceal information, and the search for truth becomes as important as the phenomenon itself. The popularity of this structure can be seen in everything from alien-abduction dramas to conspiracy-driven television series. Even modern discussions of UFO disclosure frequently echo narrative elements that *Close Encounters* helped popularise for mass audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theankler.com">[The Ankler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theankler.com</span><span class="citation-popover-title">steven spielberg ufo aliens close encounters third kind</span><span class="citation-popover-snippet">The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mE_q5w0cbY0" title="Every Alien Invasion Explained in 27 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mE_q5w0cbY0" target="_blank" rel="noopener noreferrer">Every Alien Invasion Explained in 27 Minutes</a></p><p class="youtube-embed-meta">Channel: TheLastSafeZone &middot; Views: 20.0K &middot; Uploaded: May 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mE_q5w0cbY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mE_q5w0cbY0">Open on YouTube</a></p></div></div></div>
@@ -315,9 +315,9 @@ Perhaps the film's most enduring contribution was emotional rather than narrativ
 
 The UFOs are mysterious and sometimes frightening, but the film repeatedly frames them as beautiful. Light, music, scale, and spectacle create a sense that humanity is encountering something larger than itself. The final meeting is not presented as a victory or defeat. It is a moment of communication.
 
-This emotional choice distinguished the film from many predecessors and created a second major branch of UFO storytelling. After 1977, filmmakers had two powerful models available: aliens as invaders and aliens as mysterious intelligences worthy of curiosity. Spielberg would later explore the same hopeful impulse again in *E.T.*, but *Close Encounters* established the framework first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
+This emotional choice distinguished the film from many predecessors and created a second major branch of UFO storytelling. After 1977, filmmakers had two powerful models available: aliens as invaders and aliens as mysterious intelligences worthy of curiosity. Spielberg would later explore the same hopeful impulse again in *E.T.*, but *Close Encounters* established the framework first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</span></span></span>
 
-The film also encouraged audiences to view UFO witnesses differently. Rather than treating them as comic figures or obvious eccentrics, it suggested that the witness could be the protagonist of a profound experience. That perspective influenced both fictional portrayals and wider popular culture surrounding UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siff.net">[SIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siff.net</span><span class="citation-popover-snippet">They Came From Outer Space: Close Encounters of the...Mysterious UFO sightings ignite a global phenomenon. As ordinary lives are tou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gayinthecle.com/2023/12/29/close-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gayinthecle.com">[Gay in the CLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gayinthecle.com</span><span class="citation-popover-snippet">Gay in the CLEClose Encounters of the Third Kind and it&#x27;s Cultural...Dec 29, 2023 — Through the characters&#x27; journeys and their close enc...</span></span></span>
+The film also encouraged audiences to view UFO witnesses differently. Rather than treating them as comic figures or obvious eccentrics, it suggested that the witness could be the protagonist of a profound experience. That perspective influenced both fictional portrayals and wider popular culture surrounding UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siff.net">[SIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siff.net</span><span class="citation-popover-snippet">They Came From Outer Space: Close Encounters of the...Mysterious UFO sightings ignite a global phenomenon. As ordinary lives are tou...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://gayinthecle.com/2023/12/29/close-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gayinthecle.com">[Gay in the CLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gayinthecle.com</span><span class="citation-popover-snippet">Gay in the CLEClose Encounters of the Third Kind and it&#x27;s Cultural...Dec 29, 2023 — Through the characters&#x27; journeys and their close enc...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-3-dark.svg" | relative_url }}" alt="UFO Movie Shift illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151_ufo_movie_shift_a12680-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,201 +338,201 @@ The lasting impact of *Close Encounters* lies in how often later works repeated 
 
 This pattern proved flexible enough to support thrillers, dramas, mysteries, and family-oriented science fiction. It could accommodate fear, but fear was no longer the only possible response to extraterrestrial contact.
 
-Within Spielberg’s own body of work, the film became the blueprint for many later explorations of the unknown. Beyond Spielberg, it helped establish a cultural expectation that UFO stories are not merely about spacecraft. They are about belief, secrecy, communication, and the human desire to understand something beyond ordinary experience. That shift remains one of the most significant changes ever made to the UFO movie genre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theankler.com">[The Ankler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theankler.com</span><span class="citation-popover-title">steven spielberg ufo aliens close encounters third kind</span><span class="citation-popover-snippet">The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Within Spielberg’s own body of work, the film became the blueprint for many later explorations of the unknown. Beyond Spielberg, it helped establish a cultural expectation that UFO stories are not merely about spacecraft. They are about belief, secrecy, communication, and the human desire to understand something beyond ordinary experience. That shift remains one of the most significant changes ever made to the UFO movie genre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theankler.com">[The Ankler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theankler.com</span><span class="citation-popover-title">steven spielberg ufo aliens close encounters third kind</span><span class="citation-popover-snippet">The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uE-yowBWJfA" title="The Rise and Fall of Spielberg | SUPERCUT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uE-yowBWJfA" target="_blank" rel="noopener noreferrer">The Rise and Fall of Spielberg | SUPERCUT</a></p><p class="youtube-embed-meta">Channel: Rowan J Coleman &middot; Views: 55.3K &middot; Uploaded: October 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uE-yowBWJfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uE-yowBWJfA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to UFO Movie Shift. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to UFO Movie Shift. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="ufo-movie-shift-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,105 +738,105 @@ Within Spielberg’s own body of work, the film became the blueprint for many la
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0075860/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977)A terrific movie about alien contact. Close Encounters Of The Third Kind is a film about ali...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: siff.net  
-   Link: <a href="https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They Came From Outer Space: Close Encounters of the...Mysterious UFO sightings ignite a global phenomenon. As ordinary lives are tou...</p></details>
+   Link:<a href="https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.siff.net/programs-and-events/they-came-from-outer-space/close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They Came From Outer Space: Close Encounters of the...Mysterious UFO sightings ignite a global phenomenon. As ordinary lives are tou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, sighting of a UFO with physical trace evidence, and contact...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, sighting of a UFO with physical trace evidence, and contact...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gayinthecle.com  
-   Link: <a href="https://gayinthecle.com/2023/12/29/close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://gayinthecle.com/2023/12/29/close-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gay in the CLEClose Encounters of the Third Kind and it&#x27;s Cultural...Dec 29, 2023 — Through the characters&#x27; journeys and their close enc...</p></details>
+   Link:<a href="https://gayinthecle.com/2023/12/29/close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://gayinthecle.com/2023/12/29/close-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gay in the CLEClose Encounters of the Third Kind and it&#x27;s Cultural...Dec 29, 2023 — Through the characters&#x27; journeys and their close enc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theankler.com  
    Title: steven spielberg ufo aliens close encounters third kind  
-   Link: <a href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</p></details>
+   Link:<a href="https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/p/steven-spielberg-ufo-aliens-close-encounters-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The director&#x27;s childhood celestial event led to &#x27;Close Encounters&#x27; and a new sci-fi...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: the-jh-movie-collection-official.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe alien replies with the same gestures, smiles, and returns to the ship, which ascends into space, as Barry...</p></details>
+   Link:<a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe alien replies with the same gestures, smiles, and returns to the ship, which ascends into space, as Barry...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ifi.ie  
    Title: CLOS E ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ifi.ie/film/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND - Irish Film...As a group of researchers investigate the increased number of UFO sightings, family ma...</p></details>
+   Link:<a href="https://ifi.ie/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ifi.ie/film/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND - Irish Film...As a group of researchers investigate the increased number of UFO sightings, family ma...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/close</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE Definition &amp; Meaning1. a: to move so as to bar passage through something Close the gate. b: to block against entry or passage clo...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE Definition &amp; Meaning1. a: to move so as to bar passage through something Close the gate. b: to block against entry or passage clo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pagesix.com  
-   Link: <a href="https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the release of Spielberg’s 1977 classic &quot;Close Encounters of the Third Kind,&quot; public and cinematic perspectives on UAPs have signif...</p></details>
+   Link:<a href="https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since the release of Spielberg’s 1977 classic &quot;Close Encounters of the Third Kind,&quot; public and cinematic perspectives on UAPs have signif...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flashbak.com  
-   Link: <a href="https://flashbak.com/when-you-wish-upon-a-star-exploring-the-spirituality-of-spielbergs-close-encounters-of-the-third-kind-1977-6355/" target="_blank" rel="noopener noreferrer nofollow">https://flashbak.com/when-you-wish-upon-a-star-exploring-the-spirituality-of-spielbergs-close-encounters-of-the-third-kind-1977-6355/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When You Wish Upon A Star: Exploring the Spirituality of...Feb 12, 2014 — Close Encounter&#x27;s narrative also involves the mystery behind a...</p></details>
+   Link:<a href="https://flashbak.com/when-you-wish-upon-a-star-exploring-the-spirituality-of-spielbergs-close-encounters-of-the-third-kind-1977-6355/" target="_blank" rel="noopener noreferrer nofollow">https://flashbak.com/when-you-wish-upon-a-star-exploring-the-spirituality-of-spielbergs-close-encounters-of-the-third-kind-1977-6355/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When You Wish Upon A Star: Exploring the Spirituality of...Feb 12, 2014 — Close Encounter&#x27;s narrative also involves the mystery behind a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blogs.loc.gov  
    Title: reading the film registry close encounters of the third kind 1977  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>loc.gov“Close Encounters of the Third Kind”: National Film...1 Dec 2018 — “As a child growing up in suburban Phoenix, Arizona, during th...</p></details>
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>loc.gov“Close Encounters of the Third Kind”: National Film...1 Dec 2018 — “As a child growing up in suburban Phoenix, Arizona, during th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien invasion. In both films, the fathers make amends. Close... Perhaps Spielberg returns to stories about aliens and UFOs not...Read...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien invasion. In both films, the fathers make amends. Close... Perhaps Spielberg returns to stories about aliens and UFOs not...Read...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27; Mars Needs Women &#x27; or &#x27;War of the Worlds&#x27; - were the common image of aliens, and so the movie was an unsettling mystery that...</p></details>
+   Link:<a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27; Mars Needs Women &#x27; or &#x27;War of the Worlds&#x27; - were the common image of aliens, and so the movie was an unsettling mystery that...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ultural mood and Spielberg&#x27;s genius, or if the movie fits within previous...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1efnxmw/close_encounters_of_the_third_kind_influence_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ultural mood and Spielberg&#x27;s genius, or if the movie fits within previous...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scottholleran.com  
    Title: movie analysis close encounters of the third kind 1977  
-   Link: <a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Analysis: Close Encounters of the Third Kind (1977)Sep 4, 2017 — Barry&#x27;s self-starting toys represent the essence of what quality t...</p></details>
+   Link:<a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Analysis: Close Encounters of the Third Kind (1977)Sep 4, 2017 — Barry&#x27;s self-starting toys represent the essence of what quality t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keyhoe&#x27;s unscripted revelation in 1958 highlighted government secrecy...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keyhoe&#x27;s unscripted revelation in 1958 highlighted government secrecy...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rollingstone.com  
    Title: close encounters why ufos are having a moment 200739  
-   Link: <a href="https://www.rollingstone.com/culture/culture-news/close-encounters-why-ufos-are-having-a-moment-200739/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/close-encounters-why-ufos-are-having-a-moment-200739/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: Why UFOs Are Having a Moment6 Jul 2017 — Hynek though, refused to say that the strangeness of UFOs and UFO sightings pr...</p></details>
+   Link:<a href="https://www.rollingstone.com/culture/culture-news/close-encounters-why-ufos-are-having-a-moment-200739/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/close-encounters-why-ufos-are-having-a-moment-200739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: Why UFOs Are Having a Moment6 Jul 2017 — Hynek though, refused to say that the strangeness of UFOs and UFO sightings pr...</p></details>

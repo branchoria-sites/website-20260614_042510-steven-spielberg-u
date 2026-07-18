@@ -450,11 +450,11 @@ That hopeful model did not replace darker alien cinema. *Alien*, *The Thing*, *I
 
 ## The Cold War Made Aliens Look Like Threats
 
-The classic 1950s alien-invasion cycle grew from a world already trained to imagine sudden catastrophe. Flying [saucers]({{ 'saucers/' | relative_url }}), nuclear weapons, civil-defence drills and anti-communist paranoia all fed a style of science fiction in which the outside force was rarely just “from space”. It could stand for atomic annihilation, ideological infiltration, invasion from beyond national borders, or a fear that human technology had outpaced human wisdom. Cambridge’s account of 1950s science-fiction cinema describes the period as a “golden age” of the genre and notes the industry’s embrace of flying saucers alongside a cycle of alien-invasion films. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sThe film industry embraced the &#x27;flying saucer&#x27; and, in parallel to the contin- ued reports of UFO sight...</span></span></span> University Press & Assessment
+The classic 1950s alien-invasion cycle grew from a world already trained to imagine sudden catastrophe. Flying [saucers]({{ 'saucers/' | relative_url }}), nuclear weapons, civil-defence drills and anti-communist paranoia all fed a style of science fiction in which the outside force was rarely just “from space”. It could stand for atomic annihilation, ideological infiltration, invasion from beyond national borders, or a fear that human technology had outpaced human wisdom. Cambridge’s account of 1950s science-fiction cinema describes the period as a “golden age” of the genre and notes the industry’s embrace of flying saucers alongside a cycle of alien-invasion films.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sThe film industry embraced the &#x27;flying saucer&#x27; and, in parallel to the contin- ued reports of UFO sight...</span></span></span> University Press & Assessment
 
-That tradition did not always make aliens simple villains, but it often made contact a crisis. Encyclopedia.com summarises the Cold War pattern neatly: science-fiction films tended to merge fear of communist takeover with fear of annihilation, especially through invasion from outside forces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyScience fiction films tended to merge the fear of a Communist takeover with the fear of annihil...</span></span></span> In that framework, the alien ship was a signal to mobilise. The important questions were defensive: who are they, what do they want, and how quickly can the state, the military or the scientist stop them?
+That tradition did not always make aliens simple villains, but it often made contact a crisis. Encyclopedia.com summarises the Cold War pattern neatly: science-fiction films tended to merge fear of communist takeover with fear of annihilation, especially through invasion from outside forces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyScience fiction films tended to merge the fear of a Communist takeover with the fear of annihil...</span></span></span> In that framework, the alien ship was a signal to mobilise. The important questions were defensive: who are they, what do they want, and how quickly can the state, the military or the scientist stop them?
 
-There were exceptions before Spielberg, and they matter because they show that hope was already present — just not dominant. *The Day the Earth Stood Still* (1951) gives Earth a humanoid visitor, Klaatu, who arrives with a warning against violence and nuclear recklessness. Britannica describes the film as a Cold War and atomic-age classic, while its story makes the alien less a conqueror than a stern messenger confronting humanity’s self-destructive habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaThe Day the Earth Stood Still &#124; Sci-Fi, Cold War, ClassicSeptember 23, 2010 — 7 days ago — American science-fictio...</span><span class="citation-popover-meta">Published: September 23, 2010</span></span></span> The film’s hope is conditional: humans may join a wider peaceful order, but only under threat of punishment if they carry their aggression into space.
+There were exceptions before Spielberg, and they matter because they show that hope was already present — just not dominant. *The Day the Earth Stood Still* (1951) gives Earth a humanoid visitor, Klaatu, who arrives with a warning against violence and nuclear recklessness. Britannica describes the film as a Cold War and atomic-age classic, while its story makes the alien less a conqueror than a stern messenger confronting humanity’s self-destructive habits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaThe Day the Earth Stood Still &#124; Sci-Fi, Cold War, ClassicSeptember 23, 2010 — 7 days ago — American science-fictio...</span><span class="citation-popover-meta">Published: September 23, 2010</span></span></span> The film’s hope is conditional: humans may join a wider peaceful order, but only under threat of punishment if they carry their aggression into space.
 
 That is the key pre-Spielberg contrast. Earlier hopeful aliens often arrived as judges, prophets or superior moral authorities. Spielberg’s aliens, especially in *Close Encounters* and *E.T.*, are different. They do not mainly lecture humanity from above. They invite response. They turn fear into attention, and attention into contact.
 
@@ -464,24 +464,24 @@ That is the key pre-Spielberg contrast. Earlier hopeful aliens often arrived as 
 
 *Close Encounters of the Third Kind* changed the emotional route of the UFO film. Its early scenes still use fear: blinding lights, power failures, missing time, terrified [witnesses]({{ 'witnesses/' | relative_url }}) and official [secrecy]({{ 'secrecy/' | relative_url }}). Yet the film keeps moving away from invasion logic. The UFOs are not softened by making them cute or familiar; they remain overwhelming, unknowable and sublime. What changes is the meaning of that awe. The encounter is not a prelude to conquest. It is a summons to communication.
 
-The film’s connection to UFO culture was unusually direct. The American Film Institute’s production history notes that Columbia bought the rights to J. Allen Hynek’s *The UFO Experience* and hired Hynek as technical adviser after a rights dispute over the phrase “close encounters”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> That mattered because Hynek’s taxonomy gave the film a quasi-investigative frame: witnesses, reports, classifications and a scientific search for patterns. Spielberg used those materials not to make a documentary, but to make belief feel emotionally serious.
+The film’s connection to UFO culture was unusually direct. The American Film Institute’s production history notes that Columbia bought the rights to J. Allen Hynek’s *The UFO Experience* and hired Hynek as technical adviser after a rights dispute over the phrase “close encounters”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> That mattered because Hynek’s taxonomy gave the film a quasi-investigative frame: witnesses, reports, classifications and a scientific search for patterns. Spielberg used those materials not to make a documentary, but to make belief feel emotionally serious.
 
-The decisive invention is the five-note conversation. At Devil’s Tower, humanity does not defeat the visitors, decode their weapons or expose their plan. It answers them. Light, sound and gesture become a shared language. The film’s climax imagines contact as a performance of mutual patience: humans trying to match alien signals, aliens responding, both sides building a bridge without ordinary speech. BFI’s appreciation of the film points to how easily the smiling alien and farewell might have become ridiculous, but argues that John Williams’s score and Spielberg’s control make the ending emotionally persuasive rather than silly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The decisive invention is the five-note conversation. At Devil’s Tower, humanity does not defeat the visitors, decode their weapons or expose their plan. It answers them. Light, sound and gesture become a shared language. The film’s climax imagines contact as a performance of mutual patience: humans trying to match alien signals, aliens responding, both sides building a bridge without ordinary speech. BFI’s appreciation of the film points to how easily the smiling alien and farewell might have become ridiculous, but argues that John Williams’s score and Spielberg’s control make the ending emotionally persuasive rather than silly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That tonal achievement is easy to underestimate. *Close Encounters* asks viewers to accept a huge emotional turn: the terrifying unknown becomes beautiful without becoming fully explained. Spielberg’s alien is not “safe” in a domestic sense; people are abducted, families are disrupted, Roy Neary’s obsession is damaging. But the film’s final movement insists that contact can enlarge human life. The alien other is not reduced to a monster, a target or a metaphor for enemy ideology.
 
-The American Film Institute later captured Spielberg’s broader achievement by saying he reimagined space aliens as “wondrous figures of hope” in *Close Encounters* and *E.T.* <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That phrase is useful because it does not mean the aliens are simply nice. “Wondrous” keeps the strangeness intact. Spielberg’s hope depends on mystery.
+The American Film Institute later captured Spielberg’s broader achievement by saying he reimagined space aliens as “wondrous figures of hope” in *Close Encounters* and *E.T.*<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That phrase is useful because it does not mean the aliens are simply nice. “Wondrous” keeps the strangeness intact. Spielberg’s hope depends on mystery.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bLMi1nqDQQ" title="Cinema Secrets You Missed in 1950s Alien Invasion Movies!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bLMi1nqDQQ" target="_blank" rel="noopener noreferrer">Cinema Secrets You Missed in 1950s Alien Invasion Movies!</a></p><p class="youtube-embed-meta">Channel: Golden Glamour Files &middot; Views: 147.5K &middot; Uploaded: November 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bLMi1nqDQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bLMi1nqDQQ">Open on YouTube</a></p></div></div></div>
 
 ## E.T. Brought Cosmic Hope Into the Home
 
-If *Close Encounters* made alien contact majestic, *E.T. the Extra-Terrestrial* made it intimate. The alien no longer arrives as a glowing force in the sky but as a frightened, stranded body in a child’s world. The film keeps the science-fiction premise, yet its emotional structure is closer to a story of friendship, loneliness and rescue. AFI’s Movie Club describes *E.T.* as a family classic about a diminutive alien hiding in the suburbs with children’s help. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+If *Close Encounters* made alien contact majestic, *E.T. the Extra-Terrestrial* made it intimate. The alien no longer arrives as a glowing force in the sky but as a frightened, stranded body in a child’s world. The film keeps the science-fiction premise, yet its emotional structure is closer to a story of friendship, loneliness and rescue. AFI’s Movie Club describes *E.T.* as a family classic about a diminutive alien hiding in the suburbs with children’s help.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The shift is crucial. In many invasion films, the alien tests the competence of institutions: armies, governments, laboratories. In *E.T.*, institutions are the danger. Adults in protective suits, medical equipment and state authority become frightening because they cannot see the alien as Elliott sees him: vulnerable, intelligent, homesick and capable of love. The hopeful alien story becomes a test of empathy from below, not command from above.
 
-The Library of Congress’s National Film Registry entry for *E.T.* records that the film was added in 1994, placing it among works preserved for their recognised cultural value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">reading the film registry e t the extra terrestrial 1982</span><span class="citation-popover-snippet">reading the film registry e t the extra terrestrial 1982</span></span></span> That institutional afterlife reflects how completely Spielberg’s alien image entered public memory: the glowing fingertip, the bicycle flight, the phrase “phone home”, the farewell. These are not images of invasion. They are images of connection across species.
+The Library of Congress’s National Film Registry entry for *E.T.* records that the film was added in 1994, placing it among works preserved for their recognised cultural value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">reading the film registry e t the extra terrestrial 1982</span><span class="citation-popover-snippet">reading the film registry e t the extra terrestrial 1982</span></span></span> That institutional afterlife reflects how completely Spielberg’s alien image entered public memory: the glowing fingertip, the bicycle flight, the phrase “phone home”, the farewell. These are not images of invasion. They are images of connection across species.
 
 *E.T.* also softened the visual code of the alien. The creature is wrinkled, odd and sometimes alarming, but his design allows vulnerability to dominate. His otherness invites care. That changed what later filmmakers could do with extraterrestrial bodies. A non-human figure did not need to become conventionally beautiful or human-like to earn sympathy; it needed behaviour, fragility and an emotional bond.
 
@@ -493,10 +493,10 @@ The Spielberg effect was not a simple before-and-after switch from bad aliens to
 
 Several later films show the pattern in different keys:
 
-* **The alien as traveller rather than invader.** *Starman* (1984) turns contact into a road movie and romance. Its alien comes to Earth after encountering humanity’s Voyager message, then learns human behaviour through a relationship rather than a war. The plot’s connection to the Voyager Golden Record matters: NASA describes the real 1977 record as a greeting to possible extraterrestrials, a public act of cosmic address that fits the same hopeful imagination of contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Golden Record Greetings</span><span class="citation-popover-snippet">Science Golden Record Greetings</span></span></span>
-* **The alien-like figure as misunderstood weapon.** *The Iron Giant* (1999) is set in 1957, directly inside the Cold War mood that earlier invasion films expressed. Yet its central extraterrestrial robot becomes a child’s friend, and the drama turns on whether fear will force a gentle being to become the weapon others assume it is. Indiana University’s film blog highlights the film’s concern with friendship, belonging and the violence that follows misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.iu.edu">[IU Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.iu.edu</span><span class="citation-popover-title">Blogs True Friendship in The Iron Giant – Establishing Shot</span><span class="citation-popover-snippet">Blogs True Friendship in The Iron Giant – Establishing Shot</span></span></span>
-* **The Spielberg mode as homage.** *Super 8* (2011) openly returns to late-1970s and early-1980s Spielberg territory: children, suburbia, secrecy, danger, wonder and alien mystery. Vanity Fair described it as an homage to Spielberg films, especially *E.T.* and *Close Encounters*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Its alien is more frightening than E.T., but the surrounding grammar — children seeing what adults mishandle, mystery hidden under government control, awe emerging from fear — belongs to the post-Spielberg tradition.
-* **Communication as the whole plot.** *Arrival* (2016) is not a Spielberg imitation, but it is easier to understand in a film culture where contact can be contemplative rather than militarised. Its drama centres on a linguist trying to communicate with extraterrestrials before human panic turns into violence. Film Comment described the film as offering thoughtful ideas about cinema, language and empathy, while Wired detailed the elaborate design of its alien writing system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmcomment.com/film-week-arrival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmcomment.com">[Film Comment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmcomment.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **The alien as traveller rather than invader.** *Starman* (1984) turns contact into a road movie and romance. Its alien comes to Earth after encountering humanity’s Voyager message, then learns human behaviour through a relationship rather than a war. The plot’s connection to the Voyager Golden Record matters: NASA describes the real 1977 record as a greeting to possible extraterrestrials, a public act of cosmic address that fits the same hopeful imagination of contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Golden Record Greetings</span><span class="citation-popover-snippet">Science Golden Record Greetings</span></span></span>
+* **The alien-like figure as misunderstood weapon.** *The Iron Giant* (1999) is set in 1957, directly inside the Cold War mood that earlier invasion films expressed. Yet its central extraterrestrial robot becomes a child’s friend, and the drama turns on whether fear will force a gentle being to become the weapon others assume it is. Indiana University’s film blog highlights the film’s concern with friendship, belonging and the violence that follows misunderstanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.iu.edu">[IU Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.iu.edu</span><span class="citation-popover-title">Blogs True Friendship in The Iron Giant – Establishing Shot</span><span class="citation-popover-snippet">Blogs True Friendship in The Iron Giant – Establishing Shot</span></span></span>
+* **The Spielberg mode as homage.** *Super 8* (2011) openly returns to late-1970s and early-1980s Spielberg territory: children, suburbia, secrecy, danger, wonder and alien mystery. Vanity Fair described it as an homage to Spielberg films, especially *E.T.* and *Close Encounters*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Its alien is more frightening than E.T., but the surrounding grammar — children seeing what adults mishandle, mystery hidden under government control, awe emerging from fear — belongs to the post-Spielberg tradition.
+* **Communication as the whole plot.** *Arrival* (2016) is not a Spielberg imitation, but it is easier to understand in a film culture where contact can be contemplative rather than militarised. Its drama centres on a linguist trying to communicate with extraterrestrials before human panic turns into violence. Film Comment described the film as offering thoughtful ideas about cinema, language and empathy, while Wired detailed the elaborate design of its alien writing system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmcomment.com/film-week-arrival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmcomment.com">[Film Comment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmcomment.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These examples do not prove direct one-to-one influence in every case. They show something broader: Spielberg helped make the hopeful encounter commercially and emotionally available. Later filmmakers could choose fear, tenderness, awe, romance, grief or language without having to treat the alien as only a target.
 
@@ -507,7 +507,7 @@ These examples do not prove direct one-to-one influence in every case. They show
 
 The hopeful alien tradition is sometimes misread as sentimental optimism. Spielberg’s strongest UFO films are more complicated than that. *Close Encounters* is full of broken trust, state secrecy, psychological distress and family collapse. *E.T.* includes abandonment, illness, surveillance and the threat of scientific captivity. Their hope is not that humans are naturally kind. It is that kindness has to be chosen against fear.
 
-That distinction explains why Spielberg could later make *War of the Worlds* without contradicting his earlier work. His 2005 film returns to alien invasion as terror, survival and social breakdown. Reports and production accounts around the film emphasise that Spielberg saw it as the opposite of *Close Encounters*: an alien picture with “no love and no attempt at communication”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span> The contrast clarifies the earlier films. Spielberg was not saying aliens must be benevolent. He was exploring what changes when contact is imagined as relationship rather than annihilation.
+That distinction explains why Spielberg could later make *War of the Worlds* without contradicting his earlier work. His 2005 film returns to alien invasion as terror, survival and social breakdown. Reports and production accounts around the film emphasise that Spielberg saw it as the opposite of *Close Encounters*: an alien picture with “no love and no attempt at communication”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span> The contrast clarifies the earlier films. Spielberg was not saying aliens must be benevolent. He was exploring what changes when contact is imagined as relationship rather than annihilation.
 
 The darker turn also shows that alien stories remain tied to their historical moment. The 1950s invasion cycle reflected nuclear and ideological fears; *War of the Worlds* resonated with post-9/11 vulnerability; *Arrival* belongs to an era anxious about global mistrust, language failure and escalation. Hopeful aliens are therefore not an escape from history. They are one way of arguing with history’s reflex towards suspicion.
 
@@ -526,194 +526,194 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Movie Aliens Became Wondrous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Movie Aliens Became Wondrous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Explains how Spielberg transformed UFO encounters into stories of communication and wonder.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how Spielberg transformed UFO encounters into stories of communication and wonder.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains Spielberg&#x27;s role in shifting popular perceptions of alien encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Spielberg&#x27;s role in shifting popular perceptions of alien encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
-        </h4>
-        <p class="fr-book-author">By William Kotzwinkle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
+</h4>
+<p class="fr-book-author">By William Kotzwinkle</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/36314-M.jpg" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/36314-M.jpg" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Subjects: Imaginary wars and battles, Juvenile fiction, Space warfare, Science Fiction &amp; Fantasy, Fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Subjects: Imaginary wars and battles, Juvenile fiction, Space warfare, Science Fiction &amp; Fantasy, Fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopeful-aliens-when-movie-aliens-became-wondrous-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -729,7 +729,7 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -749,7 +749,7 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -781,7 +781,7 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -833,7 +833,7 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -878,7 +878,7 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -919,220 +919,220 @@ The influence is visible in the kinds of alien stories that now feel normal. A f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: resolve.cambridge.org  
    Title: University Press & Assessment2  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE FICTION FILMS IN THE 1950sThe film industry embraced the &#x27;flying saucer&#x27; and, in parallel to the contin- ued reports of UFO sight...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE FICTION FILMS IN THE 1950sThe film industry embraced the &#x27;flying saucer&#x27; and, in parallel to the contin- ued reports of UFO sight...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction Films and Cold War AnxietyScience fiction films tended to merge the fear of a Communist takeover with the fear of annihil...</p></details>
+   Link:<a href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction Films and Cold War AnxietyScience fiction films tended to merge the fear of a Communist takeover with the fear of annihil...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaThe Day the Earth Stood Still | Sci-Fi, Cold War, ClassicSeptember 23, 2010 — 7 days ago — American science-fictio...</p></details>
+   Link:<a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaThe Day the Earth Stood Still | Sci-Fi, Cold War, ClassicSeptember 23, 2010 — 7 days ago — American science-fictio...</p></details>
    Published: September 23, 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bfi.org.uk  
-   Link: <a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
+   Link:<a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/laa/steven-spielberg/</a>  
+   Link:<a href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/laa/steven-spielberg/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: afi.com  
    Title: [e t](&#123;&#123; 'e-t/' | relative_url &#125;&#125;) the extra terrestrial afi movie club  
-   Link: <a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
+   Link:<a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Golden Record Greetings  
-   Link: <a href="https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/</a>  
+   Link:<a href="https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: voyager golden record overview  
-   Link: <a href="https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/</a>  
+   Link:<a href="https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet</a>  
+   Link:<a href="https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/1950s" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1950s</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1950s" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1950s</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Starman (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Starman_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starman_%28film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Starman_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starman_%28film%29</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Arrival (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Arrival_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arrival_%28film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Arrival_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arrival_%28film%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: E.T. the Extra Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Voyager Golden Record  
-   Link: <a href="https://en.wikipedia.org/wiki/Voyager_Golden_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voyager_Golden_Record</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Voyager_Golden_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voyager_Golden_Record</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: National Film Registry  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Film_Registry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Film_Registry</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Film_Registry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Film_Registry</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Iron Giant  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Iron_Giant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Iron_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Iron_Giant</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kids.britannica.com  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
+   Link:<a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/topics/1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/1950s</a>  
+   Link:<a href="https://www.history.com/topics/1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/1950s</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: time.com  
    Title: stranger things netflix references  
-   Link: <a href="https://time.com/4436008/stranger-things-netflix-references/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4436008/stranger-things-netflix-references/</a>  
+   Link:<a href="https://time.com/4436008/stranger-things-netflix-references/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4436008/stranger-things-netflix-references/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blogs.loc.gov  
    Title: reading the film registry e t the extra terrestrial 1982  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/</a>  
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-e-t-the-extra-terrestrial-1982/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blogs.iu.edu  
    Title: Blogs True Friendship in The Iron Giant – Establishing Shot  
-   Link: <a href="https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/</a>  
+   Link:<a href="https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.iu.edu/establishingshot/2023/05/29/true-friendship-in-the-iron-giant/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2011/06/is-super-8-a-cross-between-et-and-the-goonies-and-24-other-urgent-questions</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: filmcomment.com  
-   Link: <a href="https://www.filmcomment.com/film-week-arrival/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmcomment.com/film-week-arrival/</a>  
+   Link:<a href="https://www.filmcomment.com/film-week-arrival/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmcomment.com/film-week-arrival/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: culture.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://culture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://culture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://culture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://culture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: memorabilia-uk.co.uk  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.memorabilia-uk.co.uk/p/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.memorabilia-uk.co.uk/p/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.memorabilia-uk.co.uk/p/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.memorabilia-uk.co.uk/p/close-encounters-of-the-third-kind</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thebestpictureproject.wordpress.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://thebestpictureproject.wordpress.com/2012/02/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://thebestpictureproject.wordpress.com/2012/02/29/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://thebestpictureproject.wordpress.com/2012/02/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://thebestpictureproject.wordpress.com/2012/02/29/close-encounters-of-the-third-kind/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: filmsite.org  
    Title: National Film Registry  
-   Link: <a href="https://www.filmsite.org/filmreg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/filmreg.html</a>  
+   Link:<a href="https://www.filmsite.org/filmreg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/filmreg.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cacd.uscourts.gov  
-   Link: <a href="https://www.cacd.uscourts.gov/newsworthy/historical-decades/1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.cacd.uscourts.gov/newsworthy/historical-decades/1950s</a>  
+   Link:<a href="https://www.cacd.uscourts.gov/newsworthy/historical-decades/1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.cacd.uscourts.gov/newsworthy/historical-decades/1950s</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (film) | Film | Research StartersThe story follows Klaatu, a humanoid alien who arrives on Earth with...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (film) | Film | Research StartersThe story follows Klaatu, a humanoid alien who arrives on Earth with...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/</a>  
+   Link:<a href="https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Meeting the aliens  
-   Link: <a href="https://www.youtube.com/watch?v=zijo1NLwR5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zijo1NLwR5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: He leaves Earth with the aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zijo1NLwR5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zijo1NLwR5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: He leaves Earth with the aliens...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: inverse.com  
-   Link: <a href="https://www.inverse.com/entertainment/super-8-15-year-anniversary-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/super-8-15-year-anniversary-[disclosure-day</a>  
+   Link:<a href="https://www.inverse.com/entertainment/super-8-15-year-anniversary-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/super-8-15-year-anniversary-[disclosure-day</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction</a>  
+   Link:<a href="https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
+   Link:<a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1105478149/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1105478149/34</a>  
+   Link:<a href="https://d-nb.info/1105478149/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1105478149/34</a>  

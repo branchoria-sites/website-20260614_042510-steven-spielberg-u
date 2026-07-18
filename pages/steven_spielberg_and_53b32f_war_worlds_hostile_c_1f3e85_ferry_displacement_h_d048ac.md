@@ -264,11 +264,11 @@ image: /assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_fe
 
 ## Why Movement Becomes the Only Survival Strategy
 
-By the time Ray Ferrier and his children reach the ferry, the film has already demonstrated that neither technology nor authority can guarantee protection. Cars are abandoned, communications have failed and military responses appear ineffective. The practical objective is no longer defeating the invaders but reaching another location before destruction arrives. The ferry crossing embodies this logic. People are not travelling towards a destination with confidence; they are simply moving away from danger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+By the time Ray Ferrier and his children reach the ferry, the film has already demonstrated that neither technology nor authority can guarantee protection. Cars are abandoned, communications have failed and military responses appear ineffective. The practical objective is no longer defeating the invaders but reaching another location before destruction arrives. The ferry crossing embodies this logic. People are not travelling towards a destination with confidence; they are simply moving away from danger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-1-dark.svg" | relative_url }}" alt="Ferry Displacement H D048 Ac illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spielberg stages the embarkation like an evacuation rather than a journey. Soldiers direct exhausted civilians through crowded streets and onto the vessel. Observers have noted how the people resemble refugees being processed through a crisis zone rather than citizens participating in an organised escape. The imagery emphasises fatigue, dependence on authority and the collapse of normal civic life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
+Spielberg stages the embarkation like an evacuation rather than a journey. Soldiers direct exhausted civilians through crowded streets and onto the vessel. Observers have noted how the people resemble refugees being processed through a crisis zone rather than citizens participating in an organised escape. The imagery emphasises fatigue, dependence on authority and the collapse of normal civic life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
 
 This focus on movement is significant within Spielberg's wider UFO filmography. In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, travel towards the unknown is voluntary and hopeful. In *War of the Worlds*, movement is compulsory. Contact with alien intelligence generates migration, not curiosity. People travel because staying still has become impossible.
 
@@ -277,7 +277,7 @@ This focus on movement is significant within Spielberg's wider UFO filmography. 
 
 ## How Crowd Panic Destroys Ordinary Social Rules
 
-The ferry sequence is terrifying not simply because a tripod attacks, but because panic begins before the attack reaches full force. Spielberg carefully shows a crowd operating on fragile trust. Thousands of strangers are compressed into a limited space, all depending on the same route to survival. The audience understands that this arrangement can fail at any moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
+The ferry sequence is terrifying not simply because a tripod attacks, but because panic begins before the attack reaches full force. Spielberg carefully shows a crowd operating on fragile trust. Thousands of strangers are compressed into a limited space, all depending on the same route to survival. The audience understands that this arrangement can fail at any moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
 
 When the tripod appears, the ferry ceases to function as a public transport system and becomes a pressure chamber. Individuals stop acting as members of a community and begin acting as competitors for survival. The distinction matters because the horror emerges from human behaviour as much as alien violence.
 
@@ -300,9 +300,9 @@ The result is a form of disaster psychology rarely explored in conventional inva
 
 ## The Ferry as a Refugee Image
 
-One reason the sequence remains memorable is its resemblance to real-world displacement imagery. The film repeatedly places civilians in situations associated with wartime flight: carrying children, searching for transport, relying on improvised evacuation routes and moving alongside large groups of equally frightened strangers. Critics and commentators have often described the ferry passengers as resembling refugees rather than participants in a science-fiction adventure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
+One reason the sequence remains memorable is its resemblance to real-world displacement imagery. The film repeatedly places civilians in situations associated with wartime flight: carrying children, searching for transport, relying on improvised evacuation routes and moving alongside large groups of equally frightened strangers. Critics and commentators have often described the ferry passengers as resembling refugees rather than participants in a science-fiction adventure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
 
-This visual language aligns with broader interpretations of *War of the Worlds* as a post-9/11 film. Throughout the story, people are covered in dust, separated from family members and forced into spontaneous evacuations. The ferry crossing concentrates these themes into a single location. Instead of showing the destruction of famous landmarks, Spielberg shows what happens to the people trying to flee that destruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+This visual language aligns with broader interpretations of *War of the Worlds* as a post-9/11 film. Throughout the story, people are covered in dust, separated from family members and forced into spontaneous evacuations. The ferry crossing concentrates these themes into a single location. Instead of showing the destruction of famous landmarks, Spielberg shows what happens to the people trying to flee that destruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 The emphasis on civilians also distinguishes the sequence from many earlier versions of H. G. Wells's story. Traditional adaptations often devote considerable attention to military responses. Here, the perspective remains grounded among displaced families. The invasion is experienced from below rather than from command centres.
 
@@ -310,13 +310,13 @@ The emphasis on civilians also distinguishes the sequence from many earlier vers
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-2-dark.svg" | relative_url }}" alt="Ferry Displacement H D048 Ac illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Ferry Sequence Adds to the Film's Anti-War Mood
 
-The ferry attack supports one of the film's most striking themes: survival is more important than victory. Contemporary discussion of the film frequently identified it as unusually sceptical about heroic warfare. Civilians spend much of the story running, hiding and searching for family members rather than supporting triumphant military campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+The ferry attack supports one of the film's most striking themes: survival is more important than victory. Contemporary discussion of the film frequently identified it as unusually sceptical about heroic warfare. Civilians spend much of the story running, hiding and searching for family members rather than supporting triumphant military campaigns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 The ferry sequence advances this mood in three ways.
 
 First, it demonstrates that transportation infrastructure is vulnerable. The route intended to save people becomes another target. There is no secure rear area from which civilisation can regroup.
 
-Second, it highlights military impotence. Armed personnel are present, yet their presence provides little reassurance once the tripod arrives. Weapons and authority appear overwhelmed by events. The sequence therefore rejects the expectation that organised force will quickly restore order. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
+Second, it highlights military impotence. Armed personnel are present, yet their presence provides little reassurance once the tripod arrives. Weapons and authority appear overwhelmed by events. The sequence therefore rejects the expectation that organised force will quickly restore order.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-snippet">Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</span><span class="citation-popover-meta">Published: September 15, 2015</span></span></span>
 
 Third, it reinforces the film's emotional focus on civilians. The central drama concerns whether families can stay together amid chaos. The attack is frightening because it threatens separation, drowning and disappearance, not because it showcases combat tactics.
 
@@ -329,200 +329,200 @@ This approach echoes the film's broader anti-war atmosphere. Rather than present
 
 The ferry crossing endures because it compresses the film's central idea into a single event. Hostile contact does not produce a grand struggle between armies and aliens. It produces displacement. The sequence turns a familiar object—a commuter ferry—into a symbol of societal collapse, where transport networks become lifelines and crowds become refugee populations.
 
-Within Spielberg's body of UFO cinema, the scene marks one of his starkest reversals. Earlier encounters with the unknown often promised revelation or connection. Here, contact creates mass flight. The ferry's passengers are not moving towards discovery. They are fleeing from it, and that distinction captures the bleak emotional core of *War of the Worlds*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">steven spielberg and aliens tracing a decades long obsession 11995978</span><span class="citation-popover-snippet">His 2026 return with “Disclosure Day” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</span></span></span>
+Within Spielberg's body of UFO cinema, the scene marks one of his starkest reversals. Earlier encounters with the unknown often promised revelation or connection. Here, contact creates mass flight. The ferry's passengers are not moving towards discovery. They are fleeing from it, and that distinction captures the bleak emotional core of *War of the Worlds*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">steven spielberg and aliens tracing a decades long obsession 11995978</span><span class="citation-popover-snippet">His 2026 return with “Disclosure Day” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-3-dark.svg" | relative_url }}" alt="Ferry Displacement H D048 Ac illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_ferry_displacement_h_d048ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Ferry Displacement H D048 Ac. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Ferry Displacement H D048 Ac. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="ferry-displacement-h-d048-ac-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,74 +728,74 @@ Within Spielberg's body of UFO cinema, the scene marks one of his starkest rever
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
    Title: steven spielberg and aliens tracing a decades long obsession 11995978  
-   Link: <a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: birthmoviesdeath.com  
-   Link: <a href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</p></details>
+   Link:<a href="https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://birthmoviesdeath.com/2015/09/15/an-ode-to-the-tripod-attack-in-war-of-the-worlds.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ode To The Ferry Attack In WAR OF THE WORLDSSeptember 15, 2015 — 15 Sept 2015 — They look like cattle, or refugees, and every face in the...</p></details>
    Published: September 15, 2015  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZU7M5opGyV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZU7M5opGyV/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TeleTimeVision on Instagram: &quot;This masterclass sequence...This clip fits into the category of Existential Threat Horror, where fear is c...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZU7M5opGyV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZU7M5opGyV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TeleTimeVision on Instagram: &quot;This masterclass sequence...This clip fits into the category of Existential Threat Horror, where fear is c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3164534807204454/posts/3966094420381818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3164534807204454/posts/3966094420381818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds film locations in Newark, New JerseyI was blown away by this scene. I love how foreboding the music was and just how de...</p></details>
+   Link:<a href="https://www.facebook.com/groups/3164534807204454/posts/3966094420381818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3164534807204454/posts/3966094420381818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds film locations in Newark, New JerseyI was blown away by this scene. I love how foreboding the music was and just how de...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40emilysgarcia02/war-of-the-worlds-2005-features-one-of-the-most-terrifying-scenes-in-horror-cinema-a2dcf748d685" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40emilysgarcia02/war-of-the-worlds-2005-features-one-of-the-most-terrifying-scenes-in-horror-cinema-a2dcf748d685</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) Features One of the Most...What makes this scene so scary to me, is imagining myself in the shoes of these fict...</p></details>
+   Link:<a href="https://medium.com/%40emilysgarcia02/war-of-the-worlds-2005-features-one-of-the-most-terrifying-scenes-in-horror-cinema-a2dcf748d685" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40emilysgarcia02/war-of-the-worlds-2005-features-one-of-the-most-terrifying-scenes-in-horror-cinema-a2dcf748d685</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) Features One of the Most...What makes this scene so scary to me, is imagining myself in the shoes of these fict...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/a0w8a5/the_ferry_attack_in_war_of_the_worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/a0w8a5/the_ferry_attack_in_war_of_the_worlds/</a>  
+   Link:<a href="https://www.reddit.com/r/movies/comments/a0w8a5/the_ferry_attack_in_war_of_the_worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/a0w8a5/the_ferry_attack_in_war_of_the_worlds/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: War of the Worlds movie review: Steven Spielberg's alien  
-   Link: <a href="https://www.facebook.com/groups/443100966328926/posts/1986033492035658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/443100966328926/posts/1986033492035658/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>violence/mayhem. Considering however, that something like War of the Worlds involves prolonged scenes of aliens killing people and laying...</p></details>
+   Link:<a href="https://www.facebook.com/groups/443100966328926/posts/1986033492035658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/443100966328926/posts/1986033492035658/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>violence/mayhem. Considering however, that something like War of the Worlds involves prolonged scenes of aliens killing people and laying...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZdz0VthO1-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZdz0VthO1-/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ads through the crowd while an eerie sound echoes across the water—...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZdz0VthO1-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZdz0VthO1-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ads through the crowd while an eerie sound echoes across the water—...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Slate/posts/with-war-of-the-worlds-spielberg-finally-made-his-horror-take-on-alien-encounter/1369928201665664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Slate/posts/with-war-of-the-worlds-spielberg-finally-made-his-horror-take-on-alien-encounter/1369928201665664/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With War of the Worlds, Spielberg finally made his horror...And despite being a bloodless affair, the resulting scene is TERRIFYING...</p></details>
+   Link:<a href="https://www.facebook.com/Slate/posts/with-war-of-the-worlds-spielberg-finally-made-his-horror-take-on-alien-encounter/1369928201665664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Slate/posts/with-war-of-the-worlds-spielberg-finally-made-his-horror-take-on-alien-encounter/1369928201665664/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With War of the Worlds, Spielberg finally made his horror...And despite being a bloodless affair, the resulting scene is TERRIFYING...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: outlawvern.com  
    Title: summer movie flashback war of the worlds  
-   Link: <a href="https://outlawvern.com/2013/08/28/summer-movie-flashback-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://outlawvern.com/2013/08/28/summer-movie-flashback-war-of-the-worlds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summer Movie Flashback: War of the Worlds28 Aug 2013 — Spot on Vern, 100% agreed. I loved this movie and Spielberg was on form chops-wise...</p></details>
+   Link:<a href="https://outlawvern.com/2013/08/28/summer-movie-flashback-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://outlawvern.com/2013/08/28/summer-movie-flashback-war-of-the-worlds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summer Movie Flashback: War of the Worlds28 Aug 2013 — Spot on Vern, 100% agreed. I loved this movie and Spielberg was on form chops-wise...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: france welcome film immigration  
-   Link: <a href="https://www.theguardian.com/world/2009/mar/08/france-welcome-film-immigration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/mar/08/france-welcome-film-immigration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>violence from police and the risks run by some to help them. Welcome... In Lioret&#x27;s film, horrific scenes show migrants hidden in...Rea...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2009/mar/08/france-welcome-film-immigration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/mar/08/france-welcome-film-immigration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>violence from police and the risks run by some to help them. Welcome... In Lioret&#x27;s film, horrific scenes show migrants hidden in...Rea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scadrenderq.com  
    Title: movie revisit war of the worlds  
-   Link: <a href="https://scadrenderq.com/2022/11/movie-revisit-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://scadrenderq.com/2022/11/movie-revisit-war-of-the-worlds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Revisit: War of The Worlds1 Nov 2022 — The film follows Tom Cruise&#x27; character Ray as he tries to protect his son and daughter while...</p></details>
+   Link:<a href="https://scadrenderq.com/2022/11/movie-revisit-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://scadrenderq.com/2022/11/movie-revisit-war-of-the-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Revisit: War of The Worlds1 Nov 2022 — The film follows Tom Cruise&#x27; character Ray as he tries to protect his son and daughter while...</p></details>

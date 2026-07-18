@@ -442,7 +442,7 @@ image: /assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-ov
 
 ## Introduction
 
-Whistleblower plots have become one of the clearest signs that modern UFO storytelling has moved from wonder in the sky to conflict inside institutions. In Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, the drama came from witnesses, scientists and a secretive state managing contact. In *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, that older Spielberg pattern is updated for an age of UAP hearings, inspector-general complaints, classified programmes and public demands for transparency: the decisive figure is no longer just the witness who sees something, but the insider who says the public has been denied the evidence. Recent reporting describes *Disclosure Day* as centring on Daniel Kellner, a whistleblowing programmer, and Margaret Fairchild as they uncover and broadcast suppressed proof of alien contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
+Whistleblower plots have become one of the clearest signs that modern UFO storytelling has moved from wonder in the sky to conflict inside institutions. In Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, the drama came from witnesses, scientists and a secretive state managing contact. In *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, that older Spielberg pattern is updated for an age of UAP hearings, inspector-general complaints, classified programmes and public demands for transparency: the decisive figure is no longer just the witness who sees something, but the insider who says the public has been denied the evidence. Recent reporting describes *Disclosure Day* as centring on Daniel Kellner, a whistleblowing programmer, and Margaret Fairchild as they uncover and broadcast suppressed proof of alien contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-overview.webp" | relative_url }}" alt="Overview image for Whistleblowers" loading="eager" decoding="sync" fetchpriority="high">
@@ -452,9 +452,9 @@ That shift matters because it changes the engine of the UFO story. The question 
 
 The classic UFO scene is a sighting: a light, a craft, a radar return, a witness who cannot make others believe them. The modern whistleblower plot starts one step later. It assumes that the sighting has already entered a system — military, intelligence, aerospace, media, scientific or corporate — and that the real drama is whether the system buries, distorts or releases what it knows.
 
-That is why *Disclosure Day* fits the current moment so neatly. Its climax, according to contemporary coverage, involves historical government evidence of alien contact being broadcast through a live newscast, despite attempts by a government contractor to suppress it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span> This is not simply the visual spectacle of UFOs arriving. It is a disclosure mechanism: evidence moves from a controlled institutional space into a public media space, and the story asks whether truth can survive the organisations that manage it.
+That is why *Disclosure Day* fits the current moment so neatly. Its climax, according to contemporary coverage, involves historical government evidence of alien contact being broadcast through a live newscast, despite attempts by a government contractor to suppress it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span> This is not simply the visual spectacle of UFOs arriving. It is a disclosure mechanism: evidence moves from a controlled institutional space into a public media space, and the story asks whether truth can survive the organisations that manage it.
 
-The real-world UAP debate has supplied this narrative vocabulary. David Grusch’s July 2023 written opening statement to the House Oversight Committee framed his claims explicitly as a whistleblower matter. He said he had filed an urgent concern with the Intelligence Community Inspector General after hearing from current and former officials that UAP information was being kept “above Congressional oversight”, and he claimed he had been told of a multi-decade crash-retrieval and reverse-engineering programme to which he was denied access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> Whether one accepts those claims or not, their structure is narratively powerful: a credentialled insider, secret programmes, blocked access, retaliation, and a demand for elected oversight.
+The real-world UAP debate has supplied this narrative vocabulary. David Grusch’s July 2023 written opening statement to the House Oversight Committee framed his claims explicitly as a whistleblower matter. He said he had filed an urgent concern with the Intelligence Community Inspector General after hearing from current and former officials that UAP information was being kept “above Congressional oversight”, and he claimed he had been told of a multi-decade crash-retrieval and reverse-engineering programme to which he was denied access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> Whether one accepts those claims or not, their structure is narratively powerful: a credentialled insider, secret programmes, blocked access, retaliation, and a demand for elected oversight.
 
 That structure gives UFO fiction a ready-made thriller architecture. The story can unfold through leaked files, missing footage, compartmented access, hostile employers, classified briefings, suspicious deaths, media hesitation, congressional hearings and public broadcast. The alien may remain mysterious, but the human machinery around the alien becomes concrete and legible.
 
@@ -464,7 +464,7 @@ That structure gives UFO fiction a ready-made thriller architecture. The story c
 
 Spielberg’s earlier UFO imagination gave ordinary [witnesses]({{ 'witnesses/' | relative_url }}) unusual dignity. *Close Encounters* cared about the person whose life is changed by an encounter, even when no one around them believes it. Modern UFO storytelling still needs witnesses, but it increasingly gives narrative authority to insiders because the public debate has become more institutional.
 
-Since 2022, UAP has been handled through formal reporting structures, annual reports and named government offices. ODNI’s 2023 annual UAP report was submitted to Congress under statutory requirements, while AARO said it had received hundreds of additional reports and was continuing to assess them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3733 2023 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">ODNI2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitted to Congress, and the unclas...</span></span></span> NASA’s independent study team also argued that the subject suffers from poor data, stigma and the lack of a standardised civilian reporting system, recommending transparent reporting and better data collection rather than sensational leaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Since 2022, UAP has been handled through formal reporting structures, annual reports and named government offices. ODNI’s 2023 annual UAP report was submitted to Congress under statutory requirements, while AARO said it had received hundreds of additional reports and was continuing to assess them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3733 2023 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">ODNI2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitted to Congress, and the unclas...</span></span></span> NASA’s independent study team also argued that the subject suffers from poor data, stigma and the lack of a standardised civilian reporting system, recommending transparent reporting and better data collection rather than sensational leaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 This institutionalisation changes the fiction. A lone witness can tell us that something happened. A whistleblower can claim that something happened, was recorded, classified, mislabelled, hidden, contracted out or withheld from democratic oversight. That makes the story less like a haunting and more like a public-accountability drama.
 
@@ -477,11 +477,11 @@ Whistleblower plots also solve a credibility problem for contemporary audiences.
 
 Whistleblower UFO stories now often work as pressure campaigns inside the plot. The hero does not merely discover evidence; they try to force a public process. The goal becomes a hearing, a leak, a broadcast, a declassification review, a protected testimony channel or a legal demand that records be released.
 
-That is not invented from nothing. In July 2023, Senators Chuck Schumer and Mike Rounds introduced UAP disclosure legislation modelled on the JFK assassination records system, proposing a UAP records collection and a “presumption of disclosure” for government records related to unidentified anomalous phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span> The draft amendment also referred to soliciting UAP witness and whistleblower testimony and affording protections where beneficial to the review board’s work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span> Even where such proposals are narrowed or contested, they help move UFO culture into the language of records, process and public entitlement.
+That is not invented from nothing. In July 2023, Senators Chuck Schumer and Mike Rounds introduced UAP disclosure legislation modelled on the JFK assassination records system, proposing a UAP records collection and a “presumption of disclosure” for government records related to unidentified anomalous phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span> The draft amendment also referred to soliciting UAP witness and whistleblower testimony and affording protections where beneficial to the review board’s work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span> Even where such proposals are narrowed or contested, they help move UFO culture into the language of records, process and public entitlement.
 
-Congressional hearings reinforce that shift. The House Oversight Committee’s 2024 UAP hearing, titled “Unidentified Anomalous Phenomena: Exposing the Truth”, featured witnesses including retired Rear Admiral Tim Gallaudet and others arguing for greater transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> A 2025 House Oversight release similarly framed UAP as a transparency and whistleblower-protection issue, saying members examined ways Congress could better protect people who come forward with UAP information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span>
+Congressional hearings reinforce that shift. The House Oversight Committee’s 2024 UAP hearing, titled “Unidentified Anomalous Phenomena: Exposing the Truth”, featured witnesses including retired Rear Admiral Tim Gallaudet and others arguing for greater transparency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> A 2025 House Oversight release similarly framed UAP as a transparency and whistleblower-protection issue, saying members examined ways Congress could better protect people who come forward with UAP information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span>
 
-For storytellers, these details matter because they make “disclosure” feel procedural rather than merely mystical. The climactic event is not always a mothership hovering over a city. It may be a protected witness reaching the microphone, a classified file entering the record, or a live broadcast that makes denial impossible. *Disclosure Day* appears to literalise that pressure-campaign structure by staging revelation through a news studio, turning media infrastructure into the gateway between hidden knowledge and public reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">One key sequence involves a surreal memory recovery scene where young Margaret is lured through a snowy forest by oddly artificial-lookin...</span></span></span>
+For storytellers, these details matter because they make “disclosure” feel procedural rather than merely mystical. The climactic event is not always a mothership hovering over a city. It may be a protected witness reaching the microphone, a classified file entering the record, or a live broadcast that makes denial impossible. *Disclosure Day* appears to literalise that pressure-campaign structure by staging revelation through a news studio, turning media infrastructure into the gateway between hidden knowledge and public reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">One key sequence involves a surreal memory recovery scene where young Margaret is lured through a snowy forest by oddly artificial-lookin...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-2-dark.svg" | relative_url }}" alt="Whistleblowers illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -489,9 +489,9 @@ For storytellers, these details matter because they make “disclosure” feel p
 
 Older UFO stories often located secrecy in government bases, restricted zones and uniformed authorities. Modern whistleblower plots frequently add another layer: the private contractor, the compartmented programme, the outsourced archive, or the corporate actor that can hide inside national-security secrecy while remaining harder for the public to see.
 
-That is why the contractor element in *Disclosure Day* is significant. Coverage describes Wardex, a government contractor, as trying to suppress the protagonists’ disclosure effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Open source on ew.com.</span></span></span> This reflects a contemporary suspicion that secrecy may not sit in a single military hangar but in networks of public power and private capability: data firms, aerospace companies, defence contractors, classified access programmes and media-management systems.
+That is why the contractor element in *Disclosure Day* is significant. Coverage describes Wardex, a government contractor, as trying to suppress the protagonists’ disclosure effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Open source on ew.com.</span></span></span> This reflects a contemporary suspicion that secrecy may not sit in a single military hangar but in networks of public power and private capability: data firms, aerospace companies, defence contractors, classified access programmes and media-management systems.
 
-Real UAP debates have repeatedly touched this point. Grusch’s 2023 statement claimed the issue involved programmes beyond normal congressional oversight, while later public testimony and commentary have focused on special access programmes, over-classification and the possibility that information could be shielded through contractor relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> AARO’s 2024 historical report directly addressed such claims and said it had found no evidence for the U.S. government reverse-engineering narrative provided by interviewees, while noting that some claims were still under evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+Real UAP debates have repeatedly touched this point. Grusch’s 2023 statement claimed the issue involved programmes beyond normal congressional oversight, while later public testimony and commentary have focused on special access programmes, over-classification and the possibility that information could be shielded through contractor relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span> AARO’s 2024 historical report directly addressed such claims and said it had found no evidence for the U.S. government reverse-engineering narrative provided by interviewees, while noting that some claims were still under evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 That official rebuttal is crucial to the modern plot, not an obstacle to it. Whistleblower stories thrive on the clash between assertion and denial. The audience is asked to weigh credentials, institutional incentives, missing evidence, national-security limits and the possibility of misidentification or myth-making. The result is a story engine built not just on aliens, but on competing systems of trust.
 
@@ -502,7 +502,7 @@ That official rebuttal is crucial to the modern plot, not an obstacle to it. Whi
 
 Whistleblower plots promise three pleasures at once: revelation, accountability and moral clarity. The revelation is the obvious one: the hidden thing will be shown. The accountability is more political: someone powerful will have to answer for withholding it. The moral clarity is emotional: a vulnerable insider risks reputation, career or safety so that ordinary people can know the truth.
 
-That promise is especially potent in UFO storytelling because the subject sits between scientific uncertainty and cultural longing. NASA’s 2023 report stressed that UAP analysis is limited by data quality and stigma, and that rigorous, transparent collection is more valuable than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> AARO’s public FAQ says the Department of Defense has not found evidence of extraterrestrial technology, while its historical report says many claims about reverse-engineering programmes have not been supported by empirical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...The report covers unidentified anomalous phenomena (UAP) reports. The All-domain An...</span></span></span> Those official positions do not end the story for believers, but they do define the tension that modern narratives exploit.
+That promise is especially potent in UFO storytelling because the subject sits between scientific uncertainty and cultural longing. NASA’s 2023 report stressed that UAP analysis is limited by data quality and stigma, and that rigorous, transparent collection is more valuable than speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> AARO’s public FAQ says the Department of Defense has not found evidence of extraterrestrial technology, while its historical report says many claims about reverse-engineering programmes have not been supported by empirical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...The report covers unidentified anomalous phenomena (UAP) reports. The All-domain An...</span></span></span> Those official positions do not end the story for believers, but they do define the tension that modern narratives exploit.
 
 The whistleblower plot also lets UFO stories keep mystery alive without making every institution cartoonishly evil. A strong version of the device can show different kinds of secrecy: some protective, some bureaucratic, some corrupt, some merely embarrassed, and some caused by bad data. That is more interesting than a simple cover-up because it asks how democracies should handle extraordinary claims when evidence is classified, incomplete or technically ambiguous.
 
@@ -512,11 +512,11 @@ For audiences, the appeal is not only “the aliens are real”. It is the fanta
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility tension is the point
 
-The strongest modern UFO whistleblower plots do not work because every claim is proven. They work because proof, access and trust are unstable. That instability mirrors the public record. Grusch’s claims received congressional attention and press scrutiny, but mainstream reporting has also emphasised the lack of publicly available physical evidence and the difficulty major outlets faced in verifying the most dramatic allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s historical review rejected the core reverse-engineering narrative on the evidence available to it, while UAP advocates and some lawmakers continue to argue that secrecy and compartmentalisation prevent adequate public assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The strongest modern UFO whistleblower plots do not work because every claim is proven. They work because proof, access and trust are unstable. That instability mirrors the public record. Grusch’s claims received congressional attention and press scrutiny, but mainstream reporting has also emphasised the lack of publicly available physical evidence and the difficulty major outlets faced in verifying the most dramatic allegations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s historical review rejected the core reverse-engineering narrative on the evidence available to it, while UAP advocates and some lawmakers continue to argue that secrecy and compartmentalisation prevent adequate public assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 This tension gives modern UFO storytelling a more adult form of suspense. The plot is not simply waiting for the saucer door to open. It is waiting to see which institution, witness, file, image, scientist, journalist or official can still be trusted. That is a governance drama: truth depends on channels, protections, records, oversight and public legitimacy.
 
-*Disclosure Day* appears to update Spielberg’s UFO tradition precisely by moving the point of wonder through those channels. The film’s reported final emphasis on listening and connection keeps the familiar Spielberg hopefulness, but the path to that hope now runs through whistleblowing, evidence suppression and public disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span> The aliens may still represent mystery; the whistleblower represents the modern fear that the mystery has already been seen, filed and withheld.
+*Disclosure Day* appears to update Spielberg’s UFO tradition precisely by moving the point of wonder through those channels. The film’s reported final emphasis on listening and connection keeps the familiar Spielberg hopefulness, but the path to that hope now runs through whistleblowing, evidence suppression and public disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span> The aliens may still represent mystery; the whistleblower represents the modern fear that the mystery has already been seen, filed and withheld.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kwsWAQ9sJZE" title="Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer">Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)</a></p><p class="youtube-embed-meta">Channel: Yes Theory &middot; Views: 1.5M &middot; Uploaded: October 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kwsWAQ9sJZE">Open on YouTube</a></p></div></div></div>
@@ -528,178 +528,178 @@ Modern UFO storytelling does not strictly need whistleblowers because the phenom
 That makes the whistleblower a bridge between Spielberg’s old and new UFO worlds. The witness still feels awe. The scientist still wants understanding. The government still manages uncertainty. But the insider now carries the question that contemporary audiences recognise most sharply: not only what is out there, but what has already been known in here, and who decided the public could not be told.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Stories Now Need Whistleblowers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Stories Now Need Whistleblowers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Directly fits whistleblower, Pentagon, disclosure and suppressed-evidence themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly fits whistleblower, Pentagon, disclosure and suppressed-evidence themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains the official and institutional history behind modern UFO disclosure claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the official and institutional history behind modern UFO disclosure claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Represents the insider-revelation tradition that modern whistleblower plots draw from.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the insider-revelation tradition that modern whistleblower plots draw from.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Connects modern disclosure plots back to Spielberg&#x27;s classic secrecy-and-contact template.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects modern disclosure plots back to Spielberg&#x27;s classic secrecy-and-contact template.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="whistleblowers-why-ufo-stories-now-need-whistleblowers-steven-spielberg-and-ufos-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,207 +905,207 @@ That makes the whistleblower a bridge between Spielberg’s old and new UFO worl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: people.com  
-   Link: <a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
+   Link:<a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Opening Statement  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for...</p></details>
    Published: July 23, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...The report covers unidentified anomalous phenomena (UAP) reports. The All-domain An...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...The report covers unidentified anomalous phenomena (UAP) reports. The All-domain An...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</p></details>
    Published: September 13, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — Whistleblowers · The...</p></details>
    Published: July 14, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadershipuap_amendment.pdf  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oversight.house.gov  
    Title: Updated Testimony Gallaudet  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vulture.com  
    Title: lets talk about the ending of disclosure day  
-   Link: <a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One key sequence involves a surreal memory recovery scene where young Margaret is lured through a snowy forest by oddly artificial-lookin...</p></details>
+   Link:<a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One key sequence involves a surreal memory recovery scene where young Margaret is lured through a snowy forest by oddly artificial-lookin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832</a>  
+   Link:<a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oversight.house.gov  
    Title: Borland Written Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://fr.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Disclosure_Day</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://it.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Disclosure_Day</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/story/david-koepp-steven-spielberg-disclosure-day-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/story/david-koepp-steven-spielberg-disclosure-day-interview</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/story/david-koepp-steven-spielberg-disclosure-day-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/story/david-koepp-steven-spielberg-disclosure-day-interview</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: letterboxd.com  
    Title: disclosure day  
-   Link: <a href="https://letterboxd.com/film/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/disclosure-day/</a>  
+   Link:<a href="https://letterboxd.com/film/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/disclosure-day/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mymovies.it  
    Title: Disclosure Day  
-   Link: <a href="https://www.mymovies.it/film/2026/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.mymovies.it/film/2026/disclosure-day/</a>  
+   Link:<a href="https://www.mymovies.it/film/2026/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.mymovies.it/film/2026/disclosure-day/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitted to Congress, and the unclas...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitted to Congress, and the unclas...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: New UAP Documentary "Accidental Truth: Next" Delves Into Disclosure  
-   Link: <a href="https://www.youtube.com/watch?v=jLiBFVccOQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jLiBFVccOQA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video exploration highlights the real-world intelligence whistleblowers and documentarians whose actions inspired the modern narrati...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jLiBFVccOQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jLiBFVccOQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video exploration highlights the real-world intelligence whistleblowers and documentarians whose actions inspired the modern narrati...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_Vg0N2MMZOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Vg0N2MMZOg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_Vg0N2MMZOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Vg0N2MMZOg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;This gives me hope&#x27;: UFO filmmaker speaks on whistleblower&#x27;s account of sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;This gives me hope&#x27;: UFO filmmaker speaks on whistleblower&#x27;s account of sightings...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wM8NUfBXzYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wM8NUfBXzYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UAP Documentary &quot;Accidental Truth: Next&quot; Delves Into Disclosure - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wM8NUfBXzYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wM8NUfBXzYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UAP Documentary &quot;Accidental Truth: Next&quot; Delves Into Disclosure - We Are Not Alone...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: New documentary follows journalist Jeremy Corbell's hunt for the truth on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=aDufXdIsYNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDufXdIsYNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing A Massive Cover Up of Aliens by the Government | Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aDufXdIsYNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDufXdIsYNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing A Massive Cover Up of Aliens by the Government | Close Encounters of the Third Kind...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: inverse.com  
-   Link: <a href="https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg</a>  
+   Link:<a href="https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: sfchronicle.com  
-   Link: <a href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php</a>  
+   Link:<a href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox8news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1543000370756384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox8news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1543000370756384/</a>  
+   Link:<a href="https://www.facebook.com/fox8news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1543000370756384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox8news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1543000370756384/</a>  

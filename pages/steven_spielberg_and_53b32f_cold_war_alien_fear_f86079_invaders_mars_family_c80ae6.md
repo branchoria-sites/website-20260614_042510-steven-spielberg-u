@@ -266,21 +266,21 @@ image: /assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_inv
 
 ### The child witness against adult disbelief
 
-The film is structured almost entirely around the perspective of young David MacLean. He sees a flying saucer land behind his house and watches his father go to investigate. The next morning, his father appears physically intact but emotionally transformed: cold, hostile and secretive. David immediately senses that something is wrong, yet every adult institution he turns to dismisses or ignores his warnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+The film is structured almost entirely around the perspective of young David MacLean. He sees a flying saucer land behind his house and watches his father go to investigate. The next morning, his father appears physically intact but emotionally transformed: cold, hostile and secretive. David immediately senses that something is wrong, yet every adult institution he turns to dismisses or ignores his warnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-1-dark.svg" | relative_url }}" alt="Invaders Mars Family C80 Ae 6 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This narrative choice was crucial. Many Cold War stories focused on military confrontation or espionage, but *Invaders from Mars* makes childhood perception the centre of the drama. David is not merely threatened by aliens; he is trapped in a world where adults possess power but no longer deserve trust. As more authority figures fall under alien control, police officers, neighbours and community leaders become extensions of the same hidden force. The boy's greatest challenge is convincing anyone that reality has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+This narrative choice was crucial. Many Cold War stories focused on military confrontation or espionage, but *Invaders from Mars* makes childhood perception the centre of the drama. David is not merely threatened by aliens; he is trapped in a world where adults possess power but no longer deserve trust. As more authority figures fall under alien control, police officers, neighbours and community leaders become extensions of the same hidden force. The boy's greatest challenge is convincing anyone that reality has changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
-The resulting fear is psychological as much as physical. The audience shares David's uncertainty. Every encounter raises the question: which adults remain themselves, and which have already been taken over? That mechanism anticipates later invasion narratives built around suspicion and infiltration, but here it is filtered through the vulnerability of a child. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enculturation.net">[enculturation.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enculturation.net</span><span class="citation-popover-title">Invasion of the Body Snatchers and Invaders from Mars</span><span class="citation-popover-snippet">Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</span></span></span>
+The resulting fear is psychological as much as physical. The audience shares David's uncertainty. Every encounter raises the question: which adults remain themselves, and which have already been taken over? That mechanism anticipates later invasion narratives built around suspicion and infiltration, but here it is filtered through the vulnerability of a child.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enculturation.net">[enculturation.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enculturation.net</span><span class="citation-popover-title">Invasion of the Body Snatchers and Invaders from Mars</span><span class="citation-popover-snippet">Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-3-dark.svg" | relative_url }}" alt="Invaders Mars Family C80 Ae 6 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Changed Parents and Marks on the Body
 
-One of the film's most memorable images is the small mark on the back of the neck carried by those who have fallen under alien control. David notices it first on his father and later on others. The mark functions as visible evidence that something hidden has entered the body and altered the person's identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdhicks.com">[Films etc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdhicks.com</span><span class="citation-popover-title">invaders from mars dreams fears</span><span class="citation-popover-snippet">David&#x27;s parents (Lief Erickson &amp; Hillary Brooke) are...</span></span></span>
+One of the film's most memorable images is the small mark on the back of the neck carried by those who have fallen under alien control. David notices it first on his father and later on others. The mark functions as visible evidence that something hidden has entered the body and altered the person's identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdhicks.com">[Films etc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdhicks.com</span><span class="citation-popover-title">invaders from mars dreams fears</span><span class="citation-popover-snippet">David&#x27;s parents (Lief Erickson &amp; Hillary Brooke) are...</span></span></span>
 
-The idea is simple but powerful. The controlled adults look almost exactly the same as before. They still occupy their homes, wear the same clothes and speak in familiar voices. Yet their personalities have been replaced by obedience to an unseen authority. The terror comes from the gap between appearance and reality. A parent can look like a parent while no longer behaving like one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+The idea is simple but powerful. The controlled adults look almost exactly the same as before. They still occupy their homes, wear the same clothes and speak in familiar voices. Yet their personalities have been replaced by obedience to an unseen authority. The terror comes from the gap between appearance and reality. A parent can look like a parent while no longer behaving like one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
 The film repeatedly returns to this contrast:
 
@@ -294,7 +294,7 @@ The film repeatedly returns to this contrast:
 
 </div>
 
-These details helped establish a recurring science-fiction theme of the 1950s: the fear that identity itself could be infiltrated. Scholars and critics have frequently connected the film's body-control imagery to wider Cold War anxieties about manipulation, conformity and loss of individual autonomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">invasion of the body snatchers 9781838713386 9781844572786</span><span class="citation-popover-snippet">Invasion of the Body Snatchers 9781838713386...Hendershot, Cyndy, &#x27;The Invaded Body: Paranoia and Radiation Anxiety in Invaders from Ma...</span></span></span>
+These details helped establish a recurring science-fiction theme of the 1950s: the fear that identity itself could be infiltrated. Scholars and critics have frequently connected the film's body-control imagery to wider Cold War anxieties about manipulation, conformity and loss of individual autonomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">invasion of the body snatchers 9781838713386 9781844572786</span><span class="citation-popover-snippet">Invasion of the Body Snatchers 9781838713386...Hendershot, Cyndy, &#x27;The Invaded Body: Paranoia and Radiation Anxiety in Invaders from Ma...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3pT0IEVr4_c" title="Sci-Fi Classic Review: INVADERS FROM MARS (1953)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3pT0IEVr4_c" target="_blank" rel="noopener noreferrer">Sci-Fi Classic Review: INVADERS FROM MARS (1953)</a></p><p class="youtube-embed-meta">Channel: The Unapologetic Geek &middot; Views: 7.3K &middot; Uploaded: August 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3pT0IEVr4_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3pT0IEVr4_c">Open on YouTube</a></p></div></div></div>
@@ -303,11 +303,11 @@ These details helped establish a recurring science-fiction theme of the 1950s: t
 
 ### McCarthy-era fear inside the home
 
-The film emerged during a period marked by anti-communist investigations, loyalty tests and public concern about hidden subversion. Whether audiences interpreted the aliens as communists, authoritarian forces or a broader symbol of social anxiety, the story drew power from a common Cold War fear: the enemy might already be among us. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd What makes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Invaders from Mars (1953), on the other hand, was an alien-invasion film that was much more...Read more...</span></span></span>*Invaders from Mars* distinctive is that it relocates that fear from government offices and military installations into kitchens, bedrooms and suburban streets. The invasion begins not with national collapse but with the corruption of personal trust. The family becomes the first battleground. David's father is not merely another victim; he is the person whose protection should be unquestioned. Once that bond breaks, every other social relationship becomes unstable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+The film emerged during a period marked by anti-communist investigations, loyalty tests and public concern about hidden subversion. Whether audiences interpreted the aliens as communists, authoritarian forces or a broader symbol of social anxiety, the story drew power from a common Cold War fear: the enemy might already be among us.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd What makes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Invaders from Mars (1953), on the other hand, was an alien-invasion film that was much more...Read more...</span></span></span>*Invaders from Mars* distinctive is that it relocates that fear from government offices and military installations into kitchens, bedrooms and suburban streets. The invasion begins not with national collapse but with the corruption of personal trust. The family becomes the first battleground. David's father is not merely another victim; he is the person whose protection should be unquestioned. Once that bond breaks, every other social relationship becomes unstable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
-Critics have often noted that 1950s invasion films relied on uncertainty about who had been transformed and who remained human. In *Invaders from Mars*, that uncertainty is intensified because the transformed figures are parents and neighbours rather than distant strangers. The threat is domestic, intimate and immediate. The white-picket-fence setting is not a refuge from danger but the place where danger first appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enculturation.net">[enculturation.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enculturation.net</span><span class="citation-popover-title">Invasion of the Body Snatchers and Invaders from Mars</span><span class="citation-popover-snippet">Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</span></span></span>
+Critics have often noted that 1950s invasion films relied on uncertainty about who had been transformed and who remained human. In *Invaders from Mars*, that uncertainty is intensified because the transformed figures are parents and neighbours rather than distant strangers. The threat is domestic, intimate and immediate. The white-picket-fence setting is not a refuge from danger but the place where danger first appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enculturation.net">[enculturation.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enculturation.net</span><span class="citation-popover-title">Invasion of the Body Snatchers and Invaders from Mars</span><span class="citation-popover-snippet">Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</span></span></span>
 
-The film's dreamlike visual style reinforces this feeling. Elongated sets, strange perspectives and surreal environments make familiar locations seem subtly wrong, mirroring David's experience of recognising faces while no longer recognising the people behind them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+The film's dreamlike visual style reinforces this feeling. Elongated sets, strange perspectives and surreal environments make familiar locations seem subtly wrong, mirroring David's experience of recognising faces while no longer recognising the people behind them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZxDDuhkSsRc" title="Case Study: Restoring William Cameron Menzies’s &#x27;Invaders from Mars&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZxDDuhkSsRc" target="_blank" rel="noopener noreferrer">Case Study: Restoring William Cameron Menzies’s &#x27;Invaders from Mars&#x27;</a></p><p class="youtube-embed-meta">Channel: CinetecaBologna &middot; Views: 2.2K &middot; Uploaded: July 2022</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZxDDuhkSsRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZxDDuhkSsRc">Open on YouTube</a></p></div></div></div>
@@ -316,203 +316,203 @@ The film's dreamlike visual style reinforces this feeling. Elongated sets, stran
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-2-dark.svg" | relative_url }}" alt="Invaders Mars Family C80 Ae 6 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_invaders_mars_family_c80ae6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Fear Mattered to Later UFO Cinema
 
-For viewers who grew up with the film, including Steven Spielberg, *Invaders from Mars* demonstrated how UFO stories could operate through emotion rather than spectacle alone. Its aliens are frightening not primarily because of their technology but because they destroy trust inside ordinary relationships. Spielberg would later move UFO narratives toward curiosity, communication and wonder, yet the memory of childhood encounters with the unknown remained central to his work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
+For viewers who grew up with the film, including Steven Spielberg, *Invaders from Mars* demonstrated how UFO stories could operate through emotion rather than spectacle alone. Its aliens are frightening not primarily because of their technology but because they destroy trust inside ordinary relationships. Spielberg would later move UFO narratives toward curiosity, communication and wonder, yet the memory of childhood encounters with the unknown remained central to his work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span>
 
-Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from Mars* is therefore a key example of Cold War fear moving indoors. The film transformed political anxieties about infiltration into a deeply personal question: what happens when a child realises that the person who came home is no longer really Dad? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from Mars* is therefore a key example of Cold War fear moving indoors. The film transformed political anxieties about infiltration into a deeply personal question: what happens when a child realises that the person who came home is no longer really Dad?<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Invaders from Mars (1953 film</span><span class="citation-popover-snippet">Invaders from Mars (1953 film</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/izWbgAXSxTc" title="Invaders from Mars (1953) - 20th Century Gems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=izWbgAXSxTc" target="_blank" rel="noopener noreferrer">Invaders from Mars (1953) - 20th Century Gems</a></p><p class="youtube-embed-meta">Channel: APLattanzi &middot; Views: 10.1K &middot; Uploaded: March 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=izWbgAXSxTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=izWbgAXSxTc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Invaders Mars Family C80 Ae 6. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Invaders Mars Family C80 Ae 6. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="invaders-mars-family-c80-ae-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,123 +718,123 @@ Within the wider history of pre-Spielberg UFO and alien cinema, *Invaders from M
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Invaders from Mars (1953 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invaders_from_Mars_%281953_film%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bfi.org.uk  
-   Link: <a href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</p></details>
+   Link:<a href="https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/invaders-from-mars-alien-invasion-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pulsing brain, twitching tentacles: how Invaders from Mars...11 May 2026 — Pulsing brain, twitching tentacles: how Invaders from Mars...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enculturation.net  
    Title: Invasion of the Body Snatchers and Invaders from Mars  
-   Link: <a href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow">https://enculturation.net/1_1/hardin.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</p></details>
+   Link:<a href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow">https://enculturation.net/1_1/hardin.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... Admittedly, Invaders from Mars was released in 1953...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dokumen.pub  
    Title: invasion of the body snatchers 9781838713386 9781844572786  
-   Link: <a href="https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body Snatchers 9781838713386...Hendershot, Cyndy, &#x27;The Invaded Body: Paranoia and Radiation Anxiety in Invaders from Ma...</p></details>
+   Link:<a href="https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/invasion-of-the-body-snatchers-9781838713386-9781844572786.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body Snatchers 9781838713386...Hendershot, Cyndy, &#x27;The Invaded Body: Paranoia and Radiation Anxiety in Invaders from Ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953), on the other hand, was an alien-invasion film that was much more...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402105975/Historical-Dictionary-of-Science-Fiction-Cinema-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953), on the other hand, was an alien-invasion film that was much more...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dokumen.pub  
    Title: 100 Science Fiction Films: BFI Screen Guides  
-   Link: <a href="https://dokumen.pub/100-science-fiction-films-bfi-screen-guides-9781838710477-9781349926046.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/100-science-fiction-films-bfi-screen-guides-9781838710477-9781349926046.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Attacks! is a knowing parody of traditional alien invasion movies such as Invaders from Mars* (1953), The War of the Worlds* (1953)...</p></details>
+   Link:<a href="https://dokumen.pub/100-science-fiction-films-bfi-screen-guides-9781838710477-9781349926046.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/100-science-fiction-films-bfi-screen-guides-9781838710477-9781349926046.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Attacks! is a knowing parody of traditional alien invasion movies such as Invaders from Mars* (1953), The War of the Worlds* (1953)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
    Title: Science Fiction Film: A Critical  
-   Link: <a href="https://dokumen.pub/science-fiction-film-a-critical-introduction-9781501351068-9781847884763.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/science-fiction-film-a-critical-introduction-9781501351068-9781847884763.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USA; National Pictures Corporation; 20th-Century Fox. Menzies, William Cameron, dir. 1953. Selected Filmography • 173 Invasion of the Bod...</p></details>
+   Link:<a href="https://dokumen.pub/science-fiction-film-a-critical-introduction-9781501351068-9781847884763.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/science-fiction-film-a-critical-introduction-9781501351068-9781847884763.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA; National Pictures Corporation; 20th-Century Fox. Menzies, William Cameron, dir. 1953. Selected Filmography • 173 Invasion of the Bod...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-war-of-the-worlds-9781844578115-9781838713669-9781844578139.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-war-of-the-worlds-9781844578115-9781838713669-9781844578139.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds 9781844578115, 9781838713669...Invaders from Mars was Menzies&#x27;s final film as a director, and it remains a...</p></details>
+   Link:<a href="https://dokumen.pub/the-war-of-the-worlds-9781844578115-9781838713669-9781844578139.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-war-of-the-worlds-9781844578115-9781838713669-9781844578139.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds 9781844578115, 9781838713669...Invaders from Mars was Menzies&#x27;s final film as a director, and it remains a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3pT0IEVr4_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pT0IEVr4_c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953) - 20th Century Gems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3pT0IEVr4_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pT0IEVr4_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953) - 20th Century Gems...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=izWbgAXSxTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=izWbgAXSxTc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953) 4K UHD Blu-ray Review | Ignite Films Restoration...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=izWbgAXSxTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=izWbgAXSxTc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars (1953) 4K UHD Blu-ray Review | Ignite Films Restoration...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tdhicks.com  
    Title: invaders from mars dreams fears  
-   Link: <a href="https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/" target="_blank" rel="noopener noreferrer nofollow">https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David&#x27;s parents (Lief Erickson &amp; Hillary Brooke) are...</p></details>
+   Link:<a href="https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/" target="_blank" rel="noopener noreferrer nofollow">https://tdhicks.com/2023/05/19/invaders-from-mars-dreams-fears/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David&#x27;s parents (Lief Erickson &amp; Hillary Brooke) are...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cinemahistoryonline.com  
    Title: communist subversion in alien films of the 1950s invaders from mars  
-   Link: <a href="https://cinemahistoryonline.com/2020/02/11/communist-subversion-in-alien-films-of-the-1950s-invaders-from-mars/" target="_blank" rel="noopener noreferrer nofollow">https://cinemahistoryonline.com/2020/02/11/communist-subversion-in-alien-films-of-the-1950s-invaders-from-mars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema historyCommunist subversion in alien films of the 1950s: It came from...11 Feb 2020 — The community reacted with McCarthyite para...</p></details>
+   Link:<a href="https://cinemahistoryonline.com/2020/02/11/communist-subversion-in-alien-films-of-the-1950s-invaders-from-mars/" target="_blank" rel="noopener noreferrer nofollow">https://cinemahistoryonline.com/2020/02/11/communist-subversion-in-alien-films-of-the-1950s-invaders-from-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema historyCommunist subversion in alien films of the 1950s: It came from...11 Feb 2020 — The community reacted with McCarthyite para...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Gee whiz, it's the original trailer for Invaders from Mars!  
-   Link: <a href="https://www.instagram.com/reel/DXcO3T4jhaZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXcO3T4jhaZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whiz, it&#x27;s the original trailer for Invaders from Mars! This 1953 sci-fi classic is newly restored and coming soon to 4K UHD...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXcO3T4jhaZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXcO3T4jhaZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whiz, it&#x27;s the original trailer for Invaders from Mars! This 1953 sci-fi classic is newly restored and coming soon to 4K UHD...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fanfare.pub  
    Title: ten key science fiction films from the 1950s 35653bbce897  
-   Link: <a href="https://fanfare.pub/ten-key-science-fiction-films-from-the-1950s-35653bbce897" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/ten-key-science-fiction-films-from-the-1950s-35653bbce897</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paranoia contained within those films now also reflect contemporary fears.... Invaders from Mars (1953), and Earth vs the Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://fanfare.pub/ten-key-science-fiction-films-from-the-1950s-35653bbce897" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/ten-key-science-fiction-films-from-the-1950s-35653bbce897</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paranoia contained within those films now also reflect contemporary fears.... Invaders from Mars (1953), and Earth vs the Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cunyonline.digication.com  
    Title: The Parallels of Aliens in Film and Social Fear  
-   Link: <a href="https://cunyonline.digication.com/aliensandsocialfear/Conspiracy_Theories" target="_blank" rel="noopener noreferrer nofollow">https://cunyonline.digication.com/aliensandsocialfear/Conspiracy_Theories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paranoia. This is shown clearly in scenes at the... The communist &quot;other&quot; becomes literally the &quot;alien.&quot; The treatment of nuclear war an...</p></details>
+   Link:<a href="https://cunyonline.digication.com/aliensandsocialfear/Conspiracy_Theories" target="_blank" rel="noopener noreferrer nofollow">https://cunyonline.digication.com/aliensandsocialfear/Conspiracy_Theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paranoia. This is shown clearly in scenes at the... The communist &quot;other&quot; becomes literally the &quot;alien.&quot; The treatment of nuclear war an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fangoria.com  
-   Link: <a href="https://www.fangoria.com/horror-in-the-cold-war-era-invaders-from-mars-at-70/" target="_blank" rel="noopener noreferrer nofollow">https://www.fangoria.com/horror-in-the-cold-war-era-invaders-from-mars-at-70/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Horror In The Cold War Era: INVADERS FROM MARS At 706 Jun 2023 — Invaders from Mars was one of the first alien invasion movies released i...</p></details>
+   Link:<a href="https://www.fangoria.com/horror-in-the-cold-war-era-invaders-from-mars-at-70/" target="_blank" rel="noopener noreferrer nofollow">https://www.fangoria.com/horror-in-the-cold-war-era-invaders-from-mars-at-70/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Horror In The Cold War Era: INVADERS FROM MARS At 706 Jun 2023 — Invaders from Mars was one of the first alien invasion movies released i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cineoutsider.co.uk  
    Title: invaders from mars 1958 uhd review  
-   Link: <a href="https://cineoutsider.co.uk/invaders_from_mars_1958_uhd_review/" target="_blank" rel="noopener noreferrer nofollow">https://cineoutsider.co.uk/invaders_from_mars_1958_uhd_review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars30 May 2026 — It was also my first exposure to William Cameron Menzies&#x27; 1953 alien invasion and takeover gem, Invaders...</p></details>
+   Link:<a href="https://cineoutsider.co.uk/invaders_from_mars_1958_uhd_review/" target="_blank" rel="noopener noreferrer nofollow">https://cineoutsider.co.uk/invaders_from_mars_1958_uhd_review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders from Mars30 May 2026 — It was also my first exposure to William Cameron Menzies&#x27; 1953 alien invasion and takeover gem, Invaders...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ueaeprints.uea.ac.uk  
    Title: uea.ac.uk DANIE L TILSLEY  
-   Link: <a href="https://ueaeprints.uea.ac.uk/84594/1/D_Tilsley_The_meaningful_art_of_one_of_the_worst_movies_of_all_time_Phil_Tucker_Robot_Monster_as_existential_critique_of_modernity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/84594/1/D_Tilsley_The_meaningful_art_of_one_of_the_worst_movies_of_all_time_Phil_Tucker_Robot_Monster_as_existential_critique_of_modernity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War anxiety and paranoia. The consensus being, among academic and non... - Menzies, W. C. (1953) Invaders from Mars. USA: Edward L...</p></details>
+   Link:<a href="https://ueaeprints.uea.ac.uk/84594/1/D_Tilsley_The_meaningful_art_of_one_of_the_worst_movies_of_all_time_Phil_Tucker_Robot_Monster_as_existential_critique_of_modernity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/84594/1/D_Tilsley_The_meaningful_art_of_one_of_the_worst_movies_of_all_time_Phil_Tucker_Robot_Monster_as_existential_critique_of_modernity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War anxiety and paranoia. The consensus being, among academic and non... - Menzies, W. C. (1953) Invaders from Mars. USA: Edward L...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lwlies.com  
    Title: invaders from mars 70  
-   Link: <a href="https://lwlies.com/in-praise-of/invaders-from-mars-70" target="_blank" rel="noopener noreferrer nofollow">https://lwlies.com/in-praise-of/invaders-from-mars-70</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Red Scare: Invaders from Mars at 7024 Apr 2023 — As much as Invaders from Mars perhaps naturally reads as a clear-cut example...</p></details>
+   Link:<a href="https://lwlies.com/in-praise-of/invaders-from-mars-70" target="_blank" rel="noopener noreferrer nofollow">https://lwlies.com/in-praise-of/invaders-from-mars-70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Red Scare: Invaders from Mars at 7024 Apr 2023 — As much as Invaders from Mars perhaps naturally reads as a clear-cut example...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1o8nq54/invaders_from_mars_1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iwatchedanoldmovie/comments/1o8nq54/invaders_from_mars_1953/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders From Mars (1953)Child star Jimmy Hunt plays a kid astrologer who spots a Martian UFO secretly landing about 100 feet from his ba...</p></details>
+   Link:<a href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1o8nq54/invaders_from_mars_1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iwatchedanoldmovie/comments/1o8nq54/invaders_from_mars_1953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders From Mars (1953)Child star Jimmy Hunt plays a kid astrologer who spots a Martian UFO secretly landing about 100 feet from his ba...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZxDDuhkSsRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZxDDuhkSsRc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iews · 3 years ago...more. CinetecaBologna. 20.5K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZxDDuhkSsRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZxDDuhkSsRc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iews · 3 years ago...more. CinetecaBologna. 20.5K...</p></details>

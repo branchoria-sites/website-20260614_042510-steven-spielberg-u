@@ -264,40 +264,40 @@ image: /assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thi
 
 ## Introduction
 
-Within the history of UFO and alien cinema, the film is important because it created a durable grammar of fearful contact. The alien is not a messenger, explorer or mystery to be decoded. It is a threat inside the perimeter. That besieged-outpost structure would influence decades of science-fiction horror and stands in sharp contrast to the more hopeful encounters Spielberg later placed at the centre of films such as *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
+Within the history of UFO and alien cinema, the film is important because it created a durable grammar of fearful contact. The alien is not a messenger, explorer or mystery to be decoded. It is a threat inside the perimeter. That besieged-outpost structure would influence decades of science-fiction horror and stands in sharp contrast to the more hopeful encounters Spielberg later placed at the centre of films such as *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-1-dark.svg" | relative_url }}" alt="Thing Outpost Siege E1 Da 1 B illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Arctic Outpost as Pressure Cooker
 
-The film’s most influential idea is not simply the monster itself but the setting. Almost the entire story unfolds at a remote Arctic research station cut off by weather, distance and limited communication. The discovery of the alien occurs far from cities, governments and ordinary society. Once the creature is thawed and escapes, the outpost becomes a sealed environment where every decision carries immediate consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+The film’s most influential idea is not simply the monster itself but the setting. Almost the entire story unfolds at a remote Arctic research station cut off by weather, distance and limited communication. The discovery of the alien occurs far from cities, governments and ordinary society. Once the creature is thawed and escapes, the outpost becomes a sealed environment where every decision carries immediate consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
-This structure turns first contact into a siege narrative. The characters cannot easily retreat. Reinforcements are unavailable. Information is incomplete. The alien stalks a confined group that must improvise its own defence. Later science-fiction and horror films repeatedly reused this formula because it concentrates fear into a manageable space: a small community under pressure from an unknown force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
+This structure turns first contact into a siege narrative. The characters cannot easily retreat. Reinforcements are unavailable. Information is incomplete. The alien stalks a confined group that must improvise its own defence. Later science-fiction and horror films repeatedly reused this formula because it concentrates fear into a manageable space: a small community under pressure from an unknown force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
 
-The Arctic setting also reflects broader Cold War anxieties. During the early 1950s, polar regions carried strategic importance in military planning and air defence. By placing the alien at the northern frontier, the film imagines danger arriving through a vulnerable edge of the modern world. The frozen landscape becomes both a physical and psychological frontier where certainty disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
+The Arctic setting also reflects broader Cold War anxieties. During the early 1950s, polar regions carried strategic importance in military planning and air defence. By placing the alien at the northern frontier, the film imagines danger arriving through a vulnerable edge of the modern world. The frozen landscape becomes both a physical and psychological frontier where certainty disappears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qjmDtRkSRYY" title="The Thing from Another World (1951): 20 SHOCKING Facts You Didn&#x27;t Know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qjmDtRkSRYY" target="_blank" rel="noopener noreferrer">The Thing from Another World (1951): 20 SHOCKING Facts You Didn&#x27;t Know!</a></p><p class="youtube-embed-meta">Channel: Cine Rewinded &middot; Views: 25.0K &middot; Uploaded: November 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qjmDtRkSRYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qjmDtRkSRYY">Open on YouTube</a></p></div></div></div>
 
 ## Scientists, Soldiers and Survival Choices
 
-A central tension in the film emerges from the clash between military authority and scientific curiosity. Captain Patrick Hendry and the Air Force personnel view the creature primarily as a threat that must be contained. Dr Arthur Carrington, the lead scientist, sees an unprecedented opportunity for knowledge and communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+A central tension in the film emerges from the clash between military authority and scientific curiosity. Captain Patrick Hendry and the Air Force personnel view the creature primarily as a threat that must be contained. Dr Arthur Carrington, the lead scientist, sees an unprecedented opportunity for knowledge and communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
-Carrington argues that the alien may represent a superior intelligence and repeatedly attempts to preserve and understand it. His position is not presented as simple villainy. Instead, the film frames him as a man whose commitment to scientific inquiry becomes detached from immediate human risk. The soldiers, meanwhile, are concerned with practical survival rather than discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+Carrington argues that the alien may represent a superior intelligence and repeatedly attempts to preserve and understand it. His position is not presented as simple villainy. Instead, the film frames him as a man whose commitment to scientific inquiry becomes detached from immediate human risk. The soldiers, meanwhile, are concerned with practical survival rather than discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
-This conflict gave the film much of its Cold War resonance. The question is not merely whether the alien is dangerous. The deeper question is who should control humanity’s response to the unknown. Should unprecedented discoveries be studied at almost any cost, or should security take precedence? The argument mirrors broader post-war debates about nuclear science, military preparedness and technological responsibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
+This conflict gave the film much of its Cold War resonance. The question is not merely whether the alien is dangerous. The deeper question is who should control humanity’s response to the unknown. Should unprecedented discoveries be studied at almost any cost, or should security take precedence? The argument mirrors broader post-war debates about nuclear science, military preparedness and technological responsibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
 
-The film ultimately favours survival over experimentation. Yet its lasting power comes from the fact that both positions remain recognisable. The scientists want knowledge; the soldiers want protection. The alien encounter forces a choice between competing values rather than presenting a simple battle between heroes and fools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvdjournal.com">[dvdjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvdjournal.com</span><span class="citation-popover-title">Reviews: The Thing from Another World</span><span class="citation-popover-snippet">The DVD JournalSuch an argument forgets that the film presents both the Military and Science camps as working pros who join together to d...</span></span></span>
+The film ultimately favours survival over experimentation. Yet its lasting power comes from the fact that both positions remain recognisable. The scientists want knowledge; the soldiers want protection. The alien encounter forces a choice between competing values rather than presenting a simple battle between heroes and fools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvdjournal.com">[dvdjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvdjournal.com</span><span class="citation-popover-title">Reviews: The Thing from Another World</span><span class="citation-popover-snippet">The DVD JournalSuch an argument forgets that the film presents both the Military and Science camps as working pros who join together to d...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-2-dark.svg" | relative_url }}" alt="Thing Outpost Siege E1 Da 1 B illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Alien Is Never a Neighbour
 
-Unlike later UFO stories built around communication, *The Thing from Another World* offers almost no possibility of mutual understanding. The creature is identified as an advanced plant-based life form, but this biological novelty does not make it more approachable. Instead, every new piece of information confirms its danger. It feeds on blood, survives extreme conditions and repeatedly attacks the station’s inhabitants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+Unlike later UFO stories built around communication, *The Thing from Another World* offers almost no possibility of mutual understanding. The creature is identified as an advanced plant-based life form, but this biological novelty does not make it more approachable. Instead, every new piece of information confirms its danger. It feeds on blood, survives extreme conditions and repeatedly attacks the station’s inhabitants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
-The film therefore transforms alien discovery into a process of escalating threat assessment. Learning more about the visitor does not reduce fear. It increases it. Knowledge reveals the scale of the danger rather than opening a path to coexistence. This pattern became common in 1950s science-fiction cinema, where extraterrestrial contact frequently functioned as a warning about vulnerability rather than a promise of enlightenment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
+The film therefore transforms alien discovery into a process of escalating threat assessment. Learning more about the visitor does not reduce fear. It increases it. Knowledge reveals the scale of the danger rather than opening a path to coexistence. This pattern became common in 1950s science-fiction cinema, where extraterrestrial contact frequently functioned as a warning about vulnerability rather than a promise of enlightenment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
 
-From a historical perspective, this is one of the clearest differences between the pre-Spielberg era and the UFO stories that followed in the 1970s. In *The Thing from Another World*, contact narrows possibilities until only confrontation remains. The unknown arrives already framed as an enemy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
+From a historical perspective, this is one of the clearest differences between the pre-Spielberg era and the UFO stories that followed in the 1970s. In *The Thing from Another World*, contact narrows possibilities until only confrontation remains. The unknown arrives already framed as an enemy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmfreedonia.com">[film freedonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmfreedonia.com</span><span class="citation-popover-title">film freedonia Polar Paranoia and Generic Invention: The Thing From</span><span class="citation-popover-snippet">film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</span><span class="citation-popover-meta">Published: May 26, 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K3N1omVrxsg" title="The Thing From Another World (1951) Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K3N1omVrxsg" target="_blank" rel="noopener noreferrer">The Thing From Another World (1951) Review</a></p><p class="youtube-embed-meta">Channel: FourFaceButtons &middot; Views: 728 &middot; Uploaded: October 2022</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K3N1omVrxsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K3N1omVrxsg">Open on YouTube</a></p></div></div></div>
@@ -307,204 +307,204 @@ From a historical perspective, this is one of the clearest differences between t
 
 ## Watch the Skies as a Warning Phrase
 
-The film ends with one of the most famous lines in early science-fiction cinema. After the creature has been destroyed and communications are restored, reporter Ned Scott broadcasts a warning to the world: “Watch the skies.” The phrase is brief, but it captures the film’s entire worldview. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+The film ends with one of the most famous lines in early science-fiction cinema. After the creature has been destroyed and communications are restored, reporter Ned Scott broadcasts a warning to the world: “Watch the skies.” The phrase is brief, but it captures the film’s entire worldview.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
-The sky is not presented as a source of wonder. It is a direction from which danger may arrive again. The message encourages vigilance, preparedness and suspicion. In Cold War terms, it echoes a culture accustomed to thinking about surprise attacks, strategic threats and unseen enemies. The alien has been defeated, but the possibility of future incursions remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
+The sky is not presented as a source of wonder. It is a direction from which danger may arrive again. The message encourages vigilance, preparedness and suspicion. In Cold War terms, it echoes a culture accustomed to thinking about surprise attacks, strategic threats and unseen enemies. The alien has been defeated, but the possibility of future incursions remains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">The Thing from Another World (film) &#124; HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</span></span></span>
 
-That final warning became one of the defining statements of early UFO cinema. It encapsulates an era in which extraterrestrial contact was imagined primarily as an emergency. Spielberg’s later UFO films would not eliminate fear, but they would fundamentally change its role. Where *The Thing from Another World* ends by telling humanity to keep watch for threats above, Spielberg’s most famous UFO stories ask whether looking into the sky might also reveal curiosity, connection and wonder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
+That final warning became one of the defining statements of early UFO cinema. It encapsulates an era in which extraterrestrial contact was imagined primarily as an emergency. Spielberg’s later UFO films would not eliminate fear, but they would fundamentally change its role. Where *The Thing from Another World* ends by telling humanity to keep watch for threats above, Spielberg’s most famous UFO stories ask whether looking into the sky might also reveal curiosity, connection and wonder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Thing from Another World</span><span class="citation-popover-snippet">The Thing from Another World</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-3-dark.svg" | relative_url }}" alt="Thing Outpost Siege E1 Da 1 B illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_thing_outpost_siege_e1da1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Thing Outpost Siege E1 Da 1 B. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Thing Outpost Siege E1 Da 1 B. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="thing-outpost-siege-e1-da-1-b-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ That final warning became one of the defining statements of early UFO cinema. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ That final warning became one of the defining statements of early UFO cinema. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ That final warning became one of the defining statements of early UFO cinema. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ That final warning became one of the defining statements of early UFO cinema. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ That final warning became one of the defining statements of early UFO cinema. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,121 +710,121 @@ That final warning became one of the defining statements of early UFO cinema. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Thing from Another World  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Thing_from_Another_World</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Thing_from_Another_World</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/thing-another-world-film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (film) | HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/thing-another-world-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/thing-another-world-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (film) | HistoryThe film serves as a cautionary tale, reflecting the anxieties of the Cold War era, par...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dvdjournal.com  
    Title: Reviews: The Thing from Another World  
-   Link: <a href="https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DVD JournalSuch an argument forgets that the film presents both the Military and Science camps as working pros who join together to d...</p></details>
+   Link:<a href="https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.dvdjournal.com/reviews/t/thingfromanotherworld.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DVD JournalSuch an argument forgets that the film presents both the Military and Science camps as working pros who join together to d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K3N1omVrxsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3N1omVrxsg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) - Retro WeWatch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K3N1omVrxsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3N1omVrxsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) - Retro WeWatch...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=17F7MUWW1oE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=17F7MUWW1oE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=17F7MUWW1oE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=17F7MUWW1oE</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slantmagazine.com  
    Title: the thing from another world  
-   Link: <a href="https://www.slantmagazine.com/film/the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.slantmagazine.com/film/the-thing-from-another-world/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: The Thing from Another World13 Aug 2003 — The story, about a battle between a group of stranded military personnel and a blood-hu...</p></details>
+   Link:<a href="https://www.slantmagazine.com/film/the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.slantmagazine.com/film/the-thing-from-another-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review: The Thing from Another World13 Aug 2003 — The story, about a battle between a group of stranded military personnel and a blood-hu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: filmfreedonia.com  
    Title: film freedonia Polar Paranoia and Generic Invention: The Thing From  
-   Link: <a href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</p></details>
+   Link:<a href="https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://filmfreedonia.com/2009/05/26/polar-paranoia-and-generic-invention-the-thing-from-another-world-1951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>film freedoniaPolar Paranoia and Generic Invention: The Thing From...May 26, 2009 — 26 May 2009 — The film&#x27;s iconography, Cold War atmos...</p></details>
    Published: May 26, 2009  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: filmforum.org  
-   Link: <a href="https://filmforum.org/film/the-thing-from-another-world-50-from-the-50s" target="_blank" rel="noopener noreferrer nofollow">https://filmforum.org/film/the-thing-from-another-world-50-from-the-50s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE THING FROM ANOTHER WORLDThe story, about the battle between a group of stranded military personnel and an alien creature fueled by hu...</p></details>
+   Link:<a href="https://filmforum.org/film/the-thing-from-another-world-50-from-the-50s" target="_blank" rel="noopener noreferrer nofollow">https://filmforum.org/film/the-thing-from-another-world-50-from-the-50s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE THING FROM ANOTHER WORLDThe story, about the battle between a group of stranded military personnel and an alien creature fueled by hu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: classicmovierev.com  
    Title: the thing from another world 1951  
-   Link: <a href="https://classicmovierev.com/the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://classicmovierev.com/the-thing-from-another-world-1951/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW Classic Movie ReviewThe Thing from Another World (1951) - The Sci-Fi Horror...6 Feb 2025 — Stranded at the frozen north pole, a grou...</p></details>
+   Link:<a href="https://classicmovierev.com/the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://classicmovierev.com/the-thing-from-another-world-1951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW Classic Movie ReviewThe Thing from Another World (1951) - The Sci-Fi Horror...6 Feb 2025 — Stranded at the frozen north pole, a grou...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tcm.com  
    Title: thing from another world  
-   Link: <a href="https://www.tcm.com/articles/1082450/thing-from-another-world" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/1082450/thing-from-another-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The exact nature of the roles of Hawks and Nyby during the production of The Thing from Another World (1951) remains ambiguous, with Hawk...</p></details>
+   Link:<a href="https://www.tcm.com/articles/1082450/thing-from-another-world" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/1082450/thing-from-another-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The exact nature of the roles of Hawks and Nyby during the production of The Thing from Another World (1951) remains ambiguous, with Hawk...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: filmthreat.com  
    Title: the thing from another world  
-   Link: <a href="https://filmthreat.com/reviews/the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://filmthreat.com/reviews/the-thing-from-another-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2021 — Nyby and Hawks make every attempt with lighting and camera angles to make the monster feel real, knowing that exposing the...</p></details>
+   Link:<a href="https://filmthreat.com/reviews/the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://filmthreat.com/reviews/the-thing-from-another-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2021 — Nyby and Hawks make every attempt with lighting and camera angles to make the monster feel real, knowing that exposing the...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nighttidemag.com  
    Title: sinister screen way back weekend watch the thing from another world 1951  
-   Link: <a href="https://nighttidemag.com/2025/05/16/sinister-screen-way-back-weekend-watch-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://nighttidemag.com/2025/05/16/sinister-screen-way-back-weekend-watch-the-thing-from-another-world-1951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE THING FROM ANOTHER WORLD (1951)16 May 2025 — A sci-fi horror classic set in a remote Arctic research station where scientists and sol...</p></details>
+   Link:<a href="https://nighttidemag.com/2025/05/16/sinister-screen-way-back-weekend-watch-the-thing-from-another-world-1951/" target="_blank" rel="noopener noreferrer nofollow">https://nighttidemag.com/2025/05/16/sinister-screen-way-back-weekend-watch-the-thing-from-another-world-1951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE THING FROM ANOTHER WORLD (1951)16 May 2025 — A sci-fi horror classic set in a remote Arctic research station where scientists and sol...</p></details>
    Published: May 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: manapop.com  
    Title: the thing from another world 1951 review  
-   Link: <a href="https://manapop.com/film/the-thing-from-another-world-1951-review/" target="_blank" rel="noopener noreferrer nofollow">https://manapop.com/film/the-thing-from-another-world-1951-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951) – Review1 Oct 2024 — Based on John W. Campbell Jr.&#x27;s novella “Who Goes There?” this science fiction h...</p></details>
+   Link:<a href="https://manapop.com/film/the-thing-from-another-world-1951-review/" target="_blank" rel="noopener noreferrer nofollow">https://manapop.com/film/the-thing-from-another-world-1951-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951) – Review1 Oct 2024 — Based on John W. Campbell Jr.&#x27;s novella “Who Goes There?” this science fiction h...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: burrellosubmarinemovies.wordpress.com  
    Title: see heres the thingfrom another world  
-   Link: <a href="https://burrellosubmarinemovies.wordpress.com/2012/08/12/see-heres-the-thingfrom-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://burrellosubmarinemovies.wordpress.com/2012/08/12/see-heres-the-thingfrom-another-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comSee, Here&#x27;s the Thing…from Another World12 Aug 2012 — If you like space aliens, suspense, and sharp dialogue you will love t...</p></details>
+   Link:<a href="https://burrellosubmarinemovies.wordpress.com/2012/08/12/see-heres-the-thingfrom-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://burrellosubmarinemovies.wordpress.com/2012/08/12/see-heres-the-thingfrom-another-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comSee, Here&#x27;s the Thing…from Another World12 Aug 2012 — If you like space aliens, suspense, and sharp dialogue you will love t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qjmDtRkSRYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjmDtRkSRYY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) Review |Sci-Fi Horror At Its Greatest...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qjmDtRkSRYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjmDtRkSRYY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) Review |Sci-Fi Horror At Its Greatest...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q7nurjoYShs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q7nurjoYShs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) Review...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q7nurjoYShs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q7nurjoYShs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing From Another World (1951) Review...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dwP19zS0rJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwP19zS0rJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951): 20 SHOCKING Facts You Didn&#x27;t Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dwP19zS0rJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwP19zS0rJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951): 20 SHOCKING Facts You Didn&#x27;t Know...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: DW0L0gz DTKI  
-   Link: <a href="https://www.instagram.com/p/DW0L0gzDTKI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0L0gzDTKI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951)...The film ends with a warning broadcast to the world: to remain vigilant against threats from beyon...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW0L0gzDTKI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0L0gzDTKI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951)...The film ends with a warning broadcast to the world: to remain vigilant against threats from beyon...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0044121/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0044121/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951)Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote a...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0044121/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0044121/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Thing from Another World (1951)Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/288415079410335/posts/1400903581494807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/288415079410335/posts/1400903581494807/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic sci-fi horror film the thing from 1951THE THING (FROM ANOTHER WORLD), Howard Hawks&#x27; 1951 film that started the alien invasion cra...</p></details>
+   Link:<a href="https://www.facebook.com/groups/288415079410335/posts/1400903581494807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/288415079410335/posts/1400903581494807/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classic sci-fi horror film the thing from 1951THE THING (FROM ANOTHER WORLD), Howard Hawks&#x27; 1951 film that started the alien invasion cra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: daytonward.wordpress.com  
    Title: happy 70th anniversary to the thing from another world  
-   Link: <a href="https://daytonward.wordpress.com/2021/04/07/happy-70th-anniversary-to-the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://daytonward.wordpress.com/2021/04/07/happy-70th-anniversary-to-the-thing-from-another-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They also...Read more...</p></details>
+   Link:<a href="https://daytonward.wordpress.com/2021/04/07/happy-70th-anniversary-to-the-thing-from-another-world/" target="_blank" rel="noopener noreferrer nofollow">https://daytonward.wordpress.com/2021/04/07/happy-70th-anniversary-to-the-thing-from-another-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They also...Read more...</p></details>

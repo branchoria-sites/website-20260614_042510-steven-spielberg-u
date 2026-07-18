@@ -268,17 +268,17 @@ Spielberg's UFO [witnesses]({{ 'witnesses/' | relative_url }}) were not portraye
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-1-dark.svg" | relative_url }}" alt="Modern UAP Reporting 96 D73 B illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The modern U.S. government's main investigative body, the All-domain Anomaly Resolution Office (AARO), receives reports from military personnel, pilots and other observers. Many cases begin with eyewitness accounts, but investigators seek corroborating radar, infrared, satellite or flight data whenever possible. AARO repeatedly describes its approach as data-driven rather than belief-driven, reflecting the idea that a report may be important even if it is ultimately explained as a balloon, drone, sensor artefact or misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...During the reporting period, AARO received no reports indicating UAP sightings have...</span></span></span>
+The modern U.S. government's main investigative body, the All-domain Anomaly Resolution Office (AARO), receives reports from military personnel, pilots and other observers. Many cases begin with eyewitness accounts, but investigators seek corroborating radar, infrared, satellite or flight data whenever possible. AARO repeatedly describes its approach as data-driven rather than belief-driven, reflecting the idea that a report may be important even if it is ultimately explained as a balloon, drone, sensor artefact or misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...During the reporting period, AARO received no reports indicating UAP sightings have...</span></span></span>
 
-The pattern is familiar. Witnesses often notice something unusual first. The challenge is determining whether the observation represents an external event, a misunderstanding of ordinary phenomena, limitations of sensors, or something genuinely unresolved. That tension sits at the centre of both *Close Encounters* and contemporary UAP policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span>
+The pattern is familiar. Witnesses often notice something unusual first. The challenge is determining whether the observation represents an external event, a misunderstanding of ordinary phenomena, limitations of sensors, or something genuinely unresolved. That tension sits at the centre of both *Close Encounters* and contemporary UAP policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span>
 
 ## Why Witness Stigma Remains Part of the Story
 
-One of the most striking conclusions of NASA's 2023 independent UAP study was that stigma remains a major obstacle to obtaining useful information. The report argued that people may hesitate to report unusual observations because of fear of ridicule or professional consequences, creating what researchers described as a loss of potentially valuable data. NASA explicitly stated that reducing stigma could improve reporting quality and quantity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+One of the most striking conclusions of NASA's 2023 independent UAP study was that stigma remains a major obstacle to obtaining useful information. The report argued that people may hesitate to report unusual observations because of fear of ridicule or professional consequences, creating what researchers described as a loss of potentially valuable data. NASA explicitly stated that reducing stigma could improve reporting quality and quantity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 This echoes a recurring theme in Spielberg's work. In *Close Encounters*, witnesses are often isolated, doubted or embarrassed. The emotional burden of reporting becomes part of the story. Modern investigators face a practical version of the same issue: if observers remain silent, there is nothing to analyse.
 
-The problem is especially significant in aviation. Pilots are trained observers, yet unusual sightings have historically been underreported because of concerns about reputation or career impact. Recent efforts have encouraged more systematic reporting through established aviation safety channels, recognising that unusual observations can have safety implications even when they are eventually explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives Use ASRS to Report UAP and UFO Encounters</span><span class="citation-popover-snippet">Flight Safety DetectivesUse ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight atten...</span></span></span>
+The problem is especially significant in aviation. Pilots are trained observers, yet unusual sightings have historically been underreported because of concerns about reputation or career impact. Recent efforts have encouraged more systematic reporting through established aviation safety channels, recognising that unusual observations can have safety implications even when they are eventually explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives Use ASRS to Report UAP and UFO Encounters</span><span class="citation-popover-snippet">Flight Safety DetectivesUse ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight atten...</span></span></span>
 
 Importantly, reducing stigma does not mean accepting every report as true. Instead, it means encouraging reporting so claims can be examined. That distinction mirrors Spielberg's own tendency to take witnesses seriously without automatically treating testimony as proof.
 
@@ -289,9 +289,9 @@ Importantly, reducing stigma does not mean accepting every report as true. Inste
 
 The biggest difference between the era of *Close Encounters* and modern UAP investigations is the emphasis on instrumentation.
 
-NASA's independent study concluded that existing eyewitness reports and available evidence are generally insufficient to draw firm conclusions about the nature of UAP. The agency's recommendation was not to rely more heavily on testimony but to improve data quality through calibrated sensors, standardised reporting and broader scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+NASA's independent study concluded that existing eyewitness reports and available evidence are generally insufficient to draw firm conclusions about the nature of UAP. The agency's recommendation was not to rely more heavily on testimony but to improve data quality through calibrated sensors, standardised reporting and broader scientific analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-AARO has adopted a similar approach. Officials have repeatedly highlighted efforts to improve sensor coverage, preserve data, develop analytical tools and create more consistent reporting pathways. Recent public statements have stressed that many unresolved cases remain unresolved because the available information is incomplete rather than because they demonstrate extraordinary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">hegseth ufo disclosure trump aaro uap caseload</span><span class="citation-popover-snippet">AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</span></span></span>
+AARO has adopted a similar approach. Officials have repeatedly highlighted efforts to improve sensor coverage, preserve data, develop analytical tools and create more consistent reporting pathways. Recent public statements have stressed that many unresolved cases remain unresolved because the available information is incomplete rather than because they demonstrate extraordinary technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">hegseth ufo disclosure trump aaro uap caseload</span><span class="citation-popover-snippet">AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</span></span></span>
 
 This marks a significant implementation shift:
 
@@ -311,7 +311,7 @@ The result is a framework in which testimony matters, but only as one component 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-2-dark.svg" | relative_url }}" alt="Modern UAP Reporting 96 D73 B illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Rise of Multi-Sensor Research
 
-Outside government, several scientific projects have attempted to address the same challenge by deploying multiple instruments simultaneously. Research groups have experimented with combinations of optical cameras, infrared sensors, radiation detectors and magnetic instruments to capture independent measurements of reported events. The goal is to move beyond anecdotal accounts and create records that can be examined repeatedly by other researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+Outside government, several scientific projects have attempted to address the same challenge by deploying multiple instruments simultaneously. Research groups have experimented with combinations of optical cameras, infrared sensors, radiation detectors and magnetic instruments to capture independent measurements of reported events. The goal is to move beyond anecdotal accounts and create records that can be examined repeatedly by other researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 This development is notable because it effectively operationalises the lesson embedded in Spielberg's witness-centred storytelling: human observation can identify something worth investigating, but investigation requires evidence that survives beyond the moment of observation.
 
@@ -320,204 +320,204 @@ This development is notable because it effectively operationalises the lesson em
 
 ## Where Spielberg's Drama Meets Modern Caution
 
-Modern UAP reporting demonstrates that the core witness problem has not disappeared. Governments continue to receive hundreds of reports each year, and some remain unresolved after initial analysis. Yet unresolved does not automatically mean extraterrestrial, nor does explanation automatically mean the witness was mistaken or dishonest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
+Modern UAP reporting demonstrates that the core witness problem has not disappeared. Governments continue to receive hundreds of reports each year, and some remain unresolved after initial analysis. Yet unresolved does not automatically mean extraterrestrial, nor does explanation automatically mean the witness was mistaken or dishonest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
 
 This is where Spielberg's dramatic instincts align with contemporary caution. *Close Encounters* was compelling because it focused on uncertainty rather than certainty. The film explored how people react when evidence is incomplete and explanations are contested. Modern UAP institutions confront the same condition, although with scientific and policy tools instead of cinematic ones.
 
-Recent Pentagon reporting illustrates the point. Large numbers of reports have been collected, many have received ordinary explanations, some remain unresolved, and officials continue to state that they have found no verified evidence of extraterrestrial technology. The central challenge remains distinguishing between what was seen, what was recorded and what can actually be demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop In practical terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">hegseth ufo disclosure trump aaro uap caseload</span><span class="citation-popover-snippet">AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</span></span></span>, today's UAP debate is less about proving extraordinary claims than about improving the process by which claims are evaluated. That is why Spielberg's witness scenes still feel relevant. They capture the human beginning of the investigation—the moment someone says, "I saw something"—while modern UAP policy focuses on the next question: "What evidence can test that account?" NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span>
+Recent Pentagon reporting illustrates the point. Large numbers of reports have been collected, many have received ordinary explanations, some remain unresolved, and officials continue to state that they have found no verified evidence of extraterrestrial technology. The central challenge remains distinguishing between what was seen, what was recorded and what can actually be demonstrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop In practical terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">hegseth ufo disclosure trump aaro uap caseload</span><span class="citation-popover-snippet">AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</span></span></span>, today's UAP debate is less about proving extraordinary claims than about improving the process by which claims are evaluated. That is why Spielberg's witness scenes still feel relevant. They capture the human beginning of the investigation—the moment someone says, "I saw something"—while modern UAP policy focuses on the next question: "What evidence can test that account?" NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-3-dark.svg" | relative_url }}" alt="Modern UAP Reporting 96 D73 B illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417_modern_uap_reporting_96d73b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Modern UAP Reporting 96 D73 B. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Modern UAP Reporting 96 D73 B. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="modern-uap-reporting-96-d73-b-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,167 +723,167 @@ Recent Pentagon reporting illustrates the point. Large numbers of reports have b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...During the reporting period, AARO received no reports indicating UAP sightings have...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...During the reporting period, AARO received no reports indicating UAP sightings have...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — AARO has taken meaningful steps to improve data collection a...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — AARO has taken meaningful steps to improve data collection a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: defensescoop.com  
    Title: hegseth ufo disclosure trump aaro uap caseload  
-   Link: <a href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</p></details>
+   Link:<a href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
    Published: December 1, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Data alone is not disclosure&#x27;: UAP research community...6 days ago — AARO officials have maintained that they have found no evidence to...</p></details>
+   Link:<a href="https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Data alone is not disclosure&#x27;: UAP research community...6 days ago — AARO officials have maintained that they have found no evidence to...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most anomalous detections reported to AARO demonstrate ordinary...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most anomalous detections reported to AARO demonstrate ordinary...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study serves as a community-based, interdisciplinary forum for soliciting and coordinating co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study serves as a community-based, interdisciplinary forum for soliciting and coordinating co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — NASA&#x27;s UAP independent study was largely focused on aerial phenomena. 7. What did NASA&#x27;s 2023 Independent report on UAPs cov...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — NASA&#x27;s UAP independent study was largely focused on aerial phenomena. 7. What did NASA&#x27;s 2023 Independent report on UAPs cov...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: flightsafetydetectives.com  
    Title: Flight Safety Detectives Use ASRS to Report UAP and UFO Encounters  
-   Link: <a href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesUse ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight atten...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesUse ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight atten...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</p></details>
+   Link:<a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report includes many misidentified objects such as balloons, birds, and satellites, though some cases remain unexplained due to insuf...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO&#x27;s review of Project BLUE BOOK cases shows a spike in reported UAP sightings from. 1952...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO&#x27;s review of Project BLUE BOOK cases shows a spike in reported UAP sightings from. 1952...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Gold, a former NASA official who was also a member of the [NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) independent study team. Welcome, everyone. We...Read more...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Gold, a former NASA official who was also a member of the [NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) independent study team. Welcome, everyone. We...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A report released today by NASA&#x27;s independent study team...NEW: A report released today by NASA&#x27;s independent study team describes how t...</p></details>
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A report released today by NASA&#x27;s independent study team...NEW: A report released today by NASA&#x27;s independent study team describes how t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...5 days ago — Beyond the tech, they want to erase the stigma around reporting sightings by tappin...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...5 days ago — Beyond the tech, they want to erase the stigma around reporting sightings by tappin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and NASA: There is No Reliable Data, But We Still...UFOs and NASA: There is No Reliable Data, But We Still Want to Investigate Them...</p></details>
+   Link:<a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and NASA: There is No Reliable Data, But We Still...UFOs and NASA: There is No Reliable Data, But We Still Want to Investigate Them...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative perceptio...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative perceptio...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP witnesses criticize Pentagon UFO office in...13 Sept 2025 — UAP witnesses criticize Pentagon UFO office in Congressional hearing for...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP witnesses criticize Pentagon UFO office in...13 Sept 2025 — UAP witnesses criticize Pentagon UFO office in Congressional hearing for...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>

@@ -263,14 +263,14 @@ By the time Steven Spielberg released *[Close Encounters]({{ 'close-encounters/'
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-1-dark.svg" | relative_url }}" alt="Arnold Saucer Awe 4 Fe 10 E illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key cultural inheritance came from the 1947 sighting reported by pilot Kenneth Arnold near Mount Rainier. Arnold’s description helped launch the phrase “flying saucer” into public vocabulary and created a visual shorthand that endured for decades. Spielberg did not invent the saucer. He changed the feeling attached to it. National Air and Space Museum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</span></span></span>
+The key cultural inheritance came from the 1947 sighting reported by pilot Kenneth Arnold near Mount Rainier. Arnold’s description helped launch the phrase “flying saucer” into public vocabulary and created a visual shorthand that endured for decades. Spielberg did not invent the saucer. He changed the feeling attached to it. National Air and Space Museum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qJ8eLw7YCMg" title="1st UFO Encounter Podcast - Pilot Kenneth Arnold, June 24, 1947." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer">1st UFO Encounter Podcast - Pilot Kenneth Arnold, June 24, 1947.</a></p><p class="youtube-embed-meta">Channel: Howard&#x27;s Tech Blog &middot; Views: 190 &middot; Uploaded: October 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qJ8eLw7YCMg">Open on YouTube</a></p></div></div></div>
 
 ## The Saucer as Mass-Culture Shorthand
 
-Kenneth Arnold’s sighting became historically important not because it proved anything about extraterrestrial life, but because it gave the public a memorable image. After reporting nine unusual objects near Mount Rainier in June 1947, Arnold described their motion as resembling a saucer skipping across water. Newspapers quickly translated that description into the term “flying saucer”, and the phrase spread nationally within days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</span></span></span> Wikipedia The resulting symbol was remarkably durable. Historians of UFO culture frequently identify the Arnold case as the beginning of the modern fly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span> ing-saucer era. The Smithsonian notes that reports following Arnold’s sighting adopted the phrase and that unexplained aerial objects would subsequently be labelled “flying [saucers]({{ 'saucers/' | relative_url }})” around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span>
+Kenneth Arnold’s sighting became historically important not because it proved anything about extraterrestrial life, but because it gave the public a memorable image. After reporting nine unusual objects near Mount Rainier in June 1947, Arnold described their motion as resembling a saucer skipping across water. Newspapers quickly translated that description into the term “flying saucer”, and the phrase spread nationally within days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</span></span></span> Wikipedia The resulting symbol was remarkably durable. Historians of UFO culture frequently identify the Arnold case as the beginning of the modern fly<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span> ing-saucer era. The Smithsonian notes that reports following Arnold’s sighting adopted the phrase and that unexplained aerial objects would subsequently be labelled “flying [saucers]({{ 'saucers/' | relative_url }})” around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span>
 
 What matters for Spielberg is that this image arrived pre-loaded with meaning. By the 1970s, a glowing disc in the sky required no explanation. A filmmaker could place that silhouette on screen and immediately activate decades of cultural associations. The audience already knew they were looking at a UFO.
 
@@ -281,15 +281,15 @@ That familiarity gave Spielberg a powerful storytelling shortcut. Rather than sp
 
 ## From Invasion Silhouette to Sacred Presence
 
-Earlier science-fiction cinema often treated saucers as instruments of threat. Their smooth geometry and unexplained power made them ideal symbols of invasion. The shape could hover over cities, deliver warnings or represent an unknowable external force. During the Cold War, the saucer frequently appeared as a visual expression of anxiety about enemies arriving from beyond familiar borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How UFO Sightings Became an American Obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>
+Earlier science-fiction cinema often treated saucers as instruments of threat. Their smooth geometry and unexplained power made them ideal symbols of invasion. The shape could hover over cities, deliver warnings or represent an unknowable external force. During the Cold War, the saucer frequently appeared as a visual expression of anxiety about enemies arriving from beyond familiar borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How UFO Sightings Became an American Obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>
 
-*Close Encounters of the Third Kind* reverses that emotional coding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+*Close Encounters of the Third Kind* reverses that emotional coding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 Spielberg retained the mystery and power of the saucer image, but redirected the viewer’s response. The UFOs are intimidating because they are enormous, technologically superior and beyond human understanding. Yet the film steadily shifts those qualities away from fear and towards fascination. The unknown becomes attractive rather than merely dangerous.
 
-This approach was reinforced by Spielberg’s engagement with contemporary UFO culture. The film drew on the ideas of astronomer and UFO researcher J. Allen Hynek, whose “close encounter” classification system supplied the title and whose involvement as a consultant connected the film to existing UFO discourse. Spielberg was interested not simply in alien invasion but in the experience of encounter itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</span></span></span>
+This approach was reinforced by Spielberg’s engagement with contemporary UFO culture. The film drew on the ideas of astronomer and UFO researcher J. Allen Hynek, whose “close encounter” classification system supplied the title and whose involvement as a consultant connected the film to existing UFO discourse. Spielberg was interested not simply in alien invasion but in the experience of encounter itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</span></span></span>
 
-As a result, the saucer becomes less like a military threat and more like a revelation. The famous mothership sequence does not culminate in destruction or conquest. Instead, it resembles a ceremonial arrival. The craft emerges through music, light and communication. Viewers are encouraged to gaze upward with the characters rather than prepare for battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span>
+As a result, the saucer becomes less like a military threat and more like a revelation. The famous mothership sequence does not culminate in destruction or conquest. Instead, it resembles a ceremonial arrival. The craft emerges through music, light and communication. Viewers are encouraged to gaze upward with the characters rather than prepare for battle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span>
 
 The same silhouette that once signalled danger is transformed into a sacred presence.
 
@@ -299,9 +299,9 @@ The same silhouette that once signalled danger is transformed into a sacred pres
 
 Spielberg’s transformation worked precisely because audiences already recognised the symbol.
 
-If the spacecraft in *Close Encounters* had been completely unfamiliar, viewers would first have needed to decode its identity. The flying saucer eliminated that problem. Generations of cultural repetition had made the image instantly legible. People knew what it represented before it fully appeared on screen. National Air and Space Museum HowStuffWorks That recognition allowed Spielberg to redirect emotional expectations. Viewers approached the saucer anticipating one set of meanings and gra <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Arrival of Flying SaucersIt was Kenneth Arnold&#x27;s report of &quot;flying saucers&quot; over Mount Rainier, Washington, on June 24, 1947, that brough...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> dually discovered another. The film’s sense of wonder depends partly on this contrast. A familiar object behaves in an unfamiliar emotional register.
+If the spacecraft in *Close Encounters* had been completely unfamiliar, viewers would first have needed to decode its identity. The flying saucer eliminated that problem. Generations of cultural repetition had made the image instantly legible. People knew what it represented before it fully appeared on screen. National Air and Space Museum HowStuffWorks That recognition allowed Spielberg to redirect emotional expectations. Viewers approached the saucer anticipating one set of meanings and gra<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Arrival of Flying SaucersIt was Kenneth Arnold&#x27;s report of &quot;flying saucers&quot; over Mount Rainier, Washington, on June 24, 1947, that brough...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> dually discovered another. The film’s sense of wonder depends partly on this contrast. A familiar object behaves in an unfamiliar emotional register.
 
-The process mirrors the history of the Arnold image itself. Arnold’s report combined mystery with amazement. Even amid the confusion and debate that followed, observers were captivated by the possibility that something extraordinary had appeared in the sky. Histories of the 1947 sighting often note the mixture of technological fascination and astonishment that accompanied the first great wave of saucer reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0624first flying saucer sighting</span><span class="citation-popover-snippet">Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</span></span></span>
+The process mirrors the history of the Arnold image itself. Arnold’s report combined mystery with amazement. Even amid the confusion and debate that followed, observers were captivated by the possibility that something extraordinary had appeared in the sky. Histories of the 1947 sighting often note the mixture of technological fascination and astonishment that accompanied the first great wave of saucer reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0624first flying saucer sighting</span><span class="citation-popover-snippet">Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</span></span></span>
 
 Spielberg amplified that element and minimised the fear. He took a symbol born from uncertainty and media excitement and reframed it as a pathway to transcendence. The saucer no longer represented merely an unidentified object. It became an invitation to look beyond ordinary experience.
 
@@ -310,204 +310,204 @@ Spielberg amplified that element and minimised the fear. He took a symbol born f
 
 ## The Lasting Significance of Spielberg’s Reframing
 
-The enduring influence of *Close Encounters of the Third Kind* lies not in creating the flying-saucer image but in redefining its emotional meaning. Kenneth Arnold’s 1947 sighting helped establish the saucer as the dominant icon of UFO culture. Spielberg inherited that icon at a moment when it was already deeply embedded in public consciousness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+The enduring influence of *Close Encounters of the Third Kind* lies not in creating the flying-saucer image but in redefining its emotional meaning. Kenneth Arnold’s 1947 sighting helped establish the saucer as the dominant icon of UFO culture. Spielberg inherited that icon at a moment when it was already deeply embedded in public consciousness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 His contribution was to recharge the image with awe.
 
-Instead of presenting the saucer primarily as a threat from elsewhere, he presented it as a mystery worth approaching. Light replaced menace, communication replaced conflict, and curiosity replaced panic. Because the symbol was already familiar, audiences could immediately understand the shift. The flying saucer remained recognisably a flying saucer, but it now carried the emotional weight of wonder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Branagh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Branagh</span><span class="citation-popover-snippet">Kenneth BranaghSir Kenneth Charles Branagh (/ˈbrænə/ BRAN-ə; born 10 December 1960) is a British actor and filmmaker. Born in Belfast...</span><span class="citation-popover-meta">Published: December 1960</span></span></span>
+Instead of presenting the saucer primarily as a threat from elsewhere, he presented it as a mystery worth approaching. Light replaced menace, communication replaced conflict, and curiosity replaced panic. Because the symbol was already familiar, audiences could immediately understand the shift. The flying saucer remained recognisably a flying saucer, but it now carried the emotional weight of wonder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Branagh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Branagh</span><span class="citation-popover-snippet">Kenneth BranaghSir Kenneth Charles Branagh (/ˈbrænə/ BRAN-ə; born 10 December 1960) is a British actor and filmmaker. Born in Belfast...</span><span class="citation-popover-meta">Published: December 1960</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-3-dark.svg" | relative_url }}" alt="Arnold Saucer Awe 4 Fe 10 E illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_arnold_saucer_awe_4fe10e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Arnold Saucer Awe 4 Fe 10 E. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Arnold Saucer Awe 4 Fe 10 E. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="arnold-saucer-awe-4-fe-10-e-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,151 +713,151 @@ Instead of presenting the saucer primarily as a threat from elsewhere, he presen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</p></details>
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Kenneth Arnold was a pilot whose sighting of nine airborne objects in 1947...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sightingOn June 26, 1947, the Chicago Sun coverage of the story may have been the first use ever of the term &quot;flyin...</p></details>
    Published: June 26, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: How UFO Sightings Became an American Obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of Flying SaucersIt was Kenneth Arnold&#x27;s report of &quot;flying saucers&quot; over Mount Rainier, Washington, on June 24, 1947, that brough...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of Flying SaucersIt was Kenneth Arnold&#x27;s report of &quot;flying saucers&quot; over Mount Rainier, Washington, on June 24, 1947, that brough...</p></details>
    Published: June 24, 1947  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Kenneth Branagh  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Branagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Branagh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth BranaghSir Kenneth Charles Branagh (/ˈbrænə/ BRAN-ə; born 10 December 1960) is a British actor and filmmaker. Born in Belfast...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Branagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Branagh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth BranaghSir Kenneth Charles Branagh (/ˈbrænə/ BRAN-ə; born 10 December 1960) is a British actor and filmmaker. Born in Belfast...</p></details>
    Published: December 1960  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekHynek acted as scientific advisor to UFO studies undertaken by the U.S. Air Force under three projects: Project Sign (19...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekHynek acted as scientific advisor to UFO studies undertaken by the U.S. Air Force under three projects: Project Sign (19...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: 0624first flying saucer sighting  
-   Link: <a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</p></details>
+   Link:<a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sUGNtCw9VIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUGNtCw9VIA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sUGNtCw9VIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUGNtCw9VIA</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
+   Link:<a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</p></details>
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: The Library of Congress  
-   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Kenneth Arnold saw a number of objects “flying like saucers” while piloting a small plane over Mount Rainier in Washingto...</p></details>
+   Link:<a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Kenneth Arnold saw a number of objects “flying like saucers” while piloting a small plane over Mount Rainier in Washingto...</p></details>
    Published: June 24, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 24, 1947, wh...</p></details>
+   Link:<a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 24, 1947, wh...</p></details>
    Published: June 24, 1947  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThere has been physical evidence in the shape of unidentified flying objects (UFOs) that there are extraterrest...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThere has been physical evidence in the shape of unidentified flying objects (UFOs) that there are extraterrest...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10162431708016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162431708016696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s films about aliens and disclosure daySome of Spielberg&#x27;s biggest films have been about aliens.. Could [Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;) be his m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10162431708016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162431708016696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s films about aliens and disclosure daySome of Spielberg&#x27;s biggest films have been about aliens.. Could [Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;) be his m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scottbakal.com  
-   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
+   Link:<a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
    Published: June 25, 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fanfare.pub  
    Title: spielberg celebration revisiting close encounters of the third kind 583264a87ebb  
-   Link: <a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...2 Jun 2026 — Simon Dillon discusses Steven Spielberg&#x27;s UFO themed science f...</p></details>
+   Link:<a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...2 Jun 2026 — Simon Dillon discusses Steven Spielberg&#x27;s UFO themed science f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: evening viewing recommendation on the criterion channel watch steven spielbergs  
-   Link: <a href="https://www.facebook.com/CriterionCollection/posts/evening-viewing-recommendation-on-the-criterion-channel-watch-steven-spielbergs-/1415759607251147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CriterionCollection/posts/evening-viewing-recommendation-on-the-criterion-channel-watch-steven-spielbergs-/1415759607251147/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evening viewing recommendation? On the Criterion Channel...Watched &quot;Close Encounters of the Third Kind&quot;, a 1977 American science fiction...</p></details>
+   Link:<a href="https://www.facebook.com/CriterionCollection/posts/evening-viewing-recommendation-on-the-criterion-channel-watch-steven-spielbergs-/1415759607251147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CriterionCollection/posts/evening-viewing-recommendation-on-the-criterion-channel-watch-steven-spielbergs-/1415759607251147/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evening viewing recommendation? On the Criterion Channel...Watched &quot;Close Encounters of the Third Kind&quot;, a 1977 American science fiction...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rogerebert.com  
    Title: top secret steven spielberg on the brink of the close encounters premiere  
-   Link: <a href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top secret: Steven Spielberg on the brink of the &quot;Close...14 Dec 2012 — It fairly leaped off the page at me as a movie title.” He invite...</p></details>
+   Link:<a href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top secret: Steven Spielberg on the brink of the &quot;Close...14 Dec 2012 — It fairly leaped off the page at me as a movie title.” He invite...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discoveryuk.com  
    Title: legendary flying saucer re examining the kenneth arnold ufo sighting  
-   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — He described them as moving like “saucers skipping across water,” sparking a med...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — He described them as moving like “saucers skipping across water,” sparking a med...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: yelmonline.com  
    Title: flying saucers entered lexicon after mount rainier report,106689  
-   Link: <a href="https://www.yelmonline.com/stories/flying-saucers-entered-lexicon-after-mount-rainier-report%2C106689" target="_blank" rel="noopener noreferrer nofollow">https://www.yelmonline.com/stories/flying-saucers-entered-lexicon-after-mount-rainier-report%2C106689</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Flying Saucers&#x27; Entered Lexicon After Mount Rainier Report29 Jun 2017 — Kenneth Arnold, shown in 1966 with a drawing of a flying saucer...</p></details>
+   Link:<a href="https://www.yelmonline.com/stories/flying-saucers-entered-lexicon-after-mount-rainier-report%2C106689" target="_blank" rel="noopener noreferrer nofollow">https://www.yelmonline.com/stories/flying-saucers-entered-lexicon-after-mount-rainier-report%2C106689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Flying Saucers&#x27; Entered Lexicon After Mount Rainier Report29 Jun 2017 — Kenneth Arnold, shown in 1966 with a drawing of a flying saucer...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commons.wikimedia.org  
    Title: File:Chicago Sun 1947 06 26 2 Flying Saucer headline th.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps first-use of term &quot;flying saucer&quot; in headline from Chicago Sun about Kenneth Arnold sighting, June 26, 1947 Kenneth Arnold UFO si...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps first-use of term &quot;flying saucer&quot; in headline from Chicago Sun about Kenneth Arnold sighting, June 26, 1947 Kenneth Arnold UFO si...</p></details>
    Published: June 26, 1947  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>

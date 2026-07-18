@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-sound/
 description: Focused pages that expand on Sound Light.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_sound_light_contact_277807
 parent_title: Sound Light
@@ -16,7 +16,7 @@ parent_permalink: /sound-light/
 
 # Explore Topics in Sound Light
 
-The following pages expand on the main **[Sound Light]({{ '/sound-light/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sound Light]({{ '/sound-light/' | relative_url }})** page and cover its key branches in.
 
 - [Barry Doorway Light 93 Ac 05]({{ '/barry-doorway-light-93-ac-05/' | relative_url }})
 - [Devils Tower Light S Ce 1 D7 B]({{ '/devils-tower-light-s-ce-1-d7-b/' | relative_url }})

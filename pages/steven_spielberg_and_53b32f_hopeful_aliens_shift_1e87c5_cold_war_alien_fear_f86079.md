@@ -264,13 +264,13 @@ image: /assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_co
 
 ## Flying Saucers and Nuclear Dread
 
-The explosion of UFO interest in the late 1940s coincided with the beginning of the [Cold War]({{ 'cold-war/' | relative_url }}) and the dawn of the nuclear age. Reports of flying saucers captured public attention at the same moment that governments were developing increasingly destructive atomic weapons. Science-fiction cinema quickly fused these concerns into stories about threats arriving from the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</span></span></span> University Press & Assessment
+The explosion of UFO interest in the late 1940s coincided with the beginning of the [Cold War]({{ 'cold-war/' | relative_url }}) and the dawn of the nuclear age. Reports of flying saucers captured public attention at the same moment that governments were developing increasingly destructive atomic weapons. Science-fiction cinema quickly fused these concerns into stories about threats arriving from the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</span></span></span> University Press & Assessment
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-1-dark.svg" | relative_url }}" alt="Cold War Alien Fear illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Films such as *The War of the Worlds* (1953) transformed extraterrestrial visitors into overwhelming military dangers. The alien attack was not simply a fantasy invasion. It reflected a society learning to live with the possibility that entire cities could be destroyed without warning. The image of powerful forces descending from above echoed public fears of strategic bombing and nuclear warfare. The British Film Institute notes that atomic anxiety became a central theme of 1950s science fiction, with films repeatedly connecting extraterrestrial threats to fears of annihilation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-films-about-nuclear-apocalypse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great films about nuclear apocalypse</span><span class="citation-popover-snippet">BFI10 great films about nuclear apocalypse15 Aug 2017 — Initially, atomic anxiety was chiefly fodder for pulp cinema, a concern of scienc...</span></span></span>
+Films such as *The War of the Worlds* (1953) transformed extraterrestrial visitors into overwhelming military dangers. The alien attack was not simply a fantasy invasion. It reflected a society learning to live with the possibility that entire cities could be destroyed without warning. The image of powerful forces descending from above echoed public fears of strategic bombing and nuclear warfare. The British Film Institute notes that atomic anxiety became a central theme of 1950s science fiction, with films repeatedly connecting extraterrestrial threats to fears of annihilation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-films-about-nuclear-apocalypse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great films about nuclear apocalypse</span><span class="citation-popover-snippet">BFI10 great films about nuclear apocalypse15 Aug 2017 — Initially, atomic anxiety was chiefly fodder for pulp cinema, a concern of scienc...</span></span></span>
 
-Even movies that were not straightforward invasion stories often carried nuclear-age concerns. *The Day the Earth Stood Still* (1951) is frequently remembered as a more thoughtful and peaceful alien film, yet its message was still rooted in Cold War fears. Klaatu arrives not to befriend humanity but to warn it that nuclear aggression threatens both Earth and the wider cosmos. The film reflects the anxieties of the atomic era and presents extraterrestrial intervention as a response to humanity's dangerous technological path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">The Day the Earth Stood Still film 1951</span><span class="citation-popover-snippet">Encyclopedia BritannicaThe Day the Earth Stood Still &#124; Sci-Fi, Cold War, ClassicAmerican science-fiction film, released in 1951, that is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Day the Earth Stood StillSet in the Cold War during the early stages of the nuclear arms race, the storyline involves a humanoid a...</span></span></span>
+Even movies that were not straightforward invasion stories often carried nuclear-age concerns. *The Day the Earth Stood Still* (1951) is frequently remembered as a more thoughtful and peaceful alien film, yet its message was still rooted in Cold War fears. Klaatu arrives not to befriend humanity but to warn it that nuclear aggression threatens both Earth and the wider cosmos. The film reflects the anxieties of the atomic era and presents extraterrestrial intervention as a response to humanity's dangerous technological path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">The Day the Earth Stood Still film 1951</span><span class="citation-popover-snippet">Encyclopedia BritannicaThe Day the Earth Stood Still &#124; Sci-Fi, Cold War, ClassicAmerican science-fiction film, released in 1951, that is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Day the Earth Stood StillSet in the Cold War during the early stages of the nuclear arms race, the storyline involves a humanoid a...</span></span></span>
 
 What mattered was not whether the alien was hostile or benevolent. The very arrival of a spacecraft signalled crisis. Alien contact became a way to dramatise the fear that human civilisation stood one mistake away from catastrophe.
 
@@ -281,11 +281,11 @@ What mattered was not whether the alien was hostile or benevolent. The very arri
 
 The most influential 1950s alien films often focused less on military conquest than on infiltration. Instead of giant fleets destroying cities, these stories imagined enemies who could enter society unnoticed and replace ordinary people from within.
 
-No film illustrates this more clearly than *Invasion of the Body Snatchers* (1956). Its alien pods create emotionless duplicates of human beings, turning neighbours, friends and family into something alien while leaving their outward appearance unchanged. Critics and historians have long linked the film to Cold War paranoia, although interpretations differ over exactly what it represents. Some readers see a warning about communist infiltration, while others view it as a critique of conformity and anti-communist hysteria itself. The enduring power of the film comes from its ability to support both readings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphahistory.com">[Alpha History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphahistory.com</span><span class="citation-popover-title">invasion of the body snatchers 1956</span><span class="citation-popover-snippet">Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecine-files.com">[The Cine-Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecine-files.com</span><span class="citation-popover-snippet">The Cine-FilesTeaching Invasion of the Body Snatchers - The Cine-FilesBy exploring the varied allegorical readings of Invasion, I try to...</span></span></span>
+No film illustrates this more clearly than *Invasion of the Body Snatchers* (1956). Its alien pods create emotionless duplicates of human beings, turning neighbours, friends and family into something alien while leaving their outward appearance unchanged. Critics and historians have long linked the film to Cold War paranoia, although interpretations differ over exactly what it represents. Some readers see a warning about communist infiltration, while others view it as a critique of conformity and anti-communist hysteria itself. The enduring power of the film comes from its ability to support both readings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphahistory.com">[Alpha History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphahistory.com</span><span class="citation-popover-title">invasion of the body snatchers 1956</span><span class="citation-popover-snippet">Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecine-files.com">[The Cine-Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecine-files.com</span><span class="citation-popover-snippet">The Cine-FilesTeaching Invasion of the Body Snatchers - The Cine-FilesBy exploring the varied allegorical readings of Invasion, I try to...</span></span></span>
 
-The fear at the centre of the story is not merely invasion. It is uncertainty about who can be trusted. The enemy may already be inside the community, hidden behind familiar faces. That anxiety closely mirrored Cold War concerns about spies, ideological subversion and hidden loyalties. Scholars and film historians frequently identify the film as one of the clearest expressions of the period's culture of suspicion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apjjf.org/2020/12/morris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apjjf.org">[Asia-Pacific Journal: Japan Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apjjf.org</span><span class="citation-popover-snippet">Asia-Pacific Journal: Japan FocusCold War Panic and the Korean War Film: From Bamboo...Jun 5, 2020 — Korean War film, anti-communism, Co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphahistory.com">[Alpha History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphahistory.com</span><span class="citation-popover-title">invasion of the body snatchers 1956</span><span class="citation-popover-snippet">Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</span></span></span>
+The fear at the centre of the story is not merely invasion. It is uncertainty about who can be trusted. The enemy may already be inside the community, hidden behind familiar faces. That anxiety closely mirrored Cold War concerns about spies, ideological subversion and hidden loyalties. Scholars and film historians frequently identify the film as one of the clearest expressions of the period's culture of suspicion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apjjf.org/2020/12/morris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apjjf.org">[Asia-Pacific Journal: Japan Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apjjf.org</span><span class="citation-popover-snippet">Asia-Pacific Journal: Japan FocusCold War Panic and the Korean War Film: From Bamboo...Jun 5, 2020 — Korean War film, anti-communism, Co...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphahistory.com">[Alpha History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphahistory.com</span><span class="citation-popover-title">invasion of the body snatchers 1956</span><span class="citation-popover-snippet">Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</span></span></span>
 
-Other films explored similar ideas through different monsters and invaders. The common pattern was a society threatened by forces that were difficult to identify, impossible to negotiate with and capable of spreading rapidly. Whether the menace arrived as aliens, mutants or mysterious creatures, the narrative often reflected fears that ordinary social structures could collapse from within. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span>
+Other films explored similar ideas through different monsters and invaders. The common pattern was a society threatened by forces that were difficult to identify, impossible to negotiate with and capable of spreading rapidly. Whether the menace arrived as aliens, mutants or mysterious creatures, the narrative often reflected fears that ordinary social structures could collapse from within.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TypAFO1XDlI" title="Nuclear Nightmares and Alien Invasions: Scifi in USA during the Cold War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TypAFO1XDlI" target="_blank" rel="noopener noreferrer">Nuclear Nightmares and Alien Invasions: Scifi in USA during the Cold War</a></p><p class="youtube-embed-meta">Channel: The Cold War &middot; Views: 18.0K &middot; Uploaded: December 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TypAFO1XDlI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TypAFO1XDlI">Open on YouTube</a></p></div></div></div>
@@ -296,207 +296,207 @@ Other films explored similar ideas through different monsters and invaders. The 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-2-dark.svg" | relative_url }}" alt="Cold War Alien Fear illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hopeful_aliens_shift_1e87c5_cold_war_alien_fear_f86079-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Threat Became the Default Alien Language
 
-The dominance of hostile aliens in the 1950s was not accidental. Science fiction provided a safe way to discuss real-world fears without directly naming them. Alien invaders could stand in for foreign enemies, ideological rivals, nuclear dangers or anxieties about rapid technological change. Because the threats were fictional, filmmakers could explore extreme scenarios while remaining within the conventions of entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openworks.wooster.edu/independentstudy/6756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openworks.wooster.edu">[Open Works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openworks.wooster.edu</span><span class="citation-popover-snippet">Science fiction films of the 1950s illustrated the complexities of Cold War America following World War II. While many view the culture o...</span></span></span>
+The dominance of hostile aliens in the 1950s was not accidental. Science fiction provided a safe way to discuss real-world fears without directly naming them. Alien invaders could stand in for foreign enemies, ideological rivals, nuclear dangers or anxieties about rapid technological change. Because the threats were fictional, filmmakers could explore extreme scenarios while remaining within the conventions of entertainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://openworks.wooster.edu/independentstudy/6756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openworks.wooster.edu">[Open Works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openworks.wooster.edu</span><span class="citation-popover-snippet">Science fiction films of the 1950s illustrated the complexities of Cold War America following World War II. While many view the culture o...</span></span></span>
 
-The structure of these stories also reinforced a defensive mindset. Governments, scientists and military institutions usually occupied centre stage. The key questions were practical and urgent: What is the threat? How dangerous is it? How can it be stopped? Communication with the alien was rarely the goal. Survival was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span>
+The structure of these stories also reinforced a defensive mindset. Governments, scientists and military institutions usually occupied centre stage. The key questions were practical and urgent: What is the threat? How dangerous is it? How can it be stopped? Communication with the alien was rarely the goal. Survival was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span>
 
-This helps explain why Spielberg's later UFO films felt so different. By the time *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* arrived in 1977, audiences had decades of cinematic conditioning that associated unidentified craft with invasion, [secrecy]({{ 'secrecy/' | relative_url }}) and disaster. Spielberg did not invent the idea of a non-hostile visitor—*The Day the Earth Stood Still* had already offered one important example—but he shifted the emotional centre of the encounter. Against a long tradition in which aliens symbolised Cold War danger, he made the unknown a source of wonder and communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-films-about-atomic-age" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great films about atomic age</span><span class="citation-popover-snippet">10 great films about the atomic age13 Jul 2023 — The Day the Earth Stood Still (1951). In this classic of 1950s sci-fi ... stands as a de...</span></span></span>
+This helps explain why Spielberg's later UFO films felt so different. By the time *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* arrived in 1977, audiences had decades of cinematic conditioning that associated unidentified craft with invasion, [secrecy]({{ 'secrecy/' | relative_url }}) and disaster. Spielberg did not invent the idea of a non-hostile visitor—*The Day the Earth Stood Still* had already offered one important example—but he shifted the emotional centre of the encounter. Against a long tradition in which aliens symbolised Cold War danger, he made the unknown a source of wonder and communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-films-about-atomic-age" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great films about atomic age</span><span class="citation-popover-snippet">10 great films about the atomic age13 Jul 2023 — The Day the Earth Stood Still (1951). In this classic of 1950s sci-fi ... stands as a de...</span></span></span>
 
-The significance of the 1950s invasion cycle lies precisely in how dominant its assumptions became. For a generation of moviegoers, the appearance of a flying saucer meant that something had gone wrong. Alien contact was not an invitation to understand the universe. It was evidence that the nightmare had already begun. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</span></span></span>
+The significance of the 1950s invasion cycle lies precisely in how dominant its assumptions became. For a generation of moviegoers, the appearance of a flying saucer meant that something had gone wrong. Alien contact was not an invitation to understand the universe. It was evidence that the nightmare had already begun.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LaDO4TW7POk" title="Invasion Of The Body Snatchers (1956)-16 WEIRD Facts About The Movie That Made EVERYONE PARANOID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LaDO4TW7POk" target="_blank" rel="noopener noreferrer">Invasion Of The Body Snatchers (1956)-16 WEIRD Facts About The Movie That Made EVERYONE PARANOID</a></p><p class="youtube-embed-meta">Channel: Just Iconic Rewinds &middot; Views: 9.3K &middot; Uploaded: October 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LaDO4TW7POk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LaDO4TW7POk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Cold War Alien Fear. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Cold War Alien Fear. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="cold-war-alien-fear-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,144 +702,144 @@ The significance of the 1950s invasion cycle lies precisely in how dominant its 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</p></details>
+   Link:<a href="https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/arts/culture-magazines/science-fiction-films-and-cold-war-anxiety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction Films and Cold War AnxietyFour major themes can be seen in the science fiction films of the fifties: (1) Extraterrestrial...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: resolve.cambridge.org  
    Title: University Press & Assessment2  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4F77995811535B3CA2ACD5BD78ACDAEB/9780748628704c2_p29-74_CBO.pdf/science-fiction-films-in-the-1950s.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE FICTION FILMS IN THE 1950sSo, the so-called flying saucer became a central part of 1950s culture and fed into the fears and anxie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: The Day the Earth Stood Still film 1951  
-   Link: <a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaThe Day the Earth Stood Still | Sci-Fi, Cold War, ClassicAmerican science-fiction film, released in 1951, that is...</p></details>
+   Link:<a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaThe Day the Earth Stood Still | Sci-Fi, Cold War, ClassicAmerican science-fiction film, released in 1951, that is...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillSet in the Cold War during the early stages of the nuclear arms race, the storyline involves a humanoid a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillSet in the Cold War during the early stages of the nuclear arms race, the storyline involves a humanoid a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: Horror Films Have Always Tapped Into Pop Culture's Most Urgent Fears  
-   Link: <a href="https://time.com/5891305/horror-movies-coronavirus-history-genre/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5891305/horror-movies-coronavirus-history-genre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Will Be Their Next InspirationHorror films have historically reflected societal fears during pivotal moments in history, using t...</p></details>
+   Link:<a href="https://time.com/5891305/horror-movies-coronavirus-history-genre/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5891305/horror-movies-coronavirus-history-genre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Will Be Their Next InspirationHorror films have historically reflected societal fears during pivotal moments in history, using t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/1950s" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1950s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1950sDuring the 1950s, the world population increased from 2.5 to 3.0 billion, with approximately 1 billion births and 500 million dea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1950s" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1950s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950sDuring the 1950s, the world population increased from 2.5 to 3.0 billion, with approximately 1 billion births and 500 million dea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Invasion (2021 TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Invasion_%282021_TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invasion_%282021_TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion (2021 TV series)Invasion is an American science fiction television series created by Simon Kinberg and David Weil that premie...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Invasion_%282021_TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invasion_%282021_TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion (2021 TV series)Invasion is an American science fiction television series created by Simon Kinberg and David Weil that premie...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: History of science fiction films  
-   Link: <a href="https://en.wikipedia.org/wiki/History_of_science_fiction_films" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_science_fiction_films</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of science fiction filmsIndependence Day (1996 in film) recycled the 1950s alien invasion films, with rapacious, all-consuming...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/History_of_science_fiction_films" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_science_fiction_films</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of science fiction filmsIndependence Day (1996 in film) recycled the 1950s alien invasion films, with rapacious, all-consuming...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Invasion of the Body Snatchers  
-   Link: <a href="https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body SnatchersThe film&#x27;s storyline concerns an extraterrestrial invasion that begins in the fictional California town...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body SnatchersThe film&#x27;s storyline concerns an extraterrestrial invasion that begins in the fictional California town...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kids.britannica.com  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still - StudentsThe movie, which was directed by Robert Wise, reflects the fears and anxiety of the Cold War era and...</p></details>
+   Link:<a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still - StudentsThe movie, which was directed by Robert Wise, reflects the fears and anxiety of the Cold War era and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: alphahistory.com  
    Title: invasion of the body snatchers 1956  
-   Link: <a href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</p></details>
+   Link:<a href="https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://alphahistory.com/coldwar/invasion-of-the-body-snatchers-1956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alpha HistoryInvasion of the Body Snatchers (1956)The alien infiltration of society reflects Cold War paranoia about spies and secrecy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thecine-files.com  
-   Link: <a href="https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cine-FilesTeaching Invasion of the Body Snatchers - The Cine-FilesBy exploring the varied allegorical readings of Invasion, I try to...</p></details>
+   Link:<a href="https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecine-files.com/teaching-invasion-of-the-body-snatchers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cine-FilesTeaching Invasion of the Body Snatchers - The Cine-FilesBy exploring the varied allegorical readings of Invasion, I try to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apjjf.org  
-   Link: <a href="https://apjjf.org/2020/12/morris" target="_blank" rel="noopener noreferrer nofollow">https://apjjf.org/2020/12/morris</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asia-Pacific Journal: Japan FocusCold War Panic and the Korean War Film: From Bamboo...Jun 5, 2020 — Korean War film, anti-communism, Co...</p></details>
+   Link:<a href="https://apjjf.org/2020/12/morris" target="_blank" rel="noopener noreferrer nofollow">https://apjjf.org/2020/12/morris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asia-Pacific Journal: Japan FocusCold War Panic and the Korean War Film: From Bamboo...Jun 5, 2020 — Korean War film, anti-communism, Co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: openworks.wooster.edu  
-   Link: <a href="https://openworks.wooster.edu/independentstudy/6756/" target="_blank" rel="noopener noreferrer nofollow">https://openworks.wooster.edu/independentstudy/6756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science fiction films of the 1950s illustrated the complexities of Cold War America following World War II. While many view the culture o...</p></details>
+   Link:<a href="https://openworks.wooster.edu/independentstudy/6756/" target="_blank" rel="noopener noreferrer nofollow">https://openworks.wooster.edu/independentstudy/6756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science fiction films of the 1950s illustrated the complexities of Cold War America following World War II. While many view the culture o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scifist.net  
    Title: invasion of the body snatchers  
-   Link: <a href="https://scifist.net/2021/10/19/invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow">https://scifist.net/2021/10/19/invasion-of-the-body-snatchers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 19, 2021 — Invasion of the Body Snatchers. 1956, USA. Directed by Don Siegel. Written by Daniel Mainwaring, Richard Collins. Based on...</p></details>
+   Link:<a href="https://scifist.net/2021/10/19/invasion-of-the-body-snatchers/" target="_blank" rel="noopener noreferrer nofollow">https://scifist.net/2021/10/19/invasion-of-the-body-snatchers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 19, 2021 — Invasion of the Body Snatchers. 1956, USA. Directed by Don Siegel. Written by Daniel Mainwaring, Richard Collins. Based on...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conservatives And Liberals Square Off in 1950s Science...This chapter interrogates the alien invasion film and argues that they are able...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232958649_Cold_War_Fears_Cold_War_Passions_Conservatives_And_Liberals_Square_Off_in_1950s_Science_Fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conservatives And Liberals Square Off in 1950s Science...This chapter interrogates the alien invasion film and argues that they are able...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; MeaningThe meaning of THE is —used as a function word to indicate that a following noun or noun equivalent is definite o...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; MeaningThe meaning of THE is —used as a function word to indicate that a following noun or noun equivalent is definite o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: invasion of the body snatchers 1956released during the cold war don siegles esse  
-   Link: <a href="https://www.facebook.com/TheMovieGal/posts/invasion-of-the-body-snatchers-1956released-during-the-cold-war-don-siegles-esse/990734615207437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMovieGal/posts/invasion-of-the-body-snatchers-1956released-during-the-cold-war-don-siegles-esse/990734615207437/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body Snatchers (1956) Released during...Invasion of the Body Snatchers (1956) directed by Don Siegel, is a classic scien...</p></details>
+   Link:<a href="https://www.facebook.com/TheMovieGal/posts/invasion-of-the-body-snatchers-1956released-during-the-cold-war-don-siegles-esse/990734615207437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMovieGal/posts/invasion-of-the-body-snatchers-1956released-during-the-cold-war-don-siegles-esse/990734615207437/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion of the Body Snatchers (1956) Released during...Invasion of the Body Snatchers (1956) directed by Don Siegel, is a classic scien...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theteachersinstitute.org  
-   Link: <a href="https://theteachersinstitute.org/wp-content/uploads/2018/12/Shust-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theteachersinstitute.org/wp-content/uploads/2018/12/Shust-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y will be explored through Heinlein&#x27;s The Puppet Masters and the 1953 film Invaders from Mars.Read more...</p></details>
+   Link:<a href="https://theteachersinstitute.org/wp-content/uploads/2018/12/Shust-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theteachersinstitute.org/wp-content/uploads/2018/12/Shust-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y will be explored through Heinlein&#x27;s The Puppet Masters and the 1953 film Invaders from Mars.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: trustory.fm  
    Title: 1950s science fiction atomic age anxiety with robert horton  
-   Link: <a href="https://trustory.fm/cinemascope/1950s-science-fiction-atomic-age-anxiety-with-robert-horton/" target="_blank" rel="noopener noreferrer nofollow">https://trustory.fm/cinemascope/1950s-science-fiction-atomic-age-anxiety-with-robert-horton/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1950s Science Fiction: Atomic Age Anxiety (with Robert...Jan 28, 2026 — Across invasion stories, mutation nightmares, and post-apocalyps...</p></details>
+   Link:<a href="https://trustory.fm/cinemascope/1950s-science-fiction-atomic-age-anxiety-with-robert-horton/" target="_blank" rel="noopener noreferrer nofollow">https://trustory.fm/cinemascope/1950s-science-fiction-atomic-age-anxiety-with-robert-horton/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950s Science Fiction: Atomic Age Anxiety (with Robert...Jan 28, 2026 — Across invasion stories, mutation nightmares, and post-apocalyps...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: humanities.org  
-   Link: <a href="https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Critic Robert Horton Discusses Sci-Fi Films, the Cold...What: Robert Horton&#x27;s Alien Encounters: Sci-Fi Movies and the Cold War Cul...</p></details>
+   Link:<a href="https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Critic Robert Horton Discusses Sci-Fi Films, the Cold...What: Robert Horton&#x27;s Alien Encounters: Sci-Fi Movies and the Cold War Cul...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bookerhorror.com  
    Title: the day the earth stood still 1951 director robert wise  
-   Link: <a href="https://bookerhorror.com/the-day-the-earth-stood-still-1951-director-robert-wise/" target="_blank" rel="noopener noreferrer nofollow">https://bookerhorror.com/the-day-the-earth-stood-still-1951-director-robert-wise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DAY THE EARTH STOOD STILL (1951, Director...The Day the Earth Stood Still, a statement in favor of international peace and cooperati...</p></details>
+   Link:<a href="https://bookerhorror.com/the-day-the-earth-stood-still-1951-director-robert-wise/" target="_blank" rel="noopener noreferrer nofollow">https://bookerhorror.com/the-day-the-earth-stood-still-1951-director-robert-wise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE DAY THE EARTH STOOD STILL (1951, Director...The Day the Earth Stood Still, a statement in favor of international peace and cooperati...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: enculturation.net  
    Title: Invasion of the Body Snatchers and Invaders from Mars  
-   Link: <a href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow">https://enculturation.net/1_1/hardin.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... alien threat in the film must correspond to an exte...</p></details>
+   Link:<a href="https://enculturation.net/1_1/hardin.html" target="_blank" rel="noopener noreferrer nofollow">https://enculturation.net/1_1/hardin.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War paranoia, while specifically alluding to Invasion of the Body Snatchers:... alien threat in the film must correspond to an exte...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nmnaturalhistory.org  
    Title: science fiction or fact day earth stood still 1951  
-   Link: <a href="https://www.nmnaturalhistory.org/events/science-fiction-or-fact-day-earth-stood-still-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.nmnaturalhistory.org/events/science-fiction-or-fact-day-earth-stood-still-1951</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction or Fact: The Day the Earth Stood Still (1951)The film was made during the “Cold War” and the nuclear arms race, and the s...</p></details>
+   Link:<a href="https://www.nmnaturalhistory.org/events/science-fiction-or-fact-day-earth-stood-still-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.nmnaturalhistory.org/events/science-fiction-or-fact-day-earth-stood-still-1951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction or Fact: The Day the Earth Stood Still (1951)The film was made during the “Cold War” and the nuclear arms race, and the s...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: coldwarstudies.com  
    Title: the scary cold war 1950s science fiction films  
-   Link: <a href="https://coldwarstudies.com/2023/09/14/the-scary-cold-war-1950s-science-fiction-films/" target="_blank" rel="noopener noreferrer nofollow">https://coldwarstudies.com/2023/09/14/the-scary-cold-war-1950s-science-fiction-films/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scary Cold War: 1950s Science Fiction FilmsSep 14, 2023 — 1950s Sci-Fi Movies and Cold War Fears · Alien Invasion and Infiltration ·...</p></details>
+   Link:<a href="https://coldwarstudies.com/2023/09/14/the-scary-cold-war-1950s-science-fiction-films/" target="_blank" rel="noopener noreferrer nofollow">https://coldwarstudies.com/2023/09/14/the-scary-cold-war-1950s-science-fiction-films/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scary Cold War: 1950s Science Fiction FilmsSep 14, 2023 — 1950s Sci-Fi Movies and Cold War Fears · Alien Invasion and Infiltration ·...</p></details>

@@ -259,7 +259,7 @@ image: /assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sun
 
 ## Introduction
 
-Roy Neary’s sunburn in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* is one of Steven Spielberg’s most important pieces of UFO evidence because it occupies an uncomfortable middle ground between proof and uncertainty. The burn demonstrates that Roy experienced a real physical event. Unlike a memory, dream, or verbal account, a mark on the body can be seen by other people. Yet the burn cannot identify its cause. It shows that something happened to Roy, but it does not establish that extraterrestrials caused it. That distinction is crucial to Spielberg’s larger concern with witness [credibility]({{ 'credibility/' | relative_url }}): physical traces make testimony stronger, but they do not end the argument. The audience is asked to recognise the burn as evidence while also recognising its limitations. In that tension, Spielberg finds the central problem of UFO witnessing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Roy Neary’s sunburn in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* is one of Steven Spielberg’s most important pieces of UFO evidence because it occupies an uncomfortable middle ground between proof and uncertainty. The burn demonstrates that Roy experienced a real physical event. Unlike a memory, dream, or verbal account, a mark on the body can be seen by other people. Yet the burn cannot identify its cause. It shows that something happened to Roy, but it does not establish that extraterrestrials caused it. That distinction is crucial to Spielberg’s larger concern with witness [credibility]({{ 'credibility/' | relative_url }}): physical traces make testimony stronger, but they do not end the argument. The audience is asked to recognise the burn as evidence while also recognising its limitations. In that tension, Spielberg finds the central problem of UFO witnessing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-1-dark.svg" | relative_url }}" alt="Sunburn Physical Evi 53 C4 C1 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,7 +267,7 @@ Roy Neary’s sunburn in *[Close Encounters]({{ 'close-encounters/' | relative_u
 
 Early in the film, Roy encounters a brilliant unidentified object while investigating a power outage. Afterwards, he is left with a noticeable facial sunburn. The injury immediately changes the status of his testimony. Before the burn, Roy possesses only a personal story. After the burn, he possesses a physical consequence.
 
-This matters because bodily evidence appears more objective than memory. A witness can misremember details, exaggerate, or be dismissed as unreliable. A burn, however, exists independently of the witness’s interpretation. Other characters can see it. The audience can see it. The mark therefore functions as corroboration that Roy’s experience was not entirely imaginary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christandpopculture.com">[Christ and Pop Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christandpopculture.com</span><span class="citation-popover-snippet">Christ and Pop CultureAn Unlikely Knight of Faith: Roy Neary&#x27;s Religious Journey...August 17, 2015 — 17 Aug 2015 — At this point, Roy ha...</span><span class="citation-popover-meta">Published: August 17, 2015</span></span></span>
+This matters because bodily evidence appears more objective than memory. A witness can misremember details, exaggerate, or be dismissed as unreliable. A burn, however, exists independently of the witness’s interpretation. Other characters can see it. The audience can see it. The mark therefore functions as corroboration that Roy’s experience was not entirely imaginary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christandpopculture.com">[Christ and Pop Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christandpopculture.com</span><span class="citation-popover-snippet">Christ and Pop CultureAn Unlikely Knight of Faith: Roy Neary&#x27;s Religious Journey...August 17, 2015 — 17 Aug 2015 — At this point, Roy ha...</span><span class="citation-popover-meta">Published: August 17, 2015</span></span></span>
 
 At the same time, the burn does not answer the essential question. Physical evidence can establish occurrence without establishing meaning. A person can be injured by sunlight, chemicals, heat, electricity, machinery, or countless other causes. The mark proves contact with a powerful source of energy, but not the identity of that source.
 
@@ -279,7 +279,7 @@ Human beings generally trust material evidence more than testimony. A witness ac
 
 Spielberg exploits this instinct. Roy’s burn encourages viewers to feel that his claims deserve greater consideration than they otherwise would. The injury gives his story weight without transforming it into certainty.
 
-This approach parallels ideas found in UFO classification systems that influenced the film. Astronomer and UFO investigator J. Allen Hynek distinguished ordinary sightings from cases involving physical effects. In Hynek’s framework, physiological effects on [witnesses]({{ 'witnesses/' | relative_url }}), heat sensations, burns, electronic interference, and environmental traces all counted as stronger forms of evidence because they extended beyond simple observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</span></span></span>
+This approach parallels ideas found in UFO classification systems that influenced the film. Astronomer and UFO investigator J. Allen Hynek distinguished ordinary sightings from cases involving physical effects. In Hynek’s framework, physiological effects on [witnesses]({{ 'witnesses/' | relative_url }}), heat sensations, burns, electronic interference, and environmental traces all counted as stronger forms of evidence because they extended beyond simple observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgN2zyCUzGk" title="Close Encounters of the Third Kind | Spacecraft Burns Roy&#x27;s Face | Voyage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind | Spacecraft Burns Roy&#x27;s Face | Voyage</a></p><p class="youtube-embed-meta">Channel: Voyage &middot; Views: 2.1K &middot; Uploaded: March 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgN2zyCUzGk">Open on YouTube</a></p></div></div></div>
@@ -325,13 +325,13 @@ Spielberg repeatedly structures UFO evidence in this way. Characters accumulate 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-2-dark.svg" | relative_url }}" alt="Sunburn Physical Evi 53 C4 C1 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Second-Kind Effects Raise but Do Not Settle Credibility
 
-The sunburn closely resembles what UFO researchers have historically called a "close encounter of the second kind". Hynek defined these cases as encounters involving physical effects rather than mere observation. Examples included burns, heat sensations, physiological reactions, scorched vegetation, ground traces, and interference with vehicles or electronics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</span></span></span>
+The sunburn closely resembles what UFO researchers have historically called a "close encounter of the second kind". Hynek defined these cases as encounters involving physical effects rather than mere observation. Examples included burns, heat sensations, physiological reactions, scorched vegetation, ground traces, and interference with vehicles or electronics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</span></span></span>
 
 Within that framework, a physical effect is important because it raises the evidential threshold. A witness who merely reports a light in the sky can be accused of misidentification. A witness who also experiences measurable physical consequences appears more difficult to dismiss.
 
 Yet even second-kind effects remain incomplete evidence. A scorched field proves scorching. A stalled engine proves malfunction. A burn proves injury. None automatically prove extraterrestrial visitation.
 
-Spielberg understands this distinction and builds it into Roy’s story. The sunburn pushes him beyond the category of a person who simply claims to have seen something strange. It places him in a category where a tangible consequence exists. However, the film never treats that consequence as self-interpreting. The mark supports Roy's testimony without conclusively validating his explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awakenche.org">[Awaken Church]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awakenche.org</span><span class="citation-popover-snippet">Awaken ChurchClose Encounters of the Second KindA Close Encounter of the Second Kind (CE-2) occurs when a UFO sighting is accompanied by...</span></span></span>
+Spielberg understands this distinction and builds it into Roy’s story. The sunburn pushes him beyond the category of a person who simply claims to have seen something strange. It places him in a category where a tangible consequence exists. However, the film never treats that consequence as self-interpreting. The mark supports Roy's testimony without conclusively validating his explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awakenche.org">[Awaken Church]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awakenche.org</span><span class="citation-popover-snippet">Awaken ChurchClose Encounters of the Second KindA Close Encounter of the Second Kind (CE-2) occurs when a UFO sighting is accompanied by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lIGQii6wA04" title="This Man Sparked Spielberg&#x27;s Interest in UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer">This Man Sparked Spielberg&#x27;s Interest in UFOs</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lIGQii6wA04">Open on YouTube</a></p></div></div></div>
@@ -344,200 +344,200 @@ Spielberg needs evidence that can be shared socially. Roy’s private conviction
 
 Yet Spielberg carefully avoids making that bridge complete. The burn is persuasive because it is real, but frustrating because it is inconclusive. It cannot independently reveal whether Roy encountered aliens, advanced technology, a natural phenomenon, or something else entirely.
 
-That unresolved status mirrors a broader theme running through *Close Encounters of the Third Kind*: witnesses often possess enough evidence to know that disbelief is inadequate, but not enough evidence to compel universal agreement. Roy’s sunburn is therefore not simply a special effect or plot detail. It is a compact illustration of Spielberg’s central UFO question. Physical traces can strengthen testimony, but they cannot by themselves determine what the testimony means. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">, sighting of a UFO with physical trace evidence, and contact...Read more...</span></span></span>
+That unresolved status mirrors a broader theme running through *Close Encounters of the Third Kind*: witnesses often possess enough evidence to know that disbelief is inadequate, but not enough evidence to compel universal agreement. Roy’s sunburn is therefore not simply a special effect or plot detail. It is a compact illustration of Spielberg’s central UFO question. Physical traces can strengthen testimony, but they cannot by themselves determine what the testimony means.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">, sighting of a UFO with physical trace evidence, and contact...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-3-dark.svg" | relative_url }}" alt="Sunburn Physical Evi 53 C4 C1 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_sunburn_physical_evi_53c4c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Sunburn Physical Evi 53 C4 C1. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Sunburn Physical Evi 53 C4 C1. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="sunburn-physical-evi-53-c4-c1-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ That unresolved status mirrors a broader theme running through *Close Encounters
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ That unresolved status mirrors a broader theme running through *Close Encounters
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ That unresolved status mirrors a broader theme running through *Close Encounters
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ That unresolved status mirrors a broader theme running through *Close Encounters
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ That unresolved status mirrors a broader theme running through *Close Encounters
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,98 +743,98 @@ That unresolved status mirrors a broader theme running through *Close Encounters
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, sighting of a UFO with physical trace evidence, and contact...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, sighting of a UFO with physical trace evidence, and contact...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</p></details>
+   Link:<a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHynek&#x27;s Close Encounters ScaleClose Encounters of the Second Kind: A UFO event in which a physical eff...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | Spacecraft Burns Roy's Face | Voyage  
-   Link: <a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgN2zyCUzGk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgN2zyCUzGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: christandpopculture.com  
-   Link: <a href="https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys" target="_blank" rel="noopener noreferrer nofollow">https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Christ and Pop CultureAn Unlikely Knight of Faith: Roy Neary&#x27;s Religious Journey...August 17, 2015 — 17 Aug 2015 — At this point, Roy ha...</p></details>
+   Link:<a href="https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys" target="_blank" rel="noopener noreferrer nofollow">https://christandpopculture.com/an-unlikely-knight-of-faith-[roy-nearys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christ and Pop CultureAn Unlikely Knight of Faith: Roy Neary&#x27;s Religious Journey...August 17, 2015 — 17 Aug 2015 — At this point, Roy ha...</p></details>
    Published: August 17, 2015  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: awakenche.org  
-   Link: <a href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow">https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Awaken ChurchClose Encounters of the Second KindA Close Encounter of the Second Kind (CE-2) occurs when a UFO sighting is accompanied by...</p></details>
+   Link:<a href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow">https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Awaken ChurchClose Encounters of the Second KindA Close Encounter of the Second Kind (CE-2) occurs when a UFO sighting is accompanied by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brevitymag.com  
    Title: close encounters  
-   Link: <a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As is the case with a first-, second-, or third-degree burn, the larger the number, the closer...Read more...</p></details>
+   Link:<a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As is the case with a first-, second-, or third-degree burn, the larger the number, the closer...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kardashev.fandom.com  
-   Link: <a href="https://kardashev.fandom.com/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://kardashev.fandom.com/wiki/UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kardashev Scale Wiki | FandomClose Encounters of the Second Kind. A UFO event in which a physical effect is alleged; this can be interf...</p></details>
+   Link:<a href="https://kardashev.fandom.com/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://kardashev.fandom.com/wiki/UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kardashev Scale Wiki | FandomClose Encounters of the Second Kind. A UFO event in which a physical effect is alleged; this can be interf...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160826114946696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160826114946696/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Plot DiscussionSo, like the intentional aliens, said Nordics were, they took matters into their own ha...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160826114946696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160826114946696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Plot DiscussionSo, like the intentional aliens, said Nordics were, they took matters into their own ha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/poll/zfhvKxjsHHY/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/poll/zfhvKxjsHHY/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poll: Close Encounters: Fact or FictionIn ufology, a close encounter is an event in which a person witnesses an unidentified flying objec...</p></details>
+   Link:<a href="https://www.imdb.com/poll/zfhvKxjsHHY/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/poll/zfhvKxjsHHY/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poll: Close Encounters: Fact or FictionIn ufology, a close encounter is an event in which a person witnesses an unidentified flying objec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/sci-fi-movie-reviews/review-3-close-encounters-of-the-third-kind-a39c85179e1e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/sci-fi-movie-reviews/review-3-close-encounters-of-the-third-kind-a39c85179e1e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review #3: Close Encounters of the Third KindRoy has an obsession with UFOs, and keeps newspaper and magazine articles on UFO sightings a...</p></details>
+   Link:<a href="https://medium.com/sci-fi-movie-reviews/review-3-close-encounters-of-the-third-kind-a39c85179e1e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/sci-fi-movie-reviews/review-3-close-encounters-of-the-third-kind-a39c85179e1e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review #3: Close Encounters of the Third KindRoy has an obsession with UFOs, and keeps newspaper and magazine articles on UFO sightings a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZY2sTyxVJe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZY2sTyxVJe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roy Neary, Close Encounters of the Third KindAfter a mysterious encounter with a UFO, ordinary husband and father Roy Neary... Aliens Sc...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZY2sTyxVJe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZY2sTyxVJe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roy Neary, Close Encounters of the Third KindAfter a mysterious encounter with a UFO, ordinary husband and father Roy Neary... Aliens Sc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: studyguides.com  
-   Link: <a href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</p></details>
+   Link:<a href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationA close encounter of the first kind is a visual sighting of a UFO. The second kind involves the UFO leaving some kind of a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationA close encounter of the first kind is a visual sighting of a UFO. The second kind involves the UFO leaving some kind of a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: leifericksonwriting.com  
    Title: Close Encounters – Sightings and Abductions Close Encounters of the Second Kind  
-   Link: <a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters of the second kind, CE2, is an event where physical effects have been noted. This includes a wide range...Read more...</p></details>
+   Link:<a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters of the second kind, CE2, is an event where physical effects have been noted. This includes a wide range...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scottholleran.com  
    Title: movie analysis close encounters of the third kind 1977  
-   Link: <a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — If Roy goes batty while obsessing after encountering an unidentifi...</p></details>
+   Link:<a href="https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottholleran.com/movies/movie-analysis-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Analysis: Close Encounters of the Third Kind (1977)4 Sept 2017 — If Roy goes batty while obsessing after encountering an unidentifi...</p></details>

@@ -259,17 +259,17 @@ image: /assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_ba
 
 ## Introduction
 
-In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Steven Spielberg gives one of his clearest child-centred UFO sequences to Barry Guiler, a very young boy whose first contact with the unknown arrives not through scientific investigation or government briefing, but through toys, lights and play. Before the film turns towards the terror of abduction, Barry’s experience is defined by delight. The sequence is crucial because it establishes a distinctive Spielberg idea: a child may recognise wonder in an alien presence before adults recognise danger. The result is a scene that feels magical and unsettling at the same time, capturing the emotional ambiguity that runs through Spielberg’s UFO imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Steven Spielberg gives one of his clearest child-centred UFO sequences to Barry Guiler, a very young boy whose first contact with the unknown arrives not through scientific investigation or government briefing, but through toys, lights and play. Before the film turns towards the terror of abduction, Barry’s experience is defined by delight. The sequence is crucial because it establishes a distinctive Spielberg idea: a child may recognise wonder in an alien presence before adults recognise danger. The result is a scene that feels magical and unsettling at the same time, capturing the emotional ambiguity that runs through Spielberg’s UFO imagination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-1-dark.svg" | relative_url }}" alt="Barry Toy Room Wonde Fb 9 Ec 6 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Animated Toys as the First Sign of Contact
 
-Barry’s encounter begins in the most familiar space imaginable: his bedroom. During the night, toys begin operating by themselves, creating movement and noise where there should be stillness. Rather than presenting the UFO phenomenon through distant lights in the sky, Spielberg brings it directly into a child’s world. The first evidence of alien presence is not technological spectacle but the sudden animation of objects associated with childhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+Barry’s encounter begins in the most familiar space imaginable: his bedroom. During the night, toys begin operating by themselves, creating movement and noise where there should be stillness. Rather than presenting the UFO phenomenon through distant lights in the sky, Spielberg brings it directly into a child’s world. The first evidence of alien presence is not technological spectacle but the sudden animation of objects associated with childhood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
-The AFI Catalog summary describes Barry awakening as his toys begin operating independently, after which he goes downstairs and discovers the house flooded with bright light and open to the outside world. Instead of recoiling, he is fascinated. The scene repeatedly links the extraordinary to familiar playthings, allowing the audience to experience the event through Barry’s curiosity before considering its risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+The AFI Catalog summary describes Barry awakening as his toys begin operating independently, after which he goes downstairs and discovers the house flooded with bright light and open to the outside world. Instead of recoiling, he is fascinated. The scene repeatedly links the extraordinary to familiar playthings, allowing the audience to experience the event through Barry’s curiosity before considering its risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
-This choice reflects Spielberg’s larger visual strategy. The alien presence does not initially destroy or invade. It transforms ordinary domestic space. Bedrooms, kitchens and living rooms become active and unpredictable. Objects designed for play appear to respond to an unseen intelligence, making the supernatural feel both intimate and accessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+This choice reflects Spielberg’s larger visual strategy. The alien presence does not initially destroy or invade. It transforms ordinary domestic space. Bedrooms, kitchens and living rooms become active and unpredictable. Objects designed for play appear to respond to an unseen intelligence, making the supernatural feel both intimate and accessible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V_lg7KCKXMY" title="Close Encounters of the Third Kind:The Square Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V_lg7KCKXMY" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind:The Square Song</a></p><p class="youtube-embed-meta">Channel: fred vegerano &middot; Views: 4.0K &middot; Uploaded: October 2019</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V_lg7KCKXMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V_lg7KCKXMY">Open on YouTube</a></p></div></div></div>
@@ -278,9 +278,9 @@ This choice reflects Spielberg’s larger visual strategy. The alien presence do
 
 One of the most striking aspects of the sequence is Barry’s emotional reaction. Adults in the film generally experience UFO encounters as confusion, anxiety or obsession. Barry experiences them as invitation.
 
-The contrast is deliberate. Spielberg frames the event from a child’s perspective, where unexplained movement and bright lights resemble a game rather than a threat. Barry follows the sounds and activity with excitement. In the film, he even identifies the phenomenon through the language of play, associating it with toys rather than danger. Critics and commentators have often noted that Spielberg treats Barry as a figure of childlike openness whose lack of preconceptions allows him to engage with the unknown differently from adults. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0075860/plotsummary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977) - PlotIn Muncie, Indiana, 3-year-old Barry Guiler (Cary Guffey) is awakened in the night wh...</span></span></span>
+The contrast is deliberate. Spielberg frames the event from a child’s perspective, where unexplained movement and bright lights resemble a game rather than a threat. Barry follows the sounds and activity with excitement. In the film, he even identifies the phenomenon through the language of play, associating it with toys rather than danger. Critics and commentators have often noted that Spielberg treats Barry as a figure of childlike openness whose lack of preconceptions allows him to engage with the unknown differently from adults.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0075860/plotsummary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977) - PlotIn Muncie, Indiana, 3-year-old Barry Guiler (Cary Guffey) is awakened in the night wh...</span></span></span>
 
-The scene gains power because Barry is not behaving irrationally within his own experience. Everything around him suggests amusement and discovery. Doors open, lights glow and familiar objects spring to life. The UFO presence appears playful enough that a child would naturally move towards it. Spielberg does not ask the audience to laugh at Barry’s innocence; instead, he asks viewers to remember how a child might genuinely interpret such events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+The scene gains power because Barry is not behaving irrationally within his own experience. Everything around him suggests amusement and discovery. Doors open, lights glow and familiar objects spring to life. The UFO presence appears playful enough that a child would naturally move towards it. Spielberg does not ask the audience to laugh at Barry’s innocence; instead, he asks viewers to remember how a child might genuinely interpret such events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-2-dark.svg" | relative_url }}" alt="Barry Toy Room Wonde Fb 9 Ec 6 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -288,7 +288,7 @@ The scene gains power because Barry is not behaving irrationally within his own 
 
 The Guiler home undergoes a subtle transformation. The distinction between toy space and ordinary domestic space begins to disappear. Sounds spread through the house, objects move unexpectedly and the environment itself seems to participate in the encounter.
 
-This expansion matters because it mirrors a child’s imagination. Barry’s bedroom is no longer the boundary of play. The entire house becomes an extension of it. What adults would read as a violation of normal reality is experienced by Barry as an enlargement of the world he already inhabits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Letterboxd‎&#x27;Close Encounters of the Third Kind&#x27; review by Seer •...31 May 2026 — The toys begin to chatter incessantly, not alive but a...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This expansion matters because it mirrors a child’s imagination. Barry’s bedroom is no longer the boundary of play. The entire house becomes an extension of it. What adults would read as a violation of normal reality is experienced by Barry as an enlargement of the world he already inhabits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Letterboxd‎&#x27;Close Encounters of the Third Kind&#x27; review by Seer •...31 May 2026 — The toys begin to chatter incessantly, not alive but a...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tQ3Ztk7I9k" title="Close Encounters of the Third Kind: Her son gets abducted by aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tQ3Ztk7I9k" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind: Her son gets abducted by aliens</a></p><p class="youtube-embed-meta">Channel: Binge Society &middot; Views: 53.5K &middot; Uploaded: January 2022</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tQ3Ztk7I9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tQ3Ztk7I9k">Open on YouTube</a></p></div></div></div>
@@ -297,11 +297,11 @@ This expansion matters because it mirrors a child’s imagination. Barry’s bed
 
 The brilliance of the sequence lies in how gradually it changes emotional register. The same qualities that make the UFO presence attractive to Barry become frightening when viewed from his mother Jillian’s perspective.
 
-For Barry, the lights and animated objects suggest companionship and adventure. For Jillian, they signal the loss of control. As she wakes and discovers her son moving towards the unknown, the scene shifts from childlike excitement to parental alarm. Spielberg allows both interpretations to exist simultaneously. The audience understands why Barry keeps moving forward, yet also understands why Jillian panics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+For Barry, the lights and animated objects suggest companionship and adventure. For Jillian, they signal the loss of control. As she wakes and discovers her son moving towards the unknown, the scene shifts from childlike excitement to parental alarm. Spielberg allows both interpretations to exist simultaneously. The audience understands why Barry keeps moving forward, yet also understands why Jillian panics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
-This dual perspective is essential to the later abduction sequence. The terror does not arrive suddenly from nowhere. It emerges from the very sense of wonder that attracted Barry in the first place. The UFO phenomenon is irresistible because it has already been established as playful and inviting. The danger is not that Barry is forced towards it; the danger is that he willingly follows it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+This dual perspective is essential to the later abduction sequence. The terror does not arrive suddenly from nowhere. It emerges from the very sense of wonder that attracted Barry in the first place. The UFO phenomenon is irresistible because it has already been established as playful and inviting. The danger is not that Barry is forced towards it; the danger is that he willingly follows it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
-Spielberg later identified one image from the film as especially representative of his work: Barry opening a door to an overwhelming orange glow. The image captures the contradiction at the heart of the sequence. The light is beautiful and frightening at once. It promises discovery while threatening separation. In a single visual moment, Spielberg fuses childhood wonder and parental fear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Spielberg later identified one image from the film as especially representative of his work: Barry opening a door to an overwhelming orange glow. The image captures the contradiction at the heart of the sequence. The light is beautiful and frightening at once. It promises discovery while threatening separation. In a single visual moment, Spielberg fuses childhood wonder and parental fear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-3-dark.svg" | relative_url }}" alt="Barry Toy Room Wonde Fb 9 Ec 6 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86_barry_toy_room_wonde_fb9ec6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,203 +309,203 @@ Spielberg later identified one image from the film as especially representative 
 
 Barry’s toy-room encounter is more than an effective suspense sequence. It establishes a recurring Spielberg theme: contact with the unknown is often filtered through childhood perception before it is interpreted by adults.
 
-The scene demonstrates that UFOs in Spielberg’s cinema are not simply mysterious objects in the sky. They are experiences that expose different ways of seeing the world. Adults search for explanations, classifications and threats. Barry responds with curiosity. His reaction gives the encounter an emotional complexity that a purely fearful response could not provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+The scene demonstrates that UFOs in Spielberg’s cinema are not simply mysterious objects in the sky. They are experiences that expose different ways of seeing the world. Adults search for explanations, classifications and threats. Barry responds with curiosity. His reaction gives the encounter an emotional complexity that a purely fearful response could not provide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
-By the time the story turns towards abduction, the audience has already witnessed the event from a child’s point of view. That earlier sense of delight never entirely disappears. It remains woven into the fear, making Barry’s disappearance more emotionally complicated than a conventional horror scenario. The UFO presence is terrifying precisely because it first looked like play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
+By the time the story turns towards abduction, the audience has already witnessed the event from a child’s point of view. That earlier sense of delight never entirely disappears. It remains woven into the fear, making Barry’s disappearance more emotionally complicated than a conventional horror scenario. The UFO presence is terrifying precisely because it first looked like play.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OuH_qx192js" title="The UFOs Surround the House - Close Encounters of the Third Kind (3/8) Movie CLIP (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OuH_qx192js" target="_blank" rel="noopener noreferrer">The UFOs Surround the House - Close Encounters of the Third Kind (3/8) Movie CLIP (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 197.1K &middot; Uploaded: October 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OuH_qx192js" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OuH_qx192js">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Barry Toy Room Wonde Fb 9 Ec 6. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Barry Toy Room Wonde Fb 9 Ec 6. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="barry-toy-room-wonde-fb-9-ec-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ By the time the story turns towards abduction, the audience has already witnesse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ By the time the story turns towards abduction, the audience has already witnesse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ By the time the story turns towards abduction, the audience has already witnesse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ By the time the story turns towards abduction, the audience has already witnesse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ By the time the story turns towards abduction, the audience has already witnesse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,110 +711,110 @@ By the time the story turns towards abduction, the audience has already witnesse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAs his toys begin to operate independently, Barry goes downstairs, where...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/plotsummary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - PlotIn Muncie, Indiana, 3-year-old Barry Guiler (Cary Guffey) is awakened in the night wh...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0075860/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/plotsummary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - PlotIn Muncie, Indiana, 3-year-old Barry Guiler (Cary Guffey) is awakened in the night wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/characters/nm0346533/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/characters/nm0346533/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - Barry GuilerBarry Guiler: Toys! Toys! Jillian Guiler: Oh, my God! Barry Guiler: You can come...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0075860/characters/nm0346533/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/characters/nm0346533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - Barry GuilerBarry Guiler: Toys! Toys! Jillian Guiler: Oh, my God! Barry Guiler: You can come...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: letterboxd.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Letterboxd‎&#x27;Close Encounters of the Third Kind&#x27; review by Seer •...31 May 2026 — The toys begin to chatter incessantly, not alive but a...</p></details>
+   Link:<a href="https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/mise_en_seer/film/close-encounters-of-the-third-kind/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Letterboxd‎&#x27;Close Encounters of the Third Kind&#x27; review by Seer •...31 May 2026 — The toys begin to chatter incessantly, not alive but a...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-thrills/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-thrills/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI&#x27;s 100 YEARS…100 THRILLSThe American Film Institute proudly curates lists to celebrate excellence in the art of the moving image. They...</p></details>
+   Link:<a href="https://www.afi.com/afis-100-years-100-thrills/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-thrills/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI&#x27;s 100 YEARS…100 THRILLSThe American Film Institute proudly curates lists to celebrate excellence in the art of the moving image. They...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commonsensemedia.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Review9 Oct 2025 — Spielberg creates a sense of wonder not just in Jillian&#x27;s son Barry (Cary Guffey) but in the adult characters an...</p></details>
+   Link:<a href="https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie Review9 Oct 2025 — Spielberg creates a sense of wonder not just in Jillian&#x27;s son Barry (Cary Guffey) but in the adult characters an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lifeandnothingmore.wordpress.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind - Life and Nothing More29 May 2016 — This introductory sequence is quite humorous as the three kids vie for...</p></details>
+   Link:<a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind - Life and Nothing More29 May 2016 — This introductory sequence is quite humorous as the three kids vie for...</p></details>
    Published: May 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindAt a rural home outside Muncie, Indiana, three-year-old Barry Guiler wakes to find his toys operating on thei...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindAt a rural home outside Muncie, Indiana, three-year-old Barry Guiler wakes to find his toys operating on thei...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: musingsofamiddleagedgeek.blog  
-   Link: <a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musings of a Middle-Aged Geekintroducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — Middle: Roy has his first “close enco...</p></details>
+   Link:<a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musings of a Middle-Aged Geekintroducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — Middle: Roy has his first “close enco...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/285952470/Close-Encounters-of-the-Third-Kind-by-Steven-Spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/285952470/Close-Encounters-of-the-Third-Kind-by-Steven-Spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A gentle Indiana breeze floating through the half-open bedroom window ruffled his bangs. There was...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/285952470/Close-Encounters-of-the-Third-Kind-by-Steven-Spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/285952470/Close-Encounters-of-the-Third-Kind-by-Steven-Spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A gentle Indiana breeze floating through the half-open bedroom window ruffled his bangs. There was...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each family has a member (Roy and Barry) that suffers from some sort of inexplicable syndrome.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FanTheories/comments/261cu7/close_encounters_of_a_third_kind_is_an_allegory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each family has a member (Roy and Barry) that suffers from some sort of inexplicable syndrome.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: chud.com  
    Title: tugging on the beard close encounters of the third kind  
-   Link: <a href="https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND18 Feb 2008 — The relationship between Roy and Gillian Guiler (Melinda Dillon) isn&#x27;t so much one of rom...</p></details>
+   Link:<a href="https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND18 Feb 2008 — The relationship between Roy and Gillian Guiler (Melinda Dillon) isn&#x27;t so much one of rom...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10162066933916696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162066933916696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 1972, in Douglasville, Georgia, USA. He made his film debut around age 4 in...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10162066933916696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162066933916696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 1972, in Douglasville, Georgia, USA. He made his film debut around age 4 in...</p></details>
    Published: May 10, 1972  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The UFOs Surround the House  
-   Link: <a href="https://www.youtube.com/watch?v=OuH_qx192js" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OuH_qx192js</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Her son gets abducted by aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OuH_qx192js" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OuH_qx192js</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Her son gets abducted by aliens...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2040661522841175/posts/3634694343437877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2040661522841175/posts/3634694343437877/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Close Encounters of the Third Kind...In Muncie, Indiana, 3-year-old Barry Guiler is awakened in the night when his to...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2040661522841175/posts/3634694343437877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2040661522841175/posts/3634694343437877/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Close Encounters of the Third Kind...In Muncie, Indiana, 3-year-old Barry Guiler is awakened in the night when his to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind:The Square Song  
-   Link: <a href="https://www.youtube.com/watch?v=V_lg7KCKXMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_lg7KCKXMY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs Surround the House - Close Encounters of the Third Kind (3/8) Movie CLIP (1977) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V_lg7KCKXMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_lg7KCKXMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs Surround the House - Close Encounters of the Third Kind (3/8) Movie CLIP (1977) HD...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: inlibra.com  
-   Link: <a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Children in the Films of Steven SpielbergSteven Spielberg. Think of the lost/possessed Stevie in Something Evil. (1972), the alien-abduct...</p></details>
+   Link:<a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Children in the Films of Steven SpielbergSteven Spielberg. Think of the lost/possessed Stevie in Something Evil. (1972), the alien-abduct...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Her son gets abducted by aliens  
-   Link: <a href="https://www.youtube.com/watch?v=3tQ3Ztk7I9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tQ3Ztk7I9k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barry&#x27;s Kidnapping...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3tQ3Ztk7I9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tQ3Ztk7I9k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barry&#x27;s Kidnapping...</p></details>

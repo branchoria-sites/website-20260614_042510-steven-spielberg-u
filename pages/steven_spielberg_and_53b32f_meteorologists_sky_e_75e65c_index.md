@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f/
 description: Focused pages that expand on Sky Experts.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c
 parent_title: Sky Experts
@@ -16,7 +16,7 @@ parent_permalink: /sky-experts/
 
 # Explore Topics in Sky Experts
 
-The following pages expand on the main **[Sky Experts]({{ '/sky-experts/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sky Experts]({{ '/sky-experts/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Prosaic Explana]({{ '/aaro-prosaic-explana/' | relative_url }})
 - [Lenticular Cloud UFO 6 E25 Bc]({{ '/lenticular-cloud-ufo-6-e25-bc/' | relative_url }})

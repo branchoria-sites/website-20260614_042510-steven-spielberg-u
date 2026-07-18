@@ -264,13 +264,13 @@ image: /assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et
 
 ## From invasion threat to household intimacy
 
-For much of the twentieth century, popular alien stories were shaped by anxiety. Extraterrestrials often appeared as invaders, monsters or symbols of [Cold War]({{ 'cold-war/' | relative_url }}) fears. Even when aliens were not openly hostile, they were frequently distant, inscrutable or superior beings whose arrival threatened ordinary life. Academic studies of science-fiction cinema note that alien figures were commonly used to represent danger, conflict and the unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Aliens in Us and the Aliens Out There: Science Fiction in...by RW Rieber · 2013 · Cited by 5 — What kinds of conflicts can potent...</span></span></span>
+For much of the twentieth century, popular alien stories were shaped by anxiety. Extraterrestrials often appeared as invaders, monsters or symbols of [Cold War]({{ 'cold-war/' | relative_url }}) fears. Even when aliens were not openly hostile, they were frequently distant, inscrutable or superior beings whose arrival threatened ordinary life. Academic studies of science-fiction cinema note that alien figures were commonly used to represent danger, conflict and the unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Aliens in Us and the Aliens Out There: Science Fiction in...by RW Rieber · 2013 · Cited by 5 — What kinds of conflicts can potent...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-1-dark.svg" | relative_url }}" alt="Et Friendly Alien illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 *E.T.* reversed that expectation. The central extraterrestrial is stranded, frightened and dependent on human help. Rather than descending from the sky with destructive power, E.T. spends much of the film hiding in closets, sheds and bedrooms. The drama comes not from defeating an alien but from protecting one.
 
-This was a deliberate creative choice. Spielberg developed the film from deeply personal ideas about childhood loneliness and companionship. The story transformed the alien from an external threat into a source of comfort and connection. The Library of Congress film essay describes E.T. as a gentle being whose abilities heal rather than harm, while the narrative positions government authorities—not the alien—as the main source of danger and disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span>
+This was a deliberate creative choice. Spielberg developed the film from deeply personal ideas about childhood loneliness and companionship. The story transformed the alien from an external threat into a source of comfort and connection. The Library of Congress film essay describes E.T. as a gentle being whose abilities heal rather than harm, while the narrative positions government authorities—not the alien—as the main source of danger and disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span>
 
 The result was a striking reversal of audience expectations. Viewers were encouraged to identify emotionally with the extraterrestrial. The question was no longer “What if aliens attack?” but “What if an alien needs our help?”
 
@@ -279,11 +279,11 @@ The result was a striking reversal of audience expectations. Viewers were encour
 
 ## The child witness as emotional guide
 
-A crucial part of the film's influence lies in its perspective. Spielberg tells the story largely through the eyes of Elliott, a child navigating family instability and emotional isolation. Because the audience experiences E.T. through Elliott's curiosity and compassion, the alien encounter feels intimate rather than frightening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span>
+A crucial part of the film's influence lies in its perspective. Spielberg tells the story largely through the eyes of Elliott, a child navigating family instability and emotional isolation. Because the audience experiences E.T. through Elliott's curiosity and compassion, the alien encounter feels intimate rather than frightening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span>
 
 This choice differed sharply from many earlier science-fiction films, which often centred on scientists, soldiers or government officials. In *E.T.*, adults are initially distant figures. Children become the first interpreters of the extraordinary event.
 
-The relationship between Elliott and E.T. also reframed the UFO-contact narrative. Instead of secret investigations, military responses or scientific analysis, contact becomes a friendship. Spielberg later described the story as a “double rescue,” with the boy and the alien helping one another emotionally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Steven Spielberg on E.T.: THE EXTRA-TERRESTRIALSteven Spielberg talks about the characters of Elliott and E.T., and how he conside...</span></span></span>
+The relationship between Elliott and E.T. also reframed the UFO-contact narrative. Instead of secret investigations, military responses or scientific analysis, contact becomes a friendship. Spielberg later described the story as a “double rescue,” with the boy and the alien helping one another emotionally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Steven Spielberg on E.T.: THE EXTRA-TERRESTRIALSteven Spielberg talks about the characters of Elliott and E.T., and how he conside...</span></span></span>
 
 That emotional structure had important consequences for how audiences imagined extraterrestrials:
 
@@ -308,209 +308,209 @@ These choices encouraged viewers to think about extraterrestrial life in human t
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-2-dark.svg" | relative_url }}" alt="Et Friendly Alien illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_et_friendly_alien_sh_c00010-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why kindness changed UFO imagination
 
-The cultural significance of *E.T.* extends beyond the film itself. By becoming one of the most successful movies ever released, it carried its image of the benevolent alien into mainstream culture on a massive scale. The friendly extraterrestrial became one of the defining icons of the 1980s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">et extra terrestrial opens great success</span><span class="citation-popover-snippet">the Extra-Terrestrial Opens to Great Success &#124; FilmThe film tells the story of a friendly alien stranded on Earth and focuses on the bond...</span></span></span>
+The cultural significance of *E.T.* extends beyond the film itself. By becoming one of the most successful movies ever released, it carried its image of the benevolent alien into mainstream culture on a massive scale. The friendly extraterrestrial became one of the defining icons of the 1980s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">et extra terrestrial opens great success</span><span class="citation-popover-snippet">the Extra-Terrestrial Opens to Great Success &#124; FilmThe film tells the story of a friendly alien stranded on Earth and focuses on the bond...</span></span></span>
 
 This did not create belief in UFOs or extraterrestrial visitation. What it changed was the emotional framework through which many people imagined those possibilities. Spielberg's alien was curious, gentle and morally sympathetic. The possibility of contact could therefore be imagined as hopeful rather than catastrophic.
 
-The influence can be seen in later science-fiction works that treated extraterrestrials as companions, teachers or misunderstood [outsiders]({{ 'outsiders/' | relative_url }}) rather than invaders. Scholars examining changing media representations of aliens have noted a broader movement away from purely threatening extraterrestrials and toward stories emphasising communication, romance, friendship and coexistence. *E.T.* became one of the most visible examples of that transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Changes in the Media Representation of Extraterrestrials</span><span class="citation-popover-snippet">Representation of Extraterrestrials: The Development of Alien PDF Icon... the Extra-Terrestrial&#x27;, even depicted the alien character as a...</span></span></span>
+The influence can be seen in later science-fiction works that treated extraterrestrials as companions, teachers or misunderstood [outsiders]({{ 'outsiders/' | relative_url }}) rather than invaders. Scholars examining changing media representations of aliens have noted a broader movement away from purely threatening extraterrestrials and toward stories emphasising communication, romance, friendship and coexistence. *E.T.* became one of the most visible examples of that transition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Changes in the Media Representation of Extraterrestrials</span><span class="citation-popover-snippet">Representation of Extraterrestrials: The Development of Alien PDF Icon... the Extra-Terrestrial&#x27;, even depicted the alien character as a...</span></span></span>
 
-The film also reinforced a recurring Spielberg theme: communication across difference. Producer Kathleen Kennedy later identified tolerance as a central idea within the story, while Spielberg himself linked the alien-human friendship to the possibility of overcoming barriers between seemingly incompatible groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+The film also reinforced a recurring Spielberg theme: communication across difference. Producer Kathleen Kennedy later identified tolerance as a central idea within the story, while Spielberg himself linked the alien-human friendship to the possibility of overcoming barriers between seemingly incompatible groups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
-Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/' | relative_url }}) UFO and alien ideas, this may be *E.T.*'s most lasting contribution. The film did not ask audiences to evaluate evidence for extraterrestrial visitation. Instead, it encouraged them to imagine that if contact occurred, the visitor might be vulnerable, kind and worthy of compassion. That imaginative shift expanded the emotional possibilities surrounding UFO culture and alien life, moving the extraterrestrial figure from the battlefield into the family home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">steven spielberg and aliens tracing a decades long obsession 11995978</span><span class="citation-popover-snippet">His 2026 return with “Disclosure Day” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</span></span></span>
+Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/' | relative_url }}) UFO and alien ideas, this may be *E.T.*'s most lasting contribution. The film did not ask audiences to evaluate evidence for extraterrestrial visitation. Instead, it encouraged them to imagine that if contact occurred, the visitor might be vulnerable, kind and worthy of compassion. That imaginative shift expanded the emotional possibilities surrounding UFO culture and alien life, moving the extraterrestrial figure from the battlefield into the family home.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congressfilm essay for &quot;E.T</span><span class="citation-popover-snippet">The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</span><span class="citation-popover-meta">Published: May 28, 2015</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">steven spielberg and aliens tracing a decades long obsession 11995978</span><span class="citation-popover-snippet">His 2026 return with “Disclosure Day” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OOakrPWmk4c" title="E.T. The Extra Terrestrial (1982) Trailer | Henry Thomas | Drew Barrymore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OOakrPWmk4c" target="_blank" rel="noopener noreferrer">E.T. The Extra Terrestrial (1982) Trailer | Henry Thomas | Drew Barrymore</a></p><p class="youtube-embed-meta">Channel: Film Trailer Channel &middot; Views: 582 &middot; Uploaded: June 2017</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OOakrPWmk4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OOakrPWmk4c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Et Friendly Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Et Friendly Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="et-friendly-alien-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,147 +716,147 @@ Within the wider story of Hollywood's role in [mainstreaming]({{ 'mainstreaming/
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ebsco.com  
    Title: et extra terrestrial opens great success  
-   Link: <a href="https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial Opens to Great Success | FilmThe film tells the story of a friendly alien stranded on Earth and focuses on the bond...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/et-extra-terrestrial-opens-great-success</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial Opens to Great Success | FilmThe film tells the story of a friendly alien stranded on Earth and focuses on the bond...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
    Title: steven spielberg and aliens tracing a decades long obsession 11995978  
-   Link: <a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His 2026 return with “[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)” reflects both his earliest and most apocalyptic tendencies—merging curiosity with an urgent questio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens in Us and the Aliens Out There: Science Fiction in...by RW Rieber · 2013 · Cited by 5 — What kinds of conflicts can potent...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens in Us and the Aliens Out There: Science Fiction in...by RW Rieber · 2013 · Cited by 5 — What kinds of conflicts can potent...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: E.T. the Extra-Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aiqLxSuXBzI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg on E.T.: THE EXTRA-TERRESTRIALSteven Spielberg talks about the characters of Elliott and E.T., and how he conside...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aiqLxSuXBzI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg on E.T.: THE EXTRA-TERRESTRIALSteven Spielberg talks about the characters of Elliott and E.T., and how he conside...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
    Title: Changes in the Media Representation of Extraterrestrials  
-   Link: <a href="https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Representation of Extraterrestrials: The Development of Alien PDF Icon... the Extra-Terrestrial&#x27;, even depicted the alien character as a...</p></details>
+   Link:<a href="https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8002085/Changes_in_the_Media_Representation_of_Extraterrestrials_The_Development_of_Alien_themed_Romance_Television_Dramas_in_the_United_States_of_America_and_Japan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Representation of Extraterrestrials: The Development of Alien PDF Icon... the Extra-Terrestrial&#x27;, even depicted the alien character as a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I3A-NKDlmwE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I3A-NKDlmwE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Spielberg Got THIS Performance from a Child ActorA documentary, about other child stars getting yelled at and abused to get them cryi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I3A-NKDlmwE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I3A-NKDlmwE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Spielberg Got THIS Performance from a Child ActorA documentary, about other child stars getting yelled at and abused to get them cryi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qYAETtIIClk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYAETtIIClk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It has a whole different atmosphere and tone to it that you can&#x27;t find in many other movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qYAETtIIClk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYAETtIIClk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has a whole different atmosphere and tone to it that you can&#x27;t find in many other movies...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: E.T. The Extra Terrestrial | The First Contact | Extended Preview  
-   Link: <a href="https://www.youtube.com/watch?v=PmvZzTzR01g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PmvZzTzR01g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-Terrestrial | Phone Home (ft &#x27;Elliot&#x27;, Henry Thomas and &#x27;Gertie&#x27;, Drew Barrymore)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PmvZzTzR01g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PmvZzTzR01g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-Terrestrial | Phone Home (ft &#x27;Elliot&#x27;, Henry Thomas and &#x27;Gertie&#x27;, Drew Barrymore)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ua3V_2mBtVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ua3V_2mBtVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of E.T. The Extra-Terrestrial (1996) Part 1/2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ua3V_2mBtVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ua3V_2mBtVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of E.T. The Extra-Terrestrial (1996) Part 1/2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pHsCTJOdNjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pHsCTJOdNjk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating the Sights and Sounds of &quot;E.T. The Extra-Terrestrial&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pHsCTJOdNjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pHsCTJOdNjk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating the Sights and Sounds of &quot;E.T. The Extra-Terrestrial&quot;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Creating the Sights and Sounds of "E.T. The Extra-Terrestrial"  
-   Link: <a href="https://www.youtube.com/watch?v=EQi5tm2ZvKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EQi5tm2ZvKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra Terrestrial (1982) Trailer | Henry Thomas | Drew Barrymore...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EQi5tm2ZvKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EQi5tm2ZvKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra Terrestrial (1982) Trailer | Henry Thomas | Drew Barrymore...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OOakrPWmk4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OOakrPWmk4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This documentary explores how Steven Spielberg intentionally flipped traditional sci-fi horror tropes to tell an intimate story of childh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OOakrPWmk4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OOakrPWmk4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This documentary explores how Steven Spielberg intentionally flipped traditional sci-fi horror tropes to tell an intimate story of childh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loc.gov  
    Title: The Library of Congressfilm essay for "E.T  
-   Link: <a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</p></details>
+   Link:<a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra-Terrestrial&quot;May 28, 2015 — tle alien creature, stranded on Earth and desperate to find a way back to... E.T. The Extra-Terrest...</p></details>
    Published: May 28, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/577478936403574/posts/2024189121732541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/2024189121732541/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>concept inspired by Steven Spielberg&#x27;s childhoodDid you know the concept of E.T. came from Steven Spielberg when he was young, cause whe...</p></details>
+   Link:<a href="https://www.facebook.com/groups/577478936403574/posts/2024189121732541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/2024189121732541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>concept inspired by Steven Spielberg&#x27;s childhoodDid you know the concept of E.T. came from Steven Spielberg when he was young, cause whe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/577478936403574/posts/1481098086041650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1481098086041650/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s vision in E.Tthe Extra-Terrestrial (1982) 1️⃣ Inspired by Childhood: Steven Spielberg created E.T. from an imaginary a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/577478936403574/posts/1481098086041650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/1481098086041650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s vision in E.Tthe Extra-Terrestrial (1982) 1️⃣ Inspired by Childhood: Steven Spielberg created E.T. from an imaginary a...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: exhibits.usu.edu  
-   Link: <a href="https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/theresultisamasterpiece" target="_blank" rel="noopener noreferrer nofollow">https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/theresultisamasterpiece</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USU Digital ExhibitsET the Extra Terrestrial: The Result is a MasterpieceE.T. had an incredible heart warming impact with a happy ending...</p></details>
+   Link:<a href="https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/theresultisamasterpiece" target="_blank" rel="noopener noreferrer nofollow">https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/theresultisamasterpiece</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USU Digital ExhibitsET the Extra Terrestrial: The Result is a MasterpieceE.T. had an incredible heart warming impact with a happy ending...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392020022_Role_of_Aliens_in_Science_Fiction_Film" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392020022_Role_of_Aliens_in_Science_Fiction_Film</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Aliens in Science Fiction Film... aliens, known as extraterrestrial life, in science fiction films exemplified by Independence Da...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392020022_Role_of_Aliens_in_Science_Fiction_Film" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392020022_Role_of_Aliens_in_Science_Fiction_Film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Aliens in Science Fiction Film... aliens, known as extraterrestrial life, in science fiction films exemplified by Independence Da...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theasc.com  
-   Link: <a href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://theasc.com/article/spielberg-et-the-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg and E.T. the Extra-TerrestrialThe director discusses his inspirations, creative process and collaborating with Allen Dav...</p></details>
+   Link:<a href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://theasc.com/article/spielberg-et-the-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg and E.T. the Extra-TerrestrialThe director discusses his inspirations, creative process and collaborating with Allen Dav...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: et 1982 is more than just a movie about an alien  
-   Link: <a href="https://www.reddit.com/r/Spielberg/comments/1tuhiv3/et_1982_is_more_than_just_a_movie_about_an_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Spielberg/comments/1tuhiv3/et_1982_is_more_than_just_a_movie_about_an_alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. (1982) Is More Than Just A Movie About An Alien. It...It Is A Story About Friendship, Family, And Growing Up. More Than Forty Years...</p></details>
+   Link:<a href="https://www.reddit.com/r/Spielberg/comments/1tuhiv3/et_1982_is_more_than_just_a_movie_about_an_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Spielberg/comments/1tuhiv3/et_1982_is_more_than_just_a_movie_about_an_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. (1982) Is More Than Just A Movie About An Alien. It...It Is A Story About Friendship, Family, And Growing Up. More Than Forty Years...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: indac.org  
    Title: Steven Spielberg Reflects on Creating E.T  
-   Link: <a href="https://indac.org/blog/steven-spielberg-reflects-on-creating-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://indac.org/blog/steven-spielberg-reflects-on-creating-[e-t</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra-Terrestrial15 Jan 2023 — Spielberg recounts the story of E.T.&#x27;s genesis, development and production in this new retrospective...</p></details>
+   Link:<a href="https://indac.org/blog/steven-spielberg-reflects-on-creating-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://indac.org/blog/steven-spielberg-reflects-on-creating-[e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extra-Terrestrial15 Jan 2023 — Spielberg recounts the story of E.T.&#x27;s genesis, development and production in this new retrospective...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: weylanduplink.com  
    Title: pop culture shaping our understanding aliens  
-   Link: <a href="https://weylanduplink.com/news/pop-culture-shaping-our-understanding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://weylanduplink.com/news/pop-culture-shaping-our-understanding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the horrifying Xenomorphs in Alien, pop culture has given us a spectrum of extraterrestrial archetypes. These...Read more...</p></details>
+   Link:<a href="https://weylanduplink.com/news/pop-culture-shaping-our-understanding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://weylanduplink.com/news/pop-culture-shaping-our-understanding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the horrifying Xenomorphs in Alien, pop culture has given us a spectrum of extraterrestrial archetypes. These...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C__Ec2-vYEa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C__Ec2-vYEa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omas on the set of ET The Extra-Terrestrial (1982)...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C__Ec2-vYEa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C__Ec2-vYEa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omas on the set of ET The Extra-Terrestrial (1982)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: stevenspielbergchroniken.de  
    Title: e t the extraterrestrial 1982  
-   Link: <a href="https://stevenspielbergchroniken.de/e-t-the-extraterrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow">https://stevenspielbergchroniken.de/e-t-the-extraterrestrial-1982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial (E.T. – der Außerirdische, Regie25 Feb 2015 — In &#x27;E.T. the Extra-Terrestrial&#x27; porträtiert Steven Spielberg Kinder a...</p></details>
+   Link:<a href="https://stevenspielbergchroniken.de/e-t-the-extraterrestrial-1982/" target="_blank" rel="noopener noreferrer nofollow">https://stevenspielbergchroniken.de/e-t-the-extraterrestrial-1982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial (E.T. – der Außerirdische, Regie25 Feb 2015 — In &#x27;E.T. the Extra-Terrestrial&#x27; porträtiert Steven Spielberg Kinder a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: goldenageflicks.co.uk  
    Title: et the extra terrestrial 1982  
-   Link: <a href="https://www.goldenageflicks.co.uk/post/et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow">https://www.goldenageflicks.co.uk/post/et-the-extra-terrestrial-1982</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ET The Extra Terrestrial (1982)1 Apr 2025 — A heartfelt story of friendship between a lonely boy and an abandoned alien, E.T. blends adve...</p></details>
+   Link:<a href="https://www.goldenageflicks.co.uk/post/et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow">https://www.goldenageflicks.co.uk/post/et-the-extra-terrestrial-1982</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ET The Extra Terrestrial (1982)1 Apr 2025 — A heartfelt story of friendship between a lonely boy and an abandoned alien, E.T. blends adve...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: itcamefromblog.com  
    Title: Phone Home: Spielberg and Kids on the Set of E.T  
-   Link: <a href="https://itcamefromblog.com/2017/06/09/phone-home-spielberg-and-kids-on-the-set-of-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://itcamefromblog.com/2017/06/09/phone-home-spielberg-and-kids-on-the-set-of-e-t-the-extra-terrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra...9 Jun 2017 — E.T. the EXTRA-TERRESTRIAL is now 40 years old, so in celebration I&#x27;ve got a vintage interview with Steven Spie...</p></details>
+   Link:<a href="https://itcamefromblog.com/2017/06/09/phone-home-spielberg-and-kids-on-the-set-of-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://itcamefromblog.com/2017/06/09/phone-home-spielberg-and-kids-on-the-set-of-e-t-the-extra-terrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra...9 Jun 2017 — E.T. the EXTRA-TERRESTRIAL is now 40 years old, so in celebration I&#x27;ve got a vintage interview with Steven Spie...</p></details>

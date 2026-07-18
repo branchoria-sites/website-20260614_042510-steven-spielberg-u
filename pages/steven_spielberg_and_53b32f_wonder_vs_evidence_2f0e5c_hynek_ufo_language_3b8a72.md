@@ -259,34 +259,34 @@ image: /assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hyne
 
 ## Introduction
 
-One of the most effective ways Steven Spielberg made *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* feel believable was by borrowing the language of UFO investigation rather than the language of fantasy. The film's title itself came from astronomer and UFO researcher J. Allen Hynek's classification system for reported encounters with unidentified objects. By adopting Hynek's terminology and involving him as a consultant, Spielberg gave a fictional story the appearance of belonging to an existing body of research. The result was a crucial balance between wonder and evidence: audiences were encouraged to feel that extraordinary events were occurring, yet those events seemed to unfold within a framework that looked investigative, organised and semi-official. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+One of the most effective ways Steven Spielberg made *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* feel believable was by borrowing the language of UFO investigation rather than the language of fantasy. The film's title itself came from astronomer and UFO researcher J. Allen Hynek's classification system for reported encounters with unidentified objects. By adopting Hynek's terminology and involving him as a consultant, Spielberg gave a fictional story the appearance of belonging to an existing body of research. The result was a crucial balance between wonder and evidence: audiences were encouraged to feel that extraordinary events were occurring, yet those events seemed to unfold within a framework that looked investigative, organised and semi-official.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-1-dark.svg" | relative_url }}" alt="Hynek UFO Language 3 B8 A72 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mattered because *Close Encounters* arrived during a period when UFOs were widely discussed but often treated as fringe subjects. Hynek's vocabulary supplied a bridge between popular fascination and the appearance of scientific classification. The film did not provide evidence of alien visitation, but it borrowed the language of evidence gathering to make its mystery more persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span> | Report a UFO sighting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+This mattered because *Close Encounters* arrived during a period when UFOs were widely discussed but often treated as fringe subjects. Hynek's vocabulary supplied a bridge between popular fascination and the appearance of scientific classification. The film did not provide evidence of alien visitation, but it borrowed the language of evidence gathering to make its mystery more persuasive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span> | Report a UFO sighting<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-3-dark.svg" | relative_url }}" alt="Hynek UFO Language 3 B8 A72 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the close encounter system mattered
 
-Before Hynek developed his classification scheme, UFO reports were often described in loose, inconsistent language. In his 1972 book *The UFO Experience*, he proposed categories that ranked sightings according to proximity and interaction. Among the most famous was the "close encounter of the third kind", meaning a reported observation involving apparent occupants or animate entities associated with a UFO. The system was intended as a way to organise reports rather than prove their truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span>
+Before Hynek developed his classification scheme, UFO reports were often described in loose, inconsistent language. In his 1972 book *The UFO Experience*, he proposed categories that ranked sightings according to proximity and interaction. Among the most famous was the "close encounter of the third kind", meaning a reported observation involving apparent occupants or animate entities associated with a UFO. The system was intended as a way to organise reports rather than prove their truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span>
 
-That distinction is important. Classification systems create an impression of order. When a phenomenon has categories, levels and technical labels, it appears more like a field of study than a collection of stories. Hynek's terminology therefore carried a scientific flavour even though the underlying reports remained disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span> | Report a UFO sighting
+That distinction is important. Classification systems create an impression of order. When a phenomenon has categories, levels and technical labels, it appears more like a field of study than a collection of stories. Hynek's terminology therefore carried a scientific flavour even though the underlying reports remained disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</span></span></span> | Report a UFO sighting
 
-Spielberg recognised the dramatic value of this vocabulary. Rather than inventing a title such as *Alien Contact* or *Visitors from Space*, he used a phrase already circulating within UFO research. The title suggested that viewers were about to witness a recognised type of event rather than a purely imaginary scenario. Even before the first scene began, the film was borrowing [credibility]({{ 'credibility/' | relative_url }}) from an existing investigative framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Spielberg recognised the dramatic value of this vocabulary. Rather than inventing a title such as *Alien Contact* or *Visitors from Space*, he used a phrase already circulating within UFO research. The title suggested that viewers were about to witness a recognised type of event rather than a purely imaginary scenario. Even before the first scene began, the film was borrowing [credibility]({{ 'credibility/' | relative_url }}) from an existing investigative framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kypd8pyDGeU" title="Close Encounters of the Third Kind (1977) &quot;Watch the Skies&quot; (Long Edit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kypd8pyDGeU" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (1977) &quot;Watch the Skies&quot; (Long Edit)</a></p><p class="youtube-embed-meta">Channel: Amblin Entertainment &middot; Views: 2.5K &middot; Uploaded: October 2018</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kypd8pyDGeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kypd8pyDGeU">Open on YouTube</a></p></div></div></div>
 
 ## How official texture shapes audience trust
 
-The power of Hynek's language was not limited to the title. Throughout the film, Spielberg surrounded the mystery with experts, data gathering, government operations and scientific procedures. The audience encounters researchers analysing patterns, officials coordinating responses and specialists attempting communication. These elements create what might be called an official texture: a sense that the events are being approached methodically rather than emotionally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+The power of Hynek's language was not limited to the title. Throughout the film, Spielberg surrounded the mystery with experts, data gathering, government operations and scientific procedures. The audience encounters researchers analysing patterns, officials coordinating responses and specialists attempting communication. These elements create what might be called an official texture: a sense that the events are being approached methodically rather than emotionally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-Hynek's presence reinforced that effect. Columbia Pictures ultimately acquired rights connected to *The UFO Experience*, and Hynek was hired as a technical adviser. He also appeared briefly in the finished film. His involvement allowed Spielberg to connect the movie directly to a figure associated with Project Blue Book, the United States Air Force's long-running UFO investigation programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Hynek's presence reinforced that effect. Columbia Pictures ultimately acquired rights connected to *The UFO Experience*, and Hynek was hired as a technical adviser. He also appeared briefly in the finished film. His involvement allowed Spielberg to connect the movie directly to a figure associated with Project Blue Book, the United States Air Force's long-running UFO investigation programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-The result was a subtle transfer of authority. Most viewers were unlikely to know the details of Hynek's research, yet the association mattered. A story feels more credible when it appears to emerge from recognised expertise. Spielberg was not asking audiences to accept UFO claims as proven facts; he was borrowing the visual and linguistic markers of investigation so that the emotional experience of wonder would seem grounded in something larger than fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
+The result was a subtle transfer of authority. Most viewers were unlikely to know the details of Hynek's research, yet the association mattered. A story feels more credible when it appears to emerge from recognised expertise. Spielberg was not asking audiences to accept UFO claims as proven facts; he was borrowing the visual and linguistic markers of investigation so that the emotional experience of wonder would seem grounded in something larger than fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
 
-This approach differed from many earlier science-fiction films, which often treated extraterrestrials as obvious monsters or invaders. In *Close Encounters*, the mystery is approached almost as a research problem. Hynek's terminology helped establish that tone from the outset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
+This approach differed from many earlier science-fiction films, which often treated extraterrestrials as obvious monsters or invaders. In *Close Encounters*, the mystery is approached almost as a research problem. Hynek's terminology helped establish that tone from the outset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7LYqfZ70yGY" title="Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer">Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 13.3K &middot; Uploaded: May 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7LYqfZ70yGY">Open on YouTube</a></p></div></div></div>
@@ -295,207 +295,207 @@ This approach differed from many earlier science-fiction films, which often trea
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-2-dark.svg" | relative_url }}" alt="Hynek UFO Language 3 B8 A72 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_wonder_vs_evidence_2f0e5c_hynek_ufo_language_3b8a72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where fiction stops being evidence
 
-The effectiveness of Hynek's vocabulary also reveals a limitation. A classification system can organise claims, but it cannot verify them. Categories such as "close encounter of the first kind" or "third kind" describe reports; they do not establish that the reported events actually occurred as described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+The effectiveness of Hynek's vocabulary also reveals a limitation. A classification system can organise claims, but it cannot verify them. Categories such as "close encounter of the first kind" or "third kind" describe reports; they do not establish that the reported events actually occurred as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-This is where the difference between wonder and evidence becomes especially clear. Spielberg's film uses the appearance of investigative language to make its fictional world feel plausible. The audience experiences the satisfaction of seeing mystery translated into categories, procedures and expert attention. Yet plausibility is not proof. The film's credibility comes from narrative design, not from the validation of UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+This is where the difference between wonder and evidence becomes especially clear. Spielberg's film uses the appearance of investigative language to make its fictional world feel plausible. The audience experiences the satisfaction of seeing mystery translated into categories, procedures and expert attention. Yet plausibility is not proof. The film's credibility comes from narrative design, not from the validation of UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-Hynek himself occupied an unusual position in this regard. As an astronomer who became increasingly interested in UFO reports, he represented a blend of scientific authority and speculative inquiry. That made him an ideal figure for Spielberg's purposes. His terminology carried enough institutional weight to make the story feel connected to real investigations, while remaining open enough to support a tale of extraordinary contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Hynek himself occupied an unusual position in this regard. As an astronomer who became increasingly interested in UFO reports, he represented a blend of scientific authority and speculative inquiry. That made him an ideal figure for Spielberg's purposes. His terminology carried enough institutional weight to make the story feel connected to real investigations, while remaining open enough to support a tale of extraordinary contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-The lasting achievement of *Close Encounters of the Third Kind* is therefore not that it convinced audiences aliens had visited Earth. It is that it demonstrated how language shapes credibility. By borrowing Hynek's UFO vocabulary, Spielberg transformed a science-fiction narrative into something that felt partially documented, partially researched and tantalisingly close to reality. The wonder came from the spectacle. The credibility came from the jargon. And the distance between those two things is precisely where the film continues to resonate in discussions about UFOs, belief and evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+The lasting achievement of *Close Encounters of the Third Kind* is therefore not that it convinced audiences aliens had visited Earth. It is that it demonstrated how language shapes credibility. By borrowing Hynek's UFO vocabulary, Spielberg transformed a science-fiction narrative into something that felt partially documented, partially researched and tantalisingly close to reality. The wonder came from the spectacle. The credibility came from the jargon. And the distance between those two things is precisely where the film continues to resonate in discussions about UFOs, belief and evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LnujThAyxpM" title="Close Encounters Of The Third Kind - Watch the Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer">Close Encounters Of The Third Kind - Watch the Skies</a></p><p class="youtube-embed-meta">Channel: MovieDrome101 &middot; Views: 1.0K &middot; Uploaded: December 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LnujThAyxpM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Hynek UFO Language 3 B8 A72. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Hynek UFO Language 3 B8 A72. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="hynek-ufo-language-3-b8-a72-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,117 +701,117 @@ The lasting achievement of *Close Encounters of the Third Kind* is therefore not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</p></details>
+   Link:<a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sighti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENCOUNTERS OF THE THIRD KIND in 70mmRoy Neary (Richard Dreyfuss) [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) a UFO on an abandoned road and, against the wishes of his wife...</p></details>
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENCOUNTERS OF THE THIRD KIND in 70mmRoy Neary (Richard Dreyfuss) [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) a UFO on an abandoned road and, against the wishes of his wife...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7LYqfZ70yGY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind - Watch the Skies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7LYqfZ70yGY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind - Watch the Skies...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters Of The Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnujThAyxpM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What If You Have A Close Encounter Of The Third Kind? | Unveiled...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnujThAyxpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What If You Have A Close Encounter Of The Third Kind? | Unveiled...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</p></details>
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — Allen Hynek (consultant for the US Air Force&#x27;s Project Blue Book, and technical advisor to Spielberg on Close Encounters) t...</p></details>
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — Allen Hynek (consultant for the US Air Force&#x27;s Project Blue Book, and technical advisor to Spielberg on Close Encounters) t...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindThere, they witness the first physical contact between a team of UFO investigators, led by a French sci...</p></details>
+   Link:<a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindThere, they witness the first physical contact between a team of UFO investigators, led by a French sci...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: slj.com  
-   Link: <a href="https://www.slj.com/review/the-real-story-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.slj.com/review/the-real-story-close-encounters-of-the-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story: Close Encounters of the Third KindThe majority of the piece focuses on the work of Dr. J. Allen Hynek, noted UFO research...</p></details>
+   Link:<a href="https://www.slj.com/review/the-real-story-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.slj.com/review/the-real-story-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story: Close Encounters of the Third KindThe majority of the piece focuses on the work of Dr. J. Allen Hynek, noted UFO research...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loftcinema.org  
-   Link: <a href="https://loftcinema.org/film/close-encounters-of-the-third-kind-in-70mm/" target="_blank" rel="noopener noreferrer nofollow">https://loftcinema.org/film/close-encounters-of-the-third-kind-in-70mm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Admission: $12 | Loft Members: $10. Passes Not Accepted. Don&#x27;t miss this...Read more...</p></details>
+   Link:<a href="https://loftcinema.org/film/close-encounters-of-the-third-kind-in-70mm/" target="_blank" rel="noopener noreferrer nofollow">https://loftcinema.org/film/close-encounters-of-the-third-kind-in-70mm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Admission: $12 | Loft Members: $10. Passes Not Accepted. Don&#x27;t miss this...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: themindreels.com  
    Title: close encounters of the third kind 1977 steven spielberg  
-   Link: <a href="https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) – Steven Spielberg22 Feb 2013 — The film follows an everyman, Roy Neary (Richard Dreyfuss) as h...</p></details>
+   Link:<a href="https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) – Steven Spielberg22 Feb 2013 — The film follows an everyman, Roy Neary (Richard Dreyfuss) as h...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theankler.com  
    Title: steven spielberg ufo aliens close encounters third kind  
-   Link: <a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — Today Joe explores the story behind Steven Spielberg&#x27;s Close Encounters o...</p></details>
+   Link:<a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — Today Joe explores the story behind Steven Spielberg&#x27;s Close Encounters o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: syfy.com  
    Title: project blue book close encounters flash forward  
-   Link: <a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Close Encounters of the Third Kind flash...24 Feb 2020 — The director also invited Hynek to serve as a technical consu...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Close Encounters of the Third Kind flash...24 Feb 2020 — The director also invited Hynek to serve as a technical consu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: in close encounter of the third kind 1977 dr j  
-   Link: <a href="https://www.reddit.com/r/MovieDetails/comments/zcfgtj/in_close_encounter_of_the_third_kind_1977_dr_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/zcfgtj/in_close_encounter_of_the_third_kind_1977_dr_j/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J Allen...... UFO reports into close encounters of the first, second, and third kind.... Allen Hynek believe aliens existed? r/aliens...</p></details>
+   Link:<a href="https://www.reddit.com/r/MovieDetails/comments/zcfgtj/in_close_encounter_of_the_third_kind_1977_dr_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/zcfgtj/in_close_encounter_of_the_third_kind_1977_dr_j/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J Allen...... UFO reports into close encounters of the first, second, and third kind.... Allen Hynek believe aliens existed? r/aliens...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek, which involves direct interaction with aliens. The...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek, which involves direct interaction with aliens. The...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-government/
 description: Focused pages that expand on Secrecy.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_government_secrecy_u_fb622b
 parent_title: Secrecy
@@ -16,7 +16,7 @@ parent_permalink: /secrecy/
 
 # Explore Topics in Secrecy
 
-The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book Shadow D2 Dc 2 F]({{ '/blue-book-shadow-d2-dc-2-f/' | relative_url }})
 - [Et Home Quarantine 6403 C7]({{ '/et-home-quarantine-6403-c7/' | relative_url }})

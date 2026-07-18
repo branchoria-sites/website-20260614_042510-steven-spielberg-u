@@ -270,7 +270,7 @@ Within the wider UFO [disclosure culture]({{ 'disclosure-culture/' | relative_ur
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-1-dark.svg" | relative_url }}" alt="Schumer Rounds UAP B 8 Bdc 3 C illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the stronger proposal promised
 
-The original UAP Disclosure Act of 2023 was notable because it treated unidentified anomalous phenomena records as a distinct historical category requiring extraordinary handling. Schumer and Rounds argued that ordinary Freedom of Information Act processes had been inadequate for producing timely disclosure and proposed a new framework built around a presumption that records should eventually become public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
+The original UAP Disclosure Act of 2023 was notable because it treated unidentified anomalous phenomena records as a distinct historical category requiring extraordinary handling. Schumer and Rounds argued that ordinary Freedom of Information Act processes had been inadequate for producing timely disclosure and proposed a new framework built around a presumption that records should eventually become public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
 
 Several features attracted particular attention:
 
@@ -278,7 +278,7 @@ Several features attracted particular attention:
 * A legal presumption favouring disclosure rather than continued secrecy.
 * An independent review structure to evaluate claims that records should remain classified.
 * Timetables and procedures intended to force agencies to identify and transfer relevant records.
-* Language addressing alleged recovered technologies and purported non-human biological evidence, including an eminent-domain provision that would have allowed the federal government to take control of such materials if privately held. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span> DefenseScoop The proposal stood out because it went beyond asking agencies to release documents voluntarily. It attempted to create a process that could o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">senate panel aims to set a mandatory timeline and process for agencies to declassify all uap records</span><span class="citation-popover-snippet">government records associated with reports of unidentified anomalous</span></span></span> perate outside the discretion of the institutions being scrutinised. For disclosure advocates, that distinction was crucial. If secrecy had persisted for decades, they argued, then transparency could not depend solely on the same agencies that had maintained classification in the first place.
+* Language addressing alleged recovered technologies and purported non-human biological evidence, including an eminent-domain provision that would have allowed the federal government to take control of such materials if privately held.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span> DefenseScoop The proposal stood out because it went beyond asking agencies to release documents voluntarily. It attempted to create a process that could o<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">senate panel aims to set a mandatory timeline and process for agencies to declassify all uap records</span><span class="citation-popover-snippet">government records associated with reports of unidentified anomalous</span></span></span> perate outside the discretion of the institutions being scrutinised. For disclosure advocates, that distinction was crucial. If secrecy had persisted for decades, they argued, then transparency could not depend solely on the same agencies that had maintained classification in the first place.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2OMGOvuJV5M" title="Luis Elizondo - “Imminent: Inside the Pentagon&#x27;s Hunt for UFOs” | The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer">Luis Elizondo - “Imminent: Inside the Pentagon&#x27;s Hunt for UFOs” | The Daily Show</a></p><p class="youtube-embed-meta">Channel: The Daily Show &middot; Views: 610.7K &middot; Uploaded: September 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2OMGOvuJV5M">Open on YouTube</a></p></div></div></div>
@@ -287,9 +287,9 @@ Several features attracted particular attention:
 
 The greatest disappointment for many supporters centred on the fate of the proposed review board.
 
-The original legislation envisioned an independent UAP Records Review Board with authority resembling the body created to handle JFK assassination records. Its purpose was to assess requests for postponing disclosure and provide oversight that was not entirely controlled by the agencies holding the records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
+The original legislation envisioned an independent UAP Records Review Board with authority resembling the body created to handle JFK assassination records. Its purpose was to assess requests for postponing disclosure and provide oversight that was not entirely controlled by the agencies holding the records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
 
-During negotiations over the final NDAA, key portions of that architecture disappeared. Although Congress preserved requirements for a National Archives collection and agency reviews, the independent review-board concept was substantially reduced. The final law established disclosure procedures, but many of the strongest external oversight mechanisms sought by supporters were not included in the enacted version. The eminent-domain language concerning alleged recovered technologies and biological materials was also removed. Journalists and legal observers covering the legislation frequently described the final result as a significantly watered-down version of the original proposal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span> Wikipedia This distinction mattered because disclosure advocates viewed the review board as the mechanism most likely to test longstanding secrecy clai <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Defense Authorization Act for Fiscal Year 2024</span><span class="citation-popover-snippet">National Defense Authorization Act for Fiscal Year 2024</span></span></span> ms. A records programme can collect documents, but an independent review body can challenge decisions to withhold them. Once that independent element was weakened, critics argued that the balance of power shifted back towards agencies already responsible for classification decisions.
+During negotiations over the final NDAA, key portions of that architecture disappeared. Although Congress preserved requirements for a National Archives collection and agency reviews, the independent review-board concept was substantially reduced. The final law established disclosure procedures, but many of the strongest external oversight mechanisms sought by supporters were not included in the enacted version. The eminent-domain language concerning alleged recovered technologies and biological materials was also removed. Journalists and legal observers covering the legislation frequently described the final result as a significantly watered-down version of the original proposal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span> Wikipedia This distinction mattered because disclosure advocates viewed the review board as the mechanism most likely to test longstanding secrecy clai<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Defense Authorization Act for Fiscal Year 2024</span><span class="citation-popover-snippet">National Defense Authorization Act for Fiscal Year 2024</span></span></span> ms. A records programme can collect documents, but an independent review body can challenge decisions to withhold them. Once that independent element was weakened, critics argued that the balance of power shifted back towards agencies already responsible for classification decisions.
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-2-dark.svg" | relative_url }}" alt="Schumer Rounds UAP B 8 Bdc 3 C illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -297,11 +297,11 @@ During negotiations over the final NDAA, key portions of that architecture disap
 
 The political compromise that allowed some disclosure language to survive had an unintended cultural consequence. Instead of settling debates, it intensified suspicion among many believers.
 
-Supporters of the original bill noted that Congress had been willing to preserve the concept of a UAP records collection while removing several of the provisions that would have imposed stronger independent oversight. To disclosure-minded observers, this looked less like routine legislative bargaining and more like evidence that powerful interests were resisting scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: san.com">[Straight Arrow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">san.com</span><span class="citation-popover-title">congress scraps provision to declassify information about ufos aliens</span><span class="citation-popover-snippet">Straight ArrowCongress scraps provision to declassify information about...15 Dec 2023 — Congress tried to pass provisions in the NDAA th...</span></span></span>
+Supporters of the original bill noted that Congress had been willing to preserve the concept of a UAP records collection while removing several of the provisions that would have imposed stronger independent oversight. To disclosure-minded observers, this looked less like routine legislative bargaining and more like evidence that powerful interests were resisting scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: san.com">[Straight Arrow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">san.com</span><span class="citation-popover-title">congress scraps provision to declassify information about ufos aliens</span><span class="citation-popover-snippet">Straight ArrowCongress scraps provision to declassify information about...15 Dec 2023 — Congress tried to pass provisions in the NDAA th...</span></span></span>
 
-This reaction illustrates an important dynamic in disclosure politics. Secrecy debates are often shaped as much by omissions as by revelations. When ambitious language is introduced and then removed, supporters naturally ask why those specific provisions became controversial. In the case of the Schumer–Rounds effort, the disappearance of the review-board structure and eminent-domain provisions became part of the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Defense Authorization Act for Fiscal Year 2024</span><span class="citation-popover-snippet">National Defense Authorization Act for Fiscal Year 2024</span></span></span>
+This reaction illustrates an important dynamic in disclosure politics. Secrecy debates are often shaped as much by omissions as by revelations. When ambitious language is introduced and then removed, supporters naturally ask why those specific provisions became controversial. In the case of the Schumer–Rounds effort, the disappearance of the review-board structure and eminent-domain provisions became part of the story itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Defense Authorization Act for Fiscal Year 2024</span><span class="citation-popover-snippet">National Defense Authorization Act for Fiscal Year 2024</span></span></span>
 
-For sceptics, legislative compromise offered a simpler explanation. Defence bills routinely undergo negotiation, and controversial provisions are frequently narrowed to secure passage. From this perspective, the final law reflected ordinary congressional bargaining rather than evidence of hidden programmes. Yet the fact that senior bipartisan senators had originally proposed such expansive language gave the cuts symbolic weight that ordinary legislative amendments rarely receive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
+For sceptics, legislative compromise offered a simpler explanation. Defence bills routinely undergo negotiation, and controversial provisions are frequently narrowed to secure passage. From this perspective, the final law reflected ordinary congressional bargaining rather than evidence of hidden programmes. Yet the fact that senior bipartisan senators had originally proposed such expansive language gave the cuts symbolic weight that ordinary legislative amendments rarely receive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zxx40F1uv4Y" title="House Committee Hearing on Restoring Public Trust Through UAP Transparency, Whistleblower Protection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zxx40F1uv4Y" target="_blank" rel="noopener noreferrer">House Committee Hearing on Restoring Public Trust Through UAP Transparency, Whistleblower Protection</a></p><p class="youtube-embed-meta">Channel: NTD &middot; Views: 2.1K &middot; Uploaded: September 2025 &middot; Length: 2 hours 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zxx40F1uv4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zxx40F1uv4Y">Open on YouTube</a></p></div></div></div>
@@ -311,204 +311,204 @@ For sceptics, legislative compromise offered a simpler explanation. Defence bill
 
 ## Why transparency still felt incomplete
 
-The enacted provisions were not meaningless. Federal agencies were required to identify and organise UAP-related records, and the National Archives was tasked with establishing a dedicated UAP Records Collection. Those measures created a formal pathway for future disclosures and ensured that UAP records would receive treatment beyond standard archival procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The enacted provisions were not meaningless. Federal agencies were required to identify and organise UAP-related records, and the National Archives was tasked with establishing a dedicated UAP Records Collection. Those measures created a formal pathway for future disclosures and ensured that UAP records would receive treatment beyond standard archival procedures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Yet for many followers of the disclosure movement, the outcome fell short of the moment they believed had been promised. The original proposal suggested an effort to confront secrecy claims through independent review and exceptional legal authority. The final version focused more narrowly on record collection and administrative disclosure processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
+Yet for many followers of the disclosure movement, the outcome fell short of the moment they believed had been promised. The original proposal suggested an effort to confront secrecy claims through independent review and exceptional legal authority. The final version focused more narrowly on record collection and administrative disclosure processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
 
-That gap between expectation and enactment explains why the Schumer–Rounds initiative occupies such a distinctive place in modern UFO culture. It demonstrated that disclosure politics is not simply about whether files are released. It is also about who controls the release process, who reviews secrecy claims, and whether institutions are willing to subject themselves to oversight. In a culture shaped by stories of hidden knowledge—from *Close Encounters* onward—the weakening of those oversight mechanisms became, for many observers, almost as significant as any records that might eventually emerge. Senate Democratic Leadership <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
+That gap between expectation and enactment explains why the Schumer–Rounds initiative occupies such a distinctive place in modern UFO culture. It demonstrated that disclosure politics is not simply about whether files are released. It is also about who controls the release process, who reviews secrecy claims, and whether institutions are willing to subject themselves to oversight. In a culture shaped by stories of hidden knowledge—from *Close Encounters* onward—the weakening of those oversight mechanisms became, for many observers, almost as significant as any records that might eventually emerge. Senate Democratic Leadership<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-3-dark.svg" | relative_url }}" alt="Schumer Rounds UAP B 8 Bdc 3 C illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_schumer_rounds_uap_b_8bdc3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Schumer Rounds UAP B 8 Bdc 3 C. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Schumer Rounds UAP B 8 Bdc 3 C. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="schumer-rounds-uap-b-8-bdc-3-c-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,132 +714,132 @@ That gap between expectation and enactment explains why the Schumer–Rounds ini
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government records associated with reports of unidentified anomalous...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government records associated with reports of unidentified anomalous...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — Purpose: To provide for the expeditious disclosure of uniden- tified anomalous...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — Purpose: To provide for the expeditious disclosure of uniden- tified anomalous...</p></details>
    Published: May 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chuck Schumer  
-   Link: <a href="https://en.wikipedia.org/wiki/Chuck_Schumer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chuck_Schumer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck SchumerCharles Ellis Schumer is an American politician serving since 1999 as a United States senator from New York. A member of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chuck_Schumer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chuck_Schumer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck SchumerCharles Ellis Schumer is an American politician serving since 1999 as a United States senator from New York. A member of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defensescoop.com  
    Title: uap ufo military intercepts north america fy 2026 ndaa  
-   Link: <a href="https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress wants to know more about the military&#x27;s UAP...10 Dec 2025 — The fiscal 2026 National Defense Authorization Act includes three p...</p></details>
+   Link:<a href="https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress wants to know more about the military&#x27;s UAP...10 Dec 2025 — The fiscal 2026 National Defense Authorization Act includes three p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: schumer.senate.gov  
-   Link: <a href="https://www.schumer.senate.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.schumer.senate.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator Chuck Schumer of New YorkWashington D.C.. 322 Hart Senate Office Building Washington, D.C. 20510. Phone: (202) 224-6542. Fax: (...</p></details>
+   Link:<a href="https://www.schumer.senate.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.schumer.senate.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senator Chuck Schumer of New YorkWashington D.C.. 322 Hart Senate Office Building Washington, D.C. 20510. Phone: (202) 224-6542. Fax: (...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: insidegovernmentcontracts.com  
-   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</p></details>
+   Link:<a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</p></details>
    Published: December 22, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</p></details>
+   Link:<a href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefThe &#x27;UAP Disclosure Act of 2023&#x27;: What We Know About...14 Jul 2023 — Senate Majority Leader Chuck Schumer is leading an effor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: san.com  
    Title: congress scraps provision to declassify information about ufos aliens  
-   Link: <a href="https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straight ArrowCongress scraps provision to declassify information about...15 Dec 2023 — Congress tried to pass provisions in the NDAA th...</p></details>
+   Link:<a href="https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/congress-scraps-provision-to-declassify-information-about-ufos-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straight ArrowCongress scraps provision to declassify information about...15 Dec 2023 — Congress tried to pass provisions in the NDAA th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: disclosurediaries.com  
    Title: uap disclosure act of 2023  
-   Link: <a href="https://www.disclosurediaries.com/uap-disclosure-act-of-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurediaries.com/uap-disclosure-act-of-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP Disclosure Act of 2023 – a summary13 Jul 2023 — On July 13, 2023 – the UAP Disclosure Act of 2023 was submitted as an amendment t...</p></details>
+   Link:<a href="https://www.disclosurediaries.com/uap-disclosure-act-of-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurediaries.com/uap-disclosure-act-of-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP Disclosure Act of 2023 – a summary13 Jul 2023 — On July 13, 2023 – the UAP Disclosure Act of 2023 was submitted as an amendment t...</p></details>
    Published: July 13, 2023  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: chuckschumer.com  
-   Link: <a href="https://www.chuckschumer.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.chuckschumer.com/</a>  
+   Link:<a href="https://www.chuckschumer.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.chuckschumer.com/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is an outrage the House didn&#x27;t work with us on our UAP...SenSchumer, Dear Senator Schumer, I want to thank you for your efforts at t...</p></details>
+   Link:<a href="https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is an outrage the House didn&#x27;t work with us on our UAP...SenSchumer, Dear Senator Schumer, I want to thank you for your efforts at t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/congress-is-considering-an-amendment-to-the-defense-bill-forcing-disclosure-of-p/373352145071809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/congress-is-considering-an-amendment-to-the-defense-bill-forcing-disclosure-of-p/373352145071809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNationCongress is considering an amendment to the defense bill, forcing disclosure of potential secret UFO programs. However, key por...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/congress-is-considering-an-amendment-to-the-defense-bill-forcing-disclosure-of-p/373352145071809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/congress-is-considering-an-amendment-to-the-defense-bill-forcing-disclosure-of-p/373352145071809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNationCongress is considering an amendment to the defense bill, forcing disclosure of potential secret UFO programs. However, key por...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nyujlpp.org  
-   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to Declassify Government Rec...</p></details>
+   Link:<a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to Declassify Government Rec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: briantreese.medium.com  
-   Link: <a href="https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449" target="_blank" rel="noopener noreferrer nofollow">https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Unidentified Anomalous Phenomena (UAP...The UAP Disclosure Act of 2023 was established with the clear intent to centralize and prese...</p></details>
+   Link:<a href="https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449" target="_blank" rel="noopener noreferrer nofollow">https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Unidentified Anomalous Phenomena (UAP...The UAP Disclosure Act of 2023 was established with the clear intent to centralize and prese...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: burlison.house.gov  
    Title: rep burlison introduces uap disclosure act 2025 amendment ndaa  
-   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRep. Burlison Introduces UAP Disclosure Act of 2025 as...29 Aug 2025 — Washington, D.C. – Congressman Eric Burlison (MO-07) ann...</p></details>
+   Link:<a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRep. Burlison Introduces UAP Disclosure Act of 2025 as...29 Aug 2025 — Washington, D.C. – Congressman Eric Burlison (MO-07) ann...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8XZpOFGlrmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8XZpOFGlrmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Senator confident UAP Disclosure Amendment will...NewsNation&#x27;s Joe Khalil caught up with Sen. Mike Rounds, R-S.D., for an exc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8XZpOFGlrmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8XZpOFGlrmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Senator confident UAP Disclosure Amendment will...NewsNation&#x27;s Joe Khalil caught up with Sen. Mike Rounds, R-S.D., for an exc...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O6ShslicJeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6ShslicJeQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure amendment facing pushback | Vargas ReportsMajority Leader Chuck Schumer and Republican Mike rounds are spearheading an ame...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O6ShslicJeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6ShslicJeQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure amendment facing pushback | Vargas ReportsMajority Leader Chuck Schumer and Republican Mike rounds are spearheading an ame...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: governments civilian groups increase push for research and reporting  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgGovernments, civilian groups increase push for research and...1 Dec 2024 — The Unidentified Anomalous Phenomena Integration and...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgGovernments, civilian groups increase push for research and...1 Dec 2024 — The Unidentified Anomalous Phenomena Integration and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Luis Elizondo  
-   Link: <a href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2OMGOvuJV5M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can view the announcement of the legislative framework in this &#x27;Major Win For Government Transparency&#x27; broadcast, which covers Senato...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2OMGOvuJV5M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can view the announcement of the legislative framework in this &#x27;Major Win For Government Transparency&#x27; broadcast, which covers Senato...</p></details>

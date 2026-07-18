@@ -263,7 +263,7 @@ Few decisions in Steven Spielberg’s UFO career reveal his artistic priorities 
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-1-dark.svg" | relative_url }}" alt="Close Encounters Cut 8 D9509 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Spielberg, the answer changed over time. The 1980 version attempted to reveal more, including a glimpse inside the alien mothership. By the late 1990s, he had concluded that this disclosure weakened the film’s sense of wonder. The evolution of the film’s cuts became a practical experiment in how much of the unknown should remain unseen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+For Spielberg, the answer changed over time. The 1980 version attempted to reveal more, including a glimpse inside the alien mothership. By the late 1990s, he had concluded that this disclosure weakened the film’s sense of wonder. The evolution of the film’s cuts became a practical experiment in how much of the unknown should remain unseen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 ## Should the mothership stay unknowable?
 
@@ -271,7 +271,7 @@ The original 1977 film ends with [Roy Neary]({{ 'roy-neary/' | relative_url }}) 
 
 That ending matched the film’s broader approach to UFOs. Throughout *Close Encounters*, Spielberg repeatedly suggests more than he explains. Strange lights appear before their source is visible. Communication arrives through music and pattern rather than exposition. The climax offers contact without a detailed explanation of alien civilisation. The unknown remains intact.
 
-Yet Spielberg was dissatisfied with aspects of the rushed 1977 release. Columbia Pictures had pressed for a Christmas launch, and the director later said he wanted more time to finish the film. After its success, the studio agreed to fund additional work, but with a condition: a new version needed a major selling point. The result was the 1980 Special Edition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+Yet Spielberg was dissatisfied with aspects of the rushed 1977 release. Columbia Pictures had pressed for a Christmas launch, and the director later said he wanted more time to finish the film. After its success, the studio agreed to fund additional work, but with a condition: a new version needed a major selling point. The result was the 1980 Special Edition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_1JoYLdZ_II" title="Steven Spielberg - 30 Years of Close Encounters (part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_1JoYLdZ_II" target="_blank" rel="noopener noreferrer">Steven Spielberg - 30 Years of Close Encounters (part 1)</a></p><p class="youtube-embed-meta">Channel: FirstAndLastLook &middot; Views: 240.0K &middot; Uploaded: April 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_1JoYLdZ_II" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_1JoYLdZ_II">Open on YouTube</a></p></div></div></div>
@@ -280,9 +280,9 @@ Yet Spielberg was dissatisfied with aspects of the rushed 1977 release. Columbia
 
 The 1980 Special Edition incorporated new scenes, revised character moments and additional visual material. Its most famous addition came at the very end.
 
-After Roy enters the mothership, the audience briefly sees the interior of the alien craft. Bright corridors, glowing structures and otherworldly spaces replace the blank mystery left by the theatrical version. The sequence gave viewers exactly what science-fiction audiences are often denied: a look behind the curtain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+After Roy enters the mothership, the audience briefly sees the interior of the alien craft. Bright corridors, glowing structures and otherworldly spaces replace the blank mystery left by the theatrical version. The sequence gave viewers exactly what science-fiction audiences are often denied: a look behind the curtain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
-From a commercial perspective, the addition made sense. Columbia could market the reissue around a promise that audiences would finally see what had previously been hidden. Contemporary advertising emphasised this new access, turning the interior of the mothership into the Special Edition’s central attraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehdroom.com">[TheHDRoom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehdroom.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (30th Anniversary...24 Apr 2008 — The 1980 Special Edition trailer runs about two minutes, f...</span></span></span>
+From a commercial perspective, the addition made sense. Columbia could market the reissue around a promise that audiences would finally see what had previously been hidden. Contemporary advertising emphasised this new access, turning the interior of the mothership into the Special Edition’s central attraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehdroom.com">[TheHDRoom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehdroom.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (30th Anniversary...24 Apr 2008 — The 1980 Special Edition trailer runs about two minutes, f...</span></span></span>
 
 The change also reflected a common temptation in visual storytelling. Once a filmmaker has imagined an extraordinary object, there is a natural desire to reveal it. The audience has invested two hours waiting for answers. Showing more can feel like delivering on that promise.
 
@@ -294,11 +294,11 @@ For a time, Spielberg accepted that logic.
 
 By the 1990s, Spielberg had reconsidered.
 
-When preparing what became the 1998 Collector’s Edition, he removed the interior mothership footage. Although the new cut retained selected material from the Special Edition, the sequence showing the inside of the alien craft disappeared. Spielberg stated that the interior should have remained a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+When preparing what became the 1998 Collector’s Edition, he removed the interior mothership footage. Although the new cut retained selected material from the Special Edition, the sequence showing the inside of the alien craft disappeared. Spielberg stated that the interior should have remained a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
-His explanation has become one of the most revealing comments he has made about cinematic wonder. Reflecting on the compromise that led to the 1980 version, Spielberg said, “I never should have shown the inside of the mothership.” He later argued that the unseen interior was more powerful than any visualisation he could create. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+His explanation has become one of the most revealing comments he has made about cinematic wonder. Reflecting on the compromise that led to the 1980 version, Spielberg said, “I never should have shown the inside of the mothership.” He later argued that the unseen interior was more powerful than any visualisation he could create.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
-The 1998 cut therefore became a correction rather than simply another revision. It preserved many improvements Spielberg liked from the Special Edition while restoring the uncertainty of the original ending. Roy still enters the craft, but audiences once again stop at the threshold. The unknown survives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+The 1998 cut therefore became a correction rather than simply another revision. It preserved many improvements Spielberg liked from the Special Edition while restoring the uncertainty of the original ending. Roy still enters the craft, but audiences once again stop at the threshold. The unknown survives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
 This decision is especially significant within Spielberg’s UFO work. *Close Encounters* is fundamentally about contact with something beyond ordinary human understanding. Revealing too much risks transforming transcendence into production design.
 
@@ -311,16 +311,16 @@ The debate over the three versions highlights a larger principle that extends be
 
 Awe often depends on incompleteness. The imagination can construct possibilities larger than any visual effect. Once the audience sees a concrete answer, the mystery narrows. What was limitless becomes specific.
 
-The mothership interior demonstrates this effect. In the theatrical version, viewers project their own ideas onto the unseen space. It could be magnificent, terrifying, spiritual or incomprehensible. The Special Edition replaces those possibilities with a particular design. Whether impressive or not, it becomes finite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+The mothership interior demonstrates this effect. In the theatrical version, viewers project their own ideas onto the unseen space. It could be magnificent, terrifying, spiritual or incomprehensible. The Special Edition replaces those possibilities with a particular design. Whether impressive or not, it becomes finite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
-Many critics and later commentators have argued that the restored ambiguity strengthens the ending because the film’s emotional climax is Roy’s decision to leave Earth, not a guided tour of alien architecture. The mystery becomes part of the payoff rather than an obstacle to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.movie-censorship.com/report.php?ID=101920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: movie-censorship.com">[Movie Censorship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">movie-censorship.com</span><span class="citation-popover-snippet">There is more upbeat music in the Special Edition, the Director&#x27;s Cut features dark, serious music.Read more...</span></span></span>
+Many critics and later commentators have argued that the restored ambiguity strengthens the ending because the film’s emotional climax is Roy’s decision to leave Earth, not a guided tour of alien architecture. The mystery becomes part of the payoff rather than an obstacle to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.movie-censorship.com/report.php?ID=101920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: movie-censorship.com">[Movie Censorship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">movie-censorship.com</span><span class="citation-popover-snippet">There is more upbeat music in the Special Edition, the Director&#x27;s Cut features dark, serious music.Read more...</span></span></span>
 
 This is why the different cuts matter within Spielberg’s UFO [timeline]({{ 'timeline/' | relative_url }}). They reveal a filmmaker testing two competing instincts:
 
 * **The urge to reveal**: giving audiences access to the extraordinary.
 * **The urge to withhold**: preserving the power of the unknown.
 
-The 1980 Special Edition leaned toward revelation. The 1998 version moved back toward restraint. Together, they show Spielberg arriving at a conclusion that would influence much of his later work: some mysteries are more meaningful when they remain partially unseen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+The 1980 Special Edition leaned toward revelation. The 1998 version moved back toward restraint. Together, they show Spielberg arriving at a conclusion that would influence much of his later work: some mysteries are more meaningful when they remain partially unseen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-3-dark.svg" | relative_url }}" alt="Close Encounters Cut 8 D9509 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955_close_encounters_cut_8d9509-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,201 +330,201 @@ Viewed across the decades, the various editions of *Close Encounters of the Thir
 
 His final answer appears in the version he ultimately endorsed. The mothership remains closed. Roy enters. The audience does not.
 
-For Spielberg, that boundary preserved the very quality that made UFO stories compelling in the first place: the sense that some experiences are bigger than what any camera can show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+For Spielberg, that boundary preserved the very quality that made UFO stories compelling in the first place: the sense that some experiences are bigger than what any camera can show.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmD-e3QSQ1k" title="Close Encounters of the Third Kind - Inside the Mothership (HD-720p)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmD-e3QSQ1k" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind - Inside the Mothership (HD-720p)</a></p><p class="youtube-embed-meta">Channel: DreamyWolf &middot; Views: 219.8K &middot; Uploaded: March 2019</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmD-e3QSQ1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmD-e3QSQ1k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Close Encounters Cut 8 D9509. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Close Encounters Cut 8 D9509. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-cut-8-d9509-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,117 +730,117 @@ For Spielberg, that boundary preserved the very quality that made UFO stories co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thehdroom.com  
-   Link: <a href="https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/" target="_blank" rel="noopener noreferrer nofollow">https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (30th Anniversary...24 Apr 2008 — The 1980 Special Edition trailer runs about two minutes, f...</p></details>
+   Link:<a href="https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/" target="_blank" rel="noopener noreferrer nofollow">https://thehdroom.com/reviews/close-encounters-of-the-third-kind-30th-anniversary-ultimate-edition-blu-ray-review-30611/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (30th Anniversary...24 Apr 2008 — The 1980 Special Edition trailer runs about two minutes, f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: movie-censorship.com  
-   Link: <a href="https://www.movie-censorship.com/report.php?ID=101920" target="_blank" rel="noopener noreferrer nofollow">https://www.movie-censorship.com/report.php?ID=101920</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There is more upbeat music in the Special Edition, the Director&#x27;s Cut features dark, serious music.Read more...</p></details>
+   Link:<a href="https://www.movie-censorship.com/report.php?ID=101920" target="_blank" rel="noopener noreferrer nofollow">https://www.movie-censorship.com/report.php?ID=101920</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There is more upbeat music in the Special Edition, the Director&#x27;s Cut features dark, serious music.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XwO5aPc0V54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XwO5aPc0V54</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind - ending (inside the mothership).mp4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XwO5aPc0V54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XwO5aPc0V54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind - ending (inside the mothership).mp4...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=3HKlFHUlnrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3HKlFHUlnrM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - 30 Years of Close Encounters (part 1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3HKlFHUlnrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3HKlFHUlnrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - 30 Years of Close Encounters (part 1)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Steven Spielberg  
-   Link: <a href="https://www.youtube.com/watch?v=_1JoYLdZ_II" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_1JoYLdZ_II</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_1JoYLdZ_II" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_1JoYLdZ_II</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: princesspictures.fandom.com  
    Title: Steven Spielberg  
-   Link: <a href="https://princesspictures.fandom.com/wiki/Steven_Spielberg" target="_blank" rel="noopener noreferrer nofollow">https://princesspictures.fandom.com/wiki/Steven_Spielberg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg | Princess Pictures Wiki | FandomSpielberg then revisited his Close Encounters project and, with financial backing from Columbi...</p></details>
+   Link:<a href="https://princesspictures.fandom.com/wiki/Steven_Spielberg" target="_blank" rel="noopener noreferrer nofollow">https://princesspictures.fandom.com/wiki/Steven_Spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg | Princess Pictures Wiki | FandomSpielberg then revisited his Close Encounters project and, with financial backing from Columbi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deleted scene - Inside...Spielberg has always said he regretted creating this scene since it never lived up to anyone&#x27;s expectations and...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deleted scene - Inside...Spielberg has always said he regretted creating this scene since it never lived up to anyone&#x27;s expectations and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/close" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/close</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — to change from being open to not being open, or to cause something to do this: close...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/close" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — to change from being open to not being open, or to cause something to do this: close...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=SmD-e3QSQ1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SmD-e3QSQ1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mothership...Spielberg has always said that he regretted creating this scene since it never lived up to anyone&#x27;s expectations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SmD-e3QSQ1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SmD-e3QSQ1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mothership...Spielberg has always said that he regretted creating this scene since it never lived up to anyone&#x27;s expectations...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bifa.film  
-   Link: <a href="https://www.bifa.film/film/close/" target="_blank" rel="noopener noreferrer nofollow">https://www.bifa.film/film/close/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close · BIFA · British Independent Film AwardsThe intense friendship between two thirteen-year old boys, Leo and Remi, suddenly gets disr...</p></details>
+   Link:<a href="https://www.bifa.film/film/close/" target="_blank" rel="noopener noreferrer nofollow">https://www.bifa.film/film/close/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close · BIFA · British Independent Film AwardsThe intense friendship between two thirteen-year old boys, Leo and Remi, suddenly gets disr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musingsofamiddleagedgeek.blog  
-   Link: <a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…Jun 19, 2024 — Scenes from the 1980 “Special Edition” of CE3K, with additional s...</p></details>
+   Link:<a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…Jun 19, 2024 — Scenes from the 1980 “Special Edition” of CE3K, with additional s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hometheaterforum.com  
-   Link: <a href="https://www.hometheaterforum.com/community/threads/its-family-movie-night-close-encounters-of-the-third-kind-but-which-version-help-me-decide.386498/" target="_blank" rel="noopener noreferrer nofollow">https://www.hometheaterforum.com/community/threads/its-family-movie-night-close-encounters-of-the-third-kind-but-which-version-help-me-decide.386498/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s family movie night, Close Encounters of the Third Kind...Jul 11, 2025 — The decision to add an extra scene to the &quot;Special Edition...</p></details>
+   Link:<a href="https://www.hometheaterforum.com/community/threads/its-family-movie-night-close-encounters-of-the-third-kind-but-which-version-help-me-decide.386498/" target="_blank" rel="noopener noreferrer nofollow">https://www.hometheaterforum.com/community/threads/its-family-movie-night-close-encounters-of-the-third-kind-but-which-version-help-me-decide.386498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s family movie night, Close Encounters of the Third Kind...Jul 11, 2025 — The decision to add an extra scene to the &quot;Special Edition...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dvdjournal.com  
    Title: DVD Journal Close Encounters of the Third Kind: Collector's Edition  
-   Link: <a href="https://www.dvdjournal.com/reviews/c/closeencounters.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.dvdjournal.com/reviews/c/closeencounters.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters are we watching here, precisely? This disc contains the final &quot;Collector&#x27;s Edition&quot; cut, released to home video and Lase...</p></details>
+   Link:<a href="https://www.dvdjournal.com/reviews/c/closeencounters.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.dvdjournal.com/reviews/c/closeencounters.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters are we watching here, precisely? This disc contains the final &quot;Collector&#x27;s Edition&quot; cut, released to home video and Lase...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the thrashing terror of “Jaws” to the awesome spectacle of “Close Encounters of...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/darkness-in-the-bliss-out-a-reconsideration-of-the-films-of-steven-spielberg-9781441188953-9781441146045-9781501300080-9781441193070.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the thrashing terror of “Jaws” to the awesome spectacle of “Close Encounters of...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hollywoodintoto.com  
    Title: close encounters of the third kind special edition review  
-   Link: <a href="https://www.hollywoodintoto.com/close-encounters-of-the-third-kind-special-edition-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodintoto.com/close-encounters-of-the-third-kind-special-edition-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Close Encounters of the Third Kind&#x27;s&#x27; Special Edition...14 Feb 2026 — That&#x27;s a lot for some deleted scenes, added spectacle and the...</p></details>
+   Link:<a href="https://www.hollywoodintoto.com/close-encounters-of-the-third-kind-special-edition-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodintoto.com/close-encounters-of-the-third-kind-special-edition-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Close Encounters of the Third Kind&#x27;s&#x27; Special Edition...14 Feb 2026 — That&#x27;s a lot for some deleted scenes, added spectacle and the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/slashfilm/posts/when-he-decided-to-tackle-his-initial-directors-cut-of-close-encounters-of-the-t/1450061563447334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashfilm/posts/when-he-decided-to-tackle-his-initial-directors-cut-of-close-encounters-of-the-t/1450061563447334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oes from Roy going into the ship to Truffaut communicating with the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/slashfilm/posts/when-he-decided-to-tackle-his-initial-directors-cut-of-close-encounters-of-the-t/1450061563447334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashfilm/posts/when-he-decided-to-tackle-his-initial-directors-cut-of-close-encounters-of-the-t/1450061563447334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oes from Roy going into the ship to Truffaut communicating with the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tumblr.com  
    Title: Aliens At 30: These Rare Behind-The-Scenes Pictures  
-   Link: <a href="https://www.tumblr.com/benfalkyahoomovies/147446032344/aliens-at-30-these-rare-behind-the-scenes" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/benfalkyahoomovies/147446032344/aliens-at-30-these-rare-behind-the-scenes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind&#x27;. image. You&#x27;ve seen it in lots of other movies, but &#x27;Close Encounters&#x27; is perhaps the best example of...</p></details>
+   Link:<a href="https://www.tumblr.com/benfalkyahoomovies/147446032344/aliens-at-30-these-rare-behind-the-scenes" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/benfalkyahoomovies/147446032344/aliens-at-30-these-rare-behind-the-scenes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind&#x27;. image. You&#x27;ve seen it in lots of other movies, but &#x27;Close Encounters&#x27; is perhaps the best example of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MIlUlBayN8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MIlUlBayN8Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weirdest Change Made to the Special Edition of Close...Close Encounters of The Third Kind (1977): 20 Hidden Details You Completely M...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MIlUlBayN8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MIlUlBayN8Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weirdest Change Made to the Special Edition of Close...Close Encounters of The Third Kind (1977): 20 Hidden Details You Completely M...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160540398211696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160540398211696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ose interior scenes of the mother ship in his recut version with...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160540398211696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160540398211696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ose interior scenes of the mother ship in his recut version with...Read more...</p></details>

@@ -446,17 +446,17 @@ In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Ki
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171-overview.webp" | relative_url }}" alt="Overview image for Five Notes" loading="eager" decoding="sync" fetchpriority="high">
-John Williams’s motif is short enough to feel like a signal and memorable enough to feel like language. Spielberg reportedly insisted that the alien-contact phrase should be five notes, and Williams later recalled writing “all manner” of possibilities before the final version was chosen. The result became one of the rare film themes that is not merely attached to a story but actively performs the story’s central act: communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">John Williams&#x27; Great Performances Theme Song and...... Close Encounters and how you got to where you ended up? John Williams... And...</span></span></span>
+John Williams’s motif is short enough to feel like a signal and memorable enough to feel like language. Spielberg reportedly insisted that the alien-contact phrase should be five notes, and Williams later recalled writing “all manner” of possibilities before the final version was chosen. The result became one of the rare film themes that is not merely attached to a story but actively performs the story’s central act: communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">John Williams&#x27; Great Performances Theme Song and...... Close Encounters and how you got to where you ended up? John Williams... And...</span></span></span>
 
 ## Why the Five Notes Work as a Contact Mechanism
 
 The five-note phrase succeeds because it sits between noise and melody. If it were only a single tone, it would be too thin to imply intelligence. If it were a full tune, it might sound too human, too culturally specific, too much like a song already carrying earthly associations. Five notes give Spielberg and Williams a compact middle ground: enough sequence to suggest pattern recognition, not enough to close down mystery.
 
-That balance is not accidental. Williams has said that the script required a five-note motif, and in one interview he described composing hundreds of variants before he and Spielberg settled on the one used in the film. A separate music-theory explanation gives the familiar solfège shape as “Re, Mi, Do, Do, So”, with the second “Do” an octave lower, and notes that the phrase was chosen from a huge field of possible five-note combinations in the chromatic scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.douban.com/group/topic/1029416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.douban.com">[Douban]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.douban.com</span><span class="citation-popover-snippet">1997 John Williams Interview - Total Film Magazine3 Feb 2006 — John Williams: It&#x27;s hard to say that, but I always answer Close Enco...</span></span></span>
+That balance is not accidental. Williams has said that the script required a five-note motif, and in one interview he described composing hundreds of variants before he and Spielberg settled on the one used in the film. A separate music-theory explanation gives the familiar solfège shape as “Re, Mi, Do, Do, So”, with the second “Do” an octave lower, and notes that the phrase was chosen from a huge field of possible five-note combinations in the chromatic scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://m.douban.com/group/topic/1029416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.douban.com">[Douban]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.douban.com</span><span class="citation-popover-snippet">1997 John Williams Interview - Total Film Magazine3 Feb 2006 — John Williams: It&#x27;s hard to say that, but I always answer Close Enco...</span></span></span>
 
 The motif is also powerful because it is unfinished. It does not land like a completed anthem; it hangs in the air as a prompt. That makes it ideal for the film’s dramatic purpose. The phrase asks for a response, and the mothership’s reply converts the scene from display into dialogue. In ordinary science-fiction terms, the aliens are technologically superior; in Spielberg’s scene, superiority is softened by turn-taking. They listen, answer, elaborate and play.
 
-This is where the five notes become more than a musical logo. The Los Angeles Philharmonic’s programme note for Williams’s concert excerpts describes music in *Close Encounters* as “the key to communication between humans and benign aliens”, with the five-note motif acting as the non-verbal link that appears across both plot and score. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span><span class="citation-popover-snippet">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span></span></span>
+This is where the five notes become more than a musical logo. The Los Angeles Philharmonic’s programme note for Williams’s concert excerpts describes music in *Close Encounters* as “the key to communication between humans and benign aliens”, with the five-note motif acting as the non-verbal link that appears across both plot and score.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span><span class="citation-popover-snippet">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171-Illustration-1-dark.svg" | relative_url }}" alt="Five Notes illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -464,11 +464,11 @@ This is where the five notes become more than a musical logo. The Los Angeles Ph
 
 The brilliance of the motif is that it is instantly graspable without feeling ordinary. Its shape can be sung, whistled, played on a synthesiser, translated into lights and matched with hand signs. That adaptability makes it feel less like a private musical theme and more like a protocol: a compact unit of information that can move across instruments, bodies and machines.
 
-Williams’s broader score prepares the audience for that shift. The music does not begin in a world of easy reassurance. Scholarly analysis of the score has noted how *Close Encounters* sets threatening, cluster-like modernist sonorities against more tonal, resolving music, mirroring the film’s movement from fear and uncertainty towards wonder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span> The five-note phrase emerges inside that larger emotional design: it is not simply “nice music”, but a way of moving from dread to intelligibility.
+Williams’s broader score prepares the audience for that shift. The music does not begin in a world of easy reassurance. Scholarly analysis of the score has noted how *Close Encounters* sets threatening, cluster-like modernist sonorities against more tonal, resolving music, mirroring the film’s movement from fear and uncertainty towards wonder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span> The five-note phrase emerges inside that larger emotional design: it is not simply “nice music”, but a way of moving from dread to intelligibility.
 
 That matters because Spielberg’s UFO cinema is often less interested in defeating the unknown than in learning how to face it. In the early scenes, the visitors are frightening because they exceed ordinary categories. Lights appear where they should not; machines fail; [witnesses]({{ 'witnesses/' | relative_url }}) cannot explain what has happened to them. By the finale, the same otherness is still present, but the film has found a form in which humans can respond.
 
-The phrase is also diegetic, meaning it exists inside the world of the film rather than only on the soundtrack for the audience. The scientists play it. The aliens hear it. The mothership answers. Music scholar Tom Schneller specifically identifies the five-note motive as the primary means of communication between aliens and humans, and notes that because it plays a role in the plot, it belongs to the tradition of diegetic film music rather than ordinary background scoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span>
+The phrase is also diegetic, meaning it exists inside the world of the film rather than only on the soundtrack for the audience. The scientists play it. The aliens hear it. The mothership answers. Music scholar Tom Schneller specifically identifies the five-note motive as the primary means of communication between aliens and humans, and notes that because it plays a role in the plot, it belongs to the tradition of diegetic film music rather than ordinary background scoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eCBF8XeCZC4" title="Close Encounters of the Third Kind • Soundtrack Suite • John Williams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eCBF8XeCZC4" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind • Soundtrack Suite • John Williams</a></p><p class="youtube-embed-meta">Channel: HD Film Tributes &middot; Views: 36.8K &middot; Uploaded: April 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eCBF8XeCZC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eCBF8XeCZC4">Open on YouTube</a></p></div></div></div>
@@ -479,7 +479,7 @@ The final contact scene is staged like a military operation, but it is resolved 
 
 That choice changes the ethics of the scene. A military response assumes the unknown must be contained or repelled. A purely linguistic response assumes the unknown can be folded into human categories quickly enough to be understood. Spielberg’s musical response does something subtler: it admits that humans do not yet know what the visitors mean, while still insisting that pattern, rhythm and reply can create a first bridge.
 
-The film also makes communication multi-sensory. The exchange is not only heard; it is seen through lights and colours, and embodied through hand signs. Accounts of the sequence connect Lacombe’s gestures to Curwen hand signs used in music education and associated with the Kodály method, turning classroom solfège into a speculative language of interspecies contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scifi.stackexchange.com">[Science Fiction &amp; Fantasy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scifi.stackexchange.com</span><span class="citation-popover-title">Lacombe, the UFO expert, is shown in a conference</span><span class="citation-popover-snippet">Science Fiction &amp; Fantasy Stack ExchangeWhat is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of...</span></span></span>
+The film also makes communication multi-sensory. The exchange is not only heard; it is seen through lights and colours, and embodied through hand signs. Accounts of the sequence connect Lacombe’s gestures to Curwen hand signs used in music education and associated with the Kodály method, turning classroom solfège into a speculative language of interspecies contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scifi.stackexchange.com">[Science Fiction &amp; Fantasy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scifi.stackexchange.com</span><span class="citation-popover-title">Lacombe, the UFO expert, is shown in a conference</span><span class="citation-popover-snippet">Science Fiction &amp; Fantasy Stack ExchangeWhat is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of...</span></span></span>
 
 That detail is easy to miss, but it is central to the scene’s emotional force. The hand signs make the humans look less like conquerors and more like students. They are not imposing a finished language on the aliens; they are trying to match sound, colour and gesture into a grammar simple enough to begin with. One useful reading of the scene is that humanity is being placed in a classroom. The famous line “the first day of school” fits because the film turns contact into pedagogy rather than conquest.
 
@@ -493,7 +493,7 @@ This escalation is important. The five notes are not treated as a full alien lan
 
 That is one reason the scene still feels hopeful rather than naïve. Spielberg does not pretend that humans and aliens instantly understand one another. The first exchange is partial, asymmetrical and technically mediated. But it is enough to prove that contact is not impossible. A signal is sent. A reply comes back. Meaning begins in repetition before it becomes explanation.
 
-The hardware reinforces that idea. The visible musical technology gives the scene a tactile, practical quality: people at consoles trying to translate awe into procedure. Sources discussing the sequence identify the synthesiser associated with the final communication as an ARP 2500, and the National Music Centre’s collection entry for an ARP 2500 directly notes the cultural memory of the film’s five electronic-sounding notes as a means of communication with aliens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nmc.emuseum.com/objects/203/arp-2500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmc.emuseum.com">[nmc.emuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmc.emuseum.com</span><span class="citation-popover-title">arp 2500</span><span class="citation-popover-snippet">arp 2500</span></span></span>
+The hardware reinforces that idea. The visible musical technology gives the scene a tactile, practical quality: people at consoles trying to translate awe into procedure. Sources discussing the sequence identify the synthesiser associated with the final communication as an ARP 2500, and the National Music Centre’s collection entry for an ARP 2500 directly notes the cultural memory of the film’s five electronic-sounding notes as a means of communication with aliens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nmc.emuseum.com/objects/203/arp-2500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmc.emuseum.com">[nmc.emuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmc.emuseum.com</span><span class="citation-popover-title">arp 2500</span><span class="citation-popover-snippet">arp 2500</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3mwUxZOrW4" title="John Williams &amp; Wiener Philharmoniker – Excerpts from &quot;Close Encounters Of The Third Kind&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3mwUxZOrW4" target="_blank" rel="noopener noreferrer">John Williams &amp; Wiener Philharmoniker – Excerpts from &quot;Close Encounters Of The Third Kind&quot;</a></p><p class="youtube-embed-meta">Channel: Deutsche Grammophon - DG &middot; Views: 64.4K &middot; Uploaded: September 2020</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3mwUxZOrW4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3mwUxZOrW4">Open on YouTube</a></p></div></div></div>
@@ -502,7 +502,7 @@ The hardware reinforces that idea. The visible musical technology gives the scen
 
 The five-note exchange defines hopeful contact because it does not erase fear; it reorganises it. Much of *Close Encounters* is unsettling. People vanish. Families fracture. Official [secrecy]({{ 'secrecy/' | relative_url }}) surrounds the landing site. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s experience is not cosy wonder but obsession and social dislocation. The finale feels so luminous partly because the film has earned its release from confusion.
 
-Williams’s score supports that movement. The LA Phil notes that the music uses more threatening, modernist sonorities for mysterious or alarming aspects of the visitors, while the five-note motif serves as the film’s non-verbal bridge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span><span class="citation-popover-snippet">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span></span></span> Schneller’s analysis similarly describes the score’s movement between terror and wonder, with atonality linked to the visitors’ initially threatening mystery and more tonal resolution arriving as their benign nature becomes clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span>
+Williams’s score supports that movement. The LA Phil notes that the music uses more threatening, modernist sonorities for mysterious or alarming aspects of the visitors, while the five-note motif serves as the film’s non-verbal bridge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span><span class="citation-popover-snippet">LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams</span></span></span> Schneller’s analysis similarly describes the score’s movement between terror and wonder, with atonality linked to the visitors’ initially threatening mystery and more tonal resolution arriving as their benign nature becomes clear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</span></span></span>
 
 The result is not blind optimism. It is structured optimism. Spielberg’s scene says that contact becomes possible when humans stop treating the unknown only as a target, threat or puzzle to be solved privately. They must make themselves legible too. The five notes are not just a message to the aliens; they are a public act of vulnerability.
 
@@ -525,194 +525,194 @@ That is the deeper mechanism behind its durability. The five notes do not explai
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Five Notes Made Contact Feel Possible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Five Notes Made Contact Feel Possible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Directly covers the film, production choices and creative context behind its musical communication scene.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the film, production choices and creative context behind its musical communication scene.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Williams&#x27;s film music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12674345-M.jpg" alt="Cover for John Williams&#x27;s film music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Williams&#x27;s film music">John Williams&#x27;s film music</a>
-        </h4>
-        <p class="fr-book-author">By Emilio Audissino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Williams&#x27;s film music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12674345-M.jpg" alt="Cover for John Williams&#x27;s film music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Williams&#x27;s film music">John Williams&#x27;s film music</a>
+</h4>
+<p class="fr-book-author">By Emilio Audissino</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Star wars (Motion picture), Motion picture music, Jaws (Motion picture : 1975), Analysis, appreciation, H...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Star wars (Motion picture), Motion picture music, Jaws (Motion picture : 1975), Analysis, appreciation, H...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=John+Williams%27s+film+music+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The sounds of commerce on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3729496-M.jpg" alt="Cover for The sounds of commerce" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sounds of commerce">The sounds of commerce</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The sounds of commerce on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3729496-M.jpg" alt="Cover for The sounds of commerce" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sounds of commerce">The sounds of commerce</a>
+</h4>
+<p class="fr-book-author">By Jeff Smith</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Economic aspects, Economic aspects of Motion picture music, History and criticism, Motion picture music,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Economic aspects, Economic aspects of Motion picture music, History and criticism, Motion picture music,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+sounds+of+commerce+Jeff+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Adds background on the UFO culture that made musical contact in Close Encounters feel plausible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds background on the UFO culture that made musical contact in Close Encounters feel plausible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=John+Williams%27s+film+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">John Williams&#x27;s film music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+sounds+of+commerce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The sounds of commerce</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=John+Williams%27s+film+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">John Williams&#x27;s film music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+sounds+of+commerce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The sounds of commerce</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH"><img src="{{ '/assets/images/marketplace-covers/d8ede86fc6c5d5678fbe.jpg' | relative_url }}" alt="Listing image for PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH"><img src="{{ '/assets/images/marketplace-covers/d8ede86fc6c5d5678fbe.jpg' | relative_url }}" alt="Listing image for PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">PHOTO MEMORABILIA SIGNED BY WILLIAMS JOHN MCBRIDE 1974 CAPTAIN BRITISH IRISH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980"><img src="{{ '/assets/images/marketplace-covers/81292578ec8604be485e.jpg' | relative_url }}" alt="Listing image for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980"><img src="{{ '/assets/images/marketplace-covers/81292578ec8604be485e.jpg' | relative_url }}" alt="Listing image for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/72f37678d666455ade86.jpg' | relative_url }}" alt="Listing image for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/72f37678d666455ade86.jpg' | relative_url }}" alt="Listing image for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e67dc3e5386e8072caf4.jpg' | relative_url }}" alt="Listing image for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e67dc3e5386e8072caf4.jpg' | relative_url }}" alt="Listing image for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="five-notes-how-five-notes-made-contact-feel-possible-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -728,7 +728,7 @@ That is the deeper mechanism behind its durability. The five notes do not explai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -748,7 +748,7 @@ That is the deeper mechanism behind its durability. The five notes do not explai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -780,7 +780,7 @@ That is the deeper mechanism behind its durability. The five notes do not explai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -832,7 +832,7 @@ That is the deeper mechanism behind its durability. The five notes do not explai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -877,7 +877,7 @@ That is the deeper mechanism behind its durability. The five notes do not explai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -918,138 +918,138 @@ That is the deeper mechanism behind its durability. The five notes do not explai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Great Performances Theme Song and...... Close Encounters and how you got to where you ended up? John Williams... And...</p></details>
+   Link:<a href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Great Performances Theme Song and...... Close Encounters and how you got to where you ended up? John Williams... And...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: m.douban.com  
-   Link: <a href="https://m.douban.com/group/topic/1029416/" target="_blank" rel="noopener noreferrer nofollow">https://m.douban.com/group/topic/1029416/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 John Williams Interview - Total Film Magazine3 Feb 2006 — John Williams: It&#x27;s hard to say that, but I always answer Close Enco...</p></details>
+   Link:<a href="https://m.douban.com/group/topic/1029416/" target="_blank" rel="noopener noreferrer nofollow">https://m.douban.com/group/topic/1029416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1997 John Williams Interview - Total Film Magazine3 Feb 2006 — John Williams: It&#x27;s hard to say that, but I always answer Close Enco...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Sweet Fulfillment: Allusion and Teleological Genesis in John Williams’s Close Encounters of the Third Kind...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nmc.emuseum.com  
    Title: arp 2500  
-   Link: <a href="https://nmc.emuseum.com/objects/203/arp-2500" target="_blank" rel="noopener noreferrer nofollow">https://nmc.emuseum.com/objects/203/arp-2500</a>  
+   Link:<a href="https://nmc.emuseum.com/objects/203/arp-2500" target="_blank" rel="noopener noreferrer nofollow">https://nmc.emuseum.com/objects/203/arp-2500</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind (6/8) Movie CLIP  
-   Link: <a href="http://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S4PYI6TzqYk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Five Tones...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S4PYI6TzqYk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Five Tones...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Steven Spielberg  
-   Link: <a href="http://www.youtube.com/watch?v=wZj7gUIO-2k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wZj7gUIO-2k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wZj7gUIO-2k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wZj7gUIO-2k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Dario Marianelli explains John Williams' impact on 'Close Encounters'  
-   Link: <a href="http://www.youtube.com/watch?v=Z9xh2gFzLUM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z9xh2gFzLUM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Z9xh2gFzLUM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z9xh2gFzLUM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="http://www.youtube.com/watch?v=OEloAotHhKM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OEloAotHhKM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Close Encounters of the Third Kind&quot; Communicating with the Mothership Close Encounters of the Third Kind (6/8) Movie CLIP - Communicatin...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OEloAotHhKM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OEloAotHhKM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Close Encounters of the Third Kind&quot; Communicating with the Mothership Close Encounters of the Third Kind (6/8) Movie CLIP - Communicatin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtu.be  
    Title: Binge Society  
-   Link: <a href="https://youtu.be/YZ-mu160OCc" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/YZ-mu160OCc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality) Jay Kwon...</p></details>
+   Link:<a href="https://youtu.be/YZ-mu160OCc" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/YZ-mu160OCc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality) Jay Kwon...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: laphil.com  
    Title: LA Phil Excerpts from Close Encounters of the Third Kind *, John Williams  
-   Link: <a href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scifi.stackexchange.com  
    Title: Lacombe, the UFO expert, is shown in a conference  
-   Link: <a href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction &amp; Fantasy Stack ExchangeWhat is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of...</p></details>
+   Link:<a href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction &amp; Fantasy Stack ExchangeWhat is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: johnwilliams.org  
-   Link: <a href="https://www.johnwilliams.org/reference/biography" target="_blank" rel="noopener noreferrer nofollow">https://www.johnwilliams.org/reference/biography</a>  
+   Link:<a href="https://www.johnwilliams.org/reference/biography" target="_blank" rel="noopener noreferrer nofollow">https://www.johnwilliams.org/reference/biography</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Sweet Fulfillment  
-   Link: <a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: johnloomis.org  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
+   Link:<a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ars-nova.com  
    Title: The second Do is an octave below the first. The five tones were chosen  
-   Link: <a href="https://www.ars-nova.com/Theory%20Q%26A/Q35.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ars-nova.com/Theory%20Q%26A/Q35.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars NovaWhere do the 5 tones with hand symbols in the movie &quot;...The five musical tones in Close Encounters are, in solfege, Re, Mi, Do...</p></details>
+   Link:<a href="https://www.ars-nova.com/Theory%20Q%26A/Q35.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ars-nova.com/Theory%20Q%26A/Q35.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars NovaWhere do the 5 tones with hand symbols in the movie &quot;...The five musical tones in Close Encounters are, in solfege, Re, Mi, Do...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Communicating with music  
-   Link: <a href="http://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nkykqyMEarA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dario Marianelli explains John Williams&#x27; impact on &#x27;Close Encounters&#x27;...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nkykqyMEarA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dario Marianelli explains John Williams&#x27; impact on &#x27;Close Encounters&#x27;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kodaly.org.au  
-   Link: <a href="https://kodaly.org.au/wp-content/uploads/2015/12/handsign.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kodaly.org.au/wp-content/uploads/2015/12/handsign.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kodály AustraliaCurwen Hand SignsPage 1. Curwen Hand Signs re do ti la so fa mi do. (c)2003 Kodaly Music Education Instiute of Australia...</p></details>
+   Link:<a href="https://kodaly.org.au/wp-content/uploads/2015/12/handsign.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kodaly.org.au/wp-content/uploads/2015/12/handsign.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kodály AustraliaCurwen Hand SignsPage 1. Curwen Hand Signs re do ti la so fa mi do. (c)2003 Kodaly Music Education Instiute of Australia...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-heroes-villians/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-heroes-villians/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-heroes-villians/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-heroes-villians/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-laughs/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-laughs/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-laughs/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-laughs/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: filmtracks.com  
-   Link: <a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
+   Link:<a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10156298172246696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10156298172246696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10156298172246696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10156298172246696/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160236355136696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160236355136696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160236355136696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160236355136696/</a>  

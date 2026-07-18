@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-witness/
 description: Focused pages that expand on Witnesses.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_witness_testimony_re_c9f417
 parent_title: Witnesses
@@ -16,7 +16,7 @@ parent_permalink: /witnesses/
 
 # Explore Topics in Witnesses
 
-The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in.
 
 - [Air Traffic Reportin F8 C9 Fd]({{ '/air-traffic-reportin-f8-c9-fd/' | relative_url }})
 - [Blue Book Witness Pr 3 D7 D49]({{ '/blue-book-witness-pr-3-d7-d49/' | relative_url }})

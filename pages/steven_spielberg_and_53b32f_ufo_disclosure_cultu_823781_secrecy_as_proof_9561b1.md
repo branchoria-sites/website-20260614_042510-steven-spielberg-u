@@ -268,11 +268,11 @@ One of the most durable ideas in modern UFO and UAP [disclosure culture]({{ 'dis
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_secrecy_as_proof_9561b1-Illustration-1-dark.svg" | relative_url }}" alt="Secrecy As Proof 9561 B1 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_secrecy_as_proof_9561b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_disclosure_cultu_823781_secrecy_as_proof_9561b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader cultural influence of Steven Spielberg’s UFO work, this became a powerful mechanism. The film helped popularise the idea that government [secrecy]({{ 'secrecy/' | relative_url }}) might not mean there is no answer. It might mean the answer is being managed, delayed or concealed. That assumption continues to shape how many people interpret classified UAP files, redactions, delayed disclosures and official investigations today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intermountainhistories.org">[Intermountain Histories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intermountainhistories.org</span><span class="citation-popover-title">In the film, Roy Neary is shown how to climb this area to evade government</span><span class="citation-popover-snippet">Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</span></span></span>
+Within the broader cultural influence of Steven Spielberg’s UFO work, this became a powerful mechanism. The film helped popularise the idea that government [secrecy]({{ 'secrecy/' | relative_url }}) might not mean there is no answer. It might mean the answer is being managed, delayed or concealed. That assumption continues to shape how many people interpret classified UAP files, redactions, delayed disclosures and official investigations today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intermountainhistories.org">[Intermountain Histories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intermountainhistories.org</span><span class="citation-popover-title">In the film, Roy Neary is shown how to climb this area to evade government</span><span class="citation-popover-snippet">Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</span></span></span>
 
 ## Why secrecy keeps the story alive
 
-In *Close Encounters*, the government does not simply investigate an anomaly. It constructs a false public narrative around [Devils Tower]({{ 'devils-tower/' | relative_url }}), using a fabricated environmental emergency to keep civilians away while preparing for contact. The audience knows the cover story is false because the film eventually reveals what is being protected. The secrecy therefore functions as narrative confirmation. If officials are lying, there must be a remarkable truth behind the lie. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intermountainhistories.org">[Intermountain Histories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intermountainhistories.org</span><span class="citation-popover-title">In the film, Roy Neary is shown how to climb this area to evade government</span><span class="citation-popover-snippet">Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</span></span></span>
+In *Close Encounters*, the government does not simply investigate an anomaly. It constructs a false public narrative around [Devils Tower]({{ 'devils-tower/' | relative_url }}), using a fabricated environmental emergency to keep civilians away while preparing for contact. The audience knows the cover story is false because the film eventually reveals what is being protected. The secrecy therefore functions as narrative confirmation. If officials are lying, there must be a remarkable truth behind the lie.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intermountainhistories.org">[Intermountain Histories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intermountainhistories.org</span><span class="citation-popover-title">In the film, Roy Neary is shown how to climb this area to evade government</span><span class="citation-popover-snippet">Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</span></span></span>
 
 That structure had consequences beyond cinema. Many later disclosure narratives adopted the same emotional equation:
 
@@ -330,11 +330,11 @@ The mechanism is powerful because it does not depend on proving what is hidden. 
 
 Modern UAP debates increasingly revolve around a conflict between two interpretations of secrecy.
 
-The first interpretation is institutional. Military and intelligence agencies argue that classification often protects sensors, operational methods, foreign intelligence concerns or national-security information. Under this view, secrecy says little about the nature of a reported object. It primarily reflects how the information was collected. NASA's UAP study similarly emphasised the need for better data rather than assumptions about extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">UAP Independent Study Report from NASAThe Unidentified Anomalous Phenomena from NASA released a report to the public. Read the transcr...</span></span></span>
+The first interpretation is institutional. Military and intelligence agencies argue that classification often protects sensors, operational methods, foreign intelligence concerns or national-security information. Under this view, secrecy says little about the nature of a reported object. It primarily reflects how the information was collected. NASA's UAP study similarly emphasised the need for better data rather than assumptions about extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">UAP Independent Study Report from NASAThe Unidentified Anomalous Phenomena from NASA released a report to the public. Read the transcr...</span></span></span>
 
 The second interpretation is disclosure-oriented. Advocates frequently argue that continued withholding of records suggests officials possess knowledge that has not been shared with the public. When investigations remain partially classified, secrecy itself becomes part of the evidence cited for deeper mysteries.
 
-This tension is visible in reactions to recent Pentagon and AARO disclosures. Official reviews have repeatedly stated that investigators have found no verified evidence of extraterrestrial technology and that many cases are unresolved because of insufficient data rather than confirmed alien origins. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> Yet the same releases often generate renewed speculation. New files, videos and unresolved cases can reinforce the perception that authorities are still withholding crucial information. Even when agencies emphasise uncertainty, the existence of classified archives can sustain disclosure expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Pentagon releases second batch of UFO videos and first</span><span class="citation-popover-snippet">The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Pentagon releases second batch of UFO videos and first</span><span class="citation-popover-snippet">The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+This tension is visible in reactions to recent Pentagon and AARO disclosures. Official reviews have repeatedly stated that investigators have found no verified evidence of extraterrestrial technology and that many cases are unresolved because of insufficient data rather than confirmed alien origins. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> Yet the same releases often generate renewed speculation. New files, videos and unresolved cases can reinforce the perception that authorities are still withholding crucial information. Even when agencies emphasise uncertainty, the existence of classified archives can sustain disclosure expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Pentagon releases second batch of UFO videos and first</span><span class="citation-popover-snippet">The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Pentagon releases second batch of UFO videos and first</span><span class="citation-popover-snippet">The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
 The disagreement is therefore not only about what the evidence shows. It is about what secrecy means.
 
@@ -344,7 +344,7 @@ The disagreement is therefore not only about what the evidence shows. It is abou
 
 The most important legacy of post-Spielberg secrecy culture is a particular form of reasoning: if nothing unusual exists, why would secrecy be necessary?
 
-For sceptics, the answer is straightforward. Governments classify vast amounts of information unrelated to extraterrestrial life. Secrecy reflects bureaucratic practice, intelligence concerns and operational security. Unexplained cases remain unexplained because data are incomplete, not because officials possess a hidden answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</span></span></span>
+For sceptics, the answer is straightforward. Governments classify vast amounts of information unrelated to extraterrestrial life. Secrecy reflects bureaucratic practice, intelligence concerns and operational security. Unexplained cases remain unexplained because data are incomplete, not because officials possess a hidden answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</span></span></span>
 
 For disclosure advocates, the same secrecy can point in the opposite direction. Persistent classification, restricted access and incomplete transparency appear to indicate that important knowledge remains beyond public reach.
 
@@ -357,194 +357,194 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Secrecy As Proof 9561 B1. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Secrecy As Proof 9561 B1. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="secrecy-as-proof-9561-b1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,131 +750,131 @@ That is why secrecy remains so central to contemporary UAP culture. The mystery 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASAThe Unidentified Anomalous Phenomena from NASA released a report to the public. Read the transcr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASAThe Unidentified Anomalous Phenomena from NASA released a report to the public. Read the transcr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/explore" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/explore</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsealing and Reporting...</p></details>
+   Link:<a href="https://disclosure.org/explore" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/explore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsealing and Reporting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: intermountainhistories.org  
    Title: In the film, [Roy Neary](&#123;&#123; 'roy-neary/' | relative_url &#125;&#125;) is shown how to climb this area to evade government  
-   Link: <a href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow">https://www.intermountainhistories.org/items/show/226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</p></details>
+   Link:<a href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow">https://www.intermountainhistories.org/items/show/226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intermountain HistoriesClose Encounters of the Third Kind and Devils Tower...The Tower had been selected as the contact point, and the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian Pentagon releases second batch of UFO videos and first  
-   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPentagon releases second batch of UFO videos and first-...May 22, 2026 — 22 May 2026 — Pentagon&#x27;s all-domain anomaly resolut...</p></details>
    Published: May 22, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind den...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind den...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/goofs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/goofs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - GoofsAs the 12 people in red selected by the government... Roy and Jillian apparently first...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0075860/goofs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/goofs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - GoofsAs the 12 people in red selected by the government... Roy and Jillian apparently first...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...22 Apr 2026 — UFOs are spotted worldwide, but stories of alien visitors sit partic...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...22 Apr 2026 — UFOs are spotted worldwide, but stories of alien visitors sit partic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Pentagon&#x27;s Declassified UFO Secrets12 May 2026 — The Department of War: Oversaw the physical declassification of military s...</p></details>
+   Link:<a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Pentagon&#x27;s Declassified UFO Secrets12 May 2026 — The Department of War: Oversaw the physical declassification of military s...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: movie-locations.com  
    Title: Close Encounters Of The Third Kind  
-   Link: <a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977The striking sawn-off peak of Devil&#x27;s Tower National Monument can be found in the northeast corner of Wyoming in the Black Hills Nati...</p></details>
+   Link:<a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977The striking sawn-off peak of Devil&#x27;s Tower National Monument can be found in the northeast corner of Wyoming in the Black Hills Nati...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new UFO files, unveiling...1 day ago — The release, posted on a new Pentagon &quot;UFO&quot; website, includes 162 files...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new UFO files, unveiling...1 day ago — The release, posted on a new Pentagon &quot;UFO&quot; website, includes 162 files...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</p></details>
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who serves as the film&#x27;s t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jhwikicollection-20.fandom.com  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JH Wiki CollectionClose Encounters of the Third Kind | JH Wiki Collection 2.0 WikiWhen a news program about a supposed train wreck near D...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JH Wiki CollectionClose Encounters of the Third Kind | JH Wiki Collection 2.0 WikiWhen a news program about a supposed train wreck near D...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCulture/posts/steven-spielbergs-close-encounters-of-the-third-kind-tapped-into-anxieties-about/1569212181229578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCulture/posts/steven-spielbergs-close-encounters-of-the-third-kind-tapped-into-anxieties-about/1569212181229578/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Close Encounters of the Third Kind...Are you ready for [Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)? #StevenSpielberg #DisclosureDay #CloseEncounte...</p></details>
+   Link:<a href="https://www.facebook.com/BBCCulture/posts/steven-spielbergs-close-encounters-of-the-third-kind-tapped-into-anxieties-about/1569212181229578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCulture/posts/steven-spielbergs-close-encounters-of-the-third-kind-tapped-into-anxieties-about/1569212181229578/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Close Encounters of the Third Kind...Are you ready for [Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)? #StevenSpielberg #DisclosureDay #CloseEncounte...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US government declassifies dozens of additional UFO files...3 days ago — The Department of Defense has declassified another batch of ima...</p></details>
+   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US government declassifies dozens of additional UFO files...3 days ago — The Department of Defense has declassified another batch of ima...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufofileswatch.com  
-   Link: <a href="https://ufofileswatch.com/ufo-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://ufofileswatch.com/ufo-disclosure</a>  
+   Link:<a href="https://ufofileswatch.com/ufo-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://ufofileswatch.com/ufo-disclosure</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/?search=apollo" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=apollo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt data, and the Department of War welcomes the application of private-...Read more...</p></details>
+   Link:<a href="https://www.war.gov/UFO/?search=apollo" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=apollo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt data, and the Department of War welcomes the application of private-...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: smithsonianmag.com  
    Title: Aliens had become the domain of amateur investigators and sensationalist tabloid  
-   Link: <a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Inspiration Behind Steven Spielberg&#x27;s...2 days ago — By the early 1970s, UFO reports had fallen sharply in the U.S...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Inspiration Behind Steven Spielberg&#x27;s...2 days ago — By the early 1970s, UFO reports had fallen sharply in the U.S...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: avi-loeb.medium.com  
    Title: reflections on the first government release of ufo files 84326dcc388e  
-   Link: <a href="https://avi-loeb.medium.com/reflections-on-the-first-government-release-of-ufo-files-84326dcc388e" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/reflections-on-the-first-government-release-of-ufo-files-84326dcc388e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the First Government Release of UFO FilesA new batch of UFO files have given the world alien fever. The Pentagon releasing a treasure...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/reflections-on-the-first-government-release-of-ufo-files-84326dcc388e" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/reflections-on-the-first-government-release-of-ufo-files-84326dcc388e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the First Government Release of UFO FilesA new batch of UFO files have given the world alien fever. The Pentagon releasing a treasure...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>

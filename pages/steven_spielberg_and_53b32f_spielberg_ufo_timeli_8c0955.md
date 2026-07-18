@@ -446,15 +446,15 @@ Steven Spielberg’s UFO timeline runs from the luminous, almost religious conta
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-overview.webp" | relative_url }}" alt="Overview image for Timeline" loading="eager" decoding="sync" fetchpriority="high">
-That makes his timeline unusually useful. *Close Encounters* was made when UFO culture still revolved around sightings, classification systems and government silence. *E.T.* made the alien intimate and vulnerable. By 2026, *Disclosure Day* arrives in a world where UAPs — unidentified anomalous phenomena — are discussed by NASA, the Pentagon, Congress, journalists and sceptics, but official reviews still say unexplained cases are not proof of extraterrestrial visitors. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+That makes his timeline unusually useful. *Close Encounters* was made when UFO culture still revolved around sightings, classification systems and government silence. *E.T.* made the alien intimate and vulnerable. By 2026, *Disclosure Day* arrives in a world where UAPs — unidentified anomalous phenomena — are discussed by NASA, the Pentagon, Congress, journalists and sceptics, but official reviews still say unexplained cases are not proof of extraterrestrial visitors. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
 ## 1977: Close Encounters made UFO contact feel serious
 
-*Close Encounters of the Third Kind* is the starting point because it is Spielberg’s most direct engagement with UFO culture. Released in 1977, the film follows ordinary [witnesses]({{ 'witnesses/' | relative_url }}), official secrecy, scientific observation and an overwhelming final encounter at [Devils Tower]({{ 'devils-tower/' | relative_url }}). Its title came from astronomer and UFO researcher J. Allen Hynek’s classification system, and the American Film Institute’s production history records that Columbia bought rights to Hynek’s *The UFO Experience* and hired him as technical adviser. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+*Close Encounters of the Third Kind* is the starting point because it is Spielberg’s most direct engagement with UFO culture. Released in 1977, the film follows ordinary [witnesses]({{ 'witnesses/' | relative_url }}), official secrecy, scientific observation and an overwhelming final encounter at [Devils Tower]({{ 'devils-tower/' | relative_url }}). Its title came from astronomer and UFO researcher J. Allen Hynek’s classification system, and the American Film Institute’s production history records that Columbia bought rights to Hynek’s *The UFO Experience* and hired him as technical adviser.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
 That link matters because Spielberg was not merely borrowing flying saucer imagery. He was translating the language of UFO investigation into mainstream emotional cinema. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s sighting is treated as destabilising rather than silly: it breaks domestic order, isolates him from people who do not believe him, and turns a visual experience into an obsession with meaning. The film’s drama is less “are UFOs real?” than “what happens to a person who has seen something no ordinary explanation can contain?”
 
-The 1977 timing also matters. *Star Wars* had made space adventure exciting again, but *Close Encounters* offered a different kind of awe. It was not about galactic war or heroic conquest. Its aliens communicate through light, sound and pattern; John Williams’s five-note exchange turns first contact into a shared language rather than a military event. The Smithsonian’s National Air and Space Museum describes the mothership model as a Spielberg-conceived craft built by Gregory Jein’s team from model parts and lighting effects, designed to appear as a huge hovering object when filmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-snippet">Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...This is the model of the alien Mother Ship used in the...</span></span></span>
+The 1977 timing also matters. *Star Wars* had made space adventure exciting again, but *Close Encounters* offered a different kind of awe. It was not about galactic war or heroic conquest. Its aliens communicate through light, sound and pattern; John Williams’s five-note exchange turns first contact into a shared language rather than a military event. The Smithsonian’s National Air and Space Museum describes the mothership model as a Spielberg-conceived craft built by Gregory Jein’s team from model parts and lighting effects, designed to appear as a huge hovering object when filmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-snippet">Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...This is the model of the alien Mother Ship used in the...</span></span></span>
 
 The result was a defining Spielberg UFO template: the sky is frightening, but not necessarily hostile; [secrecy]({{ 'secrecy/' | relative_url }}) is real within the story, but wonder is stronger than paranoia; and contact is a breakthrough rather than an invasion.
 
@@ -462,11 +462,11 @@ The result was a defining Spielberg UFO template: the sky is frightening, but no
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## 1980–1982: from cosmic spectacle to intimate alien empathy
 
-Spielberg did not leave *Close Encounters* fixed in one form. The 1980 Special Edition added new and discarded footage, including a view inside the mothership, while later versions moved back towards mystery by removing that interior glimpse. The changing cuts reveal a key tension in Spielberg’s UFO work: the desire to show the unimaginable, and the competing instinct that awe depends on not showing too much. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Spielberg did not leave *Close Encounters* fixed in one form. The 1980 Special Edition added new and discarded footage, including a view inside the mothership, while later versions moved back towards mystery by removing that interior glimpse. The changing cuts reveal a key tension in Spielberg’s UFO work: the desire to show the unimaginable, and the competing instinct that awe depends on not showing too much.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
-Then *E.T. the Extra-Terrestrial* shifted the scale completely. Released on 11 June 1982, directed by Spielberg and written by Melissa Mathison, it turned the alien encounter from a public, world-changing event into a private bond between a lonely child and a stranded visitor. AFI lists the film as a fantasy and science-fiction feature directed by Spielberg, produced by Spielberg and Kathleen Kennedy, and centred on a small alien hidden in suburban America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+Then *E.T. the Extra-Terrestrial* shifted the scale completely. Released on 11 June 1982, directed by Spielberg and written by Melissa Mathison, it turned the alien encounter from a public, world-changing event into a private bond between a lonely child and a stranded visitor. AFI lists the film as a fantasy and science-fiction feature directed by Spielberg, produced by Spielberg and Kathleen Kennedy, and centred on a small alien hidden in suburban America.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
-The emotional mechanism is different from *Close Encounters*. In 1977, the witness wants to reach the unknown. In 1982, the unknown is already in the house, frightened and dependent. The alien does not arrive as a symbol of cosmic revelation but as a friend, patient and childlike enough to be protected. Entertainment Weekly’s 2026 retrospective describes *E.T.* as Spielberg’s move towards a smaller story in which the alien has a name, a personality and sustained screen presence, centred on Elliott’s loneliness after his parents’ divorce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">In “Indiana Jones and the Kingdom of the Crystal Skull” (2008), alien-like interdimensional beings expand Spielberg’s incorporation of sc...</span></span></span>
+The emotional mechanism is different from *Close Encounters*. In 1977, the witness wants to reach the unknown. In 1982, the unknown is already in the house, frightened and dependent. The alien does not arrive as a symbol of cosmic revelation but as a friend, patient and childlike enough to be protected. Entertainment Weekly’s 2026 retrospective describes *E.T.* as Spielberg’s move towards a smaller story in which the alien has a name, a personality and sustained screen presence, centred on Elliott’s loneliness after his parents’ divorce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">In “Indiana Jones and the Kingdom of the Crystal Skull” (2008), alien-like interdimensional beings expand Spielberg’s incorporation of sc...</span></span></span>
 
 That change helped define Spielberg’s second UFO-era lesson: alien life could be emotionally legible without becoming human. *E.T.* still has powers, a spacecraft and a home beyond Earth, but the film’s lasting image is not an official disclosure moment. It is a child choosing care over fear.
 
@@ -477,13 +477,13 @@ That change helped define Spielberg’s second UFO-era lesson: alien life could 
 
 After *E.T.*, Spielberg’s UFO timeline did not proceed in a straight line. He did not simply repeat the hopeful 1977 or 1982 model. Instead, alien contact became a flexible language that could absorb conspiracy, abduction, terrorism, pulp adventure and cultural nostalgia.
 
-The clearest television chapter was *Taken*, also known as *Steven Spielberg Presents Taken*, a 10-part science-fiction miniseries that aired on the Sci-Fi Channel in December 2002. Spielberg was an executive producer, and the story spans decades of UFO mythology: Roswell, government cover-ups, abductions, hybrid family histories and secrecy across generations. Its premise follows three families affected by alien contact and official concealment from the 1940s to the early 2000s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Taken_%28miniseries%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Taken (miniseries</span><span class="citation-popover-snippet">Taken (miniseries</span></span></span>
+The clearest television chapter was *Taken*, also known as *Steven Spielberg Presents Taken*, a 10-part science-fiction miniseries that aired on the Sci-Fi Channel in December 2002. Spielberg was an executive producer, and the story spans decades of UFO mythology: Roswell, government cover-ups, abductions, hybrid family histories and secrecy across generations. Its premise follows three families affected by alien contact and official concealment from the 1940s to the early 2000s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Taken_%28miniseries%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Taken (miniseries</span><span class="citation-popover-snippet">Taken (miniseries</span></span></span>
 
 That project belongs in the timeline because it marks a move from first contact as revelation to UFO culture as inheritance. *Close Encounters* compresses the journey towards contact into one escalating event. *Taken* stretches the myth across families, institutions and decades. It fits the early-2000s appetite for long-form conspiracy storytelling, where the UFO is not just something seen in the sky but a secret embedded in government, bloodlines and national memory.
 
-In 2005, Spielberg’s *War of the Worlds* pushed the alien encounter towards terror. Although based on H. G. Wells rather than modern UFO lore, it matters to the timeline because it reverses the emotional charge of *Close Encounters*. The unknowable arrival is no longer a summons; it is an attack. Recent retrospectives have emphasised its post-9/11 atmosphere, reading the film’s panic, dust, missing-person imagery and domestic vulnerability through the fears of terrorism and catastrophe that shaped early-21st-century America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">What Inspired Steven Spielberg&#x27;s War of the Worlds</span><span class="citation-popover-snippet">What Inspired Steven Spielberg&#x27;s War of the Worlds</span></span></span>
+In 2005, Spielberg’s *War of the Worlds* pushed the alien encounter towards terror. Although based on H. G. Wells rather than modern UFO lore, it matters to the timeline because it reverses the emotional charge of *Close Encounters*. The unknowable arrival is no longer a summons; it is an attack. Recent retrospectives have emphasised its post-9/11 atmosphere, reading the film’s panic, dust, missing-person imagery and domestic vulnerability through the fears of terrorism and catastrophe that shaped early-21st-century America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">What Inspired Steven Spielberg&#x27;s War of the Worlds</span><span class="citation-popover-snippet">What Inspired Steven Spielberg&#x27;s War of the Worlds</span></span></span>
 
-Then *Indiana Jones and the Kingdom of the Crystal Skull* in 2008 brought alien-like “interdimensional beings” into Spielberg’s adventure serial mode. The choice was divisive, but historically revealing. The film’s 1950s setting allowed Spielberg and George Lucas to fold flying-saucer-era pulp into the Indiana Jones universe, translating Cold War UFO imagery into archaeological fantasy rather than solemn contact drama. Contemporary 2026 coverage has continued to treat *Crystal Skull* as part of Spielberg’s broader alien timeline, even though its tone and genre sit far from *Close Encounters*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Open source on ew.com.</span></span></span>
+Then *Indiana Jones and the Kingdom of the Crystal Skull* in 2008 brought alien-like “interdimensional beings” into Spielberg’s adventure serial mode. The choice was divisive, but historically revealing. The film’s 1950s setting allowed Spielberg and George Lucas to fold flying-saucer-era pulp into the Indiana Jones universe, translating Cold War UFO imagery into archaeological fantasy rather than solemn contact drama. Contemporary 2026 coverage has continued to treat *Crystal Skull* as part of Spielberg’s broader alien timeline, even though its tone and genre sit far from *Close Encounters*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Open source on ew.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -497,13 +497,13 @@ The pattern is striking: the earlier films ask whether humanity can receive the 
 
 ## 2026: Disclosure Day enters the modern UAP era
 
-*Disclosure Day* brings Spielberg’s UFO timeline into the present. The official film site identifies it as a Spielberg film in theatres on 12 June 2026, and coverage ahead of release described it as his return to alien and UFO territory after *The Fabelmans*. The Guardian reported in December 2025 that its trailer positioned the film as a star-led UFO movie, with Emily Blunt, Josh O’Connor, Colin Firth, Colman Domingo and Eve Hewson among the cast, and noted that it returned Spielberg to territory associated with *Close Encounters*, *E.T.* and *War of the Worlds*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Disclosure Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Disclosure Day</span></span></span>
+*Disclosure Day* brings Spielberg’s UFO timeline into the present. The official film site identifies it as a Spielberg film in theatres on 12 June 2026, and coverage ahead of release described it as his return to alien and UFO territory after *The Fabelmans*. The Guardian reported in December 2025 that its trailer positioned the film as a star-led UFO movie, with Emily Blunt, Josh O’Connor, Colin Firth, Colman Domingo and Eve Hewson among the cast, and noted that it returned Spielberg to territory associated with *Close Encounters*, *E.T.* and *War of the Worlds*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Disclosure Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Disclosure Day</span></span></span>
 
-The premise is modern in a way *Close Encounters* could not be. Instead of a hidden government operation culminating in a secret landing-site encounter, *Disclosure Day* is framed around the public release of suppressed truth, whistleblowing, media shock and global consequences. Recent reviews and features describe a story involving proof of alien contact, pursued characters, institutional secrecy and a world destabilised by revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Meanwhile, TV meteorologist Margaret (Emily Blunt) discovers strange psychic abilities, including speaking in alien tongue, linking her f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">At the film’s climax, a surviving alien communicates a cryptic message to Daniel, translated by Margaret as a single word: “Listen.” The...</span></span></span>
+The premise is modern in a way *Close Encounters* could not be. Instead of a hidden government operation culminating in a secret landing-site encounter, *Disclosure Day* is framed around the public release of suppressed truth, whistleblowing, media shock and global consequences. Recent reviews and features describe a story involving proof of alien contact, pursued characters, institutional secrecy and a world destabilised by revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Meanwhile, TV meteorologist Margaret (Emily Blunt) discovers strange psychic abilities, including speaking in alien tongue, linking her f...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">At the film’s climax, a surviving alien communicates a cryptic message to Daniel, translated by Margaret as a single word: “Listen.” The...</span></span></span>
 
-That is why 2026 is not merely another Spielberg alien film. It lands in a world where the language around UFOs has changed. “UAP” has become the official term in many government and scientific contexts, partly because it avoids the baggage of “flying [saucers]({{ 'saucers/' | relative_url }})” and allows inquiry into unidentified observations without assuming alien origin. NASA announced in 2022 that it had commissioned an independent study team to examine UAPs from a scientific perspective, focusing on available data, future collection and how to improve understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is why 2026 is not merely another Spielberg alien film. It lands in a world where the language around UFOs has changed. “UAP” has become the official term in many government and scientific contexts, partly because it avoids the baggage of “flying [saucers]({{ 'saucers/' | relative_url }})” and allows inquiry into unidentified observations without assuming alien origin. NASA announced in 2022 that it had commissioned an independent study team to examine UAPs from a scientific perspective, focusing on available data, future collection and how to improve understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the same time, official caution remains central. The US Department of Defense reported in 2024 that AARO, the All-domain Anomaly Resolution Office, had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry had access to extraterrestrial technology. Reuters likewise summarised the Pentagon’s historical review as finding no evidence of extraterrestrial technology and stressing that many sightings could be ordinary objects or phenomena when better data are available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+At the same time, official caution remains central. The US Department of Defense reported in 2024 that AARO, the All-domain Anomaly Resolution Office, had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry had access to extraterrestrial technology. Reuters likewise summarised the Pentagon’s historical review as finding no evidence of extraterrestrial technology and stressing that many sightings could be ordinary objects or phenomena when better data are available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
 
 That gap — between cultural fascination and evidential caution — is exactly where late Spielberg sits. *Disclosure Day* imagines the emotional and political shock of revelation, while the real UAP debate remains more procedural: data quality, sensor errors, classification, whistleblower claims, scientific standards and public trust.
 
@@ -516,11 +516,11 @@ The biggest change is not the shape of the aliens. It is the social setting of b
 
 In 1977, Spielberg’s UFO world is organised around witnesses and officials. The ordinary person sees something. The state knows more than it says. Scientists and interpreters try to make sense of signals. The final contact takes place away from the public, staged almost like a sacred ceremony. That structure reflects a late-20th-century UFO imagination built around sightings, classified knowledge and the hope that experts might mediate contact.
 
-By 1982, Spielberg had moved contact into the family home. *E.T.* does not need a press conference, a hearing or a global panic to matter. Its stakes are moral and intimate: will children protect the vulnerable stranger, and will adults learn to see him as more than a specimen? This is the Spielberg alien at its gentlest, and it helped make benevolent extraterrestrial life feel emotionally mainstream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+By 1982, Spielberg had moved contact into the family home. *E.T.* does not need a press conference, a hearing or a global panic to matter. Its stakes are moral and intimate: will children protect the vulnerable stranger, and will adults learn to see him as more than a specimen? This is the Spielberg alien at its gentlest, and it helped make benevolent extraterrestrial life feel emotionally mainstream.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
-By the 2000s, the same theme had become darker. *Taken* treats UFO contact as a hidden historical burden. *War of the Worlds* turns alien arrival into mass trauma. *Crystal Skull* makes alien lore playful but contested, mixing 1950s B-movie energy with franchise mythology. These works do not erase Spielberg’s earlier wonder, but they complicate it. The unknown can comfort, haunt, invade or become pop-cultural archaeology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-snippet">Open source on syfy.com.</span></span></span>
+By the 2000s, the same theme had become darker. *Taken* treats UFO contact as a hidden historical burden. *War of the Worlds* turns alien arrival into mass trauma. *Crystal Skull* makes alien lore playful but contested, mixing 1950s B-movie energy with franchise mythology. These works do not erase Spielberg’s earlier wonder, but they complicate it. The unknown can comfort, haunt, invade or become pop-cultural archaeology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-snippet">Open source on syfy.com.</span></span></span>
 
-By 2026, *Disclosure Day* belongs to a different information culture. Disclosure is no longer only a science-fiction reveal; it is a public keyword attached to hearings, documents, whistleblowers, social media speculation and institutional scepticism. Wired’s 2026 coverage of the film contrasted Spielberg’s dramatic idea of disclosure with the more likely reality of slow, evidence-driven scientific confirmation, stressing that no conclusive, verifiable evidence of alien life has been presented in the current UAP debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Despite recent developments, such as congressional hearings since 2023, whistleblower testimonies, and the Pentagon&#x27;s PURSUE program rele...</span></span></span>
+By 2026, *Disclosure Day* belongs to a different information culture. Disclosure is no longer only a science-fiction reveal; it is a public keyword attached to hearings, documents, whistleblowers, social media speculation and institutional scepticism. Wired’s 2026 coverage of the film contrasted Spielberg’s dramatic idea of disclosure with the more likely reality of slow, evidence-driven scientific confirmation, stressing that no conclusive, verifiable evidence of alien life has been presented in the current UAP debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Despite recent developments, such as congressional hearings since 2023, whistleblower testimonies, and the Pentagon&#x27;s PURSUE program rele...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -537,194 +537,194 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Spielberg&#x27;s UFO Vision Evolved. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Spielberg&#x27;s UFO Vision Evolved. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Connects Spielberg&#x27;s later interests to current public discussions of UFO evidence and disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Spielberg&#x27;s later interests to current public discussions of UFO evidence and disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Documents the starting point of Spielberg&#x27;s UFO vision and contact mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the starting point of Spielberg&#x27;s UFO vision and contact mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
-        </h4>
-        <p class="fr-book-author">By William Kotzwinkle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
+</h4>
+<p class="fr-book-author">By William Kotzwinkle</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers the evolution of Spielberg&#x27;s interests from Close Encounters through later science-fiction projects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the evolution of Spielberg&#x27;s interests from Close Encounters through later science-fiction projects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-how-spielberg-s-ufo-vision-evolved-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,292 +930,292 @@ The most important continuity is Spielberg’s refusal to treat alien contact as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Catalog/moviedetails/67140" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog - E.T.: The Extra-Terrestrial - American Film InstitutePG | 115 or 120 mins | Fantasy, Science fiction | 11 June 1...</p></details>
+   Link:<a href="https://catalog.afi.com/Catalog/moviedetails/67140" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog - E.T.: The Extra-Terrestrial - American Film InstitutePG | 115 or 120 mins | Fantasy, Science fiction | 11 June 1...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afi.com  
    Title: [e t](&#123;&#123; 'e-t/' | relative_url &#125;&#125;) the extra terrestrial afi movie club  
-   Link: <a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
+   Link:<a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In “Indiana Jones and the Kingdom of the Crystal Skull” (2008), alien-like interdimensional beings expand Spielberg’s incorporation of sc...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-and-aliens-tracing-a-decades-long-obsession-11995978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In “Indiana Jones and the Kingdom of the Crystal Skull” (2008), alien-like interdimensional beings expand Spielberg’s incorporation of sc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Taken (miniseries)  
-   Link: <a href="https://en.wikipedia.org/wiki/Taken_%28miniseries%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taken_%28miniseries%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Taken_%28miniseries%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taken_%28miniseries%29</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: syfy.com  
    Title: What Inspired Steven Spielberg's War of the Worlds  
-   Link: <a href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-real-world-fears-inspired-steven-spielberg-war-of-the-worlds</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: syfy.com  
-   Link: <a href="https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/george-lucas-backstory-linking-indiana-jones-crystal-skull-aliens-to-roswell-crash</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: people.com  
-   Link: <a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the film’s climax, a surviving alien communicates a cryptic message to Daniel, translated by Margaret as a single word: “Listen.” The...</p></details>
+   Link:<a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the film’s climax, a surviving alien communicates a cryptic message to Daniel, translated by Margaret as a single word: “Listen.” The...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite recent developments, such as congressional hearings since 2023, whistleblower testimonies, and the Pentagon&#x27;s PURSUE program rele...</p></details>
+   Link:<a href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite recent developments, such as congressional hearings since 2023, whistleblower testimonies, and the Pentagon&#x27;s PURSUE program rele...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: E.T. the Extra Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Ben Mankiewicz  
-   Link: <a href="https://en.wikipedia.org/wiki/Ben_Mankiewicz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ben_Mankiewicz</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ben_Mankiewicz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ben_Mankiewicz</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Taken (Miniserie)  
-   Link: <a href="https://de.wikipedia.org/wiki/Taken_%28Miniserie%29" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Taken_%28Miniserie%29</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Taken_%28Miniserie%29" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Taken_%28Miniserie%29</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Indiana Jones and the Kingdom of the Crystal Skull  
-   Link: <a href="https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: time.com  
    Title: How Steven Spielberg Convinced the Cast of Disclosure Day That Aliens Are Real  
-   Link: <a href="https://time.com/article/2026/06/03/disclosure-day-cast-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/disclosure-day-cast-interview/</a>  
+   Link:<a href="https://time.com/article/2026/06/03/disclosure-day-cast-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/disclosure-day-cast-interview/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: syfy.com  
    Title: how et the extra terrestrial imagined a kinder first contact  
-   Link: <a href="https://www.syfy.com/syfy-wire/how-et-the-extra-terrestrial-imagined-a-kinder-first-contact" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-et-the-extra-terrestrial-imagined-a-kinder-first-contact</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/how-et-the-extra-terrestrial-imagined-a-kinder-first-contact" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/how-et-the-extra-terrestrial-imagined-a-kinder-first-contact</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: syfy.com  
    Title: project blue book close encounters flash forward  
-   Link: <a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return</a>  
+   Link:<a href="https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB</a>  
+   Link:<a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOooPouF9_leo_XcYD4AOIaXOesWlJprlG94qvlsCD_3neKEYsLGB</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Why Disclosure Day is Spielberg's Darkest Movie  
-   Link: <a href="https://www.youtube.com/watch?v=Kxj1CwOjyYE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kxj1CwOjyYE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day, E.T. &amp; Close Encounters Space Trilogy: Spielberg &amp; Emily Blunt... &amp; Jaws...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kxj1CwOjyYE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kxj1CwOjyYE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day, E.T. &amp; Close Encounters Space Trilogy: Spielberg &amp; Emily Blunt... &amp; Jaws...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zajhP7mtvMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zajhP7mtvMo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch This Before You See Steven Spielberg&#x27;s Disclosure Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zajhP7mtvMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zajhP7mtvMo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch This Before You See Steven Spielberg&#x27;s Disclosure Day...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Watch This Before You See Steven Spielberg's Disclosure Day  
-   Link: <a href="https://www.youtube.com/watch?v=22bATA5V2QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=22bATA5V2QQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY Final Trailer (2026) Alien Invasion Sci-Fi Action Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=22bATA5V2QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=22bATA5V2QQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY Final Trailer (2026) Alien Invasion Sci-Fi Action Movie...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WPTRwR-3pxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WPTRwR-3pxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise and Fall of Spielberg | SUPERCUT...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WPTRwR-3pxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WPTRwR-3pxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise and Fall of Spielberg | SUPERCUT...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: disclosuredaymovie.com  
-   Link: <a href="https://www.disclosuredaymovie.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosuredaymovie.com/</a>  
+   Link:<a href="https://www.disclosuredaymovie.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosuredaymovie.com/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: si.edu  
-   Link: <a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...This is the model of the alien Mother Ship used in the...</p></details>
+   Link:<a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...This is the model of the alien Mother Ship used in the...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: slate.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.slate.com/articles/arts/dvdextras/2007/11/close_encounters_of_the_third_kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/articles/arts/dvdextras/2007/11/close_encounters_of_the_third_kind.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2007 — Revisiting Close Encounters yet again in the 1990s, Spielberg removed the scene inside the mother ship but kept every frame...</p></details>
+   Link:<a href="https://www.slate.com/articles/arts/dvdextras/2007/11/close_encounters_of_the_third_kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/articles/arts/dvdextras/2007/11/close_encounters_of_the_third_kind.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2007 — Revisiting Close Encounters yet again in the 1990s, Spielberg removed the scene inside the mother ship but kept every frame...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
    Title: disclosure day trailer steven spielberg  
-   Link: <a href="https://www.theguardian.com/film/2025/dec/16/disclosure-day-trailer-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/dec/16/disclosure-day-trailer-steven-spielberg</a>  
+   Link:<a href="https://www.theguardian.com/film/2025/dec/16/disclosure-day-trailer-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/dec/16/disclosure-day-trailer-steven-spielberg</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meanwhile, TV meteorologist Margaret (Emily Blunt) discovers strange psychic abilities, including speaking in alien tongue, linking her f...</p></details>
+   Link:<a href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meanwhile, TV meteorologist Margaret (Emily Blunt) discovers strange psychic abilities, including speaking in alien tongue, linking her f...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: twinpeaks.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: indianajones.fandom.com  
    Title: Interdimensional beings  
-   Link: <a href="https://indianajones.fandom.com/wiki/Interdimensional_beings" target="_blank" rel="noopener noreferrer nofollow">https://indianajones.fandom.com/wiki/Interdimensional_beings</a>  
+   Link:<a href="https://indianajones.fandom.com/wiki/Interdimensional_beings" target="_blank" rel="noopener noreferrer nofollow">https://indianajones.fandom.com/wiki/Interdimensional_beings</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: the-jh-movie-collection-official.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/Taken-Entf%C3%BChrt-DVDs-Julie-Benz/dp/B005KG50DG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Taken-Entf%C3%BChrt-DVDs-Julie-Benz/dp/B005KG50DG</a>  
+   Link:<a href="https://www.amazon.de/Taken-Entf%C3%BChrt-DVDs-Julie-Benz/dp/B005KG50DG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Taken-Entf%C3%BChrt-DVDs-Julie-Benz/dp/B005KG50DG</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: amblin.com  
    Title: disclosure day  
-   Link: <a href="https://amblin.com/movie/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://amblin.com/movie/disclosure-day/</a>  
+   Link:<a href="https://amblin.com/movie/disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://amblin.com/movie/disclosure-day/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
+   Link:<a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
+   Link:<a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: gq.com  
-   Link: <a href="https://www.gq.com/story/disclosure-day-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/disclosure-day-steven-spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While not intended as a final chapter, Disclosure Day feels reflective, subtly revisiting Spielberg’s earlier science fiction works like...</p></details>
+   Link:<a href="https://www.gq.com/story/disclosure-day-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/disclosure-day-steven-spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While not intended as a final chapter, Disclosure Day feels reflective, subtly revisiting Spielberg’s earlier science fiction works like...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: x.com  
-   Link: <a href="https://x.com/vashikoo/status/2062629510273781981" target="_blank" rel="noopener noreferrer nofollow">https://x.com/vashikoo/status/2062629510273781981</a>  
+   Link:<a href="https://x.com/vashikoo/status/2062629510273781981" target="_blank" rel="noopener noreferrer nofollow">https://x.com/vashikoo/status/2062629510273781981</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: inlibra.com  
-   Link: <a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
+   Link:<a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
+   Link:<a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: filmlinc.org  
-   Link: <a href="https://www.filmlinc.org/films/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmlinc.org/films/close-encounters/</a>  
+   Link:<a href="https://www.filmlinc.org/films/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmlinc.org/films/close-encounters/</a>  

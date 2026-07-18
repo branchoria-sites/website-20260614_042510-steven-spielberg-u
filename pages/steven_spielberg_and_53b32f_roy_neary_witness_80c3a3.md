@@ -442,7 +442,7 @@ image: /assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-overv
 
 ## Introduction
 
-Roy Neary became the UFO witness archetype because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* makes the sighting less a spectacle than a personal rupture. He is not a scientist, soldier or chosen action hero. He is a suburban electrician and father whose encounter turns ordinary life into a crisis of memory, [credibility]({{ 'credibility/' | relative_url }}) and belonging. That is why he matters inside Steven Spielberg’s UFO imagination: Roy shows how seeing something impossible can make a person both more certain of the truth and less able to live inside normal social expectations. AFI’s production history notes that Spielberg drew the film’s title from J. Allen Hynek’s UFO encounter hierarchy and that Hynek was hired as technical adviser, giving Roy’s fictional breakdown a direct link to real UFO-reporting culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Roy Neary became the UFO witness archetype because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* makes the sighting less a spectacle than a personal rupture. He is not a scientist, soldier or chosen action hero. He is a suburban electrician and father whose encounter turns ordinary life into a crisis of memory, [credibility]({{ 'credibility/' | relative_url }}) and belonging. That is why he matters inside Steven Spielberg’s UFO imagination: Roy shows how seeing something impossible can make a person both more certain of the truth and less able to live inside normal social expectations. AFI’s production history notes that Spielberg drew the film’s title from J. Allen Hynek’s UFO encounter hierarchy and that Hynek was hired as technical adviser, giving Roy’s fictional breakdown a direct link to real UFO-reporting culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-overview.webp" | relative_url }}" alt="Overview image for Roy Neary" loading="eager" decoding="sync" fetchpriority="high">
@@ -453,11 +453,11 @@ Roy is also the point where Spielberg’s hopeful alien vision becomes morally c
 
 ## The ordinary witness under pressure
 
-Roy Neary works because he begins as someone with no obvious authority. The Library of Congress essay on the film describes him as a suburban electrician and family man driving through Indiana to restore power during UFO-related chaos, a detail that makes him symbolically perfect: he is a repairman of ordinary systems who is confronted by a reality those systems cannot explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
+Roy Neary works because he begins as someone with no obvious authority. The Library of Congress essay on the film describes him as a suburban electrician and family man driving through Indiana to restore power during UFO-related chaos, a detail that makes him symbolically perfect: he is a repairman of ordinary systems who is confronted by a reality those systems cannot explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
 
-That ordinariness is not decorative. Spielberg builds Roy’s credibility through everyday texture before the extraordinary overwhelms it. The film’s domestic spaces are noisy, crowded and recognisable: children, television, toys, arguments, work calls, tired parenting. The Guardian’s 2017 review singled out the Neary home as a convincing everyday environment, arguing that the film’s believable Earthly backdrop makes the viewer more willing to take Roy’s extraterrestrial leap of faith. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Close Encounters of the Third Kind review – Spielberg&#x27;s</span><span class="citation-popover-snippet">The GuardianClose Encounters of the Third Kind review – Spielberg&#x27;s...September 13, 2017 — 13 Sept 2017 — For some while, its noisiest l...</span><span class="citation-popover-meta">Published: September 13, 2017</span></span></span>
+That ordinariness is not decorative. Spielberg builds Roy’s credibility through everyday texture before the extraordinary overwhelms it. The film’s domestic spaces are noisy, crowded and recognisable: children, television, toys, arguments, work calls, tired parenting. The Guardian’s 2017 review singled out the Neary home as a convincing everyday environment, arguing that the film’s believable Earthly backdrop makes the viewer more willing to take Roy’s extraterrestrial leap of faith.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Close Encounters of the Third Kind review – Spielberg&#x27;s</span><span class="citation-popover-snippet">The GuardianClose Encounters of the Third Kind review – Spielberg&#x27;s...September 13, 2017 — 13 Sept 2017 — For some while, its noisiest l...</span><span class="citation-popover-meta">Published: September 13, 2017</span></span></span>
 
-This is the first mechanism of Roy as archetype: he is credible because he is socially unprepared for the event. He is not a pre-existing believer looking for confirmation. He stumbles into the encounter while doing a practical job. His truck is flooded with light, his face is marked by the experience and he begins to chase meaning through radio reports, roads and fragments of evidence. The Library of Congress essay describes this as a shift from restoring order to becoming one of the “ordinary folks” imprinted with the vision of a flat-topped mountain, searching for a truth that is “more emotional than scientific”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
+This is the first mechanism of Roy as archetype: he is credible because he is socially unprepared for the event. He is not a pre-existing believer looking for confirmation. He stumbles into the encounter while doing a practical job. His truck is flooded with light, his face is marked by the experience and he begins to chase meaning through radio reports, roads and fragments of evidence. The Library of Congress essay describes this as a shift from restoring order to becoming one of the “ordinary folks” imprinted with the vision of a flat-topped mountain, searching for a truth that is “more emotional than scientific”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
 
 That phrase is crucial. Roy’s problem is not merely that he has seen a UFO; it is that the sighting leaves him with knowledge that cannot be neatly translated into proof. UFO witness stories often turn on this gap between certainty and communicability. Roy knows something has happened, but the film makes him struggle to share it in a form that family, neighbours or institutions can accept. The spectacle in the sky becomes a crisis inside the witness.
 
@@ -465,11 +465,11 @@ That phrase is crucial. Roy’s problem is not merely that he has seen a UFO; it
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-1-dark.svg" | relative_url }}" alt="Roy Neary illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Obsession, family strain and credibility
 
-Roy’s archetypal power comes from the way belief becomes behaviour. After the sighting, he does not simply tell people what he saw. He repeats, reconstructs and compulsively searches. The famous mashed-potato and model-making scenes matter because they show memory becoming physical: an image has lodged in him before he knows it is [Devils Tower]({{ 'devils-tower/' | relative_url }}). The Library of Congress essay frames this as Roy physically recreating his subconscious vision while spiralling into derangement and driving away his wife and children. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
+Roy’s archetypal power comes from the way belief becomes behaviour. After the sighting, he does not simply tell people what he saw. He repeats, reconstructs and compulsively searches. The famous mashed-potato and model-making scenes matter because they show memory becoming physical: an image has lodged in him before he knows it is [Devils Tower]({{ 'devils-tower/' | relative_url }}). The Library of Congress essay frames this as Roy physically recreating his subconscious vision while spiralling into derangement and driving away his wife and children.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span>
 
 This is where Spielberg gives the UFO witness story its emotional cost. Roy’s inner certainty looks, from the outside, like collapse. Ronnie Neary’s fear and embarrassment are not irrational within the domestic frame of the film. Her husband appears to be neglecting work, family and basic self-command in pursuit of something no one around him can verify. The witness becomes socially illegible: the more intensely he follows the truth, the less trustworthy he appears.
 
-That tension is why Roy is more interesting than a simple believer. He is both vindicated and culpable. He has really encountered something, but the film does not erase the damage caused by his response. AFI’s catalogue records Spielberg’s later comment, reported in a making-of context, that he would not make the film the same way after having a family, because he would not leave them as Roy does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">Steven Spielberg Would Make This One Change to Close</span><span class="citation-popover-snippet">Steven Spielberg Would Make This One Change to Close...May 14, 2026 — 14 May 2026 — &quot;I would never have made Close Encounters the wa...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span> That retrospective discomfort has become part of Roy’s meaning: he embodies the awe of contact and the selfishness that can accompany a totalising revelation.
+That tension is why Roy is more interesting than a simple believer. He is both vindicated and culpable. He has really encountered something, but the film does not erase the damage caused by his response. AFI’s catalogue records Spielberg’s later comment, reported in a making-of context, that he would not make the film the same way after having a family, because he would not leave them as Roy does.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">Steven Spielberg Would Make This One Change to Close</span><span class="citation-popover-snippet">Steven Spielberg Would Make This One Change to Close...May 14, 2026 — 14 May 2026 — &quot;I would never have made Close Encounters the wa...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span> That retrospective discomfort has become part of Roy’s meaning: he embodies the awe of contact and the selfishness that can accompany a totalising revelation.
 
 The credibility crisis also works at a public level. Spielberg’s film includes government scientists, [secrecy]({{ 'secrecy/' | relative_url }}), false explanations and managed information, but Roy’s story remains rooted in the domestic humiliation of not being believed. The witness is squeezed from both sides: institutions conceal the larger truth, while family members experience his conviction as a threat to ordinary life. This makes Roy a template for later UFO narratives in which the witness is not just asking “What did I see?” but “What kind of person do people think I am now?”
 
@@ -480,11 +480,11 @@ The credibility crisis also works at a public level. Spielberg’s film includes
 
 Roy Neary is sometimes remembered as the man who follows the call and gets to board the ship, but that summary flattens the character. He is not a whistleblower, investigator or anti-government crusader. He does not uncover the truth through research alone. He is acted upon by the encounter, haunted by an image and pulled towards a place before he fully understands why.
 
-That distinction keeps the film inside Spielberg’s register of wonder rather than paranoia. AFI notes that Spielberg researched UFO testimony by interviewing airline pilots, air traffic controllers and housewives, while avoiding people he considered unreliable; the resulting film is interested in testimony, but it does not make Roy into a dossier-building expert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Roy’s authority is experiential. He matters because he has been changed.
+That distinction keeps the film inside Spielberg’s register of wonder rather than paranoia. AFI notes that Spielberg researched UFO testimony by interviewing airline pilots, air traffic controllers and housewives, while avoiding people he considered unreliable; the resulting film is interested in testimony, but it does not make Roy into a dossier-building expert.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Roy’s authority is experiential. He matters because he has been changed.
 
 This also separates him from the cold professional expertise represented by Claude Lacombe and the government operation at Devils Tower. Lacombe has instruments, teams and procedure; Roy has a burn, a compulsion and a shape in his mind. Yet Spielberg ultimately makes both forms of knowledge converge. The witness’s private obsession leads to the same location as the official investigation. The emotional witness and the scientific apparatus are not opposites; they are incomplete halves of the same event.
 
-The British Film Institute’s discussion of *Close Encounters* places the film within a larger idea of transformative alien contact, noting Hynek’s role as technical adviser and suggesting that figures such as Roy are in need of contact with alien intelligence because humanity is already alienated from itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIIs Close Encounters of the Third Kind Spielberg&#x27;s most</span><span class="citation-popover-snippet">Roy Neary, are in dire need of the kind of transformative contact with alien intelligence that Close Encounters represents. As posthumanist...</span></span></span> In that reading, Roy’s instability is not just a symptom of UFO belief. It is a sign that ordinary life was already too small for the experience he is about to undergo.
+The British Film Institute’s discussion of *Close Encounters* places the film within a larger idea of transformative alien contact, noting Hynek’s role as technical adviser and suggesting that figures such as Roy are in need of contact with alien intelligence because humanity is already alienated from itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIIs Close Encounters of the Third Kind Spielberg&#x27;s most</span><span class="citation-popover-snippet">Roy Neary, are in dire need of the kind of transformative contact with alien intelligence that Close Encounters represents. As posthumanist...</span></span></span> In that reading, Roy’s instability is not just a symptom of UFO belief. It is a sign that ordinary life was already too small for the experience he is about to undergo.
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-2-dark.svg" | relative_url }}" alt="Roy Neary illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -492,9 +492,9 @@ The British Film Institute’s discussion of *Close Encounters* places the film 
 
 The final act gives Roy the thing most witness stories withhold: confirmation in front of a larger reality. At Devils Tower, his private image becomes a public place. His compulsion is no longer random; it has coordinates. The model that made him look unwell is revealed as a message. Spielberg’s emotional structure turns ridicule into recognition.
 
-This is the film’s deepest witness fantasy. The reward is not only seeing aliens. It is discovering that the strange pressure inside the mind was meaningful all along. Roger Ebert’s review called the film “a masterpiece” and emphasised the awe of the experience, while later critical writing at RogerEbert.com described *Close Encounters* as a drama with conspiracy-thriller overtones about how people on Earth react to the possibility that something really is out there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</span></span></span> Roy’s arc gives that possibility a human nervous system.
+This is the film’s deepest witness fantasy. The reward is not only seeing aliens. It is discovering that the strange pressure inside the mind was meaningful all along. Roger Ebert’s review called the film “a masterpiece” and emphasised the awe of the experience, while later critical writing at RogerEbert.com described *Close Encounters* as a drama with conspiracy-thriller overtones about how people on Earth react to the possibility that something really is out there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</span></span></span> Roy’s arc gives that possibility a human nervous system.
 
-The payoff is also communal, but only partially. Roy is not restored to his family or vindicated in a courtroom-like sense. Instead, he is absorbed into a larger encounter. The Library of Congress essay describes the finale as a biblical sound-and-light show in which the mothership releases abductees and Roy is selected as the aliens’ human passenger, with faith and innocence rewarded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span> That ending makes Roy the witness who becomes more than a witness: he crosses from testimony into contact.
+The payoff is also communal, but only partially. Roy is not restored to his family or vindicated in a courtroom-like sense. Instead, he is absorbed into a larger encounter. The Library of Congress essay describes the finale as a biblical sound-and-light show in which the mothership releases abductees and Roy is selected as the aliens’ human passenger, with faith and innocence rewarded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The Library of Congress Close Encounters of the Third Kind</span></span></span> That ending makes Roy the witness who becomes more than a witness: he crosses from testimony into contact.
 
 For some viewers, this is sublime. For others, it is troubling because the film’s emotional validation appears to excuse abandonment. That unresolved discomfort is part of the archetype’s durability. Roy’s being believed does not heal everything he has broken. Spielberg gives him cosmic belonging at the cost of domestic belonging.
 
@@ -505,7 +505,7 @@ For some viewers, this is sublime. For others, it is troubling because the film�
 
 Roy Neary clarifies why Spielberg’s UFO stories feel different from many alien-invasion narratives. The central question is not how humanity defeats the unknown, but how an ordinary person survives the pressure of having encountered it. The alien event is external, but the real drama is interpretive: memory, proof, family, social trust and the need to belong somewhere.
 
-That mechanism also explains the film’s continued influence. *Close Encounters* was selected for preservation in the National Film Registry in 2007 as “culturally, historically, or aesthetically significant”, and AFI notes both its major industry recognition and its lasting place in American film culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Roy is a major reason for that endurance, because he gives the UFO witness a recognisable emotional grammar: awe first, then isolation, compulsion, social cost and, finally, vindication.
+That mechanism also explains the film’s continued influence. *Close Encounters* was selected for preservation in the National Film Registry in 2007 as “culturally, historically, or aesthetically significant”, and AFI notes both its major industry recognition and its lasting place in American film culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Roy is a major reason for that endurance, because he gives the UFO witness a recognisable emotional grammar: awe first, then isolation, compulsion, social cost and, finally, vindication.
 
 The archetype is not a claim that every UFO witness is correct, nor that extraordinary experiences automatically prove extraterrestrial contact. It is a cinematic model for what belief feels like when evidence arrives first as sensation, memory and obsession rather than as publicly accepted fact. Roy’s story remains powerful because Spielberg refuses to make witnessing easy. To see the impossible is not just to gain knowledge; in Roy Neary’s case, it is to lose the life that made him ordinary.
 
@@ -513,194 +513,194 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-3-dark.svg" | relative_url }}" alt="Roy Neary illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_roy_neary_witness_80c3a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Roy Neary Became the UFO Witness. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Roy Neary Became the UFO Witness. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the real encounter taxonomy that underpins Roy&#x27;s fictional witness experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the real encounter taxonomy that underpins Roy&#x27;s fictional witness experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Directly explains the making and meaning of Spielberg&#x27;s ordinary UFO witness narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the making and meaning of Spielberg&#x27;s ordinary UFO witness narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places Roy&#x27;s obsession, family rupture and longing for belief inside Spielberg&#x27;s broader themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roy&#x27;s obsession, family rupture and longing for belief inside Spielberg&#x27;s broader themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how witnesses, belief and scientific caution shaped UFO culture around Close Encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how witnesses, belief and scientific caution shaped UFO culture around Close Encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="roy-neary-why-roy-neary-became-the-ufo-witness-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -716,7 +716,7 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -736,7 +736,7 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -768,7 +768,7 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -820,7 +820,7 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -865,7 +865,7 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -906,146 +906,146 @@ The archetype is not a claim that every UFO witness is correct, nor that extraor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: syfy.com  
    Title: Steven Spielberg Would Make This One Change to Close  
-   Link: <a href="https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Would Make This One Change to Close...May 14, 2026 — 14 May 2026 — &quot;I would never have made Close Encounters the wa...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/steven-spielberg-would-make-one-change-to-close-encounters-if-making-the-film-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Would Make This One Change to Close...May 14, 2026 — 14 May 2026 — &quot;I would never have made Close Encounters the wa...</p></details>
    Published: May 14, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bfi.org.uk  
    Title: BFIIs Close Encounters of the Third Kind Spielberg's most  
-   Link: <a href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roy Neary, are in dire need of the kind of transformative contact with alien intelligence that Close Encounters represents. As posthumanist...</p></details>
+   Link:<a href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roy Neary, are in dire need of the kind of transformative contact with alien intelligence that Close Encounters represents. As posthumanist...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rogerebert.com  
-   Link: <a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</p></details>
+   Link:<a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-1980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertClose Encounters of the Third Kind movie reviewThis film is indeed a masterpiece, awe-inspiring, succeeding against such incre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rogerebert.com  
    Title: close encounters of the third kind 2017  
-   Link: <a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertClose Encounters of the Third Kind movie review1 Sept 2017 — The film is more of a drama with conspiracy thriller overtones th...</p></details>
+   Link:<a href="https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/close-encounters-of-the-third-kind-2017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertClose Encounters of the Third Kind movie review1 Sept 2017 — The film is more of a drama with conspiracy thriller overtones th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Catalog/moviedetails/67160" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67160</a>  
+   Link:<a href="https://catalog.afi.com/Catalog/moviedetails/67160" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67160</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: watch.afi.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://watch.afi.com/movie/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://watch.afi.com/movie/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://watch.afi.com/movie/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://watch.afi.com/movie/close-encounters-of-the-third-kind</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rogerebert.com  
    Title: making contact spielbergs close encounters and et  
-   Link: <a href="https://www.rogerebert.com/scanners/making-contact-spielbergs-close-encounters-and-et" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/scanners/making-contact-spielbergs-close-encounters-and-et</a>  
+   Link:<a href="https://www.rogerebert.com/scanners/making-contact-spielbergs-close-encounters-and-et" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/scanners/making-contact-spielbergs-close-encounters-and-et</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: loc.gov  
    Title: The Library of Congress Close Encounters of the Third Kind  
-   Link: <a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/close_encounters.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Close Encounters of the Third Kind review – Spielberg's  
-   Link: <a href="https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianClose Encounters of the Third Kind review – Spielberg&#x27;s...September 13, 2017 — 13 Sept 2017 — For some while, its noisiest l...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2017/sep/13/close-encounters-of-the-third-kind-review-stephen-spielberg-francois-truffaut-richard-dreyfuss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianClose Encounters of the Third Kind review – Spielberg&#x27;s...September 13, 2017 — 13 Sept 2017 — For some while, its noisiest l...</p></details>
    Published: September 13, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/J-Allen-Hynek</a>  
+   Link:<a href="https://www.britannica.com/biography/J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/J-Allen-Hynek</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: collider.com  
    Title: roger ebert sci fi masterpieces 4 stars  
-   Link: <a href="https://collider.com/roger-ebert-sci-fi-masterpieces-4-stars/" target="_blank" rel="noopener noreferrer nofollow">https://collider.com/roger-ebert-sci-fi-masterpieces-4-stars/</a>  
+   Link:<a href="https://collider.com/roger-ebert-sci-fi-masterpieces-4-stars/" target="_blank" rel="noopener noreferrer nofollow">https://collider.com/roger-ebert-sci-fi-masterpieces-4-stars/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: goldenglobes.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://goldenglobes.com/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://goldenglobes.com/film/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://goldenglobes.com/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://goldenglobes.com/film/close-encounters-of-the-third-kind/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GDG1DMNh6Uk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GDG1DMNh6Uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind by Steven Spielberg - Analysis &amp; Review...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GDG1DMNh6Uk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GDG1DMNh6Uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind by Steven Spielberg - Analysis &amp; Review...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: He leaves Earth with the aliens  
-   Link: <a href="https://www.youtube.com/watch?v=a6cix9o0w-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6cix9o0w-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Railroad Scene | CLOSE ENCOUNTERS OF THE THIRD KIND (1977) Movie CLIP HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a6cix9o0w-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6cix9o0w-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Railroad Scene | CLOSE ENCOUNTERS OF THE THIRD KIND (1977) Movie CLIP HD...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: An alien ship over his car  
-   Link: <a href="https://www.youtube.com/watch?v=TYArNmEqdxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TYArNmEqdxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: He leaves Earth with the aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TYArNmEqdxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TYArNmEqdxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: He leaves Earth with the aliens...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Encountering UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=gmWazgQLl14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gmWazgQLl14</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: An alien ship over his car...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gmWazgQLl14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gmWazgQLl14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: An alien ship over his car...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theindependentcritic.com  
-   Link: <a href="https://theindependentcritic.com/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://theindependentcritic.com/close_encounters_of_the_third_kind</a>  
+   Link:<a href="https://theindependentcritic.com/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://theindependentcritic.com/close_encounters_of_the_third_kind</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160773952631696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160773952631696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160773952631696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160773952631696/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/scifi/comments/fxlakw/about_the_ending_of_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/fxlakw/about_the_ending_of_close_encounters_of_the_third/</a>  
+   Link:<a href="https://www.reddit.com/r/scifi/comments/fxlakw/about_the_ending_of_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/fxlakw/about_the_ending_of_close_encounters_of_the_third/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pagesix.com  
-   Link: <a href="https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day</a>  
+   Link:<a href="https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-[disclosure-day</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: afi.com.au  
-   Link: <a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  
+   Link:<a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  

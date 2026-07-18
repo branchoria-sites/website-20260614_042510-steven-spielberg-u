@@ -455,15 +455,15 @@ That is why Spielberg’s UFO cinema sits so comfortably between wonder and crit
 
 Spielberg’s alien encounters often begin with a failure of human categories. A UFO, a stranded creature or an invasion cannot be fitted neatly into ordinary life, so people reach for the tools they already know: surveillance, quarantine, denial, military force or family protection. The moral test starts in that gap between not understanding and choosing how to act.
 
-In *Close Encounters of the Third Kind*, the unknown is frightening but not automatically hostile. The film’s UFO framework was not casual decoration: the American Film Institute records that the title came from astronomer J. Allen Hynek’s hierarchy of alien encounters, and that Columbia bought rights to Hynek’s *The UFO Experience* while hiring him as technical adviser. That connection to UFO classification gives the story an investigative surface, but Spielberg turns the material into an ethical drama about secrecy, obsession and trust. The authorities know more than the public, [witnesses]({{ 'witnesses/' | relative_url }}) struggle to explain what they have seen, and contact becomes possible only when communication replaces containment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+In *Close Encounters of the Third Kind*, the unknown is frightening but not automatically hostile. The film’s UFO framework was not casual decoration: the American Film Institute records that the title came from astronomer J. Allen Hynek’s hierarchy of alien encounters, and that Columbia bought rights to Hynek’s *The UFO Experience* while hiring him as technical adviser. That connection to UFO classification gives the story an investigative surface, but Spielberg turns the material into an ethical drama about secrecy, obsession and trust. The authorities know more than the public, [witnesses]({{ 'witnesses/' | relative_url }}) struggle to explain what they have seen, and contact becomes possible only when communication replaces containment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 The film’s most famous moral tension is not between humans and aliens but between official control and human openness. The government response is secretive, strategic and paternalistic: keep civilians away, manage the site, hide the scale of what is happening. Yet the climactic encounter at Devil’s Tower imagines a different model of first contact, one based on music, pattern and patience rather than weaponry. The alien presence tests whether human intelligence can become receptive rather than possessive.
 
-*E.T.* sharpens the same test by making the alien weak. The visitor is not a grand intelligence descending in splendour but a lost, frightened being who needs shelter. AFI’s plot summary stresses the contrast from the beginning: E.T. is left behind after humans arrive with trucks and flashlights, and later the family home is sealed off by scientists in protective quarantine barriers while medical tests are run on both E.T. and Elliott. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">AFI’S 100 YEARS…100 MOVIES — 10TH ANNIVERSARY EDITION &#124; American Film Institute...</span></span></span> The moral question is therefore immediate and simple: when the unknown is vulnerable, do humans protect it or possess it?
+*E.T.* sharpens the same test by making the alien weak. The visitor is not a grand intelligence descending in splendour but a lost, frightened being who needs shelter. AFI’s plot summary stresses the contrast from the beginning: E.T. is left behind after humans arrive with trucks and flashlights, and later the family home is sealed off by scientists in protective quarantine barriers while medical tests are run on both E.T. and Elliott.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-snippet">AFI’S 100 YEARS…100 MOVIES — 10TH ANNIVERSARY EDITION &#124; American Film Institute...</span></span></span> The moral question is therefore immediate and simple: when the unknown is vulnerable, do humans protect it or possess it?
 
 That question is why the government agents and scientists in *E.T.* are not straightforward villains. Their fear is understandable. Their procedures are rational. Their failure is moral proportion. They treat the alien primarily as a biological event, while Elliott recognises him as a being. Spielberg’s critique is not anti-science so much as anti-reduction: knowledge without compassion becomes another form of capture.
 
-*War of the Worlds* reverses the emotional charge. Here the aliens are not misunderstood innocents; they are lethal invaders. But even in this darker film, Spielberg keeps the moral focus close to the humans under pressure. Slant’s 2005 review noted that the film keeps its point of view “squarely amid a family of survivors” and argued that its panic, handheld disorder and civilian perspective made the destruction feel like horror rather than spectacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slantmagazine.com">[Slant Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slantmagazine.com</span><span class="citation-popover-title">Slant Magazine Review: War of the Worlds</span><span class="citation-popover-snippet">Slant MagazineReview: War of the Worlds - Slant Magazine...</span></span></span> The aliens test humanity by removing the usual supports of law, infrastructure and social trust. Once those supports collapse, the danger comes from both the tripods and the frightened people around them.
+*War of the Worlds* reverses the emotional charge. Here the aliens are not misunderstood innocents; they are lethal invaders. But even in this darker film, Spielberg keeps the moral focus close to the humans under pressure. Slant’s 2005 review noted that the film keeps its point of view “squarely amid a family of survivors” and argued that its panic, handheld disorder and civilian perspective made the destruction feel like horror rather than spectacle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slantmagazine.com">[Slant Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slantmagazine.com</span><span class="citation-popover-title">Slant Magazine Review: War of the Worlds</span><span class="citation-popover-snippet">Slant MagazineReview: War of the Worlds - Slant Magazine...</span></span></span> The aliens test humanity by removing the usual supports of law, infrastructure and social trust. Once those supports collapse, the danger comes from both the tripods and the frightened people around them.
 
 Across the three films, the scale changes but the mechanism stays recognisable. Spielberg’s aliens expose the first human impulse and then judge it dramatically:
 
@@ -483,11 +483,11 @@ Across the three films, the scale changes but the mechanism stays recognisable. 
 
 Spielberg repeatedly gives children a moral advantage in alien stories. They are not wiser because they know more. They are wiser because they respond before institutions have finished naming the threat. Elliott does not need a policy for E.T.; Barry in *Close Encounters* is drawn towards the strange light before adults can decide whether to fear it; Rachel in *War of the Worlds* forces Ray Ferrier’s survival instinct to become parental care rather than simple self-preservation.
 
-This pattern is especially clear in *E.T.* Spielberg has linked the film directly to family rupture. Speaking at a 40th-anniversary event, he said the story grew from thinking about his parents’ divorce and asking what would happen if a child needed “to become responsible for a life form to fill the gap in his heart”. He also described divorce as creating responsibility among siblings: “we all take care of each other.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That background matters because E.T. is not just an alien friend. He is the test that asks whether a damaged family can become protective.
+This pattern is especially clear in *E.T.* Spielberg has linked the film directly to family rupture. Speaking at a 40th-anniversary event, he said the story grew from thinking about his parents’ divorce and asking what would happen if a child needed “to become responsible for a life form to fill the gap in his heart”. He also described divorce as creating responsibility among siblings: “we all take care of each other.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That background matters because E.T. is not just an alien friend. He is the test that asks whether a damaged family can become protective.
 
 The children pass that test before the adults do. Elliott, Michael and Gertie learn secrecy, care and risk on behalf of someone defenceless. Their rescue mission is childish in method — sweets, bicycles, hiding places, improvised escape — but morally serious. The adult world arrives with torches, keys, suits, plastic barriers and medical language. The children’s world answers with recognition: he is scared, he is sick, he wants to go home.
 
-*Close Encounters* is more troubling because [Roy Neary]({{ 'roy-neary/' | relative_url }})’s test cuts against family duty. His UFO experience awakens wonder, but it also consumes him. The Library of Congress’s National Film Registry essay frames Spielberg as a director with an unusually sharp sense of how middle-class Americans “thought, felt, and dreamed”, and *Close Encounters* uses that gift to show awe as both revelation and disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Roy’s obsession makes contact possible, but it damages his domestic life. The alien summons is morally ambiguous because transcendence comes at a human cost.
+*Close Encounters* is more troubling because [Roy Neary]({{ 'roy-neary/' | relative_url }})’s test cuts against family duty. His UFO experience awakens wonder, but it also consumes him. The Library of Congress’s National Film Registry essay frames Spielberg as a director with an unusually sharp sense of how middle-class Americans “thought, felt, and dreamed”, and *Close Encounters* uses that gift to show awe as both revelation and disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Roy’s obsession makes contact possible, but it damages his domestic life. The alien summons is morally ambiguous because transcendence comes at a human cost.
 
 That ambiguity has become one of the film’s most debated features. In later Spielberg, especially *E.T.* and *War of the Worlds*, the alien encounter more often pushes families together. In *Close Encounters*, it pulls Roy away. The film does not entirely condemn him, because his longing is presented as authentic and contact as wondrous. But the moral test is harsher than nostalgia sometimes admits: can wonder justify abandonment? Spielberg’s later family-centred alien films seem to answer by revising the question. The better encounter is not escape from family but responsibility within it.
 
@@ -500,7 +500,7 @@ Officials occupy a different moral position. They are usually competent, but the
 
 *War of the Worlds* is the starkest example of Spielberg using aliens to test human conduct under terror. The tripods are monstrous, but their presence strips away social confidence so quickly that people begin failing one another almost immediately. Ray’s journey is not a heroic campaign against aliens. It is a forced education in fear, fatherhood and triage.
 
-The film’s opening family set-up is crucial. Ray is late, careless and emotionally underprepared. Slant describes his home as a mess of unwashed clothes, pizza boxes and a barren fridge, while his children already understand his unreliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slantmagazine.com">[Slant Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slantmagazine.com</span><span class="citation-popover-title">Slant Magazine Review: War of the Worlds</span><span class="citation-popover-snippet">Slant MagazineReview: War of the Worlds - Slant Magazine...</span></span></span> The alien invasion does not create his parental failure; it exposes it. Ray’s moral test is whether a man who has treated fatherhood casually can become responsible when responsibility is no longer optional.
+The film’s opening family set-up is crucial. Ray is late, careless and emotionally underprepared. Slant describes his home as a mess of unwashed clothes, pizza boxes and a barren fridge, while his children already understand his unreliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slantmagazine.com">[Slant Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slantmagazine.com</span><span class="citation-popover-title">Slant Magazine Review: War of the Worlds</span><span class="citation-popover-snippet">Slant MagazineReview: War of the Worlds - Slant Magazine...</span></span></span> The alien invasion does not create his parental failure; it exposes it. Ray’s moral test is whether a man who has treated fatherhood casually can become responsible when responsibility is no longer optional.
 
 Spielberg also refuses the clean comforts of the invasion genre. There is no command-room overview that makes the catastrophe manageable. The terror is seen from streets, ferries, basements and crowds. That perspective matters because it turns the alien attack into a pressure chamber for ordinary behaviour. People fight over vehicles. Refugees become competitors. Survival narrows the moral field until even decent instincts become hard to maintain.
 
@@ -539,194 +539,194 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df-Illustration-3-dark.svg" | relative_url }}" alt="Moral Tests illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_aliens_moral_tests_7f68df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Spielberg&#x27;s Aliens Test in Humans. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Spielberg&#x27;s Aliens Test in Humans. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Connects UFO belief, investigation and the moral questions surrounding contact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO belief, investigation and the moral questions surrounding contact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduced the encounter framework that influenced Close Encounters and its human-testing themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced the encounter framework that influenced Close Encounters and its human-testing themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Shows how human responses to the unknown became central to Spielberg&#x27;s UFO storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how human responses to the unknown became central to Spielberg&#x27;s UFO storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Joseph McBride</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Joseph McBride</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Motion picture producers and directors, Motion pictures, production and direction, Motion pictures, biogr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Motion picture producers and directors, Motion pictures, production and direction, Motion pictures, biogr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="moral-tests-what-spielberg-s-aliens-test-in-humans-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,172 +932,172 @@ The most durable Spielbergian answer is not naive welcome. It is moral attention
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: afi.com  
    Title: American Film Institute  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI’S 100 YEARS…100 MOVIES — 10TH ANNIVERSARY EDITION | American Film Institute...</p></details>
+   Link:<a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI’S 100 YEARS…100 MOVIES — 10TH ANNIVERSARY EDITION | American Film Institute...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Search?searchField=Subjects&amp;searchText=Aliens%2C+Extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Search?searchField=Subjects&amp;searchText=Aliens%2C+Extraterrestrial</a>  
+   Link:<a href="https://catalog.afi.com/Search?searchField=Subjects&amp;searchText=Aliens%2C+Extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Search?searchField=Subjects&amp;searchText=Aliens%2C+Extraterrestrial</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: catalog.afi.com  
    Title: 54476 MUNICH  
-   Link: <a href="https://catalog.afi.com/Film/54476-MUNICH" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/54476-MUNICH</a>  
+   Link:<a href="https://catalog.afi.com/Film/54476-MUNICH" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/54476-MUNICH</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afi.com  
    Title: s 100 years 100 movie quotes  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afi.com  
    Title: s 100 years of film scores  
-   Link: <a href="https://www.afi.com/afis-100-years-of-film-scores/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-of-film-scores/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-of-film-scores/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-of-film-scores/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: afi.com  
    Title: s 100 years 100 thrills  
-   Link: <a href="https://www.afi.com/afis-100-years-100-thrills/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-thrills/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-thrills/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-thrills/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afi.com  
    Title: s 100 years 100 movies  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movies/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-movies/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afi.com  
    Title: s 100 years 100 cheers  
-   Link: <a href="https://www.afi.com/afis-100-years-100-cheers/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-cheers/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-cheers/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-cheers/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-100-heroes-villians/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-heroes-villians/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-heroes-villians/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-heroes-villians/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: catalog.afi.com  
    Title: 57571 BORN INEASTLA  
-   Link: <a href="https://catalog.afi.com/Film/57571-BORN-INEASTLA?cp=1&amp;pos=1&amp;sid=39accdff-9b66-48d9-94f4-f9ae4e83e1bb&amp;sr=0.040798705" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/57571-BORN-INEASTLA?cp=1&amp;pos=1&amp;sid=39accdff-9b66-48d9-94f4-f9ae4e83e1bb&amp;sr=0.040798705</a>  
+   Link:<a href="https://catalog.afi.com/Film/57571-BORN-INEASTLA?cp=1&amp;pos=1&amp;sid=39accdff-9b66-48d9-94f4-f9ae4e83e1bb&amp;sr=0.040798705" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/57571-BORN-INEASTLA?cp=1&amp;pos=1&amp;sid=39accdff-9b66-48d9-94f4-f9ae4e83e1bb&amp;sr=0.040798705</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: afi.com  
    Title: afis 10 top 10  
-   Link: <a href="https://www.afi.com/afis-10-top-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-10-top-10/</a>  
+   Link:<a href="https://www.afi.com/afis-10-top-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-10-top-10/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: people.com  
    Title: steven spielberg james cameron et amc visionaries  
-   Link: <a href="https://people.com/tv/steven-spielberg-james-cameron-et-amc-visionaries/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tv/steven-spielberg-james-cameron-et-amc-visionaries/</a>  
+   Link:<a href="https://people.com/tv/steven-spielberg-james-cameron-et-amc-visionaries/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tv/steven-spielberg-james-cameron-et-amc-visionaries/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: slantmagazine.com  
    Title: Slant Magazine Review: War of the Worlds  
-   Link: <a href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.slantmagazine.com/film/war-of-the-worlds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slant MagazineReview: War of the Worlds - Slant Magazine...</p></details>
+   Link:<a href="https://www.slantmagazine.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.slantmagazine.com/film/war-of-the-worlds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slant MagazineReview: War of the Worlds - Slant Magazine...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html</a>  
+   Link:<a href="https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/films/news/steven-spielberg-et-divorce-parents-anniversary-b2063879.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe title is derived from astronomer and Ufologist J. Allen Hynek&#x27;s classification of close encounte...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe title is derived from astronomer and Ufologist J. Allen Hynek&#x27;s classification of close encounte...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
+   Link:<a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: letterboxd.com  
    Title: war of the worlds  
-   Link: <a href="https://letterboxd.com/hkfanatic/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/hkfanatic/film/war-of-the-worlds/</a>  
+   Link:<a href="https://letterboxd.com/hkfanatic/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/hkfanatic/film/war-of-the-worlds/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reverseshot.org  
    Title: war of the worlds  
-   Link: <a href="https://reverseshot.org/archive/entry/725/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/archive/entry/725/war-of-the-worlds</a>  
+   Link:<a href="https://reverseshot.org/archive/entry/725/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/archive/entry/725/war-of-the-worlds</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: moviemom.com  
    Title: war of the worlds  
-   Link: <a href="https://moviemom.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://moviemom.com/war-of-the-worlds/</a>  
+   Link:<a href="https://moviemom.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://moviemom.com/war-of-the-worlds/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: deepfocusreview.com  
    Title: war of the worlds  
-   Link: <a href="https://www.deepfocusreview.com/reviews/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.deepfocusreview.com/reviews/war-of-the-worlds/</a>  
+   Link:<a href="https://www.deepfocusreview.com/reviews/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.deepfocusreview.com/reviews/war-of-the-worlds/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: E.T. the Extra Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-TerrestrialIt tells the story of Elliott, a boy who befriends an extraterrestrial that he names E.T. who has been stran...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. the Extra-TerrestrialIt tells the story of Elliott, a boy who befriends an extraterrestrial that he names E.T. who has been stran...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Spielberg Returns to Alien Sci-Fi with [DISCLOSURE DAY](&#123;&#123; 'disclosure-day/' | relative_url &#125;&#125;) | Final Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=VFCFL0tdarM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VFCFL0tdarM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spirit Guide: Spielberg&#x27;s Disclosure Day: It&#x27;s Time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VFCFL0tdarM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VFCFL0tdarM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Spirit Guide: Spielberg&#x27;s Disclosure Day: It&#x27;s Time...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Spielberg's Disclosure Day Is Closer To Truth Than Fiction  
-   Link: <a href="https://www.youtube.com/watch?v=j4vLWVdoHSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j4vLWVdoHSY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Returns to Alien Sci-Fi with DISCLOSURE DAY | Final Trailer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j4vLWVdoHSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j4vLWVdoHSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Returns to Alien Sci-Fi with DISCLOSURE DAY | Final Trailer...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-film-preservation-board/documents/ET.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Steven Universe  
-   Link: <a href="https://en.wikipedia.org/wiki/Steven_Universe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steven_Universe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven UniverseSteven Universe is an American animated television series created by Rebecca Sugar for Cartoon Network. It tells the co...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Steven_Universe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steven_Universe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven UniverseSteven Universe is an American animated television series created by Rebecca Sugar for Cartoon Network. It tells the co...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stephen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stephen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StephenStephen or Steven is an English male first name. It is particularly significant to Christians, as it belonged to Saint Stephen...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Stephen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stephen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StephenStephen or Steven is an English male first name. It is particularly significant to Christians, as it belonged to Saint Stephen...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theatlantic.com  
-   Link: <a href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/</a>  
+   Link:<a href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
+   Link:<a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160773952631696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160773952631696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160773952631696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160773952631696/</a>  

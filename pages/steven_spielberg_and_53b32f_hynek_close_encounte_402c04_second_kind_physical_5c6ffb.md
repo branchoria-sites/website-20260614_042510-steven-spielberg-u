@@ -266,7 +266,7 @@ image: /assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_se
 
 ### What counts as a second-kind encounter?
 
-Hynek’s original classification system distinguished second-kind encounters from simple sightings. A first-kind encounter is primarily visual: a nearby object is observed. A second-kind encounter occurs when the event allegedly produces physical consequences. These can include interference with vehicles or electronics, reactions from animals, physiological effects on [witnesses]({{ 'witnesses/' | relative_url }}) such as heat or discomfort, and material traces such as scorched vegetation, ground impressions or chemical residues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wiktionary.org">[wiktionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wiktionary.org</span><span class="citation-popover-snippet">counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</span></span></span> What made this category attractive to investigators was not that the evidence proved anything extraordinary. Rather, it created the possibility of investigation. A witness can be mistaken about what was seen in the sky, but a damaged electrical system, a burn injury or a measurable trace appears to offer an independent line of inquiry. Hynek explicitly regarded second-kind cases as especially significant because they involved tangible effects that could, at least in principle, be photographed, sampled or analysed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
+Hynek’s original classification system distinguished second-kind encounters from simple sightings. A first-kind encounter is primarily visual: a nearby object is observed. A second-kind encounter occurs when the event allegedly produces physical consequences. These can include interference with vehicles or electronics, reactions from animals, physiological effects on [witnesses]({{ 'witnesses/' | relative_url }}) such as heat or discomfort, and material traces such as scorched vegetation, ground impressions or chemical residues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wiktionary.org">[wiktionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wiktionary.org</span><span class="citation-popover-snippet">counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</span></span></span> What made this category attractive to investigators was not that the evidence proved anything extraordinary. Rather, it created the possibility of investigation. A witness can be mistaken about what was seen in the sky, but a damaged electrical system, a burn injury or a measurable trace appears to offer an independent line of inquiry. Hynek explicitly regarded second-kind cases as especially significant because they involved tangible effects that could, at least in principle, be photographed, sampled or analysed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-1-dark.svg" | relative_url }}" alt="Second Kind Physical 5 C6 Ffb illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -274,9 +274,9 @@ Spielberg understood the dramatic power of that distinction. Before his film rea
 
 ## Power failures, burns and damaged normal life
 
-The most famous second-kind sequence in *Close Encounters of the Third Kind* occurs before any alien beings appear on screen. [Roy Neary]({{ 'roy-neary/' | relative_url }}), an electrical lineman investigating widespread power outages, encounters a UFO while driving. As the object passes over his truck, its intense light leaves him with a facial burn often described in the film as a sunburn-like injury. The encounter is tied directly to electrical disruption, linking the UFO to failures in ordinary infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</span></span></span>
+The most famous second-kind sequence in *Close Encounters of the Third Kind* occurs before any alien beings appear on screen. [Roy Neary]({{ 'roy-neary/' | relative_url }}), an electrical lineman investigating widespread power outages, encounters a UFO while driving. As the object passes over his truck, its intense light leaves him with a facial burn often described in the film as a sunburn-like injury. The encounter is tied directly to electrical disruption, linking the UFO to failures in ordinary infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</span></span></span>
 
-This combination of power failure and physical injury mirrors classic second-kind motifs in UFO literature. Hynek’s category frequently included reports of electrical interference and physiological effects such as heat or discomfort. Spielberg therefore does not merely show a strange object in the sky; he stages an encounter that matches the evidential structure of a second-kind case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letstalkterror.com">[Let&#x27;s Talk Terror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letstalkterror.com</span><span class="citation-popover-snippet">Let&#x27;s Talk TerrorBad Movies Gone Good: The Fourth Kind (2009)30 Jun 2021 — Close Encounters of the Second Kind, A UFO event in which a ph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wiktionary.org">[wiktionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wiktionary.org</span><span class="citation-popover-snippet">counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</span></span></span> The film expands this pattern beyond Roy:
+This combination of power failure and physical injury mirrors classic second-kind motifs in UFO literature. Hynek’s category frequently included reports of electrical interference and physiological effects such as heat or discomfort. Spielberg therefore does not merely show a strange object in the sky; he stages an encounter that matches the evidential structure of a second-kind case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letstalkterror.com">[Let&#x27;s Talk Terror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letstalkterror.com</span><span class="citation-popover-snippet">Let&#x27;s Talk TerrorBad Movies Gone Good: The Fourth Kind (2009)30 Jun 2021 — Close Encounters of the Second Kind, A UFO event in which a ph...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wiktionary.org">[wiktionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wiktionary.org</span><span class="citation-popover-snippet">counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</span></span></span> The film expands this pattern beyond Roy:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -284,7 +284,7 @@ This combination of power failure and physical injury mirrors classic second-kin
 * Electrical systems fail across the area where UFO activity occurs.
 * Bright lights produce visible physical effects on witnesses.
 * Everyday routines are disrupted by events that leave practical consequences.
-* The phenomenon intrudes into homes, roads and public services rather than remaining a distant spectacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+* The phenomenon intrudes into homes, roads and public services rather than remaining a distant spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 </div>
 
@@ -297,7 +297,7 @@ These details matter because they translate wonder into disruption. A strange li
 
 Spielberg repeatedly frames evidence through objects rather than declarations. Roy does not become obsessed simply because he saw something unusual. The audience has already witnessed effects that appear external to his mind. The burn on his skin functions almost like an exhibit in a case file.
 
-This reflects a broader pattern in UFO investigations. Accounts of second-kind encounters often focus on what remains after the event: damaged vegetation, malfunctioning equipment, unusual marks or bodily symptoms. Whether or not such traces ultimately support extraordinary conclusions, they create the impression that the event interacted with the physical world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leifericksonwriting.com">[Leif J. Erickson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leifericksonwriting.com</span><span class="citation-popover-title">Leif J</span><span class="citation-popover-snippet">EricksonClose Encounters – Sightings and AbductionsClose encounters of the second kind, CE2, is an event where physical effects have been...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[Study Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-snippet">Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</span></span></span>
+This reflects a broader pattern in UFO investigations. Accounts of second-kind encounters often focus on what remains after the event: damaged vegetation, malfunctioning equipment, unusual marks or bodily symptoms. Whether or not such traces ultimately support extraordinary conclusions, they create the impression that the event interacted with the physical world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leifericksonwriting.com">[Leif J. Erickson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leifericksonwriting.com</span><span class="citation-popover-title">Leif J</span><span class="citation-popover-snippet">EricksonClose Encounters – Sightings and AbductionsClose encounters of the second kind, CE2, is an event where physical effects have been...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[Study Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-snippet">Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</span></span></span>
 
 In cinematic terms, these traces help Spielberg avoid a common problem in stories about unexplained experiences. The audience is not asked to rely solely on subjective perception. The world itself appears altered.
 
@@ -305,13 +305,13 @@ In cinematic terms, these traces help Spielberg avoid a common problem in storie
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-2-dark.svg" | relative_url }}" alt="Second Kind Physical 5 C6 Ffb illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why physical effects make witnesses harder to dismiss
 
-The key function of second-kind evidence is not proof but credibility. Hynek developed the category because reports involving physical effects offered investigators more to work with than eyewitness testimony alone. A trace can be examined even if its cause remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
+The key function of second-kind evidence is not proof but credibility. Hynek developed the category because reports involving physical effects offered investigators more to work with than eyewitness testimony alone. A trace can be examined even if its cause remains uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
 
-Spielberg uses this logic to shape how viewers evaluate his characters. Roy Neary is not introduced as a believer searching for UFOs. He is an ordinary worker responding to a practical problem. The encounter leaves visible consequences before it leaves psychological ones. Because the audience sees those consequences, Roy’s later obsession appears connected to an external event rather than emerging from nowhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen HynekJosef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: May 1, 1910</span></span></span>
+Spielberg uses this logic to shape how viewers evaluate his characters. Roy Neary is not introduced as a believer searching for UFOs. He is an ordinary worker responding to a practical problem. The encounter leaves visible consequences before it leaves psychological ones. Because the audience sees those consequences, Roy’s later obsession appears connected to an external event rather than emerging from nowhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen HynekJosef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: May 1, 1910</span></span></span>
 
 This is an important distinction within the film’s structure. The story eventually asks viewers to accept increasingly extraordinary developments, culminating in direct contact with alien visitors. The second-kind effects act as a bridge between the mundane and the miraculous. They establish that something has already crossed into ordinary reality and left marks behind.
 
-The strategy also mirrors how many UFO investigations are presented. Investigators often argue that physical traces deserve attention precisely because they seem less vulnerable to memory errors, misperception or storytelling. Critics may dispute the interpretation of those traces, but the existence of an observable effect changes the discussion from “What did you think you saw?” to “What happened here?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[Study]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-snippet">Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</span></span></span>
+The strategy also mirrors how many UFO investigations are presented. Investigators often argue that physical traces deserve attention precisely because they seem less vulnerable to memory errors, misperception or storytelling. Critics may dispute the interpretation of those traces, but the existence of an observable effect changes the discussion from “What did you think you saw?” to “What happened here?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[Study]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-snippet">Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-3-dark.svg" | relative_url }}" alt="Second Kind Physical 5 C6 Ffb illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04_second_kind_physical_5c6ffb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,201 +319,201 @@ The strategy also mirrors how many UFO investigations are presented. Investigato
 
 Within Hynek’s framework, second-kind encounters occupy a crucial middle ground. They are more substantial than simple sightings but stop short of direct contact with non-human entities. Spielberg uses that middle ground to make his story feel investigable rather than purely fantastical.
 
-The scorched skin on Roy Neary’s face, the unexplained power failures and the broader disruption of normal life all function as physical exhibits within the film’s internal case file. They are the traces that suggest the phenomenon has touched the world rather than merely appeared within it. By grounding wonder in observable consequences, *Close Encounters of the Third Kind* gives Hynek’s second-kind category a central dramatic role: it supplies the evidence that makes the leap toward the third kind feel earned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
+The scorched skin on Roy Neary’s face, the unexplained power failures and the broader disruption of normal life all function as physical exhibits within the film’s internal case file. They are the traces that suggest the phenomenon has touched the world rather than merely appeared within it. By grounding wonder in observable consequences, *Close Encounters of the Third Kind* gives Hynek’s second-kind category a central dramatic role: it supplies the evidence that makes the leap toward the third kind feel earned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">that physical effects on both animate and inanimate material are noted.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgN2zyCUzGk" title="Close Encounters of the Third Kind | Spacecraft Burns Roy&#x27;s Face | Voyage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind | Spacecraft Burns Roy&#x27;s Face | Voyage</a></p><p class="youtube-embed-meta">Channel: Voyage &middot; Views: 2.1K &middot; Uploaded: March 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgN2zyCUzGk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Second Kind Physical 5 C6 Ffb. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Second Kind Physical 5 C6 Ffb. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="second-kind-physical-5-c6-ffb-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,129 +719,129 @@ The scorched skin on Roy Neary’s face, the unexplained power failures and the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>that physical effects on both animate and inanimate material are noted.Read more...</p></details>
+   Link:<a href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that physical effects on both animate and inanimate material are noted.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/close_encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/close_encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>counterclose encounter of the second kind: a physical effect, such as electronic interference or animals reacting, or a physiological e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: leifericksonwriting.com  
    Title: Leif J  
-   Link: <a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EricksonClose Encounters – Sightings and AbductionsClose encounters of the second kind, CE2, is an event where physical effects have been...</p></details>
+   Link:<a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EricksonClose Encounters – Sightings and AbductionsClose encounters of the second kind, CE2, is an event where physical effects have been...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekJosef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekJosef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</p></details>
    Published: May 1, 1910  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q71pCqJ7bI8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q71pCqJ7bI8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | Creature Features...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q71pCqJ7bI8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q71pCqJ7bI8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | Creature Features...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | Creature Features  
-   Link: <a href="https://www.youtube.com/watch?v=7wJ3oZLml1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7wJ3oZLml1w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7wJ3oZLml1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7wJ3oZLml1w</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: letstalkterror.com  
-   Link: <a href="https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/" target="_blank" rel="noopener noreferrer nofollow">https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk TerrorBad Movies Gone Good: The Fourth Kind (2009)30 Jun 2021 — Close Encounters of the Second Kind, A UFO event in which a ph...</p></details>
+   Link:<a href="https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/" target="_blank" rel="noopener noreferrer nofollow">https://letstalkterror.com/bad-movies-gone-good-the-fourth-kind-2009/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk TerrorBad Movies Gone Good: The Fourth Kind (2009)30 Jun 2021 — Close Encounters of the Second Kind, A UFO event in which a ph...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: studyguides.com  
-   Link: <a href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</p></details>
+   Link:<a href="https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/study-guide/cmmbxbkwn24y9019082l0ztm5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer, Flying (UFO) – Study GuideWhat is a close encounter of the second kind? UFO encounter that leaves physical effects such as ground...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: brevitymag.com  
    Title: close encounters  
-   Link: <a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Nonfiction Kind12 Sept 2022 — A UFO encounter of the second kind sometimes reveals itself as a reaction—animals acting strangely...</p></details>
+   Link:<a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Nonfiction Kind12 Sept 2022 — A UFO encounter of the second kind sometimes reveals itself as a reaction—animals acting strangely...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgN2zyCUzGk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>yage... Third Kind Cast Reveals What Most Fans Never Figured Out...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OgN2zyCUzGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgN2zyCUzGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>yage... Third Kind Cast Reveals What Most Fans Never Figured Out...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: studyguides.com  
-   Link: <a href="https://studyguides.com/study-methods/overview/cmmn8i0e7d4sb01aal704p49a" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/overview/cmmn8i0e7d4sb01aal704p49a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Unidentified Flying Object) - Overview12 Mar 2026 — Allen Hynek&#x27;s &#x27;Close Encounter&#x27; typology, developed in the 1970s, which divides...</p></details>
+   Link:<a href="https://studyguides.com/study-methods/overview/cmmn8i0e7d4sb01aal704p49a" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/overview/cmmn8i0e7d4sb01aal704p49a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Unidentified Flying Object) - Overview12 Mar 2026 — Allen Hynek&#x27;s &#x27;Close Encounter&#x27; typology, developed in the 1970s, which divides...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kardashev.fandom.com  
-   Link: <a href="https://kardashev.fandom.com/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://kardashev.fandom.com/wiki/UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kardashev Scale Wiki | FandomClose Encounters of the Second Kind. A UFO event in which a physical effect is alleged; this can be interf...</p></details>
+   Link:<a href="https://kardashev.fandom.com/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://kardashev.fandom.com/wiki/UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kardashev Scale Wiki | FandomClose Encounters of the Second Kind. A UFO event in which a physical effect is alleged; this can be interf...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: universalcompendium.com  
-   Link: <a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of UFO SightingsClassification of UFO Sightings; Close Encounters of the Seventh Kind, CE7, Interbreeding between human a...</p></details>
+   Link:<a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of UFO SightingsClassification of UFO Sightings; Close Encounters of the Seventh Kind, CE7, Interbreeding between human a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationWhy Classify UFO Encounters Anyway? Of course, both of these systems raise a question: Why bother spending much time on cla...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-classification.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationWhy Classify UFO Encounters Anyway? Of course, both of these systems raise a question: Why bother spending much time on cla...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sightings, ranked by proximity to the eve...</p></details>
+   Link:<a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek&#x27;s Close Encounters ScaleProfessor J. Allen Hynek devised a sixfold classification for UFO sightings, ranked by proximity to the eve...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/poll/zfhvKxjsHHY/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/poll/zfhvKxjsHHY/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poll: Close Encounters: Fact or FictionThis can be interference in the functioning of a vehicle or electronic device; animals reacting; a...</p></details>
+   Link:<a href="https://www.imdb.com/poll/zfhvKxjsHHY/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/poll/zfhvKxjsHHY/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poll: Close Encounters: Fact or FictionThis can be interference in the functioning of a vehicle or electronic device; animals reacting; a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: simonandschuster.co.uk  
-   Link: <a href="https://www.simonandschuster.co.uk/books/The-UFO-Experience/J-Allen-Hynek/MUFON/9781590033081" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/books/The-UFO-Experience/J-Allen-Hynek/MUFON/9781590033081</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Experience | Book by J. Allen Hynek, Paul...The UFO Experience. Evidence Behind Close Encounters, Project Blue Book, and the Sea...</p></details>
+   Link:<a href="https://www.simonandschuster.co.uk/books/The-UFO-Experience/J-Allen-Hynek/MUFON/9781590033081" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/books/The-UFO-Experience/J-Allen-Hynek/MUFON/9781590033081</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Experience | Book by J. Allen Hynek, Paul...The UFO Experience. Evidence Behind Close Encounters, Project Blue Book, and the Sea...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: awakenche.org  
-   Link: <a href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow">https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/</a>  
+   Link:<a href="https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/" target="_blank" rel="noopener noreferrer nofollow">https://awakenche.org/knowledge-base/close-encounters-of-the-second-kind/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10159470958071696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10159470958071696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Roy Neary (Richard Dreyfuss) encounters a UFO, he&#x27;s left with a sunburned face, a skeptical family and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10159470958071696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10159470958071696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Roy Neary (Richard Dreyfuss) encounters a UFO, he&#x27;s left with a sunburned face, a skeptical family and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: si.edu  
    Title: Smithsonian Institution The UFO experience a scientific inquiry [by] J  
-   Link: <a href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_16876</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek... UFO reports -- Close encounters of the first kind -- Close encounters of the second kind -- Close encounters of the third...</p></details>
+   Link:<a href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_16876</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek... UFO reports -- Close encounters of the first kind -- Close encounters of the second kind -- Close encounters of the third...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: smokingpipes.com  
    Title: allen hynek pipe smoking astronomer and ufo researcher  
-   Link: <a href="https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: Pipe Smoking Astronomer and UFO...Jan 15, 2021 — As such, it was suggested that UFOs did not warrant further research. Thou...</p></details>
+   Link:<a href="https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: Pipe Smoking Astronomer and UFO...Jan 15, 2021 — As such, it was suggested that UFOs did not warrant further research. Thou...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: impulsegamer.com  
-   Link: <a href="https://www.impulsegamer.com/close-encounters-third-kind-40th-anniversary-edition-blu-ray-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.impulsegamer.com/close-encounters-third-kind-40th-anniversary-edition-blu-ray-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind: 40th Anniversary...16 Oct 2017 — Close Encounters of the Second Kind – A UFO event in which a physic...</p></details>
+   Link:<a href="https://www.impulsegamer.com/close-encounters-third-kind-40th-anniversary-edition-blu-ray-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.impulsegamer.com/close-encounters-third-kind-40th-anniversary-edition-blu-ray-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind: 40th Anniversary...16 Oct 2017 — Close Encounters of the Second Kind – A UFO event in which a physic...</p></details>

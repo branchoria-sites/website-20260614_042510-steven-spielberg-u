@@ -264,15 +264,15 @@ image: /assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_kla
 
 ## Introduction
 
-Within the [Cold War]({{ 'cold-war/' | relative_url }}) atmosphere that shaped many pre-Spielberg alien stories, the film offered a more hopeful alternative to outright invasion narratives. However, it never fully escaped the era’s fears. Contact with the alien intelligence is still a moment of judgement, and humanity is still confronted by powers vastly beyond its control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdayeveningpost.com">[The Saturday Evening Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdayeveningpost.com</span><span class="citation-popover-snippet">The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
+Within the [Cold War]({{ 'cold-war/' | relative_url }}) atmosphere that shaped many pre-Spielberg alien stories, the film offered a more hopeful alternative to outright invasion narratives. However, it never fully escaped the era’s fears. Contact with the alien intelligence is still a moment of judgement, and humanity is still confronted by powers vastly beyond its control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdayeveningpost.com">[The Saturday Evening Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdayeveningpost.com</span><span class="citation-popover-snippet">The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-1-dark.svg" | relative_url }}" alt="Klaatu Peaceful Ulti 679 C00 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Was Klaatu Peaceful or Terrifying?
 
-Klaatu is often remembered as one of cinema’s first benevolent extraterrestrials. He lands openly, seeks dialogue, and repeatedly tries to address all nations rather than favouring a single government. When political leaders prove unable to cooperate, he turns instead to scientists, hoping reason and shared knowledge can transcend international rivalry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
+Klaatu is often remembered as one of cinema’s first benevolent extraterrestrials. He lands openly, seeks dialogue, and repeatedly tries to address all nations rather than favouring a single government. When political leaders prove unable to cooperate, he turns instead to scientists, hoping reason and shared knowledge can transcend international rivalry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
 
-Yet the film immediately complicates this image. The first encounter ends with a nervous soldier shooting Klaatu, while the robot Gort responds by effortlessly destroying military weapons. This scene establishes the central tension of the film: the visitor wants peace, but peace is backed by a power so superior that resistance is meaningless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Klaatu (The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu (The Day the Earth Stood Still</span></span></span>
+Yet the film immediately complicates this image. The first encounter ends with a nervous soldier shooting Klaatu, while the robot Gort responds by effortlessly destroying military weapons. This scene establishes the central tension of the film: the visitor wants peace, but peace is backed by a power so superior that resistance is meaningless.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Klaatu (The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu (The Day the Earth Stood Still</span></span></span>
 
 Unlike later Spielberg films such as *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, where communication itself becomes the goal, *The Day the Earth Stood Still* frames communication as a warning. Humanity is not invited into a relationship of equals. It is being evaluated.
 
@@ -281,9 +281,9 @@ Unlike later Spielberg films such as *[Close Encounters]({{ 'close-encounters/' 
 
 ### Klaatu's Warning Against Aggression
 
-The heart of Klaatu’s message concerns governance rather than exploration. He explains that other advanced worlds have been watching Earth and have become concerned by humanity’s development of atomic power and rockets. Violence that once threatened only Earth could eventually threaten neighbouring planets. If humanity carries its aggression into space, it will no longer be tolerated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (2008 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (2008 film)It stars Keanu Reeves as Klaatu, an alien sent to try to change human behavior in an effort t...</span></span></span>
+The heart of Klaatu’s message concerns governance rather than exploration. He explains that other advanced worlds have been watching Earth and have become concerned by humanity’s development of atomic power and rockets. Violence that once threatened only Earth could eventually threaten neighbouring planets. If humanity carries its aggression into space, it will no longer be tolerated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (2008 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (2008 film)It stars Keanu Reeves as Klaatu, an alien sent to try to change human behavior in an effort t...</span></span></span>
 
-To prove that his warning is serious, Klaatu stages one of the film’s most famous demonstrations: a thirty-minute interruption of electrical power across the globe, while exempting hospitals and aircraft to avoid mass casualties. The act is not destructive, but it is unmistakably coercive. It shows that the visitors possess the ability to disrupt modern civilisation at will. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
+To prove that his warning is serious, Klaatu stages one of the film’s most famous demonstrations: a thirty-minute interruption of electrical power across the globe, while exempting hospitals and aircraft to avoid mass casualties. The act is not destructive, but it is unmistakably coercive. It shows that the visitors possess the ability to disrupt modern civilisation at will.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
 
 This is what makes the film a peaceful ultimatum rather than a simple peace message. Klaatu does not ask humanity to choose peace because it is morally superior. He presents peace as a condition for survival.
 
@@ -293,11 +293,11 @@ This is what makes the film a peaceful ultimatum rather than a simple peace mess
 
 The most unsettling aspect of Klaatu’s vision is not Klaatu himself but Gort and the robotic system he represents.
 
-At the film’s conclusion, Klaatu reveals that advanced civilisations have delegated authority over aggression to an interplanetary police force of nearly invincible robots. These machines possess absolute power to destroy aggressors, and that authority cannot be challenged by ordinary political institutions. Humanity is offered a choice: accept this system and live peacefully, or reject it and face annihilation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ricksrealreel.blogspot.com">[2ricksrealreel.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ricksrealreel.blogspot.com</span><span class="citation-popover-title">dire message of day earth stood still</span><span class="citation-popover-snippet">Dire Message of &#x27;The Day the Earth Stood Still&#x27; 19514 Jun 2020 — The result is that we live in peace, without arms or armies, secure in t...</span></span></span>
+At the film’s conclusion, Klaatu reveals that advanced civilisations have delegated authority over aggression to an interplanetary police force of nearly invincible robots. These machines possess absolute power to destroy aggressors, and that authority cannot be challenged by ordinary political institutions. Humanity is offered a choice: accept this system and live peacefully, or reject it and face annihilation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ricksrealreel.blogspot.com">[2ricksrealreel.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ricksrealreel.blogspot.com</span><span class="citation-popover-title">dire message of day earth stood still</span><span class="citation-popover-snippet">Dire Message of &#x27;The Day the Earth Stood Still&#x27; 19514 Jun 2020 — The result is that we live in peace, without arms or armies, secure in t...</span></span></span>
 
-This idea reflected a profound Cold War dilemma. The early 1950s were dominated by fears of nuclear war and questions about how peace could be maintained in an age of weapons capable of global destruction. The film’s answer is strikingly authoritarian. Peace is achieved not through trust, diplomacy, or democratic agreement, but through an overwhelming deterrent that makes aggression irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdayeveningpost.com">[The Saturday Evening Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdayeveningpost.com</span><span class="citation-popover-snippet">The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
+This idea reflected a profound Cold War dilemma. The early 1950s were dominated by fears of nuclear war and questions about how peace could be maintained in an age of weapons capable of global destruction. The film’s answer is strikingly authoritarian. Peace is achieved not through trust, diplomacy, or democratic agreement, but through an overwhelming deterrent that makes aggression irrational.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdayeveningpost.com">[The Saturday Evening Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdayeveningpost.com</span><span class="citation-popover-snippet">The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
 
-In modern terms, Klaatu’s civilisation resembles a galaxy-wide security regime enforced by automated guardians. The film presents this system as effective, but it also leaves viewers with an uncomfortable question: is a peace imposed by unstoppable machines truly freedom? Critics and commentators have long noted that the supposedly utopian order described by Klaatu contains a distinctly frightening element of permanent surveillance and irresistible force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: widescreenworld.blogspot.com">[widescreenworld.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">widescreenworld.blogspot.com</span><span class="citation-popover-title">the day earth stood still 1951</span><span class="citation-popover-snippet">Klaatu says they were created to keep the peace and he likens them to police officers, but he says that they have &quot;...</span></span></span>
+In modern terms, Klaatu’s civilisation resembles a galaxy-wide security regime enforced by automated guardians. The film presents this system as effective, but it also leaves viewers with an uncomfortable question: is a peace imposed by unstoppable machines truly freedom? Critics and commentators have long noted that the supposedly utopian order described by Klaatu contains a distinctly frightening element of permanent surveillance and irresistible force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: widescreenworld.blogspot.com">[widescreenworld.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">widescreenworld.blogspot.com</span><span class="citation-popover-title">the day earth stood still 1951</span><span class="citation-popover-snippet">Klaatu says they were created to keep the peace and he likens them to police officers, but he says that they have &quot;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yZ9giPwPrZA" title="Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer">Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip</a></p><p class="youtube-embed-meta">Channel: TenaaTV &middot; Views: 6.8K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yZ9giPwPrZA">Open on YouTube</a></p></div></div></div>
@@ -309,204 +309,204 @@ In modern terms, Klaatu’s civilisation resembles a galaxy-wide security regime
 
 The enduring power of *The Day the Earth Stood Still* comes from its ability to stand between two traditions of UFO cinema.
 
-On one side are invasion stories such as *The War of the Worlds*, where aliens arrive as conquerors and humanity faces extinction. On the other are later films, especially Spielberg’s, where extraterrestrial contact can inspire awe, curiosity, and transformation. Klaatu occupies a middle ground. He is neither invader nor friend in the modern Spielberg sense. He is a cosmic authority figure delivering a judgement on human behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Klaatu (The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu (The Day the Earth Stood Still</span></span></span>
+On one side are invasion stories such as *The War of the Worlds*, where aliens arrive as conquerors and humanity faces extinction. On the other are later films, especially Spielberg’s, where extraterrestrial contact can inspire awe, curiosity, and transformation. Klaatu occupies a middle ground. He is neither invader nor friend in the modern Spielberg sense. He is a cosmic authority figure delivering a judgement on human behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Klaatu (The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu (The Day the Earth Stood Still</span></span></span>
 
-The film therefore replaces military conquest with moral confrontation. The aliens do not want Earth’s territory. They want Earth to change. Yet that demand is backed by the knowledge that refusal could bring destruction. The sense of wonder generated by the flying saucer, advanced technology, and interplanetary civilisation is inseparable from the fear generated by Gort and the ultimatum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceonscreen.org">[Science on Screen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceonscreen.org</span><span class="citation-popover-snippet">Science on ScreenThe Day the Earth Stood Still The music of alien encountersWhen a UFO lands in Washington, DC, bearing a message for Ear...</span></span></span>
+The film therefore replaces military conquest with moral confrontation. The aliens do not want Earth’s territory. They want Earth to change. Yet that demand is backed by the knowledge that refusal could bring destruction. The sense of wonder generated by the flying saucer, advanced technology, and interplanetary civilisation is inseparable from the fear generated by Gort and the ultimatum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceonscreen.org">[Science on Screen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceonscreen.org</span><span class="citation-popover-snippet">Science on ScreenThe Day the Earth Stood Still The music of alien encountersWhen a UFO lands in Washington, DC, bearing a message for Ear...</span></span></span>
 
-For viewers tracing the path toward Spielberg’s UFO imagination, this makes Klaatu a crucial transitional figure. He demonstrated that extraterrestrials could arrive with a message rather than an invasion plan, but he also showed how difficult it was for Cold War science fiction to imagine contact without judgement. Even its most peace-minded alien still arrived with the power to enforce obedience. The Saturday Evening Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reactormag.com">[Reactor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reactormag.com</span><span class="citation-popover-snippet">The Day the Earth Stood Still: Suspicion, Paranoia, and a...3 Apr 2024 — Released during the rise of McCarthyism, the film poses questio...</span></span></span>
+For viewers tracing the path toward Spielberg’s UFO imagination, this makes Klaatu a crucial transitional figure. He demonstrated that extraterrestrials could arrive with a message rather than an invasion plan, but he also showed how difficult it was for Cold War science fiction to imagine contact without judgement. Even its most peace-minded alien still arrived with the power to enforce obedience. The Saturday Evening Post<span class="citation-chip-wrap"><a class="citation-chip" href="https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reactormag.com">[Reactor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reactormag.com</span><span class="citation-popover-snippet">The Day the Earth Stood Still: Suspicion, Paranoia, and a...3 Apr 2024 — Released during the rise of McCarthyism, the film poses questio...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-3-dark.svg" | relative_url }}" alt="Klaatu Peaceful Ulti 679 C00 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_klaatu_peaceful_ulti_679c00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Klaatu Peaceful Ulti 679 C00. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Klaatu Peaceful Ulti 679 C00. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="klaatu-peaceful-ulti-679-c00-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,140 +712,140 @@ For viewers tracing the path toward Spielberg’s UFO imagination, this makes Kl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Klaatu (The Day the Earth Stood Still)  
-   Link: <a href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Klaatu_%28The_Day_the_Earth_Stood_Still%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ricksrealreel.blogspot.com  
    Title: dire message of day earth stood still  
-   Link: <a href="https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html" target="_blank" rel="noopener noreferrer nofollow">https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dire Message of &#x27;The Day the Earth Stood Still&#x27; 19514 Jun 2020 — The result is that we live in peace, without arms or armies, secure in t...</p></details>
+   Link:<a href="https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html" target="_blank" rel="noopener noreferrer nofollow">https://ricksrealreel.blogspot.com/2020/06/dire-message-of-day-earth-stood-still.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dire Message of &#x27;The Day the Earth Stood Still&#x27; 19514 Jun 2020 — The result is that we live in peace, without arms or armies, secure in t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: widescreenworld.blogspot.com  
    Title: the day earth stood still 1951  
-   Link: <a href="https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow">https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu says they were created to keep the peace and he likens them to police officers, but he says that they have &quot;...</p></details>
+   Link:<a href="https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow">https://widescreenworld.blogspot.com/2015/03/the-day-earth-stood-still-1951.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu says they were created to keep the peace and he likens them to police officers, but he says that they have &quot;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still (2008 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (2008 film)It stars Keanu Reeves as Klaatu, an alien sent to try to change human behavior in an effort t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%282008_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (2008 film)It stars Keanu Reeves as Klaatu, an alien sent to try to change human behavior in an effort t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Klaatu's Speech to Mankind | The Day the Earth Stood Still | Movie Clip  
-   Link: <a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZ9giPwPrZA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - Humanity&#x27;s Future Hangs in the Balance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZ9giPwPrZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - Humanity&#x27;s Future Hangs in the Balance...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0v1DPRZK99Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0v1DPRZK99Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day The Earth Stood Still 1951 Movie Review Deep Dive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0v1DPRZK99Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0v1DPRZK99Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day The Earth Stood Still 1951 Movie Review Deep Dive...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: saturdayeveningpost.com  
-   Link: <a href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</p></details>
+   Link:<a href="https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdayeveningpost.com/2021/09/klaatu-barada-niktu-the-day-the-earth-stood-still-turns-70/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Saturday Evening PostKlaatu Barada Nikto: The Day the Earth Stood Still Turns 70September 28, 2021 — 28 Sept 2021 — The Day the Earth...</p></details>
    Published: September 28, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reactormag.com  
-   Link: <a href="https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still: Suspicion, Paranoia, and a...3 Apr 2024 — Released during the rise of McCarthyism, the film poses questio...</p></details>
+   Link:<a href="https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-day-the-earth-stood-still-suspicion-paranoia-and-a-very-polite-alien-visitor-in-1950s-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still: Suspicion, Paranoia, and a...3 Apr 2024 — Released during the rise of McCarthyism, the film poses questio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scienceonscreen.org  
-   Link: <a href="https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema" target="_blank" rel="noopener noreferrer nofollow">https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science on ScreenThe Day the Earth Stood Still The music of alien encountersWhen a UFO lands in Washington, DC, bearing a message for Ear...</p></details>
+   Link:<a href="https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema" target="_blank" rel="noopener noreferrer nofollow">https://scienceonscreen.org/programs/2018/the-day-the-earth-stood-still-at-indiana-university-cinema</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science on ScreenThe Day the Earth Stood Still The music of alien encountersWhen a UFO lands in Washington, DC, bearing a message for Ear...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still - StudentsA flying saucer lands in Washington, D.C., carrying Klaatu (played by Michael Rennie) and his robot s...</p></details>
+   Link:<a href="https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/The-Day-the-Earth-Stood-Still/626622</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still - StudentsA flying saucer lands in Washington, D.C., carrying Klaatu (played by Michael Rennie) and his robot s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Gort" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Gort</a>  
+   Link:<a href="https://www.britannica.com/topic/Gort" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Gort</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MonsterFanClub333/posts/-the-day-the-earth-stood-still-1951-an-alien-named-klaatu-comes-to-earth-with-a-/1321210230038256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/-the-day-the-earth-stood-still-1951-an-alien-named-klaatu-comes-to-earth-with-a-/1321210230038256/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 The Day the Earth Stood Still (1951) - An alien named...The story follows an alien named Klaatu (played by Michael Rennie) who arrives...</p></details>
+   Link:<a href="https://www.facebook.com/MonsterFanClub333/posts/-the-day-the-earth-stood-still-1951-an-alien-named-klaatu-comes-to-earth-with-a-/1321210230038256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/-the-day-the-earth-stood-still-1951-an-alien-named-klaatu-comes-to-earth-with-a-/1321210230038256/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 The Day the Earth Stood Still (1951) - An alien named...The story follows an alien named Klaatu (played by Michael Rennie) who arrives...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0043456/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0043456/plotsummary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - PlotAn alien (Klaatu) with his mighty robot (Gort) land their spacecraft on Cold War-era Earth jus...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0043456/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0043456/plotsummary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - PlotAn alien (Klaatu) with his mighty robot (Gort) land their spacecraft on Cold War-era Earth jus...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yourstudent-gemini.fandom.com  
-   Link: <a href="https://yourstudent-gemini.fandom.com/wiki/The_Day_The_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://yourstudent-gemini.fandom.com/wiki/The_Day_The_Earth_Stood_Still</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Day The Earth Stood Still | YourStudent Gemini WikiIt follows Klaatu, an alien sent to try to change human behavior or eradicate them fro...</p></details>
+   Link:<a href="https://yourstudent-gemini.fandom.com/wiki/The_Day_The_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://yourstudent-gemini.fandom.com/wiki/The_Day_The_Earth_Stood_Still</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day The Earth Stood Still | YourStudent Gemini WikiIt follows Klaatu, an alien sent to try to change human behavior or eradicate them fro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: moviecrashcourse.com  
    Title: the day the earth stood still 1951  
-   Link: <a href="https://moviecrashcourse.com/2020/01/05/the-day-the-earth-stood-still-1951/" target="_blank" rel="noopener noreferrer nofollow">https://moviecrashcourse.com/2020/01/05/the-day-the-earth-stood-still-1951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day The Earth Stood Still (1951)5 Jan 2020 — Klaatu claims he&#x27;s coming in peace, but a twitchy soldier shoots him in the arm anyway...</p></details>
+   Link:<a href="https://moviecrashcourse.com/2020/01/05/the-day-the-earth-stood-still-1951/" target="_blank" rel="noopener noreferrer nofollow">https://moviecrashcourse.com/2020/01/05/the-day-the-earth-stood-still-1951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day The Earth Stood Still (1951)5 Jan 2020 — Klaatu claims he&#x27;s coming in peace, but a twitchy soldier shoots him in the arm anyway...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/Michael-Rennie" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Michael-Rennie</a>  
+   Link:<a href="https://www.britannica.com/biography/Michael-Rennie" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Michael-Rennie</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (film) | Film | Research StartersThe story follows Klaatu, a humanoid alien who arrives on Earth with a pow...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (film) | Film | Research StartersThe story follows Klaatu, a humanoid alien who arrives on Earth with a pow...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/day_the_earth_stood_still" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/day_the_earth_stood_still</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillLike, it&#x27;s only after seeing 3 individuals that the &quot;alien&quot; decides not to erase the human race? Man, milita...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/day_the_earth_stood_still" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/day_the_earth_stood_still</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillLike, it&#x27;s only after seeing 3 individuals that the &quot;alien&quot; decides not to erase the human race? Man, milita...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillWhen a UFO lands in Washington, D.C., bearing a message for Earth&#x27;s leaders, all of humanity stands still. K...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood StillWhen a UFO lands in Washington, D.C., bearing a message for Earth&#x27;s leaders, all of humanity stands still. K...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: trumanlibrary.gov  
-   Link: <a href="https://www.trumanlibrary.gov/library/public-papers/4/annual-message-congress-state-union" target="_blank" rel="noopener noreferrer nofollow">https://www.trumanlibrary.gov/library/public-papers/4/annual-message-congress-state-union</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No threat to the security of any nation is concealed in our plans and programs. We had hoped that...Read more...</p></details>
+   Link:<a href="https://www.trumanlibrary.gov/library/public-papers/4/annual-message-congress-state-union" target="_blank" rel="noopener noreferrer nofollow">https://www.trumanlibrary.gov/library/public-papers/4/annual-message-congress-state-union</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No threat to the security of any nation is concealed in our plans and programs. We had hoped that...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eisenhowerlibrary.gov  
-   Link: <a href="https://www.eisenhowerlibrary.gov/sites/default/files/file/1953_state_of_the_union.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/sites/default/files/file/1953_state_of_the_union.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While retaliatory power is one strong deterrent to a would-be aggressor...Read more...</p></details>
+   Link:<a href="https://www.eisenhowerlibrary.gov/sites/default/files/file/1953_state_of_the_union.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/sites/default/files/file/1953_state_of_the_union.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While retaliatory power is one strong deterrent to a would-be aggressor...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: in the 1951 sci fi masterpiece the day the earth stood still extraterrestrial am  
-   Link: <a href="https://www.facebook.com/MonsterFanClub333/posts/in-the-1951-sci-fi-masterpiece-the-day-the-earth-stood-still-extraterrestrial-am/1335065528652726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/in-the-1951-sci-fi-masterpiece-the-day-the-earth-stood-still-extraterrestrial-am/1335065528652726/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With his message delivered, Klaatu and Gort depart from Earth, leaving humanity to contemplate its future.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MonsterFanClub333/posts/in-the-1951-sci-fi-masterpiece-the-day-the-earth-stood-still-extraterrestrial-am/1335065528652726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/in-the-1951-sci-fi-masterpiece-the-day-the-earth-stood-still-extraterrestrial-am/1335065528652726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With his message delivered, Klaatu and Gort depart from Earth, leaving humanity to contemplate its future.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jfklibrary.org  
-   Link: <a href="https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/united-states-congress-special-message-19610525" target="_blank" rel="noopener noreferrer nofollow">https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/united-states-congress-special-message-19610525</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd regardless of which political or economic route they should choose to freedom.Read more...</p></details>
+   Link:<a href="https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/united-states-congress-special-message-19610525" target="_blank" rel="noopener noreferrer nofollow">https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/united-states-congress-special-message-19610525</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd regardless of which political or economic route they should choose to freedom.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: josmarlopes.wordpress.com  
    Title: the day the earth stood still 1951 a message for mankind  
-   Link: <a href="https://josmarlopes.wordpress.com/2017/01/14/the-day-the-earth-stood-still-1951-a-message-for-mankind/" target="_blank" rel="noopener noreferrer nofollow">https://josmarlopes.wordpress.com/2017/01/14/the-day-the-earth-stood-still-1951-a-message-for-mankind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com&#x27;The Day the Earth Stood Still&#x27; (1951): A Message for Mankind14 Jan 2017 — Klaatau (Michael Rennie) speaks: “We come in peac...</p></details>
+   Link:<a href="https://josmarlopes.wordpress.com/2017/01/14/the-day-the-earth-stood-still-1951-a-message-for-mankind/" target="_blank" rel="noopener noreferrer nofollow">https://josmarlopes.wordpress.com/2017/01/14/the-day-the-earth-stood-still-1951-a-message-for-mankind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com&#x27;The Day the Earth Stood Still&#x27; (1951): A Message for Mankind14 Jan 2017 — Klaatau (Michael Rennie) speaks: “We come in peac...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: filmmusiccentral.com  
-   Link: <a href="https://filmmusiccentral.com/2016/09/26/keep-watching-the-skies-blogathon-the-day-the-earth-stood-still-1951/" target="_blank" rel="noopener noreferrer nofollow">https://filmmusiccentral.com/2016/09/26/keep-watching-the-skies-blogathon-the-day-the-earth-stood-still-1951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep Watching the Skies Blogathon: The Day the Earth...Sep 26, 2016 — An alien, Klaatu (Michael Rennie), appears and announces he comes...</p></details>
+   Link:<a href="https://filmmusiccentral.com/2016/09/26/keep-watching-the-skies-blogathon-the-day-the-earth-stood-still-1951/" target="_blank" rel="noopener noreferrer nofollow">https://filmmusiccentral.com/2016/09/26/keep-watching-the-skies-blogathon-the-day-the-earth-stood-still-1951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keep Watching the Skies Blogathon: The Day the Earth...Sep 26, 2016 — An alien, Klaatu (Michael Rennie), appears and announces he comes...</p></details>

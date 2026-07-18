@@ -261,11 +261,11 @@ image: /assets/images/steven_spielberg_and_53b32f_uap_science_claims_c02b9e_aaro
 
 ### What the 2024 report counted
 
-AARO’s Fiscal Year 2024 consolidated report covered sightings reported between May 2023 and June 2024, along with older incidents that had not been included in previous reporting cycles. During that period, AARO received 757 reports. Of those, 485 described incidents that occurred during the reporting window, while 272 were older cases submitted later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — This report covers unidentified anom...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
+AARO’s Fiscal Year 2024 consolidated report covered sightings reported between May 2023 and June 2024, along with older incidents that had not been included in previous reporting cycles. During that period, AARO received 757 reports. Of those, 485 described incidents that occurred during the reporting window, while 272 were older cases submitted later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — This report covers unidentified anom...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_uap_science_claims_c02b9e_aaro_2024_prosaic_416178-Illustration-1-dark.svg" | relative_url }}" alt="AARO 2024 Prosaic illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_uap_science_claims_c02b9e_aaro_2024_prosaic_416178-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_uap_science_claims_c02b9e_aaro_2024_prosaic_416178-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The headline number attracted attention because hundreds of reports remained under review. However, the more revealing figure concerns the cases that investigators were able to close. AARO reported resolving 118 cases during the reporting period and stated that all of them were attributed to ordinary, non-anomalous causes. The office also identified many additional cases that appeared headed toward similar resolutions pending final review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span>
+The headline number attracted attention because hundreds of reports remained under review. However, the more revealing figure concerns the cases that investigators were able to close. AARO reported resolving 118 cases during the reporting period and stated that all of them were attributed to ordinary, non-anomalous causes. The office also identified many additional cases that appeared headed toward similar resolutions pending final review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span>
 
 This matters because raw counts of “unidentified” reports can create a misleading impression. A report enters the system because it is initially unexplained, not because it is evidence of something extraordinary. As further information arrives, many cases move from the unidentified category into familiar categories.
 
@@ -281,16 +281,16 @@ The 2024 report provides a practical illustration of how UAP investigations work
 * Weather and other balloons.
 * Birds observed under unusual viewing conditions.
 * Unmanned aerial systems (drones).
-* Satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
-* Conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> [2U.S.] Department of War
+* Satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
+* Conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> [2U.S.] Department of War
 
 </div>
 
-According to reporting based on the AARO data, balloons accounted for the largest share of resolved cases, with drones, birds and satellites making up much of the remainder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-ufo-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">pentagon ufo hotspots</span><span class="citation-popover-snippet">Sixteen percent were attributed to drones, 8% to birds, 4% to...Read more...</span></span></span>
+According to reporting based on the AARO data, balloons accounted for the largest share of resolved cases, with drones, birds and satellites making up much of the remainder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-ufo-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">pentagon ufo hotspots</span><span class="citation-popover-snippet">Sixteen percent were attributed to drones, 8% to birds, 4% to...Read more...</span></span></span>
 
-The mechanism behind these misidentifications is often mundane. A distant balloon viewed through atmospheric distortion can appear to hover impossibly. A bird crossing a sensor’s field of view may seem unusually fast when range information is missing. A drone seen at night can display unusual lighting patterns. Satellite constellations can create especially striking visual effects that many observers have never encountered before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The mechanism behind these misidentifications is often mundane. A distant balloon viewed through atmospheric distortion can appear to hover impossibly. A bird crossing a sensor’s field of view may seem unusually fast when range information is missing. A drone seen at night can display unusual lighting patterns. Satellite constellations can create especially striking visual effects that many observers have never encountered before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
-One notable trend highlighted in the 2024 reporting was the growing role of Starlink satellites. AARO noted an increasing number of reports associated with Starlink observations. Independent research has documented multiple cases in which pilots and observers initially interpreted satellite trains or bright satellite reflections as anomalous phenomena before reconstruction of orbital data showed a conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span>
+One notable trend highlighted in the 2024 reporting was the growing role of Starlink satellites. AARO noted an increasing number of reports associated with Starlink observations. Independent research has documented multiple cases in which pilots and observers initially interpreted satellite trains or bright satellite reflections as anomalous phenomena before reconstruction of orbital data showed a conventional explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span>
 
 The result is a recurring pattern: a report appears unusual at first glance, additional contextual information becomes available, and the mystery shrinks rather than grows.
 
@@ -301,13 +301,13 @@ The result is a recurring pattern: a report appears unusual at first glance, add
 
 A common misunderstanding is that unresolved cases represent positive evidence for alien visitation. The 2024 report argues for a different interpretation.
 
-AARO officials repeatedly emphasised that many unresolved reports lack sufficient scientific or sensor data. Some contain only brief eyewitness observations. Others have incomplete radar information, poor imagery, uncertain timing or missing contextual records. Without enough information, investigators cannot reliably determine what was observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</span></span></span>
+AARO officials repeatedly emphasised that many unresolved reports lack sufficient scientific or sensor data. Some contain only brief eyewitness observations. Others have incomplete radar information, poor imagery, uncertain timing or missing contextual records. Without enough information, investigators cannot reliably determine what was observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</span></span></span>
 
-In other words, “unresolved” often means “insufficient evidence”, not “evidence of something extraordinary”. The office stated that more than 900 reports in its broader holdings lacked enough scientific data for complete analysis and remained archived pending future information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
+In other words, “unresolved” often means “insufficient evidence”, not “evidence of something extraordinary”. The office stated that more than 900 reports in its broader holdings lacked enough scientific data for complete analysis and remained archived pending future information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
 
-The report also identified a much smaller subset of cases displaying characteristics that merited additional scrutiny. These were not presented as proof of non-human technology. Instead, they were flagged because available data did not yet support a confident explanation and warranted further investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span>
+The report also identified a much smaller subset of cases displaying characteristics that merited additional scrutiny. These were not presented as proof of non-human technology. Instead, they were flagged because available data did not yet support a confident explanation and warranted further investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span>
 
-AARO’s public release of some unresolved examples reinforces this point. In certain cases, the office explicitly stated that available video or sensor information was insufficient to render a determination. The unresolved status reflected analytical limits rather than confirmation of an extraordinary phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</span></span></span>
+AARO’s public release of some unresolved examples reinforces this point. In certain cases, the office explicitly stated that available video or sensor information was insufficient to render a determination. The unresolved status reflected analytical limits rather than confirmation of an extraordinary phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mpki2gtcHLY" title="UFO hearing live: Pentagon office testifies in Senate emerging threats committee amid UAP report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mpki2gtcHLY" target="_blank" rel="noopener noreferrer">UFO hearing live: Pentagon office testifies in Senate emerging threats committee amid UAP report</a></p><p class="youtube-embed-meta">Channel: Austin American-Statesman &middot; Views: 8.6K &middot; Uploaded: November 2024 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mpki2gtcHLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mpki2gtcHLY">Open on YouTube</a></p></div></div></div>
@@ -318,203 +318,203 @@ AARO’s public release of some unresolved examples reinforces this point. In ce
 
 Within the broader discussion of [UAP science]({{ 'uap-science/' | relative_url }}) versus alien visitation, the 2024 report offers a useful reality check. The strongest pattern in the data is not the discovery of exotic objects but the steady conversion of unexplained reports into ordinary explanations once investigators gain better context.
 
-AARO officials stated that the office has resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, while continuing to find no verified evidence of extraterrestrial beings, activity or technology. The report likewise found no confirmed evidence of breakthrough foreign aerospace capabilities in the cases reviewed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span> [3U.S.] Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</span></span></span>
+AARO officials stated that the office has resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, while continuing to find no verified evidence of extraterrestrial beings, activity or technology. The report likewise found no confirmed evidence of breakthrough foreign aerospace capabilities in the cases reviewed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</span></span></span> [3U.S.] Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</span></span></span>
 
-For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp contrast between dramatic narrative and scientific procedure. In films, unexplained lights often become a gateway to contact. In the 2024 UAP dataset, unexplained lights more often become balloons, birds, drones or satellites once enough information is gathered. The unresolved remainder remains scientifically interesting, but the report’s central statistical lesson is that mystery alone is not evidence of alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span>
+For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp contrast between dramatic narrative and scientific procedure. In films, unexplained lights often become a gateway to contact. In the 2024 UAP dataset, unexplained lights more often become balloons, birds, drones or satellites once enough information is gathered. The unresolved remainder remains scientifically interesting, but the report’s central statistical lesson is that mystery alone is not evidence of alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4EnWX_qflQM" title="UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 16.2K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4EnWX_qflQM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to AARO 2024 Prosaic. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to AARO 2024 Prosaic. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="aaro-2024-prosaic-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,171 +720,171 @@ For readers familiar with Steven Spielberg’s UFO stories, this marks a sharp c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — This report covers unidentified anom...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — This report covers unidentified anom...</p></details>
    Published: November 14, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — AARO received 757 UAP reports during this period; 4...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — AARO received 757 UAP reports during this period; 4...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</p></details>
+   Link:<a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — Today, Jon Kosloski, the AARO director, discussed the fiscal...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — Today, Jon Kosloski, the AARO director, discussed the fiscal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 to 30 April 2023, and all UAP reports from any previous time periods that...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 to 30 April 2023, and all UAP reports from any previous time periods that...Read more...</p></details>
    Published: April 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO&#x27;s review of Project BLUE BOOK cases shows a spike in reported UAP sightings from. 1952...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO&#x27;s review of Project BLUE BOOK cases shows a spike in reported UAP sightings from. 1952...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</p></details>
+   Link:<a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: universetoday.com  
    Title: pentagon ufo hotspots  
-   Link: <a href="https://www.universetoday.com/articles/pentagon-ufo-hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/pentagon-ufo-hotspots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sixteen percent were attributed to drones, 8% to birds, 4% to...Read more...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/pentagon-ufo-hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/pentagon-ufo-hotspots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sixteen percent were attributed to drones, 8% to birds, 4% to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</p></details>
+   Link:<a href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-018, Unresolved UAP Report, Europe 2024The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-018, Unresolved UAP Report, Europe 2024The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fox13seattle.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: <a href="https://www.fox13seattle.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13seattle.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of extraterrestrial tec...</p></details>
+   Link:<a href="https://www.fox13seattle.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13seattle.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of extraterrestrial tec...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: meritalk.com  
    Title: uap reports soar dod office receives 757 new sightings  
-   Link: <a href="https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reports Soar: DoD Office Receives 757 New Sightings15 Nov 2024 — “As of the publishing date of this report, all 174 cases have been f...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reports Soar: DoD Office Receives 757 New Sightings15 Nov 2024 — “As of the publishing date of this report, all 174 cases have been f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFO Hearing LIVE | US Government Confirms 21 Unexplained UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This live recording of the full Senate hearing features direct testimony from the director of the All-domain Anomaly Resolution Office re...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This live recording of the full Senate hearing features direct testimony from the director of the All-domain Anomaly Resolution Office re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cbsnews.com  
    Title: annual ufo report 21 cases need more analysis 2024  
-   Link: <a href="https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases of more than 700...Nov 14, 2024 — The office resolved 49 cases by identifying the object as various typ...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases of more than 700...Nov 14, 2024 — The office resolved 49 cases by identifying the object as various typ...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: stripes.com  
-   Link: <a href="https://www.stripes.com/theaters/us/2024-11-14/ufos-pentagon-aliens-15848893.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2024-11-14/ufos-pentagon-aliens-15848893.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence of aliens, but 21 cases need &#x27;further analysis...14 Nov 2024 — Those cases were found to be balloons, birds, satellites, air...</p></details>
+   Link:<a href="https://www.stripes.com/theaters/us/2024-11-14/ufos-pentagon-aliens-15848893.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2024-11-14/ufos-pentagon-aliens-15848893.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence of aliens, but 21 cases need &#x27;further analysis...14 Nov 2024 — Those cases were found to be balloons, birds, satellites, air...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the 21 anomalous cases are under further investigation.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the 21 anomalous cases are under further investigation.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — This report covers unidentified anomalous phenomena (UAP) reports from. May 1, 2023 to June 1...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — This report covers unidentified anomalous phenomena (UAP) reports from. May 1, 2023 to June 1...</p></details>
    Published: May 1, 2023  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgGovernments, civilian groups increase push for research and...Dec 1, 2024 — AARO said it received 757 new cases since the last r...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgGovernments, civilian groups increase push for research and...Dec 1, 2024 — AARO said it received 757 new cases since the last r...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: earthsky.org  
    Title: pentagon uap report aaro ufos  
-   Link: <a href="https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UAP report prompts Senate hearing today19 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resol...</p></details>
+   Link:<a href="https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UAP report prompts Senate hearing today19 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resol...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-disclosure/
 description: Focused pages that expand on Disclosure Day.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_disclosure_day_retur_842eb0
 parent_title: Disclosure Day
@@ -16,7 +16,7 @@ parent_permalink: /disclosure-day/
 
 # Explore Topics in Disclosure Day
 
-The following pages expand on the main **[Disclosure Day]({{ '/disclosure-day/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Disclosure Day]({{ '/disclosure-day/' | relative_url }})** page and cover its key branches in.
 
 - [Close Encounters Dis B68 C1 F]({{ '/close-encounters-dis-b68-c1-f/' | relative_url }})
 - [Daniel Kellner Whist 5746 F5]({{ '/daniel-kellner-whist-5746-f5/' | relative_url }})

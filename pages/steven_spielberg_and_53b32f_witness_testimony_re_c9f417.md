@@ -442,17 +442,17 @@ image: /assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-ov
 
 ## Introduction
 
-Steven Spielberg listened to UFO witnesses because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* needed to feel as if it had grown out of real reports, not just out of movie spectacle. His research did not turn the film into a documentary, and it did not ask viewers to accept every UFO claim as true. Instead, Spielberg treated testimony as dramatic raw material: pilots, air traffic controllers, housewives and ordinary observers gave him the language of hesitation, embarrassment, awe and obsession that became the film’s emotional centre. The result was a UFO film that feels grounded because it understands the human problem behind sightings: people see something they cannot explain, then have to decide whether to speak, doubt themselves, or risk being dismissed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Steven Spielberg listened to UFO witnesses because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* needed to feel as if it had grown out of real reports, not just out of movie spectacle. His research did not turn the film into a documentary, and it did not ask viewers to accept every UFO claim as true. Instead, Spielberg treated testimony as dramatic raw material: pilots, air traffic controllers, housewives and ordinary observers gave him the language of hesitation, embarrassment, awe and obsession that became the film’s emotional centre. The result was a UFO film that feels grounded because it understands the human problem behind sightings: people see something they cannot explain, then have to decide whether to speak, doubt themselves, or risk being dismissed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-overview.webp" | relative_url }}" alt="Overview image for Witnesses" loading="eager" decoding="sync" fetchpriority="high">
 ## Pilots, controllers and ordinary observers gave the film its credibility
 
-The most useful evidence for Spielberg’s witness research comes from contemporary production accounts. The American Film Institute’s production history records that a 13 November 1977 *Los Angeles Times* article said Spielberg interviewed “airline pilots, air traffic controllers, and housewives” while avoiding people he called “loonies”. The same AFI account notes that Spielberg relied heavily on J. Allen Hynek, the Northwestern University astronomer and UFO researcher who served as technical adviser on the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+The most useful evidence for Spielberg’s witness research comes from contemporary production accounts. The American Film Institute’s production history records that a 13 November 1977 *Los Angeles Times* article said Spielberg interviewed “airline pilots, air traffic controllers, and housewives” while avoiding people he called “loonies”. The same AFI account notes that Spielberg relied heavily on J. Allen Hynek, the Northwestern University astronomer and UFO researcher who served as technical adviser on the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That combination matters. Spielberg was not simply collecting strange anecdotes. He was listening across several kinds of witness: trained aviation professionals, people working inside reporting systems, and ordinary observers whose experiences were socially vulnerable because they lacked institutional authority. In *Close Encounters*, this becomes a layered witness world. The film moves from an air traffic control near-miss to [Roy Neary]({{ 'roy-neary/' | relative_url }})’s roadside encounter, Jillian Guiler’s domestic terror, scattered international reports and the scientific-government response at [Devils Tower]({{ 'devils-tower/' | relative_url }}).
 
-In a 1977 *Sight and Sound* interview, Spielberg described the film as a “compendium of research” rather than a story based on one incident. He said he had read widely, including clippings and wire-service reports, and had tried unsuccessfully to access Project Blue Book archives before they were declassified. More importantly for this subtopic, he said direct contact with people who had reported experiences was what made him interested in making the movie. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
+In a 1977 *Sight and Sound* interview, Spielberg described the film as a “compendium of research” rather than a story based on one incident. He said he had read widely, including clippings and wire-service reports, and had tried unsuccessfully to access Project Blue Book archives before they were declassified. More importantly for this subtopic, he said direct contact with people who had reported experiences was what made him interested in making the movie.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
 
 That explains why the film’s witness scenes often feel observational before they become spectacular. The air traffic controllers do not announce a cosmic revelation; they talk in professional fragments, asking what has been seen, whether a report should be filed, and how to handle an event that does not fit routine categories. Roy does not become a heroic truth-teller immediately; he becomes confused, burned, compulsive and socially isolated. Spielberg’s testimony-based research gave the film a behavioural realism: the drama lies not only in what appears in the sky, but in how people try to describe it without sounding foolish.
 
@@ -460,13 +460,13 @@ That explains why the film’s witness scenes often feel observational before th
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spielberg filtered belief rather than accepting every claim
 
-Spielberg’s witness research was unusually important because UFO culture depends heavily on testimony, but testimony is uneven evidence. A sighting may be sincere and still be mistaken. A witness may be trained and still lack enough data. A story may be emotionally compelling and still fail as proof. Spielberg seems to have understood that distinction early: he listened to people who claimed experiences, but he also drew a line around unreliable testimony. AFI’s account of his interviews explicitly says he avoided people he considered “loonies”, a blunt phrase that signals a selective process rather than indiscriminate belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Spielberg’s witness research was unusually important because UFO culture depends heavily on testimony, but testimony is uneven evidence. A sighting may be sincere and still be mistaken. A witness may be trained and still lack enough data. A story may be emotionally compelling and still fail as proof. Spielberg seems to have understood that distinction early: he listened to people who claimed experiences, but he also drew a line around unreliable testimony. AFI’s account of his interviews explicitly says he avoided people he considered “loonies”, a blunt phrase that signals a selective process rather than indiscriminate belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
-His *Sight and Sound* comments show the same filter in more nuanced terms. Spielberg said many night sightings were easy to explain because people rarely looked at the sky and were only “discovering” it. At the same time, he argued that some reports resisted conventional description. This is the central balance of *Close Encounters*: scepticism is present, but it does not erase wonder; belief is present, but it is not treated as a licence to accept every story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
+His *Sight and Sound* comments show the same filter in more nuanced terms. Spielberg said many night sightings were easy to explain because people rarely looked at the sky and were only “discovering” it. At the same time, he argued that some reports resisted conventional description. This is the central balance of *Close Encounters*: scepticism is present, but it does not erase wonder; belief is present, but it is not treated as a licence to accept every story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
 
-Hynek’s role sharpened that balance. AFI notes that Columbia bought rights connected to Hynek’s *The UFO Experience* and hired him as technical adviser after the film’s title drew from his classification system. Hynek’s “close encounter” language gave Spielberg a vocabulary that sounded investigative rather than purely fantastical. It also placed witness accounts into categories, which is exactly what the film does dramatically: lights in the sky, physical traces, encounters, and finally contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Hynek’s role sharpened that balance. AFI notes that Columbia bought rights connected to Hynek’s *The UFO Experience* and hired him as technical adviser after the film’s title drew from his classification system. Hynek’s “close encounter” language gave Spielberg a vocabulary that sounded investigative rather than purely fantastical. It also placed witness accounts into categories, which is exactly what the film does dramatically: lights in the sky, physical traces, encounters, and finally contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
-The broader history of Project Blue Book helps explain why this mattered. The U.S. Air Force and related investigative offices treated UFO reports partly as airspace and [Cold War]({{ 'cold-war/' | relative_url }}) security questions, not simply as alien stories. The Office of Special Investigations notes that Air Force agents documented and investigated UFO sightings from 1948 into the late 1960s, while National Archives material preserves the official record and later government handling of Blue Book-related files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[Office of Strategic Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</span></span></span> Spielberg borrowed the aura of that world — reports, [secrecy]({{ 'secrecy/' | relative_url }}), expert review, classified information — but he turned it into an emotional story about the witness’s burden.
+The broader history of Project Blue Book helps explain why this mattered. The U.S. Air Force and related investigative offices treated UFO reports partly as airspace and [Cold War]({{ 'cold-war/' | relative_url }}) security questions, not simply as alien stories. The Office of Special Investigations notes that Air Force agents documented and investigated UFO sightings from 1948 into the late 1960s, while National Archives material preserves the official record and later government handling of Blue Book-related files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[Office of Strategic Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</span></span></span> Spielberg borrowed the aura of that world — reports, [secrecy]({{ 'secrecy/' | relative_url }}), expert review, classified information — but he turned it into an emotional story about the witness’s burden.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CI-fYo3V94M" title="The UFO Experience: Evidence Behind Close… by J. Allen Hynek · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CI-fYo3V94M" target="_blank" rel="noopener noreferrer">The UFO Experience: Evidence Behind Close… by J. Allen Hynek · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 1.5K &middot; Uploaded: January 2024 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CI-fYo3V94M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CI-fYo3V94M">Open on YouTube</a></p></div></div></div>
@@ -475,21 +475,21 @@ The broader history of Project Blue Book helps explain why this mattered. The U.
 
 The air traffic control sequence is the clearest example of witness testimony shaping the film’s texture. Its power comes from restraint. Pilots and controllers perceive something dangerous and abnormal, but the scene is built around hesitation: what exactly did they see, can it be reported, and what will happen if they do report it?
 
-Aviation-safety commentator Todd Curtis, revisiting the sequence for Flight Safety Detectives, argues that the scene captures real-world reporting pressures faced by pilots and controllers in the 1970s. His analysis stresses that the pilots and controllers in the scene hesitate even after a close call, and that the drama comes from professionals trying to stay composed while confronting something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-snippet">Flight Safety DetectivesWhat Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317 - Flight Safety Detectives...</span></span></span>
+Aviation-safety commentator Todd Curtis, revisiting the sequence for Flight Safety Detectives, argues that the scene captures real-world reporting pressures faced by pilots and controllers in the 1970s. His analysis stresses that the pilots and controllers in the scene hesitate even after a close call, and that the drama comes from professionals trying to stay composed while confronting something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-snippet">Flight Safety DetectivesWhat Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317 - Flight Safety Detectives...</span></span></span>
 
 That is precisely where Spielberg’s research pays off. A less grounded UFO film might cut quickly from sighting to panic, military response or alien reveal. *Close Encounters* lingers on procedure. It lets the audience hear uncertainty in real time. The witnesses are not fools; they are competent people trying to preserve professional language when their experience has outrun their categories.
 
-Modern UAP reporting debates make this scene feel less dated than it might otherwise seem. NASA’s UAP study page defines UAP as observations that cannot be identified as aircraft or known natural phenomena and frames the question around better data collection and scientific analysis. AARO, the U.S. government’s All-domain Anomaly Resolution Office, has likewise emphasised improved reporting, reduced stigma and scientific triage, while also stating that it has found no verifiable evidence of extraterrestrial beings, activity or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA Science...</span></span></span> That modern context reinforces what Spielberg intuited dramatically: witness testimony is valuable as a starting point, but it becomes most useful when systems can capture it without ridicule and test it against better data.
+Modern UAP reporting debates make this scene feel less dated than it might otherwise seem. NASA’s UAP study page defines UAP as observations that cannot be identified as aircraft or known natural phenomena and frames the question around better data collection and scientific analysis. AARO, the U.S. government’s All-domain Anomaly Resolution Office, has likewise emphasised improved reporting, reduced stigma and scientific triage, while also stating that it has found no verifiable evidence of extraterrestrial beings, activity or technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA Science...</span></span></span> That modern context reinforces what Spielberg intuited dramatically: witness testimony is valuable as a starting point, but it becomes most useful when systems can capture it without ridicule and test it against better data.
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary witnesses made the film emotionally persuasive
 
-The film’s ordinary witnesses are just as important as its aviation professionals. Roy Neary is not a pilot, soldier or scientist. Jillian Guiler is not a government insider. Their [credibility]({{ 'credibility/' | relative_url }}) comes from the ordinariness of their lives, which makes the sighting disruptive rather than glamorous. Spielberg’s interest in “housewives” and everyday observers matters because it shifts UFO testimony from a specialist subculture into domestic life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+The film’s ordinary witnesses are just as important as its aviation professionals. Roy Neary is not a pilot, soldier or scientist. Jillian Guiler is not a government insider. Their [credibility]({{ 'credibility/' | relative_url }}) comes from the ordinariness of their lives, which makes the sighting disruptive rather than glamorous. Spielberg’s interest in “housewives” and everyday observers matters because it shifts UFO testimony from a specialist subculture into domestic life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That choice gives *Close Encounters* its emotional seriousness. Roy’s testimony is not presented as a neat statement of facts. It is a psychological event that he cannot integrate into ordinary family language. His sunburn, drawings, compulsive model-making and repeated attempts to describe what he has seen show testimony before it becomes coherent. He does not simply report a UFO; he tries to translate an experience that has changed his sense of reality.
 
-Spielberg’s 1977 interview makes clear that he was interested in why people look to the skies and want to believe, not only in whether a given report proves anything. He described himself as agnostic between science fact and science fiction, calling the film “science speculation”. That stance allowed him to dramatise testimony without pretending that witness accounts alone settle the UFO question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
+Spielberg’s 1977 interview makes clear that he was interested in why people look to the skies and want to believe, not only in whether a given report proves anything. He described himself as agnostic between science fact and science fiction, calling the film “science speculation”. That stance allowed him to dramatise testimony without pretending that witness accounts alone settle the UFO question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span></span></span>
 
 This is why the film does not feel like a lecture by believers. It feels like a study of people pushed beyond ordinary explanation. The witnesses are frightened, embarrassed, obsessed, sometimes mistaken, but not disposable. Their accounts are treated as human evidence: incomplete, emotionally charged, sometimes unreliable, but still worthy of attention.
 
@@ -505,7 +505,7 @@ The crucial distinction is that Spielberg used testimony to make fiction feel gr
 
 That difference matters because the film’s testimony-based realism can be easy to misread. The presence of pilots, controllers and Hynek-style classification does not mean the film is a documentary argument. It means Spielberg wanted the audience to recognise the social world of UFO reporting: official secrecy, witness embarrassment, partial data, expert scepticism and the stubborn feeling that some experiences remain unresolved.
 
-Ray Morton, author of a making-of book on the film, has argued that *Close Encounters* was revolutionary partly because it presented first contact as potentially peaceful and uplifting rather than as invasion or horror. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemaretro.com">[Cinema Retro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemaretro.com</span><span class="citation-popover-snippet">Cinema RetroREMEMBERING &quot;CLOSE ENCOUNTERS&quot;: AN INTERVIEW WITH &quot;MAKING OF&quot; AUTHOR RAY MORTON - Cinema Retro...</span></span></span> Witness testimony helped make that tonal shift possible. The film begins not with conquest, but with people trying to tell others what they have seen. By taking those people seriously without making every claim equally credible, Spielberg found a middle path between debunking and credulity.
+Ray Morton, author of a making-of book on the film, has argued that *Close Encounters* was revolutionary partly because it presented first contact as potentially peaceful and uplifting rather than as invasion or horror.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemaretro.com">[Cinema Retro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemaretro.com</span><span class="citation-popover-snippet">Cinema RetroREMEMBERING &quot;CLOSE ENCOUNTERS&quot;: AN INTERVIEW WITH &quot;MAKING OF&quot; AUTHOR RAY MORTON - Cinema Retro...</span></span></span> Witness testimony helped make that tonal shift possible. The film begins not with conquest, but with people trying to tell others what they have seen. By taking those people seriously without making every claim equally credible, Spielberg found a middle path between debunking and credulity.
 
 That is the lasting value of the witness research behind *Close Encounters*. It gave the film its pauses, its stammers, its procedural chatter, its suburban anxiety and its sense that wonder often begins as a difficult report. Spielberg listened to witnesses because the UFO phenomenon, as culture and as drama, is not only about objects in the sky. It is about the fragile moment when someone says, “I saw something,” and waits to learn whether anyone will believe them.
 
@@ -513,194 +513,194 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_testimony_re_c9f417-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Spielberg Listened to UFO Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Spielberg Listened to UFO Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly concerns how witness reports can be sorted, assessed and described.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly concerns how witness reports can be sorted, assessed and described.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Places witness testimony inside the larger history of official UFO investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places witness testimony inside the larger history of official UFO investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Covers the film&#x27;s production context and its grounding in UFO witness culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the film&#x27;s production context and its grounding in UFO witness culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how early official investigations handled reports, witnesses and credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how early official investigations handled reports, witnesses and credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="witnesses-why-spielberg-listened-to-ufo-witnesses-steven-spielberg-and-ufos-ufo-patch-gerry-anderson-band-concert-cd-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -716,7 +716,7 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -736,7 +736,7 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -768,7 +768,7 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -820,7 +820,7 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -865,7 +865,7 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -906,145 +906,145 @@ That is the lasting value of the witness research behind *Close Encounters*. It 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: osi.af.mil  
    Title: Office of Strategic Intelligence  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA Science...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesWhat Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317 - Flight Safety Detectives...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesWhat Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317 - Flight Safety Detectives...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cinemaretro.com  
-   Link: <a href="https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=" target="_blank" rel="noopener noreferrer nofollow">https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema RetroREMEMBERING &quot;CLOSE ENCOUNTERS&quot;: AN INTERVIEW WITH &quot;MAKING OF&quot; AUTHOR RAY MORTON - Cinema Retro...</p></details>
+   Link:<a href="https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=" target="_blank" rel="noopener noreferrer nofollow">https://cinemaretro.com/index.php?%2Farchives%2F10383-REMEMBERING-CLOSE-ENCOUNTERS-AN-INTERVIEW-WITH-MAKING-OF-AUTHOR-RAY-MORTON.html=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema RetroREMEMBERING &quot;CLOSE ENCOUNTERS&quot;: AN INTERVIEW WITH &quot;MAKING OF&quot; AUTHOR RAY MORTON - Cinema Retro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: the-jh-movie-collection-official.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: This Man Sparked Spielberg's Interest in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and says aliens &quot;have been here and they are here&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and says aliens &quot;have been here and they are here&quot;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sfcrowsnest.info  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/-/zh_TW/Ray-Morton/dp/B013IL7E6A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/-/zh_TW/Ray-Morton/dp/B013IL7E6A</a>  
+   Link:<a href="https://www.amazon.com/-/zh_TW/Ray-Morton/dp/B013IL7E6A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/-/zh_TW/Ray-Morton/dp/B013IL7E6A</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: amazon.sa  
-   Link: <a href="https://www.amazon.sa/-/en/Close-Encounters-Man-World-Believe/dp/0062484176" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.sa/-/en/Close-Encounters-Man-World-Believe/dp/0062484176</a>  
+   Link:<a href="https://www.amazon.sa/-/en/Close-Encounters-Man-World-Believe/dp/0062484176" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.sa/-/en/Close-Encounters-Man-World-Believe/dp/0062484176</a>  

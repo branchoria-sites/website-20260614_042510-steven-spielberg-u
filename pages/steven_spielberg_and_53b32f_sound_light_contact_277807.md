@@ -452,23 +452,23 @@ The clearest example is *[Close Encounters]({{ 'close-encounters/' | relative_ur
 
 Spielberg often uses light as the first proof that the ordinary world has been breached. In *Close Encounters*, the UFO is not introduced mainly through exposition or alien design. It arrives as illumination: headlights that behave wrongly, orange radiance pouring through a domestic doorway, aircraft-like points of light that move with impossible intelligence, and finally the vast illuminated body of the mothership. The effect is to make contact feel immediate before it becomes intelligible.
 
-That strategy is built into the film’s production history. The Smithsonian’s National Air and Space Museum identifies the original mothership model as a practical filming object conceived by Spielberg and built by a team led by Gregory Jein; when filmed with special photographic and lighting effects, it appeared as a huge hovering craft, with rotating coloured lights underneath adding to the illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Rotating, colored lights underneath the ship added</span><span class="citation-popover-snippet">Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...When filmed with special photographic and lighting eff...</span></span></span> The important point is not only that the model looked large. It looked communicative. The ship’s surface seems to glitter, pulse and answer, turning a machine into a presence.
+That strategy is built into the film’s production history. The Smithsonian’s National Air and Space Museum identifies the original mothership model as a practical filming object conceived by Spielberg and built by a team led by Gregory Jein; when filmed with special photographic and lighting effects, it appeared as a huge hovering craft, with rotating coloured lights underneath adding to the illusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Rotating, colored lights underneath the ship added</span><span class="citation-popover-snippet">Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...When filmed with special photographic and lighting eff...</span></span></span> The important point is not only that the model looked large. It looked communicative. The ship’s surface seems to glitter, pulse and answer, turning a machine into a presence.
 
 This is why the famous landing sequence feels unlike a conventional reveal. Spielberg does not simply show the alien craft and then explain what it is. He lets it behave like an event too large for one sense to master. Light moves across the human observers, the control station and the landscape; the characters become visibly small inside a field of colour and brightness. The spectacle is overwhelming, but it is not empty spectacle. It tells the audience that contact is already happening, even before anyone knows the rules.
 
-The earlier home-invasion scene with Barry Guiler and Jillian Guiler works by the same principle on a smaller scale. The light entering the house is beautiful and frightening at once. It is not yet language, but it has intention: it searches, summons and transforms the familiar room into a threshold. Spielberg later chose the image of Barry opening the door to the blazing UFO light as a defining image of his career, and the scene captures the doubleness at the centre of his UFO imagination: contact can feel like wonder and threat in the same instant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+The earlier home-invasion scene with Barry Guiler and Jillian Guiler works by the same principle on a smaller scale. The light entering the house is beautiful and frightening at once. It is not yet language, but it has intention: it searches, summons and transforms the familiar room into a threshold. Spielberg later chose the image of Barry opening the door to the blazing UFO light as a defining image of his career, and the scene captures the doubleness at the centre of his UFO imagination: contact can feel like wonder and threat in the same instant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807-Illustration-1-dark.svg" | relative_url }}" alt="Sound Light illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_sound_light_contact_277807-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sound Becomes a Shared Language
 
-If light makes the alien presence visible, sound gives humans a way to answer it. *Close Encounters* is built around one of cinema’s most famous communication devices: John Williams’s five-note phrase. The American Film Institute notes the film’s close relation to UFO culture through J. Allen Hynek’s “close encounters” terminology and his role as technical adviser, but Spielberg’s final act moves beyond case-file realism into an invented ritual of contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">J. Allen Hynek, who created the hierarchy of alien encounters. John...</span></span></span>
+If light makes the alien presence visible, sound gives humans a way to answer it. *Close Encounters* is built around one of cinema’s most famous communication devices: John Williams’s five-note phrase. The American Film Institute notes the film’s close relation to UFO culture through J. Allen Hynek’s “close encounters” terminology and his role as technical adviser, but Spielberg’s final act moves beyond case-file realism into an invented ritual of contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">J. Allen Hynek, who created the hierarchy of alien encounters. John...</span></span></span>
 
-The phrase works because it is neither a full melody nor a random signal. Sources differ slightly on the number of versions Williams explored, but accounts consistently stress that Spielberg and Williams treated the motif as a carefully chosen communicative fragment rather than merely a theme tune. A later AFI Silver screening note describes François Truffaut’s character as leading the effort to communicate with the aliens and points to Williams’s Oscar-nominated score with its five-note motif as central to that effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: silver.afi.com">[afi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">silver.afi.com</span><span class="citation-popover-snippet">John Williams&#x27; Oscar®-nominated score, featuring the “five...</span></span></span> Silver Theatre and Cultural Center A Santa Barbara International Film Festival note gives the phrase as D-E-C-C-G and explicitly describes it as a form of communication in the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind16 Apr 2020 — The famous five note theme (D-E-C-C-G) used, functions as a form of communication in...</span></span></span>
+The phrase works because it is neither a full melody nor a random signal. Sources differ slightly on the number of versions Williams explored, but accounts consistently stress that Spielberg and Williams treated the motif as a carefully chosen communicative fragment rather than merely a theme tune. A later AFI Silver screening note describes François Truffaut’s character as leading the effort to communicate with the aliens and points to Williams’s Oscar-nominated score with its five-note motif as central to that effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: silver.afi.com">[afi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">silver.afi.com</span><span class="citation-popover-snippet">John Williams&#x27; Oscar®-nominated score, featuring the “five...</span></span></span> Silver Theatre and Cultural Center A Santa Barbara International Film Festival note gives the phrase as D-E-C-C-G and explicitly describes it as a form of communication in the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind16 Apr 2020 — The famous five note theme (D-E-C-C-G) used, functions as a form of communication in...</span></span></span>
 
 The brilliance of the sequence is that the sound is public. It is not a private telepathic message or a secret code whispered to one chosen hero. Technicians, scientists, soldiers, [witnesses]({{ 'witnesses/' | relative_url }}) and the audience all hear the same phrase and wait for the same response. Spielberg turns communication into a shared performance. The humans play, the ship answers, the exchange grows more complex, and the boundary between music, mathematics and greeting begins to dissolve.
 
-The sound design deepens that effect. Frank E. Warner won the Academy’s Special Achievement Award for sound effects editing on *Close Encounters*, and the Academy’s own record lists that award alongside the film’s cinematography win and other nominations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oscars.org/oscars/ceremonies/1978/J" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oscars.org">[Oscars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oscars.org</span><span class="citation-popover-snippet">1978 Academy Awards3 Apr 1978 — Special Award. Special Achievement Award (Sound Effects Editing). Winner. Close Encounters of the T...</span></span></span> Warner later explained that the mothership sound was built from dozens of altered sources, including slowed and reversed machinery, vehicles, insects, metal, wood and aircraft, treated so their origins disappeared into the impression of a “big, heavy, living but harmless mass”. [-] That phrase is almost a perfect description of Spielberg’s sonic alien: powerful enough to dwarf humanity, but shaped so it does not read simply as a monster.
+The sound design deepens that effect. Frank E. Warner won the Academy’s Special Achievement Award for sound effects editing on *Close Encounters*, and the Academy’s own record lists that award alongside the film’s cinematography win and other nominations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oscars.org/oscars/ceremonies/1978/J" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oscars.org">[Oscars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oscars.org</span><span class="citation-popover-snippet">1978 Academy Awards3 Apr 1978 — Special Award. Special Achievement Award (Sound Effects Editing). Winner. Close Encounters of the T...</span></span></span> Warner later explained that the mothership sound was built from dozens of altered sources, including slowed and reversed machinery, vehicles, insects, metal, wood and aircraft, treated so their origins disappeared into the impression of a “big, heavy, living but harmless mass”. [-] That phrase is almost a perfect description of Spielberg’s sonic alien: powerful enough to dwarf humanity, but shaped so it does not read simply as a monster.
 
 The result is contact as call-and-response. The [five notes]({{ 'five-notes/' | relative_url }}) are simple enough for a child to remember, but the surrounding soundscape makes them feel embedded in something vast. Human beings do not conquer the unknown by decoding every layer of it. They make one recognisable gesture, then listen.
 
@@ -481,7 +481,7 @@ Spielberg’s sound-and-light mechanism matters because it bypasses ordinary exp
 
 Sound and light are ideal for this kind of storytelling because they can be meaningful without being paraphrasable. A sentence can be challenged, denied or translated. A tone can haunt. A light can leave a mark. Spielberg uses that ambiguity to respect the mystery of contact while still making it cinematically concrete.
 
-This is also why the climactic language in *Close Encounters* is not English. It is a coordinated system of tones, lights and hand signs, performed at scale. The film’s plot describes scientists using light and sound on a large display to communicate with the UFOs, and the final exchange includes hand signs corresponding to the five-note phrase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind (soundtrack</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (soundtrack</span></span></span> The human response is technological, musical and bodily at once. Contact is not reduced to a single channel.
+This is also why the climactic language in *Close Encounters* is not English. It is a coordinated system of tones, lights and hand signs, performed at scale. The film’s plot describes scientists using light and sound on a large display to communicate with the UFOs, and the final exchange includes hand signs corresponding to the five-note phrase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind (soundtrack</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (soundtrack</span></span></span> The human response is technological, musical and bodily at once. Contact is not reduced to a single channel.
 
 That layered approach also helps explain the film’s unusual emotional tone. The sensory assault at Devils Tower could easily have become military panic or horror. Instead, Spielberg stages it as awe disciplined into attention. People look up, listen, wait, repeat, adjust. The unknown is not made safe, exactly, but it becomes approachable because it behaves rhythmically. Pattern is the first sign of trust.
 
@@ -491,11 +491,11 @@ That layered approach also helps explain the film’s unusual emotional tone. Th
 
 *E.T. the Extra-Terrestrial* scales the same mechanism down from the monumental to the domestic. Where *Close Encounters* imagines contact as a public encounter between humanity and a visiting intelligence, *E.T.* imagines contact as friendship between a child and a stranded being. Yet sound and light remain central.
 
-The glowing heart is the film’s most obvious visual sign of alien feeling. It makes emotion visible without making E.T. fully human. The light does not work like a facial expression, and it does not need dialogue. It tells Elliott, and the audience, that this creature’s inner life is real. In the film’s opening, when the aliens call to E.T., one musicological analysis of Williams’s score notes that his heart-light activates and emits the sound of a perfect fifth, binding glow and tone into the same contact signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-snippet">Open source on jwfan.com.</span></span></span>
+The glowing heart is the film’s most obvious visual sign of alien feeling. It makes emotion visible without making E.T. fully human. The light does not work like a facial expression, and it does not need dialogue. It tells Elliott, and the audience, that this creature’s inner life is real. In the film’s opening, when the aliens call to E.T., one musicological analysis of Williams’s score notes that his heart-light activates and emits the sound of a perfect fifth, binding glow and tone into the same contact signal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-snippet">Open source on jwfan.com.</span></span></span>
 
 That combination changes the meaning of alien otherness. In *Close Encounters*, humans build a large apparatus to answer the mothership. In *E.T.*, the alien builds a homemade communicator out of everyday materials so he can “phone home”. The scale is comic and childlike, but the principle is related: contact requires a signal, a receiver and faith that someone will answer.
 
-Williams’s music again carries much of the emotional burden. Commentators on the *E.T.* score have described the alien material as mysterious, ambient and gentle rather than aggressive, with unusual timbres helping to mark E.T. as otherworldly while preserving sympathy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/07/30/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">MOVIE MUSIC UKE.T. THE EXTRA-TERRESTRIAL – John Williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKE.T. THE EXTRA-TERRESTRIAL – John Williams</span></span></span> The film’s contact scenes therefore do not ask viewers to choose between strangeness and tenderness. They insist that the two can coexist.
+Williams’s music again carries much of the emotional burden. Commentators on the *E.T.* score have described the alien material as mysterious, ambient and gentle rather than aggressive, with unusual timbres helping to mark E.T. as otherworldly while preserving sympathy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/07/30/[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">MOVIE MUSIC UKE.T. THE EXTRA-TERRESTRIAL – John Williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKE.T. THE EXTRA-TERRESTRIAL – John Williams</span></span></span> The film’s contact scenes therefore do not ask viewers to choose between strangeness and tenderness. They insist that the two can coexist.
 
 The famous finger-touch image extends the same logic. Light appears at the point of connection, making communication tactile. Spielberg’s alien does not need to explain the mechanics of healing, empathy or memory. The glow makes the bond legible.
 
@@ -508,7 +508,7 @@ The temptation with Spielberg’s UFO imagery is to treat it as optimism pure an
 
 In *Close Encounters*, the same lights that inspire wonder also abduct Barry and destabilise Roy’s life. The same tones that become a greeting first arrive as a mystery that experts cannot immediately interpret. The same government apparatus that enables communication also hides the event from the public. Spielberg’s sound and light do not erase ambiguity; they make ambiguity bearable enough to approach.
 
-That is why the film does not feel like a lecture about extraterrestrial intelligence, even though it borrows the mood of investigation. Real SETI work, as the Planetary Society explains, searches for signs of technological activity such as radio transmissions and optical signals, on the assumption that other civilisations may use physical principles humans also use for communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/sci-tech/seti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s version is not a realistic SETI protocol. It is a cinematic compression of the same imaginative idea: if contact happens, it may begin as a detectable pattern in light or sound before it becomes a conversation.
+That is why the film does not feel like a lecture about extraterrestrial intelligence, even though it borrows the mood of investigation. Real SETI work, as the Planetary Society explains, searches for signs of technological activity such as radio transmissions and optical signals, on the assumption that other civilisations may use physical principles humans also use for communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/sci-tech/seti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s version is not a realistic SETI protocol. It is a cinematic compression of the same imaginative idea: if contact happens, it may begin as a detectable pattern in light or sound before it becomes a conversation.
 
 This distinction is important. The five-note phrase is not persuasive because it is scientifically likely as an interstellar language. It is persuasive because it dramatises mutual recognition. The humans and aliens do not yet share culture, biology or speech, but they can share pattern. Spielberg makes that enough for a first step.
 
@@ -529,194 +529,194 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Spielberg&#x27;s Contact Glows and Sings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Spielberg&#x27;s Contact Glows and Sings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Directly covers the Spielberg film where sound and light become the language of alien contact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Spielberg film where sound and light become the language of alien contact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places Close Encounters&#x27; luminous contact scenes within Spielberg&#x27;s larger visual and emotional style.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Close Encounters&#x27; luminous contact scenes within Spielberg&#x27;s larger visual and emotional style.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Film Music of John Williams on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Film Music of John Williams">Film Music of John Williams</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Film Music of John Williams on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Film Music of John Williams">Film Music of John Williams</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains Williams&#x27;s motif-based storytelling, crucial to the five-note contact language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Williams&#x27;s motif-based storytelling, crucial to the five-note contact language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Williams on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Williams">John Williams</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Williams on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Williams">John Williams</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s focus on how sound creates emotional and narrative meaning in Spielberg&#x27;s cinema.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s focus on how sound creates emotional and narrative meaning in Spielberg&#x27;s cinema.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Film Music of John Williams</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Film+Music+of+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Film Music of John Williams</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e862f55e5ae3993c40f2.jpg' | relative_url }}" alt="Listing image for John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e862f55e5ae3993c40f2.jpg' | relative_url }}" alt="Listing image for John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Simpson v DAZZO WILLIAMS Signed Boxing Photo Boxing Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/72f37678d666455ade86.jpg' | relative_url }}" alt="Listing image for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia"><img src="{{ '/assets/images/marketplace-covers/72f37678d666455ade86.jpg' | relative_url }}" alt="Listing image for DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">DAZZO WILLIAMS v John Simpson Signed Boxing Photo Boxing Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e67dc3e5386e8072caf4.jpg' | relative_url }}" alt="Listing image for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e67dc3e5386e8072caf4.jpg' | relative_url }}" alt="Listing image for John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">John Williams Hollywood Bowl 40th Anniversary Poster 18x24 Star Wars Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980"><img src="{{ '/assets/images/marketplace-covers/81292578ec8604be485e.jpg' | relative_url }}" alt="Listing image for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980"><img src="{{ '/assets/images/marketplace-covers/81292578ec8604be485e.jpg' | relative_url }}" alt="Listing image for Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Sky Band Tour Programme ft. John Williams Vintage Music Memorabilia 1980</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for John Williams memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: John Williams memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=John+Williams+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="John Williams memorabilia -book -books" data-ebay-reference="sound-light-why-spielberg-s-contact-glows-and-sings-steven-spielberg-and-ufos-john-williams-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -732,7 +732,7 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -752,7 +752,7 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -784,7 +784,7 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -836,7 +836,7 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -881,7 +881,7 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -922,195 +922,195 @@ That is why his contact scenes glow and sing. Light gives the alien arrival weig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catalog.afi.com  
    Title: 67160 CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek, who created the hierarchy of alien encounters. John...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek, who created the hierarchy of alien encounters. John...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Oscar®-nominated score, featuring the “five...</p></details>
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Oscar®-nominated score, featuring the “five...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind16 Apr 2020 — The famous five note theme (D-E-C-C-G) used, functions as a form of communication in...</p></details>
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind16 Apr 2020 — The famous five note theme (D-E-C-C-G) used, functions as a form of communication in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oscars.org  
-   Link: <a href="https://www.oscars.org/oscars/ceremonies/1978/J" target="_blank" rel="noopener noreferrer nofollow">https://www.oscars.org/oscars/ceremonies/1978/J</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1978 Academy Awards3 Apr 1978 — Special Award. Special Achievement Award (Sound Effects Editing). Winner. Close Encounters of the T...</p></details>
+   Link:<a href="https://www.oscars.org/oscars/ceremonies/1978/J" target="_blank" rel="noopener noreferrer nofollow">https://www.oscars.org/oscars/ceremonies/1978/J</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1978 Academy Awards3 Apr 1978 — Special Award. Special Achievement Award (Sound Effects Editing). Winner. Close Encounters of the T...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jwfan.com  
-   Link: <a href="https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf</a>  
+   Link:<a href="https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/wp-content/uploads/2021/08/John-Williams-and-His-Music-For-ET.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: planetary.org  
-   Link: <a href="https://www.planetary.org/sci-tech/seti" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/sci-tech/seti</a>  
+   Link:<a href="https://www.planetary.org/sci-tech/seti" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/sci-tech/seti</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/</a>  
+   Link:<a href="https://www.seti.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/research/seti-101/seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/seti-research/</a>  
+   Link:<a href="https://www.seti.org/research/seti-101/seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/seti-research/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind (soundtrack)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: E.T. the Extra Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Frank Warner (sound editor)  
-   Link: <a href="https://en.wikipedia.org/wiki/Frank_Warner_%28sound_editor%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frank_Warner_%28sound_editor%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frank_Warner_%28sound_editor%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frank_Warner_%28sound_editor%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Search for extraterrestrial intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Communication with extraterrestrial intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaspeechesdb.oscars.org  
-   Link: <a href="https://aaspeechesdb.oscars.org/link/050-24/" target="_blank" rel="noopener noreferrer nofollow">https://aaspeechesdb.oscars.org/link/050-24/</a>  
+   Link:<a href="https://aaspeechesdb.oscars.org/link/050-24/" target="_blank" rel="noopener noreferrer nofollow">https://aaspeechesdb.oscars.org/link/050-24/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jwfan.com  
    Title: close encounters of the third kind 1977 album reviews expanded edition  
-   Link: <a href="https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/" target="_blank" rel="noopener noreferrer nofollow">https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/</a>  
+   Link:<a href="https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/" target="_blank" rel="noopener noreferrer nofollow">https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind (6/8) Movie CLIP  
-   Link: <a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4PYI6TzqYk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Five Tones...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4PYI6TzqYk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Five Tones...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Steven Spielberg  
-   Link: <a href="https://www.youtube.com/watch?v=wZj7gUIO-2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZj7gUIO-2k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wZj7gUIO-2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZj7gUIO-2k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Communicating with music  
-   Link: <a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Communication with the Mothership (Final Scene) (HD) (Best Quality)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=OEloAotHhKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OEloAotHhKM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Third Kind (7/8) Movie CLIP - The Mothership Opens (1977) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OEloAotHhKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OEloAotHhKM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Third Kind (7/8) Movie CLIP - The Mothership Opens (1977) HD...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: si.edu  
    Title: Rotating, colored lights underneath the ship added  
-   Link: <a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...When filmed with special photographic and lighting eff...</p></details>
+   Link:<a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian InstitutionModel, Spacecraft, Mother Ship, Movie, &quot;Close Encounters...When filmed with special photographic and lighting eff...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: moviemusicuk.us  
    Title: MOVIE MUSIC UKE.T. THE EXTRA-TERRESTRIAL – John Williams  
-   Link: <a href="https://moviemusicuk.us/2018/07/30/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/07/30/[e-t</a>  
+   Link:<a href="https://moviemusicuk.us/2018/07/30/[e-t" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/07/30/[e-t</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: moviemusicuk.us  
    Title: close encounters of the third kind john williams  
-   Link: <a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
+   Link:<a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: The Academy  
-   Link: <a href="https://www.facebook.com/TheAcademy/photos/frank-warner-recipient-special-achievement-award-sound-effects-editing-close-enc/10152178426251406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAcademy/photos/frank-warner-recipient-special-achievement-award-sound-effects-editing-close-enc/10152178426251406/</a>  
+   Link:<a href="https://www.facebook.com/TheAcademy/photos/frank-warner-recipient-special-achievement-award-sound-effects-editing-close-enc/10152178426251406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAcademy/photos/frank-warner-recipient-special-achievement-award-sound-effects-editing-close-enc/10152178426251406/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: midnightoilstudios.org  
    Title: close encounters  
-   Link: <a href="https://midnightoilstudios.org/2018/04/16/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://midnightoilstudios.org/2018/04/16/close-encounters/</a>  
+   Link:<a href="https://midnightoilstudios.org/2018/04/16/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://midnightoilstudios.org/2018/04/16/close-encounters/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: johnloomis.org  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
+   Link:<a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind (7/8) Movie CLIP  
-   Link: <a href="https://www.youtube.com/watch?v=5VshS_wU0_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5VshS_wU0_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind tones light mothership scene Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Fi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5VshS_wU0_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5VshS_wU0_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind tones light mothership scene Steven Spielberg - Close Encounters of the Third Kind, 1977 - Play The Fi...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cinemontage.org  
    Title: Frank Warner  
-   Link: <a href="https://cinemontage.org/frank-warner/" target="_blank" rel="noopener noreferrer nofollow">https://cinemontage.org/frank-warner/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2011 — Regarding his Academy Award for the sound effects on Close Encounters, he had said, “For the mother ship sound, I made...</p></details>
+   Link:<a href="https://cinemontage.org/frank-warner/" target="_blank" rel="noopener noreferrer nofollow">https://cinemontage.org/frank-warner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2011 — Regarding his Academy Award for the sound effects on Close Encounters, he had said, “For the mother ship sound, I made...</p></details>
    Published: November 1, 2011  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: atogt.com  
-   Link: <a href="https://www.atogt.com/askoscar/display-film.php?id=50007&amp;var=0" target="_blank" rel="noopener noreferrer nofollow">https://www.atogt.com/askoscar/display-film.php?id=50007&amp;var=0</a>  
+   Link:<a href="https://www.atogt.com/askoscar/display-film.php?id=50007&amp;var=0" target="_blank" rel="noopener noreferrer nofollow">https://www.atogt.com/askoscar/display-film.php?id=50007&amp;var=0</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheAcademyMuseum/photos/presenting-close-encounters-of-the-third-kind-1977-in-4k-on-wednesday-september-/1006207841510080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAcademyMuseum/photos/presenting-close-encounters-of-the-third-kind-1977-in-4k-on-wednesday-september-/1006207841510080/</a>  
+   Link:<a href="https://www.facebook.com/TheAcademyMuseum/photos/presenting-close-encounters-of-the-third-kind-1977-in-4k-on-wednesday-september-/1006207841510080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAcademyMuseum/photos/presenting-close-encounters-of-the-third-kind-1977-in-4k-on-wednesday-september-/1006207841510080/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/close</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/close</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/18vyyct/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/18vyyct/close_encounters_of_the_third_kind/</a>  
+   Link:<a href="https://www.reddit.com/r/movies/comments/18vyyct/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/18vyyct/close_encounters_of_the_third_kind/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: filmtracks.com  
-   Link: <a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
+   Link:<a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mercaba.es  
-   Link: <a href="https://www.mercaba.es/usa/encuentros_en_la_tercera_fase_de_spielberg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mercaba.es/usa/encuentros_en_la_tercera_fase_de_spielberg.pdf</a>  
+   Link:<a href="https://www.mercaba.es/usa/encuentros_en_la_tercera_fase_de_spielberg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mercaba.es/usa/encuentros_en_la_tercera_fase_de_spielberg.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: filmlinc.org  
-   Link: <a href="https://www.filmlinc.org/films/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmlinc.org/films/close-encounters/</a>  
+   Link:<a href="https://www.filmlinc.org/films/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmlinc.org/films/close-encounters/</a>  

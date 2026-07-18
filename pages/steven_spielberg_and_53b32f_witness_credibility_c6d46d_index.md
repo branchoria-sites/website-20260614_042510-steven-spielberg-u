@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-witness/
 description: Focused pages that expand on Credibility.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_witness_credibility_c6d46d
 parent_title: Credibility
@@ -16,7 +16,7 @@ parent_permalink: /credibility/
 
 # Explore Topics in Credibility
 
-The following pages expand on the main **[Credibility]({{ '/credibility/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Credibility]({{ '/credibility/' | relative_url }})** page and cover its key branches in.
 
 - [Aviation Witness Pre 9 C5838]({{ '/aviation-witness-pre-9-c5838/' | relative_url }})
 - [Jillian Trauma Testi 69 D965]({{ '/jillian-trauma-testi-69-d965/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-nasa-uap/
 description: Focused pages that expand on NASA UAP.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_nasa_uap_study_25636b
 parent_title: NASA UAP
@@ -16,7 +16,7 @@ parent_permalink: /nasa-uap/
 
 # Explore Topics in NASA UAP
 
-The following pages expand on the main **[NASA UAP]({{ '/nasa-uap/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[NASA UAP]({{ '/nasa-uap/' | relative_url }})** page and cover its key branches in.
 
 - [Calibrated Sensors U 14 Ecff]({{ '/calibrated-sensors-u-14-ecff/' | relative_url }})
 - [Hynek UAP Definition 971 A5 D]({{ '/hynek-uap-definition-971-a5-d/' | relative_url }})

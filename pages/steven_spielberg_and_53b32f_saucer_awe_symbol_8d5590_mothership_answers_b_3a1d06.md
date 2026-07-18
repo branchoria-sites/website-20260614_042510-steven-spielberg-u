@@ -264,7 +264,7 @@ image: /assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothe
 
 ## Introduction
 
-The climactic UFO encounter in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* works because the mothership does more than appear. It answers. Throughout the film, Spielberg builds anticipation around lights in the sky, strange sounds and unexplained signs. At [Devils Tower]({{ 'devils-tower/' | relative_url }}), those elements finally become a conversation. The enormous craft does not simply demonstrate superior technology; it reacts to human signals with its own patterns of light, sound and movement. The result is one of the most distinctive ideas in Spielberg’s UFO cinema: awe becomes exchange. Instead of presenting alien machinery as an unknowable object or a weapon, the film presents it as a responsive system that acknowledges the presence of others and participates in communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogThe title Close Encounters of the Third Kind came from the writings of...</span></span></span>
+The climactic UFO encounter in *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* works because the mothership does more than appear. It answers. Throughout the film, Spielberg builds anticipation around lights in the sky, strange sounds and unexplained signs. At [Devils Tower]({{ 'devils-tower/' | relative_url }}), those elements finally become a conversation. The enormous craft does not simply demonstrate superior technology; it reacts to human signals with its own patterns of light, sound and movement. The result is one of the most distinctive ideas in Spielberg’s UFO cinema: awe becomes exchange. Instead of presenting alien machinery as an unknowable object or a weapon, the film presents it as a responsive system that acknowledges the presence of others and participates in communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogThe title Close Encounters of the Third Kind came from the writings of...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-1-dark.svg" | relative_url }}" alt="Mothership Answers B 3 A1 D06 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,7 +272,7 @@ The climactic UFO encounter in *[Close Encounters]({{ 'close-encounters/' | rela
 
 Many science-fiction films build their climaxes around revelation. Spielberg builds his around reciprocity. The mothership’s arrival is certainly a spectacle—vast, luminous and seemingly beyond human engineering—but the dramatic turning point occurs when it begins responding to signals from the human team below.
 
-The famous five-note sequence is crucial because it establishes a pattern of call and response. Humans send a musical phrase. The mothership returns it. The exchange repeats, varies and expands. The encounter becomes a dialogue rather than a demonstration of power. What matters is not that the aliens possess advanced technology; what matters is that the technology appears willing to communicate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multiverseemployeehandbook.com">[Science Comedy Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multiverseemployeehandbook.com</span><span class="citation-popover-title">Spielberg&#x27;s answer was disarmingly simple. You don&#x27;t translate — you resonate</span><span class="citation-popover-snippet">Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fran-delpizzo.medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fran-delpizzo.medium.com</span><span class="citation-popover-snippet">Spielberg&#x27;s Close Encounters of the Third Kind &#124; MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</span></span></span> This changes how viewers interpret the ship. Earlier in the film, UFOs are mysterious presences observed from a distance. At Devils Tower, the mothership becomes an interlocutor. It listens, replies and adjusts. The audience begins reading its actions not as random mechanical behaviour but as intentional responses.
+The famous five-note sequence is crucial because it establishes a pattern of call and response. Humans send a musical phrase. The mothership returns it. The exchange repeats, varies and expands. The encounter becomes a dialogue rather than a demonstration of power. What matters is not that the aliens possess advanced technology; what matters is that the technology appears willing to communicate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multiverseemployeehandbook.com">[Science Comedy Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multiverseemployeehandbook.com</span><span class="citation-popover-title">Spielberg&#x27;s answer was disarmingly simple. You don&#x27;t translate — you resonate</span><span class="citation-popover-snippet">Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fran-delpizzo.medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fran-delpizzo.medium.com</span><span class="citation-popover-snippet">Spielberg&#x27;s Close Encounters of the Third Kind &#124; MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</span></span></span> This changes how viewers interpret the ship. Earlier in the film, UFOs are mysterious presences observed from a distance. At Devils Tower, the mothership becomes an interlocutor. It listens, replies and adjusts. The audience begins reading its actions not as random mechanical behaviour but as intentional responses.
 
 That distinction helps explain why the finale feels uplifting rather than merely overwhelming. A mountain-sized machine is impressive. A mountain-sized machine that recognises another intelligence and answers back feels transformative.
 
@@ -283,7 +283,7 @@ That distinction helps explain why the finale feels uplifting rather than merely
 
 The mothership communicates through more than music. Its surface constantly shifts through elaborate displays of coloured light, creating the impression that illumination itself has become a language.
 
-Spielberg never provides a technical explanation for these displays, and that ambiguity is important. The lights are not reduced to dashboard indicators or simple navigation signals. Instead, they function expressively. Colours pulse, sweep and respond in synchronisation with the musical exchange, making the ship appear emotionally engaged in the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Coloured lights in &quot;Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Coloured lights in &quot;Close Encounters of the Third Kind&quot;June 21, 2020 — Aliens picked music as their communication, the humans creat...</span><span class="citation-popover-meta">Published: June 21, 2020</span></span></span>
+Spielberg never provides a technical explanation for these displays, and that ambiguity is important. The lights are not reduced to dashboard indicators or simple navigation signals. Instead, they function expressively. Colours pulse, sweep and respond in synchronisation with the musical exchange, making the ship appear emotionally engaged in the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Coloured lights in &quot;Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Coloured lights in &quot;Close Encounters of the Third Kind&quot;June 21, 2020 — Aliens picked music as their communication, the humans creat...</span><span class="citation-popover-meta">Published: June 21, 2020</span></span></span>
 
 The visual design encourages viewers to interpret the craft as active rather than passive:
 
@@ -307,7 +307,7 @@ The effect also separates the mothership from conventional cinematic spacecraft.
 
 One of the film’s most striking choices is that the conversation never receives a complete translation. The humans and aliens establish contact, but neither the audience nor the characters receive a comprehensive explanation of the language involved.
 
-This restraint gives the encounter its lasting power. The film demonstrates successful communication without pretending that every message has been decoded. The exchange remains partially mysterious. Viewers understand that meaning is being shared, yet much of that meaning stays beyond reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multiverseemployeehandbook.com">[Science Comedy Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multiverseemployeehandbook.com</span><span class="citation-popover-title">Spielberg&#x27;s answer was disarmingly simple. You don&#x27;t translate — you resonate</span><span class="citation-popover-snippet">Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</span></span></span>
+This restraint gives the encounter its lasting power. The film demonstrates successful communication without pretending that every message has been decoded. The exchange remains partially mysterious. Viewers understand that meaning is being shared, yet much of that meaning stays beyond reach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multiverseemployeehandbook.com">[Science Comedy Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multiverseemployeehandbook.com</span><span class="citation-popover-title">Spielberg&#x27;s answer was disarmingly simple. You don&#x27;t translate — you resonate</span><span class="citation-popover-snippet">Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</span></span></span>
 
 The approach mirrors a realistic problem of first contact. If two radically different intelligences met, mutual recognition would likely come before perfect understanding. Spielberg dramatises that stage of contact: the moment when both sides discover that communication is possible.
 
@@ -321,204 +321,204 @@ The mothership therefore functions as a bridge rather than a puzzle box. The aud
 
 ## Why the Response Matters More Than the Revelation
 
-The film’s enduring sense of wonder comes from Spielberg’s decision to keep the aliens partially unknowable while making them unmistakably responsive. The mothership does not reveal every secret of its civilisation, its language or its intentions. In fact, Spielberg later argued that showing too much of the alien interior diminished some of the mystery surrounding the craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reelviews.net">[Reelviews Movie Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reelviews.net</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Reelviews Movie ReviewsClose Encounters of the Third Kind (United States, 1977)December 14, 1977 — (Spielberg is on record as calling tha...</span><span class="citation-popover-meta">Published: December 14, 1977</span></span></span>
+The film’s enduring sense of wonder comes from Spielberg’s decision to keep the aliens partially unknowable while making them unmistakably responsive. The mothership does not reveal every secret of its civilisation, its language or its intentions. In fact, Spielberg later argued that showing too much of the alien interior diminished some of the mystery surrounding the craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reelviews.net">[Reelviews Movie Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reelviews.net</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Reelviews Movie ReviewsClose Encounters of the Third Kind (United States, 1977)December 14, 1977 — (Spielberg is on record as calling tha...</span><span class="citation-popover-meta">Published: December 14, 1977</span></span></span>
 
 What remains unforgettable is not hidden information but visible interaction. The ship arrives, listens, answers and adapts. Every flash of light and every repeated musical phrase reinforces the same idea: contact is happening.
 
-Within Spielberg’s broader UFO imagination, this is the moment when the flying saucer ceases to be merely an object of awe. It becomes a participant. The mothership’s greatest achievement is not that it crosses interstellar distances, but that it turns an encounter into a conversation. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fran-delpizzo.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fran-delpizzo.medium.com</span><span class="citation-popover-snippet">Spielberg&#x27;s Close Encounters of the Third Kind &#124; MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</span></span></span>
+Within Spielberg’s broader UFO imagination, this is the moment when the flying saucer ceases to be merely an object of awe. It becomes a participant. The mothership’s greatest achievement is not that it crosses interstellar distances, but that it turns an encounter into a conversation. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fran-delpizzo.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fran-delpizzo.medium.com</span><span class="citation-popover-snippet">Spielberg&#x27;s Close Encounters of the Third Kind &#124; MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-3-dark.svg" | relative_url }}" alt="Mothership Answers B 3 A1 D06 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_answers_b_3a1d06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mothership Answers B 3 A1 D06. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mothership Answers B 3 A1 D06. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-answers-b-3-a1-d06-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,134 +724,134 @@ Within Spielberg’s broader UFO imagination, this is the moment when the flying
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: 67160 CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogThe title Close Encounters of the Third Kind came from the writings of...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogThe title Close Encounters of the Third Kind came from the writings of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fran-delpizzo.medium.com  
-   Link: <a href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s Close Encounters of the Third Kind | MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</p></details>
+   Link:<a href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s Close Encounters of the Third Kind | MediumAfter a musical exchange between the humans and the spaceship using the 5 tones, t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Coloured lights in "Close Encounters of the Third Kind"  
-   Link: <a href="https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coloured lights in &quot;Close Encounters of the Third Kind&quot;June 21, 2020 — Aliens picked music as their communication, the humans creat...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/hd86mz/coloured_lights_in_close_encounters_of_the_third/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coloured lights in &quot;Close Encounters of the Third Kind&quot;June 21, 2020 — Aliens picked music as their communication, the humans creat...</p></details>
    Published: June 21, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reelviews.net  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reelviews Movie ReviewsClose Encounters of the Third Kind (United States, 1977)December 14, 1977 — (Spielberg is on record as calling tha...</p></details>
+   Link:<a href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reelviews Movie ReviewsClose Encounters of the Third Kind (United States, 1977)December 14, 1977 — (Spielberg is on record as calling tha...</p></details>
    Published: December 14, 1977  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: r/movies on Reddit: Close Encounters of the Third Kind  
-   Link: <a href="https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deleted scene - Inside the SpaceshipSpielberg has always said he regretted creating this scene since it never lived up to anyone&#x27;s expect...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/9i96q3/close_encounters_of_the_third_kind_deleted_scene/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deleted scene - Inside the SpaceshipSpielberg has always said he regretted creating this scene since it never lived up to anyone&#x27;s expect...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/14y81ee/close_encounters_of_the_third_kind_spoilers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/14y81ee/close_encounters_of_the_third_kind_spoilers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (Spoilers): r/moviesHe asked about how he wove his family history into the climax, where two en...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/14y81ee/close_encounters_of_the_third_kind_spoilers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/14y81ee/close_encounters_of_the_third_kind_spoilers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (Spoilers): r/moviesHe asked about how he wove his family history into the climax, where two en...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5kM758lKJrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5kM758lKJrs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Close Encounters of the Third Kind - Five Tones...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5kM758lKJrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5kM758lKJrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Close Encounters of the Third Kind - Five Tones...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=3Z0JUPXq8vc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Z0JUPXq8vc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Close Encounters: The Five-Note Conversation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Z0JUPXq8vc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Z0JUPXq8vc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Close Encounters: The Five-Note Conversation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | 5-Note Sequence | Garage Band  
-   Link: <a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: multiverseemployeehandbook.com  
    Title: Spielberg's answer was disarmingly simple. You don't translate — you resonate  
-   Link: <a href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</p></details>
+   Link:<a href="https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://multiverseemployeehandbook.com/assets/transcripts/TMEH-S03B03-transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Comedy PodcastS03B03 - Close Encounters of the Third KindJohn Williams composed the film&#x27;s now-iconic five-note melody — a simple...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindDouglas Trumbull served as the visual effects supervisor, while Carlo Rambaldi designed the aliens...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindDouglas Trumbull served as the visual effects supervisor, while Carlo Rambaldi designed the aliens...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: astro-boy-productions.fandom.com  
-   Link: <a href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind - Astro Boy Productions WikiDouglas Trumbull served as the visual effects supervisor, while Carlo Rambaldi d...</p></details>
+   Link:<a href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind - Astro Boy Productions WikiDouglas Trumbull served as the visual effects supervisor, while Carlo Rambaldi d...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2020 — Richard Dreyfuss stars as cable worker [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), a close encounter of the first. Spielberg said he got his visual inspirat...</p></details>
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2020 — Richard Dreyfuss stars as cable worker [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), a close encounter of the first. Spielberg said he got his visual inspirat...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musingsofamiddleagedgeek.blog  
-   Link: <a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — “Close Encounters of the Third Kind”; introducing Steven Spielberg...</p></details>
+   Link:<a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — “Close Encounters of the Third Kind”; introducing Steven Spielberg...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reactormag.com  
    Title: the birth of spielbergian close encounters of the third kind at 40  
-   Link: <a href="https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We begin with a nuclear family: Roy Neary, his wife Ronnie, and their three kids in a cluttered, noisy house.Read more...</p></details>
+   Link:<a href="https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/the-birth-of-spielbergian-close-encounters-of-the-third-kind-at-40/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We begin with a nuclear family: Roy Neary, his wife Ronnie, and their three kids in a cluttered, noisy house.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: moviemusicuk.us  
    Title: close encounters of the third kind john williams  
-   Link: <a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — The music fully embraces the film&#x27;s imagery, and speaks to the trepidation and anticipati...</p></details>
+   Link:<a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — The music fully embraces the film&#x27;s imagery, and speaks to the trepidation and anticipati...</p></details>
    Published: May 2018  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncounter with the UFO near the railroad, once he hears the...Read more...</p></details>
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncounter with the UFO near the railroad, once he hears the...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTTqEYQClkc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTTqEYQClkc/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>only vaguely what the Mothership would look like when he was filming...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTTqEYQClkc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTTqEYQClkc/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>only vaguely what the Mothership would look like when he was filming...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161579126006696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161579126006696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e — the groundbreaking special effects for its time, or the deeply...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161579126006696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161579126006696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e — the groundbreaking special effects for its time, or the deeply...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/everythingeverywheredaily/posts/4494896717417354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/everythingeverywheredaily/posts/4494896717417354/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>because the difficulty of playing the instrument added a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/everythingeverywheredaily/posts/4494896717417354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/everythingeverywheredaily/posts/4494896717417354/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>because the difficulty of playing the instrument added a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: How did they know the time and date  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160503498146696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160503498146696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How did they determine the mothership&#x27;s arrival time and...In the movie, they received the coordinates and a short while later, they bui...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160503498146696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160503498146696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How did they determine the mothership&#x27;s arrival time and...In the movie, they received the coordinates and a short while later, they bui...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYqWPccxxTZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqWPccxxTZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly what the Mothership would look like when he was...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYqWPccxxTZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqWPccxxTZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly what the Mothership would look like when he was...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: Research Gate Sweet Fulfillment  
-   Link: <a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Fulfillment - Close Encounters of the Third KindSweet Fulfillment: Allusion and Teleological Genesis in John Williams&#x27;s Close Encou...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Fulfillment - Close Encounters of the Third KindSweet Fulfillment: Allusion and Teleological Genesis in John Williams&#x27;s Close Encou...</p></details>

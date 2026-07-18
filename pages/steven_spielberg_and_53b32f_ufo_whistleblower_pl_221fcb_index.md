@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-ufo/
 description: Focused pages that expand on Whistleblowers.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb
 parent_title: Whistleblowers
@@ -16,7 +16,7 @@ parent_permalink: /whistleblowers/
 
 # Explore Topics in Whistleblowers
 
-The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Disputed Proof 1 Eaabc]({{ '/aaro-disputed-proof-1-eaabc/' | relative_url }})
 - [Grusch Thriller Arch 09 D79 F]({{ '/grusch-thriller-arch-09-d79-f/' | relative_url }})

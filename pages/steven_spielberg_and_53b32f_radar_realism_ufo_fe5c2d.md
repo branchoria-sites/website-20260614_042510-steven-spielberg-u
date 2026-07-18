@@ -442,17 +442,17 @@ image: /assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-overv
 
 ## Introduction
 
-Air traffic control and radar make UFO cinema feel believable because they place the impossible inside systems built to manage the ordinary. In Steven Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, the famous air traffic control sequence works not by showing a spectacular object, but by letting pilots, controllers, radar language and procedural uncertainty do the dramatic work. The scene’s [credibility]({{ 'credibility/' | relative_url }}) comes from a recognisable aviation problem: a crew sees traffic, the controller has only a limited return, other aircraft help corroborate the sighting, and nobody quite knows what kind of report to file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+Air traffic control and radar make UFO cinema feel believable because they place the impossible inside systems built to manage the ordinary. In Steven Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, the famous air traffic control sequence works not by showing a spectacular object, but by letting pilots, controllers, radar language and procedural uncertainty do the dramatic work. The scene’s [credibility]({{ 'credibility/' | relative_url }}) comes from a recognisable aviation problem: a crew sees traffic, the controller has only a limited return, other aircraft help corroborate the sighting, and nobody quite knows what kind of report to file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-overview.webp" | relative_url }}" alt="Overview image for Radar Realism" loading="eager" decoding="sync" fetchpriority="high">
-That is why the technical texture matters. Spielberg’s UFO cinema does not ask viewers to accept a flying saucer in isolation. It surrounds the sighting with authority figures, radio discipline, imperfect instruments and social hesitation. Radar becomes a reality cue, but also a warning: a radar return can make a UFO feel harder to dismiss, yet real aviation and modern UAP research both show that sensor data is not automatically proof of an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
+That is why the technical texture matters. Spielberg’s UFO cinema does not ask viewers to accept a flying saucer in isolation. It surrounds the sighting with authority figures, radio discipline, imperfect instruments and social hesitation. Radar becomes a reality cue, but also a warning: a radar return can make a UFO feel harder to dismiss, yet real aviation and modern UAP research both show that sensor data is not automatically proof of an extraordinary object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
 
 ## Air Traffic Control Turns Wonder Into a Safety Problem
 
-The air traffic control scene in *Close Encounters* is one of Spielberg’s cleanest demonstrations of institutional realism. The scene is not staged as a military briefing or a scientist’s lecture. It begins as routine work: a controller monitoring traffic, airline crews asking about nearby aircraft, and the language of position, range and altitude turning a mysterious light into an immediate airspace concern. A later transcript of the scene identifies the setting as Indianapolis Air Route Traffic Control Center, with Air East 31 reporting unknown traffic and the controller checking known traffic before acknowledging a primary target in roughly the same position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+The air traffic control scene in *Close Encounters* is one of Spielberg’s cleanest demonstrations of institutional realism. The scene is not staged as a military briefing or a scientist’s lecture. It begins as routine work: a controller monitoring traffic, airline crews asking about nearby aircraft, and the language of position, range and altitude turning a mysterious light into an immediate airspace concern. A later transcript of the scene identifies the setting as Indianapolis Air Route Traffic Control Center, with Air East 31 reporting unknown traffic and the controller checking known traffic before acknowledging a primary target in roughly the same position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
-That matters because the UFO is first treated as “traffic”, not as mythology. The controller’s questions follow an aviation logic: where is it, how close is it, what altitude is it at, and is it a hazard to other aircraft? The dramatic escalation comes from the mismatch between what the system can handle and what the [witnesses]({{ 'witnesses/' | relative_url }}) describe. The crew reports something bright, above them and descending; the controller sees a primary target but lacks an altitude readout; another aircraft, TWA 517, provides a second visual perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+That matters because the UFO is first treated as “traffic”, not as mythology. The controller’s questions follow an aviation logic: where is it, how close is it, what altitude is it at, and is it a hazard to other aircraft? The dramatic escalation comes from the mismatch between what the system can handle and what the [witnesses]({{ 'witnesses/' | relative_url }}) describe. The crew reports something bright, above them and descending; the controller sees a primary target but lacks an altitude readout; another aircraft, TWA 517, provides a second visual perspective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
 The result is a scene that makes authority feel credible without making authority omniscient. Controllers are experts, but they are not all-seeing. The pilots are trained observers, but they are still startled. The technology helps organise the event, yet it does not explain it. Spielberg’s realism lies in that middle ground: the strange object becomes more persuasive because competent people are trying, and failing, to reduce it to normal aviation categories.
 
@@ -460,24 +460,24 @@ The result is a scene that makes authority feel credible without making authorit
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-1-dark.svg" | relative_url }}" alt="Radar Realism illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radar and Radio Work as Reality Cues
 
-Radar gives UFO scenes a special kind of weight because it appears to move the event beyond personal testimony. In aviation, however, “radar” is not a single magic instrument. The FAA’s Aeronautical Information Manual explains that primary radar works by transmitting a signal and receiving a reflection from an object, while the Air Traffic Control Radar Beacon System, also called secondary surveillance radar, depends on aircraft transponders replying to interrogations from the ground system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
+Radar gives UFO scenes a special kind of weight because it appears to move the event beyond personal testimony. In aviation, however, “radar” is not a single magic instrument. The FAA’s Aeronautical Information Manual explains that primary radar works by transmitting a signal and receiving a reflection from an object, while the Air Traffic Control Radar Beacon System, also called secondary surveillance radar, depends on aircraft transponders replying to interrogations from the ground system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
 
-This distinction is exactly what makes the *Close Encounters* scene sharper than a generic “blip on a screen” moment. The controller has a primary target, but no known high-altitude traffic and no altitude readout. In plain terms, the system has detected something, but not enough to identify it in the normal cooperative way. That is more credible than a film simply claiming that radar has proved an alien craft is present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+This distinction is exactly what makes the *Close Encounters* scene sharper than a generic “blip on a screen” moment. The controller has a primary target, but no known high-altitude traffic and no altitude readout. In plain terms, the system has detected something, but not enough to identify it in the normal cooperative way. That is more credible than a film simply claiming that radar has proved an alien craft is present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
-Radio chatter adds a second layer of realism. Aviation radio compresses emotion into procedure: clock positions, flight levels, traffic calls, heading changes and requests to “stand by”. In Spielberg’s scene, the fear is not expressed through panic speeches. It leaks through operational language. When Air East 31 says the traffic has turned towards the windshield and the crew is leaving flight level 350, the danger is legible because the language remains professional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+Radio chatter adds a second layer of realism. Aviation radio compresses emotion into procedure: clock positions, flight levels, traffic calls, heading changes and requests to “stand by”. In Spielberg’s scene, the fear is not expressed through panic speeches. It leaks through operational language. When Air East 31 says the traffic has turned towards the windshield and the crew is leaving flight level 350, the danger is legible because the language remains professional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
-The same technique explains why the scene remains memorable even without a clear view of the UFO. A spectacular visual effect might have dated quickly; procedural tension has aged better. Viewers hear trained people comparing possibilities — traffic, military testing, space debris, an SR-71 — and those attempted explanations make the unknown more convincing because the film has done the sceptical sorting inside the scene rather than asking the audience to do it afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+The same technique explains why the scene remains memorable even without a clear view of the UFO. A spectacular visual effect might have dated quickly; procedural tension has aged better. Viewers hear trained people comparing possibilities — traffic, military testing, space debris, an SR-71 — and those attempted explanations make the unknown more convincing because the film has done the sceptical sorting inside the scene rather than asking the audience to do it afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fbkXE1xBTM" title="Close Encounters of the Third Kind (1977) | Air Traffic Control | Richard Dreyfuss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (1977) | Air Traffic Control | Richard Dreyfuss</a></p><p class="youtube-embed-meta">Channel: The Film Scene &middot; Views: 408.4K &middot; Uploaded: January 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fbkXE1xBTM">Open on YouTube</a></p></div></div></div>
 
 ## The Stigma Is Part of the Realism
 
-The scene’s most revealing moment comes after the near miss. The controller asks whether the pilots want to report a UFO. Both crews decline. Air East 31 finally says it would not know what kind of report to file. That hesitation is not just a punchline; it captures a central problem in aviation UFO accounts, where pilots may be worried about ridicule, bureaucracy or the professional consequences of sounding irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+The scene’s most revealing moment comes after the near miss. The controller asks whether the pilots want to report a UFO. Both crews decline. Air East 31 finally says it would not know what kind of report to file. That hesitation is not just a punchline; it captures a central problem in aviation UFO accounts, where pilots may be worried about ridicule, bureaucracy or the professional consequences of sounding irrational.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
-The issue has not disappeared. The FAA’s current air traffic control guidance now refers to “Unidentified Anomalous Phenomena” and instructs personnel to inform the operations supervisor or controller-in-charge of reported or observed activity. The FAA’s Aeronautical Information Manual has also directed people wanting to report UFO or unexplained phenomena activity to a reporting data collection centre, while advising local law enforcement contact if life or property may be endangered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
+The issue has not disappeared. The FAA’s current air traffic control guidance now refers to “Unidentified Anomalous Phenomena” and instructs personnel to inform the operations supervisor or controller-in-charge of reported or observed activity. The FAA’s Aeronautical Information Manual has also directed people wanting to report UFO or unexplained phenomena activity to a reporting data collection centre, while advising local law enforcement contact if life or property may be endangered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</span></span></span>
 
-NASA’s Aviation Safety Reporting System shows why a confidential reporting culture matters more broadly in aviation. ASRS describes itself as confidential, voluntary and non-punitive, and the FAA says ASRS receives and de-identifies incident reports from pilots, air traffic controllers, cabin crew, maintenance technicians, dispatchers and others involved in aviation operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - NASAConfidential. Voluntary. Non-Punitive. (airport, aircraft, tower graphic). ASRS captures confident...</span></span></span>
+NASA’s Aviation Safety Reporting System shows why a confidential reporting culture matters more broadly in aviation. ASRS describes itself as confidential, voluntary and non-punitive, and the FAA says ASRS receives and de-identifies incident reports from pilots, air traffic controllers, cabin crew, maintenance technicians, dispatchers and others involved in aviation operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - NASAConfidential. Voluntary. Non-Punitive. (airport, aircraft, tower graphic). ASRS captures confident...</span></span></span>
 
 This makes Spielberg’s old scene feel unusually modern. It recognises that a sighting is not only a sensory event; it is also a reporting event. A UFO film can show lights, radar and radio calls, but the most human question is often what happens next: who records the event, who believes it, and what professional cost attaches to saying “UFO” aloud?
 
@@ -485,13 +485,13 @@ This makes Spielberg’s old scene feel unusually modern. It recognises that a s
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-2-dark.svg" | relative_url }}" alt="Radar Realism illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radar-Visual Evidence Feels Strong, But It Has Limits
 
-UFO cinema often treats radar-visual confirmation as the gold standard: someone sees the object, and an instrument appears to confirm that something is there. Spielberg uses that structure carefully. In *Close Encounters*, the pilots see the object, the controller sees a primary target, and a second aircraft adds another witness. That layered evidence makes the scene feel more grounded than a lone witness staring at a light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+UFO cinema often treats radar-visual confirmation as the gold standard: someone sees the object, and an instrument appears to confirm that something is there. Spielberg uses that structure carefully. In *Close Encounters*, the pilots see the object, the controller sees a primary target, and a second aircraft adds another witness. That layered evidence makes the scene feel more grounded than a lone witness staring at a light in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
-But the film also leaves an important ambiguity intact. Primary radar can detect reflected energy from objects, but it may not supply identity or altitude in the way secondary radar and transponder systems can. SKYbrary, an aviation safety knowledge base, defines primary surveillance radar as a system using reflected radio signals and notes that it provides range and bearing relative to the antenna. The FAA similarly distinguishes primary returns from transponder-based replies that can add identification and altitude information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Primary Surveillance Radar (PSR) &#124; SKYbrary Aviation SafetyThe primary surveillance radar is equipment that emits radio wave puls...</span></span></span>
+But the film also leaves an important ambiguity intact. Primary radar can detect reflected energy from objects, but it may not supply identity or altitude in the way secondary radar and transponder systems can. SKYbrary, an aviation safety knowledge base, defines primary surveillance radar as a system using reflected radio signals and notes that it provides range and bearing relative to the antenna. The FAA similarly distinguishes primary returns from transponder-based replies that can add identification and altitude information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Primary Surveillance Radar (PSR) &#124; SKYbrary Aviation SafetyThe primary surveillance radar is equipment that emits radio wave puls...</span></span></span>
 
 That technical limitation is narratively useful. If the radar return were too complete, the mystery would shrink into a solvable tracking problem. If there were no radar at all, the scene would become pure anecdote. Spielberg’s balance is to give the audience enough instrumentation to trust that the event is not imaginary, but not enough to resolve what the object is.
 
-Modern UAP analysis reinforces the same caution. NASA’s independent UAP study found that air traffic control and radar data may be useful, but warned that such data is often collected incidentally by instruments not designed for UAP research and may lack the contextual information needed for rigorous analysis. The 2021 U.S. intelligence preliminary assessment similarly identified limited data and inconsistent reporting as major obstacles to evaluating UAP cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</span></span></span>
+Modern UAP analysis reinforces the same caution. NASA’s independent UAP study found that air traffic control and radar data may be useful, but warned that such data is often collected incidentally by instruments not designed for UAP research and may lack the contextual information needed for rigorous analysis. The 2021 U.S. intelligence preliminary assessment similarly identified limited data and inconsistent reporting as major obstacles to evaluating UAP cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6gRdt7qkSW4" title="Close Encounters of the Third Kind Air Traffic Control Scene with airport deleted scene included." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6gRdt7qkSW4" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind Air Traffic Control Scene with airport deleted scene included.</a></p><p class="youtube-embed-meta">Channel: Rob Wainfur &middot; Views: 879.9K &middot; Uploaded: April 2020</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6gRdt7qkSW4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6gRdt7qkSW4">Open on YouTube</a></p></div></div></div>
@@ -509,7 +509,7 @@ That selectivity is visible in the way the film concentrates many useful UFO-cin
 * **Instrument support:** the object is not only seen; it is also associated with a primary radar target.
 * **Multiple viewpoints:** two airline crews contribute to the event rather than one isolated observer.
 * **Plausible alternatives:** controllers consider known explanations before the moment becomes unclassifiable.
-* **Reporting hesitation:** the film acknowledges the social awkwardness of making a UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
+* **Reporting hesitation:** the film acknowledges the social awkwardness of making a UFO report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-title">Flight Safety Detectives CE3K_ATC_Transcript</span><span class="citation-popover-snippet">Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</span></span></span>
 
 </div>
 
@@ -519,7 +519,7 @@ This is why the sequence fits Spielberg’s larger UFO method. *Close Encounters
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-3-dark.svg" | relative_url }}" alt="Radar Realism illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later UAP Evidence Changes the Way the Scene Plays
 
-A viewer in 1977 might have read the air traffic control scene mainly as suspenseful fiction. A viewer today is likely to hear other resonances: pilot stigma, military and civilian reporting pathways, data quality debates, and the challenge of interpreting sensor returns. NASA’s UAP work explicitly calls for moving the subject towards better data and more scientific analysis, while AARO says it approaches UAP through a rigorous, data-driven framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</span></span></span>
+A viewer in 1977 might have read the air traffic control scene mainly as suspenseful fiction. A viewer today is likely to hear other resonances: pilot stigma, military and civilian reporting pathways, data quality debates, and the challenge of interpreting sensor returns. NASA’s UAP work explicitly calls for moving the subject towards better data and more scientific analysis, while AARO says it approaches UAP through a rigorous, data-driven framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</span></span></span>
 
 That does not mean Spielberg “predicted” modern UAP policy. It means he understood the dramatic power of the same unresolved triangle that still shapes the subject: trained witnesses, technical systems and incomplete evidence. The scene feels authentic because it does not overclaim. The pilots and controllers do not prove an alien craft exists; they document an encounter that outruns their categories.
 
@@ -530,194 +530,194 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Technical Details Make UFOs Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Technical Details Make UFOs Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Covers the institutional and evidential world that makes radar and technical sightings persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the institutional and evidential world that makes radar and technical sightings persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Classifies sighting types including radar-visual cases and explains why technical corroboration matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classifies sighting types including radar-visual cases and explains why technical corroboration matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers early official UFO-investigation context where reports, aircraft and instrumentation shape credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers early official UFO-investigation context where reports, aircraft and instrumentation shape credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Covers the production context for Close Encounters, including how procedural detail supports believability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the production context for Close Encounters, including how procedural detail supports believability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure"><img src="{{ '/assets/images/marketplace-covers/6beba74151c270bba8dd.jpg' | relative_url }}" alt="Listing image for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure"><img src="{{ '/assets/images/marketplace-covers/6beba74151c270bba8dd.jpg' | relative_url }}" alt="Listing image for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/e8c02459afa8b95f12ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/e8c02459afa8b95f12ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="radar-realism-how-technical-details-make-ufos-believable-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,222 +923,222 @@ The strongest lesson for UFO cinema is therefore not “add radar and the audien
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance SystemsAir Traffic Control Radar Beacon System (ATCRBS). The ATCRBS, sometimes referred to as secondary surveillance radar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data include information obtained from air traffic control towers and radar systems. Howev...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSection 8. Unidentified Anomalous Phenomena (UAP...Inform the operations supervisor/CIC of any reported o...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSection 8. Unidentified Anomalous Phenomena (UAP...Inform the operations supervisor/CIC of any reported o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 6  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety, Accident, and Hazard Reports8 Jan 2015 — 7-6-4. Unidentified Flying Object (UFO) Reports. a. Persons wanting to report UFO/unexpl...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety, Accident, and Hazard Reports8 Jan 2015 — 7-6-4. Unidentified Flying Object (UFO) Reports. a. Persons wanting to report UFO/unexpl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - NASAConfidential. Voluntary. Non-Punitive. (airport, aircraft, tower graphic). ASRS captures confident...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - NASAConfidential. Voluntary. Non-Punitive. (airport, aircraft, tower graphic). ASRS captures confident...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: aviation voluntary reporting programs 1  
-   Link: <a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS receives, de-identifies, and analyzes aviation saf...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS receives, de-identifies, and analyzes aviation saf...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/primary-surveillance-radar-psr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Primary Surveillance Radar (PSR) | SKYbrary Aviation SafetyThe primary surveillance radar is equipment that emits radio wave puls...</p></details>
+   Link:<a href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/primary-surveillance-radar-psr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Primary Surveillance Radar (PSR) | SKYbrary Aviation SafetyThe primary surveillance radar is equipment that emits radio wave puls...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/media/aim.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/aim.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/media/aim.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/aim.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: faa.gov  
    Title: aim chg1 dtd 3 29 18  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/media/aim_chg1_dtd_3-29-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/aim_chg1_dtd_3-29-18.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/media/aim_chg1_dtd_3-29-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/aim_chg1_dtd_3-29-18.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: faa.gov  
    Title: 2025 09 12 Notice N7110.800 Unidentied Anomalous Phenomena (UAP) Reports FINAL  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
    Title: asr 11  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/asr-11" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/asr-11</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/technology/asr-11" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/asr-11</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_555.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_555.html</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/publications/callback/cb_555.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_555.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asrs.arc.nasa.gov  
    Title: cb 527  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_527.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_527.html</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/publications/callback/cb_527.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_527.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: asrs.arc.nasa.gov  
    Title: ASRS Program Briefing  
-   Link: <a href="https://asrs.arc.nasa.gov/docs/ASRS_ProgramBriefing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/ASRS_ProgramBriefing.pdf</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/docs/ASRS_ProgramBriefing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/ASRS_ProgramBriefing.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: 40 years of safer aviation through reporting  
-   Link: <a href="https://www.nasa.gov/aeronautics/40-years-of-safer-aviation-through-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/40-years-of-safer-aviation-through-reporting/</a>  
+   Link:<a href="https://www.nasa.gov/aeronautics/40-years-of-safer-aviation-through-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/40-years-of-safer-aviation-through-reporting/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ntrs.nasa.gov  
    Title: ICASS 2024 ASRS  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20240014226/downloads/ICASS%202024%20ASRS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20240014226/downloads/ICASS%202024%20ASRS.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20240014226/downloads/ICASS%202024%20ASRS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20240014226/downloads/ICASS%202024%20ASRS.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: asrs.arc.nasa.gov  
    Title: 60 Case for Confidential Incident Reporting  
-   Link: <a href="https://asrs.arc.nasa.gov/docs/rs/60_Case_for_Confidential_Incident_Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/rs/60_Case_for_Confidential_Incident_Reporting.pdf</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/docs/rs/60_Case_for_Confidential_Incident_Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/rs/60_Case_for_Confidential_Incident_Reporting.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/4143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4143.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/4143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4143.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/surveillance" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/surveillance</a>  
+   Link:<a href="https://skybrary.aero/articles/surveillance" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/surveillance</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/secondary-surveillance-radar-ssr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/secondary-surveillance-radar-ssr</a>  
+   Link:<a href="https://skybrary.aero/articles/secondary-surveillance-radar-ssr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/secondary-surveillance-radar-ssr</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=MLiRnvppAaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLiRnvppAaM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Close Encounters Air Traffic Control Scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MLiRnvppAaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLiRnvppAaM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Close Encounters Air Traffic Control Scene...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flightsafetydetectives.com  
    Title: Flight Safety Detectives CE3K_ATC_Transcript  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesCE3K_ATC_Transcript - Google Docs...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Secondary surveillance radar  
-   Link: <a href="https://en.wikipedia.org/wiki/Secondary_surveillance_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Secondary_surveillance_radar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Secondary_surveillance_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Secondary_surveillance_radar</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Aviation Safety Reporting System  
-   Link: <a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/</a>  
+   Link:<a href="https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/what-did-steven-spielberg-get-right-about-ufo-encounters-in-the-cockpit-episode-317/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: flightsafetydetectives.com  
    Title: CITD Curtis ASRS1  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf</a>  
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: blog.dronedesk.io  
    Title: aviation safety reporting system  
-   Link: <a href="https://blog.dronedesk.io/aviation-safety-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dronedesk.io/aviation-safety-reporting-system/</a>  
+   Link:<a href="https://blog.dronedesk.io/aviation-safety-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dronedesk.io/aviation-safety-reporting-system/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fbkXE1xBTM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Close Encounters of the Third Kind - Air Traffic Control scene HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fbkXE1xBTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Close Encounters of the Third Kind - Air Traffic Control scene HD...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6gRdt7qkSW4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6gRdt7qkSW4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Air East 31 Deleted Scene - Close Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6gRdt7qkSW4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6gRdt7qkSW4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Air East 31 Deleted Scene - Close Encounters...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Close Encounters Air Traffic Control Scene  
-   Link: <a href="https://www.youtube.com/watch?v=KW10xCub3Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KW10xCub3Kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Close Encounters of the Third Kind Air Traffic Control Scene with airport deleted scene included...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KW10xCub3Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KW10xCub3Kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Close Encounters of the Third Kind Air Traffic Control Scene with airport deleted scene included...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: intersoft-electronics.com  
-   Link: <a href="https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf</a>  
+   Link:<a href="https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: aircraftspruce.com  
-   Link: <a href="https://www.aircraftspruce.com/catalog/pdf/ASRS_ProgramBriefing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraftspruce.com/catalog/pdf/ASRS_ProgramBriefing.pdf</a>  
+   Link:<a href="https://www.aircraftspruce.com/catalog/pdf/ASRS_ProgramBriefing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraftspruce.com/catalog/pdf/ASRS_ProgramBriefing.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: studyaircrafts.com  
-   Link: <a href="https://www.studyaircrafts.com/atc-transponder" target="_blank" rel="noopener noreferrer nofollow">https://www.studyaircrafts.com/atc-transponder</a>  
+   Link:<a href="https://www.studyaircrafts.com/atc-transponder" target="_blank" rel="noopener noreferrer nofollow">https://www.studyaircrafts.com/atc-transponder</a>  

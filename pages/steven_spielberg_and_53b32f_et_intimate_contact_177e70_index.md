@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-et/
 description: Focused pages that expand on E T.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_et_intimate_contact_177e70
 parent_title: E T
@@ -16,7 +16,7 @@ parent_permalink: /e-t/
 
 # Explore Topics in E T
 
-The following pages expand on the main **[E T]({{ '/e-t/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[E T]({{ '/e-t/' | relative_url }})** page and cover its key branches in.
 
 - [Elliott Et Psychic B 0 Cbea 6]({{ '/elliott-et-psychic-b-0-cbea-6/' | relative_url }})
 - [Elliott Et Stranded B13 F72]({{ '/elliott-et-stranded-b13-f72/' | relative_url }})

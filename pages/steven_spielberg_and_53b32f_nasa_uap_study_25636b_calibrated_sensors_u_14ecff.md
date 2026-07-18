@@ -259,32 +259,32 @@ image: /assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrat
 
 ## Introduction
 
-Rather than treating UAP as an immediate disclosure story, NASA frames them as an observational challenge. If something unusual is truly present, it should leave consistent traces across well-understood instruments. If it does not, apparent mysteries may dissolve into ordinary explanations once measurement errors, atmospheric effects or sensor limitations are understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
+Rather than treating UAP as an immediate disclosure story, NASA frames them as an observational challenge. If something unusual is truly present, it should leave consistent traces across well-understood instruments. If it does not, apparent mysteries may dissolve into ordinary explanations once measurement errors, atmospheric effects or sensor limitations are understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-1-dark.svg" | relative_url }}" alt="Calibrated Sensors U 14 Ecff illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Single-Sensor UAP Reports Stay Ambiguous
 
-A recurring conclusion in NASA’s report is that many famous UAP cases rely on a narrow slice of evidence. A pilot may observe an object visually. An infrared camera may capture a strange-looking image. Radar may register an unusual return. Yet when only one source is available, investigators cannot easily determine whether they are seeing a real object, an optical illusion, a sensor artefact, atmospheric distortion, or a misunderstanding of distance and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span>
+A recurring conclusion in NASA’s report is that many famous UAP cases rely on a narrow slice of evidence. A pilot may observe an object visually. An infrared camera may capture a strange-looking image. Radar may register an unusual return. Yet when only one source is available, investigators cannot easily determine whether they are seeing a real object, an optical illusion, a sensor artefact, atmospheric distortion, or a misunderstanding of distance and motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span>
 
-Calibration matters because every sensor has known limitations. Cameras can produce lens effects, glare, blooming and motion distortions. Infrared systems can misrepresent the apparent size or behaviour of distant heat sources. Radar can generate ambiguous returns under certain conditions. Scientists normally account for these issues through calibration, which compares instrument readings against known standards and expected behaviour. Without that reference framework, unusual observations can appear more mysterious than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+Calibration matters because every sensor has known limitations. Cameras can produce lens effects, glare, blooming and motion distortions. Infrared systems can misrepresent the apparent size or behaviour of distant heat sources. Radar can generate ambiguous returns under certain conditions. Scientists normally account for these issues through calibration, which compares instrument readings against known standards and expected behaviour. Without that reference framework, unusual observations can appear more mysterious than they really are.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 NASA highlighted several specific weaknesses that commonly affect UAP reports:
 
-* Poor sensor calibration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[nevadacurrent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span>
+* Poor sensor calibration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[nevadacurrent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span>
 * Missing metadata, such as viewing angle, altitude or instrument settings.
 * Lack of baseline environmental information.
 * Absence of independent measurements from other instruments.
-* Data collected by systems designed for operational rather than scientific purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+* Data collected by systems designed for operational rather than scientific purposes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
-This is a crucial shift in emphasis. The agency is not arguing that every unexplained report has a simple explanation. Instead, it argues that many cases remain unexplained because the evidence is insufficient, not because the phenomenon is necessarily extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+This is a crucial shift in emphasis. The agency is not arguing that every unexplained report has a simple explanation. Instead, it argues that many cases remain unexplained because the evidence is insufficient, not because the phenomenon is necessarily extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
 ## How Optical, Infrared and Radar Data Can Cross-Check Claims
 
-NASA’s preferred solution is multi-sensor observation. The agency explicitly recommended detecting potential UAP with multiple, well-calibrated instruments rather than relying on a single camera or witness account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
+NASA’s preferred solution is multi-sensor observation. The agency explicitly recommended detecting potential UAP with multiple, well-calibrated instruments rather than relying on a single camera or witness account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
 The logic resembles methods used throughout astronomy, Earth science and aviation safety. Different sensors observe different physical properties:
 
@@ -294,15 +294,15 @@ The logic resembles methods used throughout astronomy, Earth science and aviatio
 * **Optical cameras** record visible light and provide information about shape, brightness and motion.
 * **Infrared sensors** detect heat signatures and temperature differences.
 * **Radar systems** measure position, speed and distance using radio waves.
-* **Spectral instruments** can analyse how objects emit or reflect different wavelengths of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
+* **Spectral instruments** can analyse how objects emit or reflect different wavelengths of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
 
 </div>
 
-A genuinely unusual object should generate a coherent picture across these systems. For example, an object appearing to accelerate dramatically in a video should show corresponding movement in radar data. A heat-emitting object seen in visible light should generally produce a compatible infrared signature. When the measurements disagree, investigators gain clues that the anomaly may originate from the observing system rather than the observed target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</span></span></span>
+A genuinely unusual object should generate a coherent picture across these systems. For example, an object appearing to accelerate dramatically in a video should show corresponding movement in radar data. A heat-emitting object seen in visible light should generally produce a compatible infrared signature. When the measurements disagree, investigators gain clues that the anomaly may originate from the observing system rather than the observed target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</span></span></span>
 
-NASA therefore emphasised “multiple measurements” and “systematic data calibration” as practical ways to reduce uncertainty. Its report even suggested that the agency’s expertise in multispectral and hyperspectral sensing could contribute to future UAP investigations. These techniques capture information across many wavelengths, making it easier to distinguish physical objects from sensor artefacts or environmental effects. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[2Sci.News: Breaking Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">nasa uap report 12270</span><span class="citation-popover-snippet">Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</span></span></span>
+NASA therefore emphasised “multiple measurements” and “systematic data calibration” as practical ways to reduce uncertainty. Its report even suggested that the agency’s expertise in multispectral and hyperspectral sensing could contribute to future UAP investigations. These techniques capture information across many wavelengths, making it easier to distinguish physical objects from sensor artefacts or environmental effects. NASA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[2Sci.News: Breaking Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">nasa uap report 12270</span><span class="citation-popover-snippet">Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</span></span></span>
 
-The broader scientific community studying UAP has reached similar conclusions. Research proposals for dedicated UAP observatories frequently call for combinations of optical cameras, infrared detectors, radar-like systems, environmental monitoring instruments and automated data analysis, specifically because no single sensor can provide a complete picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+The broader scientific community studying UAP has reached similar conclusions. Research proposals for dedicated UAP observatories frequently call for combinations of optical cameras, infrared detectors, radar-like systems, environmental monitoring instruments and automated data analysis, specifically because no single sensor can provide a complete picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-2-dark.svg" | relative_url }}" alt="Calibrated Sensors U 14 Ecff illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,7 +310,7 @@ The broader scientific community studying UAP has reached similar conclusions. R
 
 One of NASA’s distinctive contributions comes from a capability that has little to do with traditional UFO investigations: Earth observation.
 
-The agency operates and archives vast amounts of information about weather, clouds, atmospheric conditions, oceans and environmental processes. According to the UAP study team, these datasets can help establish what was happening around a reported sighting and test ordinary explanations that might otherwise be overlooked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
+The agency operates and archives vast amounts of information about weather, clouds, atmospheric conditions, oceans and environmental processes. According to the UAP study team, these datasets can help establish what was happening around a reported sighting and test ordinary explanations that might otherwise be overlooked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
 This environmental context can answer questions such as:
 
@@ -318,11 +318,11 @@ This environmental context can answer questions such as:
 * Were atmospheric conditions likely to create optical distortions?
 * Were there temperature inversions affecting radar performance?
 * Were weather balloons, research platforms or other known objects operating nearby?
-* Did oceanic or meteorological conditions contribute to the observation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
+* Did oceanic or meteorological conditions contribute to the observation?<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
-NASA’s report specifically noted that Earth-observing data could help identify weather, oceanic and environmental characteristics coinciding with UAP reports. In practical terms, this expands the explanation pool before investigators move toward more exotic possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+NASA’s report specifically noted that Earth-observing data could help identify weather, oceanic and environmental characteristics coinciding with UAP reports. In practical terms, this expands the explanation pool before investigators move toward more exotic possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
-This approach reflects a long-standing scientific principle: understanding the background environment is often as important as observing the target itself. A strange light in the sky is easier to evaluate when investigators know the atmospheric conditions, nearby aircraft activity, satellite positions and sensor status at the exact moment of observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+This approach reflects a long-standing scientific principle: understanding the background environment is often as important as observing the target itself. A strange light in the sky is easier to evaluate when investigators know the atmospheric conditions, nearby aircraft activity, satellite positions and sensor status at the exact moment of observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MUQgQlWw5b4" title="Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer">Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 385.2K &middot; Uploaded: August 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MUQgQlWw5b4">Open on YouTube</a></p></div></div></div>
@@ -334,204 +334,204 @@ This approach reflects a long-standing scientific principle: understanding the b
 
 The most striking aspect of NASA’s UAP strategy is that it does not depend on discovering a spectacular new object. Instead, it depends on improving the quality of evidence.
 
-The study team concluded that future progress is more likely to come from rigorous data collection than from reinterpreting old sightings. NASA officials repeatedly stressed that the agency can contribute through calibration standards, comprehensive metadata, multiple measurement systems and transparent scientific practices. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[2Sci.News: Breaking Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">nasa uap report 12270</span><span class="citation-popover-snippet">Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</span></span></span>
+The study team concluded that future progress is more likely to come from rigorous data collection than from reinterpreting old sightings. NASA officials repeatedly stressed that the agency can contribute through calibration standards, comprehensive metadata, multiple measurement systems and transparent scientific practices. NASA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[2Sci.News: Breaking Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">nasa uap report 12270</span><span class="citation-popover-snippet">Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</span></span></span>
 
 For readers familiar with Spielberg’s UFO universe, this may seem almost anti-dramatic. Yet it represents a different kind of mystery-solving. The question is no longer whether a witness saw something astonishing. The question is whether an observation can survive scrutiny across independent instruments operating under known conditions.
 
-NASA’s answer to the UFO mystery is therefore not a secret archive or a dramatic revelation. It is a measurement problem. Better sensors, calibrated against known standards and supported by environmental context, offer the clearest path from intriguing stories to scientifically useful knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[3NASA 3Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
+NASA’s answer to the UFO mystery is therefore not a secret archive or a dramatic revelation. It is a measurement problem. Better sensors, calibrated against known standards and supported by environmental context, offer the clearest path from intriguing stories to scientifically useful knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[3NASA 3Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-3-dark.svg" | relative_url }}" alt="Calibrated Sensors U 14 Ecff illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_nasa_uap_study_25636b_calibrated_sensors_u_14ecff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Calibrated Sensors U 14 Ecff. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Calibrated Sensors U 14 Ecff. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="calibrated-sensors-u-14-ecff-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,155 +737,155 @@ NASA’s answer to the UFO mystery is therefore not a secret archive or a dramat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The importance of detecting UAP with multiple, well-calib...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sci.news  
    Title: [nasa uap](&#123;&#123; 'nasa-uap/' | relative_url &#125;&#125;) report 12270  
-   Link: <a href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/space/nasa-uap-report-12270.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</p></details>
+   Link:<a href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/space/nasa-uap-report-12270.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Announces Unidentified Aerial Phenomena Study...21 Oct 2022 — NASA has selected 16 individuals to participate in its independent st...</p></details>
+   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Announces Unidentified Aerial Phenomena Study...21 Oct 2022 — NASA has selected 16 individuals to participate in its independent st...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — In 2023, NASA commissioned the UAP Independent Study... To learn more, you may read the UAP Independent Study Team Final Re...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — In 2023, NASA commissioned the UAP Independent Study... To learn more, you may read the UAP Independent Study Team Final Re...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — Among scientists, one of the dominant factors has been the poor data quality of...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — Among scientists, one of the dominant factors has been the poor data quality of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
+   Link:<a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, the...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsObtaining reliable and valid data requires instrumented observations, inclu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsObtaining reliable and valid data requires instrumented observations, inclu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
+   Link:<a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
+   Link:<a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: metax.kr  
-   Link: <a href="https://metax.kr/en/article/ufo-2155630138" target="_blank" rel="noopener noreferrer nofollow">https://metax.kr/en/article/ufo-2155630138</a>  
+   Link:<a href="https://metax.kr/en/article/ufo-2155630138" target="_blank" rel="noopener noreferrer nofollow">https://metax.kr/en/article/ufo-2155630138</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Has Little to Say About UFOs as Anniversary...12 Jul 2024 — “Currently, UAP data analysis is hindered by poor sensor calibration, l...</p></details>
+   Link:<a href="https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Has Little to Say About UFOs as Anniversary...12 Jul 2024 — “Currently, UAP data analysis is hindered by poor sensor calibration, l...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPSSpace historian and University of Chicago professor Jordan Bimm provided some context to NASA&#x27;s i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPSSpace historian and University of Chicago professor Jordan Bimm provided some context to NASA&#x27;s i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
    Published: May 31, 2023  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
    Title: ufos and radar targets clutter safety and false certainty c3eab7a878ad  
-   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>
+   Link:<a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>

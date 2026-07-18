@@ -259,13 +259,13 @@ image: /assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war
 
 ## When the Invasion Lands in Modern America
 
-H. G. Wells originally set his story in England, but the 1953 film relocates the crisis to contemporary America. The change matters because it places the invasion inside a society that had emerged from the Second World War as a global military power. The film opens with a narration explaining that the Martians need a new home and have chosen Earth as their target. Rather than arriving as mysterious visitors, they arrive as conquerors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
+H. G. Wells originally set his story in England, but the 1953 film relocates the crisis to contemporary America. The change matters because it places the invasion inside a society that had emerged from the Second World War as a global military power. The film opens with a narration explaining that the Martians need a new home and have chosen Earth as their target. Rather than arriving as mysterious visitors, they arrive as conquerors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-1-dark.svg" | relative_url }}" alt="War Worlds Helpless 8 Accb 2 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The invasion begins with what appears to be a meteor crash in California. Local curiosity quickly gives way to panic when the object reveals itself as a Martian war machine. The structure of the story is important: ordinary citizens, scientists and military authorities all assume that established procedures can manage the situation. The film repeatedly shows those assumptions collapsing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+The invasion begins with what appears to be a meteor crash in California. Local curiosity quickly gives way to panic when the object reveals itself as a Martian war machine. The structure of the story is important: ordinary citizens, scientists and military authorities all assume that established procedures can manage the situation. The film repeatedly shows those assumptions collapsing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-This was a particularly resonant idea in the early Cold War. American audiences lived with the possibility that a devastating attack could arrive with little warning. Although the Martians are extraterrestrial, the emotional pattern resembles invasion and nuclear-war fears: a technologically superior enemy appears suddenly, overwhelms defences and creates uncertainty about whether civilisation can survive. The film was later recognised by the Library of Congress’s National Film Registry partly for how it reflected the anxieties of the atomic age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">war of the worlds 1953</span><span class="citation-popover-snippet">Library of Congress for preservation in the National Film Registry.... The Invasion (2007) · r/iwatchedanoldmovie - The Invasion (2007)...</span></span></span>
+This was a particularly resonant idea in the early Cold War. American audiences lived with the possibility that a devastating attack could arrive with little warning. Although the Martians are extraterrestrial, the emotional pattern resembles invasion and nuclear-war fears: a technologically superior enemy appears suddenly, overwhelms defences and creates uncertainty about whether civilisation can survive. The film was later recognised by the Library of Congress’s National Film Registry partly for how it reflected the anxieties of the atomic age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">war of the worlds 1953</span><span class="citation-popover-snippet">Library of Congress for preservation in the National Film Registry.... The Invasion (2007) · r/iwatchedanoldmovie - The Invasion (2007)...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-3-dark.svg" | relative_url }}" alt="War Worlds Helpless 8 Accb 2 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_cold_war_alien_fear_f86079_war_worlds_helpless_8accb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -273,11 +273,11 @@ This was a particularly resonant idea in the early Cold War. American audiences 
 
 The central dramatic mechanism of the film is escalation without success. Each response is larger than the last, yet every response fails.
 
-At first, local military forces attempt to contain the threat. When the Martian machines emerge, their heat rays and other advanced weapons destroy soldiers, vehicles and defensive positions with ease. What begins as an isolated incident rapidly becomes a national and then global military crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+At first, local military forces attempt to contain the threat. When the Martian machines emerge, their heat rays and other advanced weapons destroy soldiers, vehicles and defensive positions with ease. What begins as an isolated incident rapidly becomes a national and then global military crisis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-The Martian war machines are protected by powerful energy shields that conventional weapons cannot penetrate. Tanks, artillery and aircraft prove ineffective. The visual effect is crucial: audiences watch the most advanced military technology available to humanity strike an invisible barrier and accomplish nothing. The enemy is not merely stronger; it seems untouchable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War Of The Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</span></span></span>
+The Martian war machines are protected by powerful energy shields that conventional weapons cannot penetrate. Tanks, artillery and aircraft prove ineffective. The visual effect is crucial: audiences watch the most advanced military technology available to humanity strike an invisible barrier and accomplish nothing. The enemy is not merely stronger; it seems untouchable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War Of The Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</span></span></span>
 
-The film pushes this logic to its extreme when humanity turns to atomic weapons. In many Cold War stories, the atomic bomb represented the ultimate guarantee of security. In *The War of the Worlds*, even that reassurance disappears. The attack fails to stop the invaders, reinforcing the idea that humanity has reached the limits of its power. The Martians remain intact while human confidence collapses. War Of The Worlds Wiki <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+The film pushes this logic to its extreme when humanity turns to atomic weapons. In many Cold War stories, the atomic bomb represented the ultimate guarantee of security. In *The War of the Worlds*, even that reassurance disappears. The attack fails to stop the invaders, reinforcing the idea that humanity has reached the limits of its power. The Martians remain intact while human confidence collapses. War Of The Worlds Wiki<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
 This is what makes the film’s fear distinctive. The threat is not simply destruction. It is the discovery that every trusted defence mechanism has become irrelevant.
 
@@ -288,9 +288,9 @@ This is what makes the film’s fear distinctive. The threat is not simply destr
 
 Unlike later UFO stories that ask whether humans and aliens can understand one another, *The War of the Worlds* treats communication as largely impossible.
 
-The first encounters are brief and hostile. There is no sustained effort to exchange ideas, establish diplomacy or interpret alien motives beyond recognising that the Martians are conducting a conquest. The aliens are presented as a force rather than as personalities. Their technological superiority and lack of interest in negotiation leave humanity focused on immediate survival. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
+The first encounters are brief and hostile. There is no sustained effort to exchange ideas, establish diplomacy or interpret alien motives beyond recognising that the Martians are conducting a conquest. The aliens are presented as a force rather than as personalities. Their technological superiority and lack of interest in negotiation leave humanity focused on immediate survival.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
 
-This distinction helps explain the film’s place in the history of alien cinema. The narrative question is not “Who are they?” but “How do we stay alive?” Scientists search for weaknesses, military leaders search for weapons and civilians search for safety. Every scene pushes characters towards practical survival decisions rather than mutual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War Of The Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</span></span></span>
+This distinction helps explain the film’s place in the history of alien cinema. The narrative question is not “Who are they?” but “How do we stay alive?” Scientists search for weaknesses, military leaders search for weapons and civilians search for safety. Every scene pushes characters towards practical survival decisions rather than mutual understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waroftheworlds.fandom.com">[War Of The Worlds Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waroftheworlds.fandom.com</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</span></span></span>
 
 The result is a model of alien contact built around emergency. The unknown arrives from the sky, overwhelms institutions and reduces humanity to a defensive position. That framework became one of the defining patterns of 1950s science-fiction cinema and stood in sharp contrast to the more hopeful possibilities explored decades later in Spielberg’s UFO films.
 
@@ -303,205 +303,205 @@ The result is a model of alien contact built around emergency. The unknown arriv
 
 Many invasion stories feature danger, but *The War of the Worlds* is memorable because it systematically removes the audience’s confidence that anyone can solve the crisis.
 
-The scientists cannot understand the invaders quickly enough. The military cannot stop them. Political authority offers little reassurance. Even humanity’s most destructive weapons fail. The film creates suspense by narrowing the range of available options until almost nothing remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+The scientists cannot understand the invaders quickly enough. The military cannot stop them. Political authority offers little reassurance. Even humanity’s most destructive weapons fail. The film creates suspense by narrowing the range of available options until almost nothing remains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-Its ending reinforces that theme. Humanity does not defeat the Martians through superior strategy or technology. Instead, the invaders succumb to Earth’s microscopic life. The resolution means survival arrives from outside human control. The species is saved, but not because it mastered the threat. The feeling of helplessness remains central to the film’s message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+Its ending reinforces that theme. Humanity does not defeat the Martians through superior strategy or technology. Instead, the invaders succumb to Earth’s microscopic life. The resolution means survival arrives from outside human control. The species is saved, but not because it mastered the threat. The feeling of helplessness remains central to the film’s message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goldenageflicks.co.uk">[Golden Age Flicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goldenageflicks.co.uk</span><span class="citation-popover-snippet">Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds* became a defining example of invasion fear. It presented extraterrestrial arrival not as a mystery to explore but as a military emergency that exposed the fragility of modern civilisation. The film’s enduring power comes from that unsettling possibility: that the next visitors from the sky might not want to talk, and that humanity might discover its strength is far less certain than it imagined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
+Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds* became a defining example of invasion fear. It presented extraterrestrial arrival not as a mystery to explore but as a military emergency that exposed the fragility of modern civilisation. The film’s enduring power comes from that unsettling possibility: that the next visitors from the sky might not want to talk, and that humanity might discover its strength is far less certain than it imagined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">51100 THE WAR OF THE WORLDS</span><span class="citation-popover-snippet">AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pNuSDeLwF1M" title="War of the Worlds (2005): BEST SCENES WITH TOM CRUISE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pNuSDeLwF1M" target="_blank" rel="noopener noreferrer">War of the Worlds (2005): BEST SCENES WITH TOM CRUISE</a></p><p class="youtube-embed-meta">Channel: Binge Society &middot; Views: 185.1K &middot; Uploaded: December 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pNuSDeLwF1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pNuSDeLwF1M">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to War Worlds Helpless 8 Accb 2. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to War Worlds Helpless 8 Accb 2. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="war-worlds-helpless-8-accb-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,147 +707,147 @@ Within the broader history of pre-Spielberg alien cinema, *The War of the Worlds
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: 51100 THE WAR OF THE WORLDS  
-   Link: <a href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/51100-THE-WAR-OF-THE-WORLDS?cxt=filmography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogThe War of the Worlds - AFI Catalog - American Film InstituteAs the planets are seen, the narrator describes how the Martians...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: war of the worlds 1953  
-   Link: <a href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library of Congress for preservation in the National Film Registry.... The Invasion (2007) · r/iwatchedanoldmovie - The Invasion (2007)...</p></details>
+   Link:<a href="https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iwatchedanoldmovie/comments/1bq9xwy/war_of_the_worlds_1953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library of Congress for preservation in the National Film Registry.... The Invasion (2007) · r/iwatchedanoldmovie - The Invasion (2007)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/news/page/31/?%2Fspan________________________%21--_%EF%BF%BD%D7%B7%C2%AF_%EF%BF%BD%C2%B1%C3%97_%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%AB_--%2Fxml%2Fxmpa_href=" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/page/31/?%2Fspan________________________%21--_%EF%BF%BD%D7%B7%C2%AF_%EF%BF%BD%C2%B1%C3%97_%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%AB_--%2Fxml%2Fxmpa_href=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News | American Film InstituteTHE WAR OF THE WORLDS (1953) – AFI Movie Club. Adapted from the iconic and genre-defining work by pioneerin...</p></details>
+   Link:<a href="https://www.afi.com/news/page/31/?%2Fspan________________________%21--_%EF%BF%BD%D7%B7%C2%AF_%EF%BF%BD%C2%B1%C3%97_%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%AB_--%2Fxml%2Fxmpa_href=" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/page/31/?%2Fspan________________________%21--_%EF%BF%BD%D7%B7%C2%AF_%EF%BF%BD%C2%B1%C3%97_%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%AB_--%2Fxml%2Fxmpa_href=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News | American Film InstituteTHE WAR OF THE WORLDS (1953) – AFI Movie Club. Adapted from the iconic and genre-defining work by pioneerin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aficatalog.afi.com  
-   Link: <a href="https://aficatalog.afi.com/" target="_blank" rel="noopener noreferrer nofollow">https://aficatalog.afi.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Catalog - American Film InstituteThe AFI Catalog of Feature Films is a comprehensive chronicle of the first century of American cinema.Re...</p></details>
+   Link:<a href="https://aficatalog.afi.com/" target="_blank" rel="noopener noreferrer nofollow">https://aficatalog.afi.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catalog - American Film InstituteThe AFI Catalog of Feature Films is a comprehensive chronicle of the first century of American cinema.Re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cinema.nl  
    Title: 471397 the war of the worlds  
-   Link: <a href="https://www.cinema.nl/db/471397-the-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.cinema.nl/db/471397-the-war-of-the-worlds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953)Sciencefiction van Byron Haskin. Met o.a. Gene Barry, Les Tremayne, Ann Robinson, Lewis Martin en Henry Brandon...</p></details>
+   Link:<a href="https://www.cinema.nl/db/471397-the-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.cinema.nl/db/471397-the-war-of-the-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953)Sciencefiction van Byron Haskin. Met o.a. Gene Barry, Les Tremayne, Ann Robinson, Lewis Martin en Henry Brandon...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarofTheWorlds/comments/1p1v2m0/the_martian_fighting_machines_arent_actually_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/1p1v2m0/the_martian_fighting_machines_arent_actually_made/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>range glass/ceramic/plastic type composite that&#x27;s meant to be...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarofTheWorlds/comments/1p1v2m0/the_martian_fighting_machines_arent_actually_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/1p1v2m0/the_martian_fighting_machines_arent_actually_made/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>range glass/ceramic/plastic type composite that&#x27;s meant to be...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JfiCI9h3icI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JfiCI9h3icI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) Movie Review - Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JfiCI9h3icI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JfiCI9h3icI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) Movie Review - Podcast...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Martians attack! (War of the Worlds) | Scary Scenes in Non-Horror Flicks  
-   Link: <a href="https://www.youtube.com/watch?v=OodTbQt-bs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OodTbQt-bs8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) - 16 WEIRD Facts You&#x27;ve Wished You Knew Sooner...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OodTbQt-bs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OodTbQt-bs8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) - 16 WEIRD Facts You&#x27;ve Wished You Knew Sooner...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3lIMlLzwaoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3lIMlLzwaoE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3lIMlLzwaoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3lIMlLzwaoE</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: paramountpictures.com  
    Title: the war of the worlds 1953  
-   Link: <a href="https://www.paramountpictures.com/movies/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.paramountpictures.com/movies/the-war-of-the-worlds-1953</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells&#x27; chilling novel of a Martian invasion of Earth becomes even more frightening in this 1952 film adaptation that&#x27;s widely regarded as...</p></details>
+   Link:<a href="https://www.paramountpictures.com/movies/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.paramountpictures.com/movies/the-war-of-the-worlds-1953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wells&#x27; chilling novel of a Martian invasion of Earth becomes even more frightening in this 1952 film adaptation that&#x27;s widely regarded as...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: The War of the Worlds  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: goldenageflicks.co.uk  
-   Link: <a href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</p></details>
+   Link:<a href="https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.goldenageflicks.co.uk/post/the-war-of-the-worlds-1953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Golden Age FlicksThe War of the Worlds (1953)May 14, 2025 — 14 May 2025 — After a tense build up, the alien vehicle comes to life and vap...</p></details>
    Published: May 14, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: waroftheworlds.fandom.com  
    Title: The War of the Worlds (1953 film)  
-   Link: <a href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</p></details>
+   Link:<a href="https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War Of The Worlds WikiThe War of the Worlds (1953 film)In the film, Earth is suddenly invaded by Martians, and American scientist Doctor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: waroftheworlds.fandom.com  
    Title: Fighting Machine Shield  
-   Link: <a href="https://waroftheworlds.fandom.com/wiki/Fighting_Machine_Shield" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/Fighting_Machine_Shield</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War Of The Worlds WikiFighting Machine Shield | War Of The Worlds Wiki - FandomThe shield was probably electromagnetic, as the heat ray a...</p></details>
+   Link:<a href="https://waroftheworlds.fandom.com/wiki/Fighting_Machine_Shield" target="_blank" rel="noopener noreferrer nofollow">https://waroftheworlds.fandom.com/wiki/Fighting_Machine_Shield</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War Of The Worlds WikiFighting Machine Shield | War Of The Worlds Wiki - FandomThe shield was probably electromagnetic, as the heat ray a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thesofacinephile.wordpress.com  
    Title: the war of the worlds 1953  
-   Link: <a href="https://thesofacinephile.wordpress.com/2012/04/29/the-war-of-the-worlds-1953/" target="_blank" rel="noopener noreferrer nofollow">https://thesofacinephile.wordpress.com/2012/04/29/the-war-of-the-worlds-1953/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sofa CinephileThe War of the Worlds, 1953 | The Sofa Cinephile29 Apr 2012 — I did like that both the initial invasion and eventual de...</p></details>
+   Link:<a href="https://thesofacinephile.wordpress.com/2012/04/29/the-war-of-the-worlds-1953/" target="_blank" rel="noopener noreferrer nofollow">https://thesofacinephile.wordpress.com/2012/04/29/the-war-of-the-worlds-1953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sofa CinephileThe War of the Worlds, 1953 | The Sofa Cinephile29 Apr 2012 — I did like that both the initial invasion and eventual de...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MonsterFanClub333/posts/war-of-the-worlds-1953-in-the-1953-george-pal-adaptation-the-martians-used-2-typ/1022905753202040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/war-of-the-worlds-1953-in-the-1953-george-pal-adaptation-the-martians-used-2-typ/1022905753202040/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) - In the 1953 George Pal...War of the Worlds (1953) - In the 1953 George Pal adaptation, the Martians used 2 ty...</p></details>
+   Link:<a href="https://www.facebook.com/MonsterFanClub333/posts/war-of-the-worlds-1953-in-the-1953-george-pal-adaptation-the-martians-used-2-typ/1022905753202040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MonsterFanClub333/posts/war-of-the-worlds-1953-in-the-1953-george-pal-adaptation-the-martians-used-2-typ/1022905753202040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (1953) - In the 1953 George Pal...War of the Worlds (1953) - In the 1953 George Pal adaptation, the Martians used 2 ty...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pophorror.com  
    Title: the war of the worlds 1953 quintessential alien invasion epic  
-   Link: <a href="https://pophorror.com/the-war-of-the-worlds-1953-quintessential-alien-invasion-epic/" target="_blank" rel="noopener noreferrer nofollow">https://pophorror.com/the-war-of-the-worlds-1953-quintessential-alien-invasion-epic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G. Wells&#x27;s novel was, in fact, the first formally published alien invasion story, beginning with the haunting...Read more...</p></details>
+   Link:<a href="https://pophorror.com/the-war-of-the-worlds-1953-quintessential-alien-invasion-epic/" target="_blank" rel="noopener noreferrer nofollow">https://pophorror.com/the-war-of-the-worlds-1953-quintessential-alien-invasion-epic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G. Wells&#x27;s novel was, in fact, the first formally published alien invasion story, beginning with the haunting...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aliensoup.com  
    Title: martian heat ray disintegrator beam.4840  
-   Link: <a href="https://aliensoup.com/threads/martian-heat-ray-disintegrator-beam.4840/" target="_blank" rel="noopener noreferrer nofollow">https://aliensoup.com/threads/martian-heat-ray-disintegrator-beam.4840/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martian Heat Ray &amp; Disintegrator BeamJul 25, 2011 — They had three very powerful weapons. Their primary weapon was the infamous &quot;Heat Ray...</p></details>
+   Link:<a href="https://aliensoup.com/threads/martian-heat-ray-disintegrator-beam.4840/" target="_blank" rel="noopener noreferrer nofollow">https://aliensoup.com/threads/martian-heat-ray-disintegrator-beam.4840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martian Heat Ray &amp; Disintegrator BeamJul 25, 2011 — They had three very powerful weapons. Their primary weapon was the infamous &quot;Heat Ray...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: criterion.com  
    Title: 7007 the war of the worlds sky on fire  
-   Link: <a href="https://www.criterion.com/current/posts/7007-the-war-of-the-worlds-sky-on-fire?srsltid=AfmBOoqDg-lmSXhnb_VJonyo34iJ0JHGhXWa0nEsJrsM5t7aGeuL9r4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.criterion.com/current/posts/7007-the-war-of-the-worlds-sky-on-fire?srsltid=AfmBOoqDg-lmSXhnb_VJonyo34iJ0JHGhXWa0nEsJrsM5t7aGeuL9r4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds: Sky on Fire | Current3 Jul 2020 — A superior Martian civilization seeks to leave its dying planet and transplant i...</p></details>
+   Link:<a href="https://www.criterion.com/current/posts/7007-the-war-of-the-worlds-sky-on-fire?srsltid=AfmBOoqDg-lmSXhnb_VJonyo34iJ0JHGhXWa0nEsJrsM5t7aGeuL9r4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.criterion.com/current/posts/7007-the-war-of-the-worlds-sky-on-fire?srsltid=AfmBOoqDg-lmSXhnb_VJonyo34iJ0JHGhXWa0nEsJrsM5t7aGeuL9r4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds: Sky on Fire | Current3 Jul 2020 — A superior Martian civilization seeks to leave its dying planet and transplant i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: More classic Cold War sci-fi horror  
-   Link: <a href="https://www.facebook.com/cinemainfernalpage/posts/more-classic-cold-war-sci-fi-horror-war-of-the-worlds-1953-simple-but-strange-im/1527357376062719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cinemainfernalpage/posts/more-classic-cold-war-sci-fi-horror-war-of-the-worlds-1953-simple-but-strange-im/1527357376062719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds...7 Apr 2026 —... invasion by attacking towns and cities across the country. Their tripods—three-legged war machines—...</p></details>
+   Link:<a href="https://www.facebook.com/cinemainfernalpage/posts/more-classic-cold-war-sci-fi-horror-war-of-the-worlds-1953-simple-but-strange-im/1527357376062719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cinemainfernalpage/posts/more-classic-cold-war-sci-fi-horror-war-of-the-worlds-1953-simple-but-strange-im/1527357376062719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds...7 Apr 2026 —... invasion by attacking towns and cities across the country. Their tripods—three-legged war machines—...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (1953 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953 film)... Martians inside their war machine shaped like a manta ray.... Martian death ray weapons can fire...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953 film)... Martians inside their war machine shaped like a manta ray.... Martian death ray weapons can fire...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pNuSDeLwF1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pNuSDeLwF1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Martians attack! (War of the Worlds) | Scary Scenes in Non-Horror Flicks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pNuSDeLwF1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pNuSDeLwF1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Martians attack! (War of the Worlds) | Scary Scenes in Non-Horror Flicks...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/list/ls058900268/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls058900268/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds Movies and TV ShowsA retro-futuristic epic of steampunk battle set in 1914. It has been 15 years since the original H.G...</p></details>
+   Link:<a href="https://www.imdb.com/list/ls058900268/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls058900268/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds Movies and TV ShowsA retro-futuristic epic of steampunk battle set in 1914. It has been 15 years since the original H.G...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0046534/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0046534/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953)H.G. Wells&#x27; classic novel is brought to life in this tale of alien invasion. The residents of a small town in...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0046534/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0046534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1953)H.G. Wells&#x27; classic novel is brought to life in this tale of alien invasion. The residents of a small town in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/925687679313167/posts/1003845278164073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/925687679313167/posts/1003845278164073/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds 1953 Martian War Machines Design...Among the more memorable props from 1950s sci-fi movies were the Martian war ma...</p></details>
+   Link:<a href="https://www.facebook.com/groups/925687679313167/posts/1003845278164073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/925687679313167/posts/1003845278164073/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds 1953 Martian War Machines Design...Among the more memorable props from 1950s sci-fi movies were the Martian war ma...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bbs.stardestroyer.net  
-   Link: <a href="https://bbs.stardestroyer.net/viewtopic.php?t=164763" target="_blank" rel="noopener noreferrer nofollow">https://bbs.stardestroyer.net/viewtopic.php?t=164763</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They easily withstand massive conventional attacks by military forces around the world, and even survive getting hit...Read more...</p></details>
+   Link:<a href="https://bbs.stardestroyer.net/viewtopic.php?t=164763" target="_blank" rel="noopener noreferrer nofollow">https://bbs.stardestroyer.net/viewtopic.php?t=164763</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They easily withstand massive conventional attacks by military forces around the world, and even survive getting hit...Read more...</p></details>

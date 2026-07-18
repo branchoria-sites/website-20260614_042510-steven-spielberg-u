@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-close/
 description: Focused pages that expand on Close Encounters.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_close_encounters_blu_a20151
 parent_title: Close Encounters
@@ -16,7 +16,7 @@ parent_permalink: /close-encounters/
 
 # Explore Topics in Close Encounters
 
-The following pages expand on the main **[Close Encounters]({{ '/close-encounters/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Close Encounters]({{ '/close-encounters/' | relative_url }})** page and cover its key branches in.
 
 - [Devils Tower Coverup 26506 F]({{ '/devils-tower-coverup-26506-f/' | relative_url }})
 - [Five Note Motif 998 F32]({{ '/five-note-motif-998-f32/' | relative_url }})

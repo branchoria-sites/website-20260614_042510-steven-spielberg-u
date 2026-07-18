@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-uap/
 description: Focused pages that expand on UAP Science.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_uap_science_claims_c02b9e
 parent_title: UAP Science
@@ -16,7 +16,7 @@ parent_permalink: /uap-science/
 
 # Explore Topics in UAP Science
 
-The following pages expand on the main **[UAP Science]({{ '/uap-science/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UAP Science]({{ '/uap-science/' | relative_url }})** page and cover its key branches in.
 
 - [AARO 2024 Prosaic]({{ '/aaro-2024-prosaic/' | relative_url }})
 - [NASA UAP Threshold 23 B05 B]({{ '/nasa-uap-threshold-23-b05-b/' | relative_url }})

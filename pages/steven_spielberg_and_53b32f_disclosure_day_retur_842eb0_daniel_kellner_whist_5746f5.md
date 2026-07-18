@@ -264,34 +264,34 @@ image: /assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_da
 
 ## Introduction
 
-Daniel Kellner is the mechanism that turns *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* from a traditional UFO mystery into a disclosure thriller. Rather than serving as a witness who merely reports strange events, he is a cybersecurity insider who possesses stolen records, archived footage and classified evidence that allegedly prove decades of extraterrestrial contact. The story therefore shifts from the question of whether aliens exist to a more contemporary question: who controls the evidence, and what happens when that control breaks down? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
+Daniel Kellner is the mechanism that turns *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* from a traditional UFO mystery into a disclosure thriller. Rather than serving as a witness who merely reports strange events, he is a cybersecurity insider who possesses stolen records, archived footage and classified evidence that allegedly prove decades of extraterrestrial contact. The story therefore shifts from the question of whether aliens exist to a more contemporary question: who controls the evidence, and what happens when that control breaks down?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-1-dark.svg" | relative_url }}" alt="Daniel Kellner Whist 5746 F5 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Steven Spielberg’s return to UFO storytelling, Daniel functions as the film’s disclosure whistleblower. He is pursued not because he saw something unusual but because he carries information that powerful institutions want hidden. That distinction places him at the centre of the film’s themes of [secrecy]({{ 'secrecy/' | relative_url }}), public trust and the struggle over who gets to define reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</span></span></span>
+Within Steven Spielberg’s return to UFO storytelling, Daniel functions as the film’s disclosure whistleblower. He is pursued not because he saw something unusual but because he carries information that powerful institutions want hidden. That distinction places him at the centre of the film’s themes of [secrecy]({{ 'secrecy/' | relative_url }}), public trust and the struggle over who gets to define reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</span></span></span>
 
 ## From witness testimony to insider archive
 
-Earlier Spielberg UFO stories often revolved around ordinary people encountering the extraordinary. Daniel Kellner represents a different model. He begins as a government-linked cybersecurity specialist with direct access to hidden systems and records. According to descriptions of the film, he goes rogue after obtaining evidence that his former organisation has concealed knowledge of extraterrestrial visits for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
+Earlier Spielberg UFO stories often revolved around ordinary people encountering the extraordinary. Daniel Kellner represents a different model. He begins as a government-linked cybersecurity specialist with direct access to hidden systems and records. According to descriptions of the film, he goes rogue after obtaining evidence that his former organisation has concealed knowledge of extraterrestrial visits for decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
 
 This changes the narrative stakes in three important ways:
 
 * **His authority comes from access rather than belief.** Daniel is not asking people to trust his personal testimony alone; he claims to possess documents, recordings and historical archives.
 * **The conflict becomes institutional.** Once evidence exists, the story centres on efforts to suppress, recover or discredit it.
-* **Disclosure becomes a technical process.** Data security, stolen files, media distribution and information control matter as much as alien encounters themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
+* **Disclosure becomes a technical process.** Data security, stolen files, media distribution and information control matter as much as alien encounters themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
 
-Reviews and plot summaries consistently describe Daniel as carrying proof that humanity is not alone and being hunted because of that possession. The archive itself becomes almost a character in the film: a collection of hidden knowledge whose existence threatens established power structures. Motion Picture Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">of revealing something massive to the...</span></span></span>
+Reviews and plot summaries consistently describe Daniel as carrying proof that humanity is not alone and being hunted because of that possession. The archive itself becomes almost a character in the film: a collection of hidden knowledge whose existence threatens established power structures. Motion Picture Association<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">of revealing something massive to the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tIZO6R53yF4" title="Disclosure Day (2026) - Emily Blunt , Colin Firth | Steven Spielberg is directing this masterpiece!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tIZO6R53yF4" target="_blank" rel="noopener noreferrer">Disclosure Day (2026) - Emily Blunt , Colin Firth | Steven Spielberg is directing this masterpiece!</a></p><p class="youtube-embed-meta">Channel: Fandom Topics &middot; Views: 999 &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tIZO6R53yF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tIZO6R53yF4">Open on YouTube</a></p></div></div></div>
 
 ## Why the whistleblower frame feels modern
 
-Daniel's role reflects a twenty-first-century understanding of how secrets emerge into public view. Modern audiences are familiar with stories involving leaked databases, classified material, intelligence disclosures and corporate cover-ups. Spielberg deliberately places his UFO protagonist inside that framework rather than relying solely on wonder or first contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
+Daniel's role reflects a twenty-first-century understanding of how secrets emerge into public view. Modern audiences are familiar with stories involving leaked databases, classified material, intelligence disclosures and corporate cover-ups. Spielberg deliberately places his UFO protagonist inside that framework rather than relying solely on wonder or first contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
 
-The film's development has been linked to the recent public conversation around unidentified anomalous phenomena (UAPs), congressional hearings and whistleblower allegations. Spielberg has openly cited those developments as inspiration for the project, making Daniel less a classic science-fiction hero than a figure shaped by contemporary debates about transparency and hidden information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
+The film's development has been linked to the recent public conversation around unidentified anomalous phenomena (UAPs), congressional hearings and whistleblower allegations. Spielberg has openly cited those developments as inspiration for the project, making Daniel less a classic science-fiction hero than a figure shaped by contemporary debates about transparency and hidden information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-snippet">Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</span></span></span>
 
-This framing also explains why Daniel is portrayed as a cybersecurity expert. In a world where information is stored digitally, a disclosure event is no longer about finding a crashed spacecraft in the desert. It is about obtaining records, authenticating evidence and distributing it before it can be suppressed. The UFO witness becomes an information activist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
+This framing also explains why Daniel is portrayed as a cybersecurity expert. In a world where information is stored digitally, a disclosure event is no longer about finding a crashed spacecraft in the desert. It is about obtaining records, authenticating evidence and distributing it before it can be suppressed. The UFO witness becomes an information activist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-2-dark.svg" | relative_url }}" alt="Daniel Kellner Whist 5746 F5 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -301,7 +301,7 @@ A whistleblower protagonist creates a different kind of suspense from a traditio
 
 The audience is not merely asked whether aliens are real. Instead, viewers are encouraged to evaluate competing claims about evidence. Is Daniel trustworthy? Is the archive genuine? Are institutions protecting the public or protecting themselves?
 
-This structure mirrors real disclosure debates, where arguments frequently revolve around access to information rather than direct proof of extraterrestrial life. The uncertainty therefore shifts from the phenomenon itself to the systems that manage knowledge about it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cybernews.com">[Cybernews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cybernews.com</span><span class="citation-popover-snippet">As politicians, whistleblowers, and internet sleuths continue debating UFO...Read more...</span></span></span>
+This structure mirrors real disclosure debates, where arguments frequently revolve around access to information rather than direct proof of extraterrestrial life. The uncertainty therefore shifts from the phenomenon itself to the systems that manage knowledge about it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cybernews.com">[Cybernews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cybernews.com</span><span class="citation-popover-snippet">As politicians, whistleblowers, and internet sleuths continue debating UFO...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X6nskXkYRyY" title="Disclosure Day | Official Trailer (2026) - Steven Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X6nskXkYRyY" target="_blank" rel="noopener noreferrer">Disclosure Day | Official Trailer (2026) - Steven Spielberg</a></p><p class="youtube-embed-meta">Channel: OnePress TV &middot; Views: 357 &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X6nskXkYRyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X6nskXkYRyY">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ This structure mirrors real disclosure debates, where arguments frequently revol
 
 Daniel's archive transforms the meaning of disclosure within the film. Rather than culminating in a private revelation experienced by a small group of characters, the story builds toward mass exposure.
 
-Accounts of the film's climax describe Daniel and his allies broadcasting decades of suppressed material through a live news transmission, allowing audiences around the world to see evidence that had previously been controlled by a secretive organisation. The key dramatic act is not discovering the truth but releasing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span> That shift has major consequences for the narrative:
+Accounts of the film's climax describe Daniel and his allies broadcasting decades of suppressed material through a live news transmission, allowing audiences around the world to see evidence that had previously been controlled by a secretive organisation. The key dramatic act is not discovering the truth but releasing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span> That shift has major consequences for the narrative:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -318,11 +318,11 @@ Accounts of the film's climax describe Daniel and his allies broadcasting decade
 * **Knowledge becomes public rather than exclusive.**
 * **The climax occurs through communication networks rather than at a hidden contact site.**
 * **The battle is over visibility and access, not merely survival or encounter.**
-* **Human institutions become as important as extraterrestrials themselves.** <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">ngo share their thoughts on the subject of real-life aliens and UFO conspiracy...</span></span></span>
+* **Human institutions become as important as extraterrestrials themselves.**<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">ngo share their thoughts on the subject of real-life aliens and UFO conspiracy...</span></span></span>
 
 </div>
 
-Daniel's archive therefore serves as the bridge between Spielberg's older UFO fascination and modern [disclosure culture]({{ 'disclosure-culture/' | relative_url }}). The film still contains mystery, contact and wonder, but those elements are filtered through questions about information control and public accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernpublicradio.org">[Northern Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernpublicradio.org</span><span class="citation-popover-snippet">conspiracy to hide the fact that aliens have been visiting Earth for decades...</span></span></span>
+Daniel's archive therefore serves as the bridge between Spielberg's older UFO fascination and modern [disclosure culture]({{ 'disclosure-culture/' | relative_url }}). The film still contains mystery, contact and wonder, but those elements are filtered through questions about information control and public accountability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernpublicradio.org">[Northern Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernpublicradio.org</span><span class="citation-popover-snippet">conspiracy to hide the fact that aliens have been visiting Earth for decades...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-3-dark.svg" | relative_url }}" alt="Daniel Kellner Whist 5746 F5 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_daniel_kellner_whist_5746f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,203 +330,203 @@ Daniel's archive therefore serves as the bridge between Spielberg's older UFO fa
 
 What makes Daniel distinctive among Spielberg protagonists is that he is neither a passive observer nor a chosen messenger. He acts. He steals, preserves and distributes information. His importance comes from agency rather than destiny.
 
-Many reviews have noted that *Disclosure Day* is less interested in proving alien existence than in exploring how societies respond when long-hidden truths emerge. Daniel embodies that concern. He is the person who forces the issue into public view. Without him, the story remains a secret. With him, secrecy becomes impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</span></span></span>
+Many reviews have noted that *Disclosure Day* is less interested in proving alien existence than in exploring how societies respond when long-hidden truths emerge. Daniel embodies that concern. He is the person who forces the issue into public view. Without him, the story remains a secret. With him, secrecy becomes impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</span></span></span>
 
-In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the mechanism of disclosure itself: a character designed to turn alien contact from a hidden encounter into a global argument over evidence, trust and who gets to know the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
+In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the mechanism of disclosure itself: a character designed to turn alien contact from a hidden encounter into a global argument over evidence, trust and who gets to know the truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KU7wRSOSxNw" title="DISCLOSURE DAY Movie Review SPOILER ALERT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KU7wRSOSxNw" target="_blank" rel="noopener noreferrer">DISCLOSURE DAY Movie Review SPOILER ALERT</a></p><p class="youtube-embed-meta">Channel: Fish Jelly Film Reviews &middot; Views: 27.2K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KU7wRSOSxNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KU7wRSOSxNw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Daniel Kellner Whist 5746 F5. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Daniel Kellner Whist 5746 F5. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="daniel-kellner-whist-5746-f5-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,114 +732,114 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
-   Link: <a href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/09/disclosure-day-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</p></details>
+   Link:<a href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/09/disclosure-day-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIME&#x27;Disclosure Day&#x27; Is One of Spielberg&#x27;s Finest Films3 days ago — Disclosure Day zips two stories together like strands of DNA. Daniel...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of revealing something massive to the...</p></details>
+   Link:<a href="https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookdotcom/posts/comicbookcoms-spencer-perry-has-our-review-of-disclosure-day-steven-spielberg-ha/1414665503860455/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of revealing something massive to the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ngo share their thoughts on the subject of real-life aliens and UFO conspiracy...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330?srsltid=AfmBOopyk3P9Tmd8e3iymByRmPSqkI-zm-cIJic0ZbjTb7VNX6B4Bter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ngo share their thoughts on the subject of real-life aliens and UFO conspiracy...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cybernews.com  
-   Link: <a href="https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As politicians, [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;), and internet sleuths continue debating UFO...Read more...</p></details>
+   Link:<a href="https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/entertainment/spielberg-disclosure-day-aliens-ufo-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As politicians, [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;), and internet sleuths continue debating UFO...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vulture.com  
    Title: lets talk about the ending of disclosure day  
-   Link: <a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</p></details>
+   Link:<a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOoqYunXuUh8sFPJciN65f-rLGiub43GjuU4gUGjeKtA4jPOTZgpE" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOoqYunXuUh8sFPJciN65f-rLGiub43GjuU4gUGjeKtA4jPOTZgpE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>er (O&#x27;Connor), a programmer with a wealth of knowledge and evidence that...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOoqYunXuUh8sFPJciN65f-rLGiub43GjuU4gUGjeKtA4jPOTZgpE" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOoqYunXuUh8sFPJciN65f-rLGiub43GjuU4gUGjeKtA4jPOTZgpE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er (O&#x27;Connor), a programmer with a wealth of knowledge and evidence that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X6nskXkYRyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6nskXkYRyY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day (2026) - Emily Blunt, Colin Firth | Steven Spielberg is directing this masterpiece...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X6nskXkYRyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6nskXkYRyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day (2026) - Emily Blunt, Colin Firth | Steven Spielberg is directing this masterpiece...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sfchronicle.com  
-   Link: <a href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</p></details>
+   Link:<a href="https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/entertainment/movies-tv/article/steven-spielberg-disclosure-day-22298103.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day” was inspired by UFO hearings and his changed views on alien life...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theatlantic.com  
-   Link: <a href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</p></details>
+   Link:<a href="https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e, and specifically with a whistleblower named Daniel Kellner (played by Josh O&#x27;Connor), who&#x27;s on the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: northernpublicradio.org  
-   Link: <a href="https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy to hide the fact that aliens have been visiting Earth for decades...</p></details>
+   Link:<a href="https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.northernpublicradio.org/2026-06-12/spielberg-returns-to-familiar-alien-territory-in-disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy to hide the fact that aliens have been visiting Earth for decades...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gamesradar.com  
-   Link: <a href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</p></details>
+   Link:<a href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian If aliens do exist, should we be told?  
-   Link: <a href="https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s...22 May 2026 —... whistleblower determined to tell the world there&#x27;s... Lights, cameras, aliens: meet the all-star...</p></details>
+   Link:<a href="https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s...22 May 2026 —... whistleblower determined to tell the world there&#x27;s... Lights, cameras, aliens: meet the all-star...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aol.com  
    Title: steven spielberg reveals belief aliens 174937000  
-   Link: <a href="https://www.aol.com/articles/steven-spielberg-reveals-belief-aliens-174937000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/steven-spielberg-reveals-belief-aliens-174937000.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Reveals New Belief in Aliens Ahead of &#x27;...4 Jun 2026 — In Disclosure Day, O&#x27;Connor plays Daniel Kellner, a young cybers...</p></details>
+   Link:<a href="https://www.aol.com/articles/steven-spielberg-reveals-belief-aliens-174937000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/steven-spielberg-reveals-belief-aliens-174937000.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Reveals New Belief in Aliens Ahead of &#x27;...4 Jun 2026 — In Disclosure Day, O&#x27;Connor plays Daniel Kellner, a young cybers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: memoria.film  
-   Link: <a href="https://memoria.film/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://memoria.film/disclosure-day-ending-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theories, and cast details of Spielberg&#x27;s 2026 sci-fi thriller in our...</p></details>
+   Link:<a href="https://memoria.film/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://memoria.film/disclosure-day-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theories, and cast details of Spielberg&#x27;s 2026 sci-fi thriller in our...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY2UDIxkf3X/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY2UDIxkf3X/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lower claims, and growing public pressure for answers.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY2UDIxkf3X/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY2UDIxkf3X/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lower claims, and growing public pressure for answers.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZfsNMYx0eS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZfsNMYx0eS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>m to the public. He is joined by Margaret...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZfsNMYx0eS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZfsNMYx0eS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>m to the public. He is joined by Margaret...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZdTpfWkkeT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZdTpfWkkeT/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s “Disclosure Day,” his first film in nearly...It stars Josh O&#x27;Connor as a whistleblower with government evidence of al...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZdTpfWkkeT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZdTpfWkkeT/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s “Disclosure Day,” his first film in nearly...It stars Josh O&#x27;Connor as a whistleblower with government evidence of al...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: DISCLOSURE DAY Movie Review SPOILER ALERT  
-   Link: <a href="https://www.youtube.com/watch?v=KU7wRSOSxNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KU7wRSOSxNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt - &quot;Margaret Fairchild&quot; &amp; Josh O&#x27;Connor - &quot;Daniel Kellner&quot; | Interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KU7wRSOSxNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KU7wRSOSxNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt - &quot;Margaret Fairchild&quot; &amp; Josh O&#x27;Connor - &quot;Daniel Kellner&quot; | Interview...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tIZO6R53yF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tIZO6R53yF4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Original Cin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tIZO6R53yF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tIZO6R53yF4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Original Cin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: motionpictures.org  
-   Link: <a href="https://www.motionpictures.org/2026/06/disclosure-day-review-round-up-steven-spielberg-returns-to-sci-fi-with-a-spellbinding-thriller/" target="_blank" rel="noopener noreferrer nofollow">https://www.motionpictures.org/2026/06/disclosure-day-review-round-up-steven-spielberg-returns-to-sci-fi-with-a-spellbinding-thriller/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion Picture Association&quot;Disclosure Day&quot; Review Round-Up: Steven Spielberg...3 days ago — 3 days ago — The film is centered on Josh O&#x27;...</p></details>
+   Link:<a href="https://www.motionpictures.org/2026/06/disclosure-day-review-round-up-steven-spielberg-returns-to-sci-fi-with-a-spellbinding-thriller/" target="_blank" rel="noopener noreferrer nofollow">https://www.motionpictures.org/2026/06/disclosure-day-review-round-up-steven-spielberg-returns-to-sci-fi-with-a-spellbinding-thriller/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motion Picture Association&quot;Disclosure Day&quot; Review Round-Up: Steven Spielberg...3 days ago — 3 days ago — The film is centered on Josh O&#x27;...</p></details>

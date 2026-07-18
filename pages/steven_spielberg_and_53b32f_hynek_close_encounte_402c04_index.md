@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-hynek/
 description: Focused pages that expand on Hynek System.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_hynek_close_encounte_402c04
 parent_title: Hynek System
@@ -16,7 +16,7 @@ parent_permalink: /hynek-system/
 
 # Explore Topics in Hynek System
 
-The following pages expand on the main **[Hynek System]({{ '/hynek-system/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Hynek System]({{ '/hynek-system/' | relative_url }})** page and cover its key branches in.
 
 - [First Kind Sighting 964 Dcc]({{ '/first-kind-sighting-964-dcc/' | relative_url }})
 - [Hynek Adviser Credib B6 Afb 2]({{ '/hynek-adviser-credib-b6-afb-2/' | relative_url }})

@@ -264,30 +264,30 @@ image: /assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_co
 
 ## Introduction
 
-The significance of the Colbert conversation is not that Spielberg suddenly declared belief in aliens. Rather, it revealed how his thinking had shifted from a general belief that intelligent life probably exists elsewhere to a growing sense that some unexplained phenomenon deserved serious attention. The interview therefore serves as an important turning point in understanding his later statements about UFOs and visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+The significance of the Colbert conversation is not that Spielberg suddenly declared belief in aliens. Rather, it revealed how his thinking had shifted from a general belief that intelligent life probably exists elsewhere to a growing sense that some unexplained phenomenon deserved serious attention. The interview therefore serves as an important turning point in understanding his later statements about UFOs and visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-1-dark.svg" | relative_url }}" alt="Colbert Turning Poin 7 Cfaa 2 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Spielberg Said He Had and Had Not Seen
 
-One of the most revealing aspects of the interview was Spielberg's insistence on separating personal experience from belief. He told Colbert that he had never seen a UFO himself and had never witnessed anything he could not explain. At the same time, he said he believed some people who reported encounters they could not account for and described recent developments surrounding UFO reports as “fascinating.” He argued that such claims deserved careful investigation rather than immediate dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
+One of the most revealing aspects of the interview was Spielberg's insistence on separating personal experience from belief. He told Colbert that he had never seen a UFO himself and had never witnessed anything he could not explain. At the same time, he said he believed some people who reported encounters they could not account for and described recent developments surrounding UFO reports as “fascinating.” He argued that such claims deserved careful investigation rather than immediate dismissal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
 
-That distinction mattered. Spielberg was not presenting himself as a witness or insider. His position rested on interest in testimony, reports and emerging public discussion rather than on direct personal evidence. This cautious framing kept him well short of asserting that alien spacecraft were visiting Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
+That distinction mattered. Spielberg was not presenting himself as a witness or insider. His position rested on interest in testimony, reports and emerging public discussion rather than on direct personal evidence. This cautious framing kept him well short of asserting that alien spacecraft were visiting Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
 
-At the same time, he reaffirmed a long-held view that humanity is unlikely to be alone in the cosmos. For Spielberg, the immense scale of the universe made the existence of other intelligent life seem probable. The unanswered question was not whether intelligence existed elsewhere but what relationship, if any, that intelligence had to the UFO phenomenon being discussed in contemporary culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+At the same time, he reaffirmed a long-held view that humanity is unlikely to be alone in the cosmos. For Spielberg, the immense scale of the universe made the existence of other intelligent life seem probable. The unanswered question was not whether intelligence existed elsewhere but what relationship, if any, that intelligence had to the UFO phenomenon being discussed in contemporary culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wRefuYXXZLQ" title="Step Aside, Obama. Steven Spielberg Wants To Be Humanity&#x27;s Ambassador To The Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wRefuYXXZLQ" target="_blank" rel="noopener noreferrer">Step Aside, Obama. Steven Spielberg Wants To Be Humanity&#x27;s Ambassador To The Aliens</a></p><p class="youtube-embed-meta">Channel: The Late Show with Stephen Colbert &middot; Views: 463.0K &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wRefuYXXZLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wRefuYXXZLQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Future Humans Entered the UFO Question
 
-The most memorable moment of the interview was Spielberg's alternative explanation for UFOs. Rather than immediately embracing extraterrestrial visitation, he proposed a speculative possibility: what if some of the observers reported throughout history were actually future humans travelling back through time? He suggested that advanced descendants of humanity might revisit pivotal moments in their own past to study history directly. IndieWire <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avclub.com">[AV Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avclub.com</span><span class="citation-popover-snippet">AV ClubSteven Spielberg shares personal theory explaining all...“There&#x27;s Something Out There” – Steven Spielberg on Alien Visitors, and...</span></span></span>
+The most memorable moment of the interview was Spielberg's alternative explanation for UFOs. Rather than immediately embracing extraterrestrial visitation, he proposed a speculative possibility: what if some of the observers reported throughout history were actually future humans travelling back through time? He suggested that advanced descendants of humanity might revisit pivotal moments in their own past to study history directly. IndieWire<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avclub.com">[AV Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avclub.com</span><span class="citation-popover-snippet">AV ClubSteven Spielberg shares personal theory explaining all...“There&#x27;s Something Out There” – Steven Spielberg on Alien Visitors, and...</span></span></span>
 
-This idea was important because it demonstrated that Spielberg was actively looking beyond the standard “aliens from another planet” narrative. His suggestion implied that he believed something unexplained could be occurring while remaining unconvinced that the explanation had to be extraterrestrial. The future-human hypothesis functioned as a middle ground between scepticism and belief in alien visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+This idea was important because it demonstrated that Spielberg was actively looking beyond the standard “aliens from another planet” narrative. His suggestion implied that he believed something unexplained could be occurring while remaining unconvinced that the explanation had to be extraterrestrial. The future-human hypothesis functioned as a middle ground between scepticism and belief in alien visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
-The theory also reflected a practical concern that Spielberg raised during the discussion. Even if intelligent civilisations exist elsewhere, the distances involved in interstellar travel are immense. By introducing concepts such as advanced future technology and time travel, he was exploring ways around the physical barriers that make conventional extraterrestrial visitation difficult to imagine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+The theory also reflected a practical concern that Spielberg raised during the discussion. Even if intelligent civilisations exist elsewhere, the distances involved in interstellar travel are immense. By introducing concepts such as advanced future technology and time travel, he was exploring ways around the physical barriers that make conventional extraterrestrial visitation difficult to imagine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
-Whether plausible or not, the proposal revealed a notable change in emphasis. Spielberg was no longer treating UFOs solely as a cinematic subject. He was publicly entertaining possible explanations for the phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+Whether plausible or not, the proposal revealed a notable change in emphasis. Spielberg was no longer treating UFOs solely as a cinematic subject. He was publicly entertaining possible explanations for the phenomenon itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-2-dark.svg" | relative_url }}" alt="Colbert Turning Poin 7 Cfaa 2 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,11 +304,11 @@ Several themes appeared together:
 * He acknowledged that credible people report experiences they cannot explain.
 * He argued that UFO reports deserved serious investigation.
 * He rejected the idea that his own experience constituted evidence.
-* He stopped short of claiming that aliens were definitely visiting Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+* He stopped short of claiming that aliens were definitely visiting Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
 </div>
 
-That combination created a position distinct from both strong scepticism and strong belief. Spielberg's comments suggested that he thought the subject had become worthy of mainstream attention, particularly given increasing public discussion and government interest in unidentified aerial phenomena. Yet he still framed the issue as an open question rather than a settled conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
+That combination created a position distinct from both strong scepticism and strong belief. Spielberg's comments suggested that he thought the subject had become worthy of mainstream attention, particularly given increasing public discussion and government interest in unidentified aerial phenomena. Yet he still framed the issue as an open question rather than a settled conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
 
 The interview therefore captures a moment when Spielberg's public stance was best described as investigative curiosity. He was willing to follow the evidence wherever it might lead, but he had not yet arrived at a definitive belief about alien visitation.
 
@@ -319,213 +319,213 @@ The interview therefore captures a moment when Spielberg's public stance was bes
 
 The contrast with Spielberg's later remarks is what makes the 2023 appearance such a useful historical marker.
 
-In 2023, Spielberg's core message was that something unexplained might be happening and that people should examine the evidence seriously. He openly admitted that he had never seen a UFO and floated multiple possibilities, including the future-human theory. The emphasis was on uncertainty and exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+In 2023, Spielberg's core message was that something unexplained might be happening and that people should examine the evidence seriously. He openly admitted that he had never seen a UFO and floated multiple possibilities, including the future-human theory. The emphasis was on uncertainty and exploration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
-By 2026, during the media tour surrounding *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, his language became considerably firmer. He said that after years of listening to [witnesses]({{ 'witnesses/' | relative_url }}), following reports and observing public developments, he personally believed aliens had been here and were here now. That statement represented a shift from discussing possibilities to expressing a settled personal conviction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSteven Spielberg on his faith in alien life, the future of...June 3, 2026 — 3 Jun 2026 — But Spielberg, having long followed rep...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
+By 2026, during the media tour surrounding *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, his language became considerably firmer. He said that after years of listening to [witnesses]({{ 'witnesses/' | relative_url }}), following reports and observing public developments, he personally believed aliens had been here and were here now. That statement represented a shift from discussing possibilities to expressing a settled personal conviction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSteven Spielberg on his faith in alien life, the future of...June 3, 2026 — 3 Jun 2026 — But Spielberg, having long followed rep...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
 
-The difference is not merely rhetorical. In 2023, Spielberg was exploring explanations. In 2026, he was endorsing one. The Colbert interview therefore serves as the clearest public record of the transitional stage between those positions. It shows him moving away from simple cosmic speculation while still stopping short of the belief in visitation that he would later state openly. IndieWire <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
+The difference is not merely rhetorical. In 2023, Spielberg was exploring explanations. In 2026, he was endorsing one. The Colbert interview therefore serves as the clearest public record of the transitional stage between those positions. It shows him moving away from simple cosmic speculation while still stopping short of the belief in visitation that he would later state openly. IndieWire<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-title">Steven Spielberg Has His Own Theory About Those UFOs</span><span class="citation-popover-snippet">aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-3-dark.svg" | relative_url }}" alt="Colbert Turning Poin 7 Cfaa 2 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_colbert_turning_poin_7cfaa2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Colbert Moment Matters
 
-Viewed in hindsight, the 2023 interview was less about a dramatic declaration and more about a change in mindset. Spielberg publicly demonstrated that he considered UFO reports worthy of attention, that he found existing explanations incomplete, and that he was willing to entertain unconventional possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+Viewed in hindsight, the 2023 interview was less about a dramatic declaration and more about a change in mindset. Spielberg publicly demonstrated that he considered UFO reports worthy of attention, that he found existing explanations incomplete, and that he was willing to entertain unconventional possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
-For decades, Spielberg had been associated with cinematic visions of extraterrestrial contact. The Colbert conversation showed him beginning to discuss the real-world UFO question in a more personal and exploratory way. That made it a pivotal stage in the evolution of his public views: not yet a declaration of belief in alien visitation, but no longer merely an abstract fascination with life elsewhere in the universe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
+For decades, Spielberg had been associated with cinematic visions of extraterrestrial contact. The Colbert conversation showed him beginning to discuss the real-world UFO question in a more personal and exploratory way. That made it a pivotal stage in the evolution of his public views: not yet a declaration of belief in alien visitation, but no longer merely an abstract fascination with life elsewhere in the universe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">steven spielberg on ufos aliens 1234816012</span><span class="citation-popover-snippet">“The most optimistic...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tBd9XRy5OPA" title="What Film Would Steven Spielberg Show to Aliens Visiting Earth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tBd9XRy5OPA" target="_blank" rel="noopener noreferrer">What Film Would Steven Spielberg Show to Aliens Visiting Earth?</a></p><p class="youtube-embed-meta">Channel: The Late Show with Stephen Colbert &middot; Views: 110.5K &middot; Uploaded: March 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tBd9XRy5OPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tBd9XRy5OPA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Colbert Turning Poin 7 Cfaa 2. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Colbert Turning Poin 7 Cfaa 2. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="colbert-turning-poin-7-cfaa-2-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,96 +731,96 @@ For decades, Spielberg had been associated with cinematic visions of extraterres
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: indiewire.com  
    Title: steven spielberg on ufos aliens 1234816012  
-   Link: <a href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“The most optimistic...Read more...</p></details>
+   Link:<a href="https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/features/general/steven-spielberg-on-ufos-aliens-1234816012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The most optimistic...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imdb.com  
    Title: Steven Spielberg Has His Own Theory About Those UFOs  
-   Link: <a href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni63982418/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</p></details>
+   Link:<a href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni63982418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, the saga has certainly piqued his interest. “I&#x27;ve never seen a UFO,” Spielberg said. “I wish I had! I&#x27;ve never seen anything I ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: indiewire.com  
-   Link: <a href="https://www.indiewire.com/criticism/movies/disclosure-day-movie-review-steven-spielberg-aliens-1235198997/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/criticism/movies/disclosure-day-movie-review-steven-spielberg-aliens-1235198997/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ism in a Giddy Alien Blockbuster About How No One Is Alone in the Universe.Read more...</p></details>
+   Link:<a href="https://www.indiewire.com/criticism/movies/disclosure-day-movie-review-steven-spielberg-aliens-1235198997/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/criticism/movies/disclosure-day-movie-review-steven-spielberg-aliens-1235198997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ism in a Giddy Alien Blockbuster About How No One Is Alone in the Universe.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: indiewire.com  
    Title: disclosure day teaser steven spielberg ufo movie 1235168246  
-   Link: <a href="https://www.indiewire.com/news/breaking-news/disclosure-day-teaser-steven-spielberg-ufo-movie-1235168246/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/news/breaking-news/disclosure-day-teaser-steven-spielberg-ufo-movie-1235168246/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Disclosure Day&#x27; Teaser: Steven Spielberg&#x27;s UFO Movie...16 Dec 2025 — Josh O&#x27;Connor, Colin Firth, Eve Hewson, and Colman Domingo star in...</p></details>
+   Link:<a href="https://www.indiewire.com/news/breaking-news/disclosure-day-teaser-steven-spielberg-ufo-movie-1235168246/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/news/breaking-news/disclosure-day-teaser-steven-spielberg-ufo-movie-1235168246/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Disclosure Day&#x27; Teaser: Steven Spielberg&#x27;s UFO Movie...16 Dec 2025 — Josh O&#x27;Connor, Colin Firth, Eve Hewson, and Colman Domingo star in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Steven Spielberg on Alien Visitors, and an “E.T.” Sequel  
-   Link: <a href="https://www.youtube.com/watch?v=ZgUed2YirEk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgUed2YirEk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZgUed2YirEk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgUed2YirEk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: avclub.com  
-   Link: <a href="https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AV ClubSteven Spielberg shares personal theory explaining all...“There&#x27;s Something Out There” – Steven Spielberg on Alien Visitors, and...</p></details>
+   Link:<a href="https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/steven-spielberg-stephen-colbert-ufos-et-aliens-1850192452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AV ClubSteven Spielberg shares personal theory explaining all...“There&#x27;s Something Out There” – Steven Spielberg on Alien Visitors, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSteven Spielberg on his faith in alien life, the future of...June 3, 2026 — 3 Jun 2026 — But Spielberg, having long followed rep...</p></details>
+   Link:<a href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSteven Spielberg on his faith in alien life, the future of...June 3, 2026 — 3 Jun 2026 — But Spielberg, having long followed rep...</p></details>
    Published: June 3, 2026  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/spielberg-teases-new-alien-film-disclosure-day-more-truth-than-fiction-2026-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/spielberg-teases-new-alien-film-disclosure-day-more-truth-than-fiction-2026-04-16/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military sightings of unidentified flying objects. The film aims to both answer and provoke questions about extraterrestrial life. A shor...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/spielberg-teases-new-alien-film-disclosure-day-more-truth-than-fiction-2026-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/spielberg-teases-new-alien-film-disclosure-day-more-truth-than-fiction-2026-04-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military sightings of unidentified flying objects. The film aims to both answer and provoke questions about extraterrestrial life. A shor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/latimes/posts/in-a-talk-at-south-by-southwest-steven-spielberg-revealed-his-own-thoughts-about/1476439524522915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latimes/posts/in-a-talk-at-south-by-southwest-steven-spielberg-revealed-his-own-thoughts-about/1476439524522915/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s upcoming UFO movie retitled &quot;Disclosure.&quot; ** Very strange why Spielberg had such an infatuation with UFO&#x27;s and Aliens...Rea...</p></details>
+   Link:<a href="https://www.facebook.com/latimes/posts/in-a-talk-at-south-by-southwest-steven-spielberg-revealed-his-own-thoughts-about/1476439524522915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latimes/posts/in-a-talk-at-south-by-southwest-steven-spielberg-revealed-his-own-thoughts-about/1476439524522915/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s upcoming UFO movie retitled &quot;Disclosure.&quot; ** Very strange why Spielberg had such an infatuation with UFO&#x27;s and Aliens...Rea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11h6btj/steven_spielberg_and_colbert_talk_about_uaps_last/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11h6btj/steven_spielberg_and_colbert_talk_about_uaps_last/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This interview with Steven Spielberg in 1977 reminded me... r/UFOs - Aliens ARE out there: Neil deGrasse Tyson on NEW Trump UFO.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11h6btj/steven_spielberg_and_colbert_talk_about_uaps_last/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11h6btj/steven_spielberg_and_colbert_talk_about_uaps_last/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This interview with Steven Spielberg in 1977 reminded me... r/UFOs - Aliens ARE out there: Neil deGrasse Tyson on NEW Trump UFO.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: What movie would you show an alien life-form to explain humans?  
-   Link: <a href="https://www.facebook.com/colbertlateshow/videos/steven-spielberg-late-show-interview/920127169188652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colbertlateshow/videos/steven-spielberg-late-show-interview/920127169188652/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephen and #StevenSpielberg weigh in. Drop your film of choice in the replies below! #ColbertWhat movie would you show an alien life-for...</p></details>
+   Link:<a href="https://www.facebook.com/colbertlateshow/videos/steven-spielberg-late-show-interview/920127169188652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colbertlateshow/videos/steven-spielberg-late-show-interview/920127169188652/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stephen and #StevenSpielberg weigh in. Drop your film of choice in the replies below! #ColbertWhat movie would you show an alien life-for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZXv9cQEysM/?img_index=6" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZXv9cQEysM/?img_index=6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e public awareness around UFOs and contributed to the cultural timing...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZXv9cQEysM/?img_index=6" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZXv9cQEysM/?img_index=6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e public awareness around UFOs and contributed to the cultural timing...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/happymagtv/posts/steven-spielberg-believes-extraterrestrials-are-already-among-us/1423408393154716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/steven-spielberg-believes-extraterrestrials-are-already-among-us/1423408393154716/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, filmmaker Steven Spielberg shared a striking idea...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/happymagtv/posts/steven-spielberg-believes-extraterrestrials-are-already-among-us/1423408393154716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/steven-spielberg-believes-extraterrestrials-are-already-among-us/1423408393154716/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, filmmaker Steven Spielberg shared a striking idea...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbs.com  
-   Link: <a href="https://www.cbs.com/shows/video/ALVE01KS1YV1SKECEVKPPCJYDPDYMS/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/shows/video/ALVE01KS1YV1SKECEVKPPCJYDPDYMS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wants To Be Humanity&#x27;s Ambassador To The Aliens &amp;middot; Full Episodes...</p></details>
+   Link:<a href="https://www.cbs.com/shows/video/ALVE01KS1YV1SKECEVKPPCJYDPDYMS/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/shows/video/ALVE01KS1YV1SKECEVKPPCJYDPDYMS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wants To Be Humanity&#x27;s Ambassador To The Aliens &amp;middot; Full Episodes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
    Title: UFO and extraterrestrial visitation to this  
-   Link: <a href="https://www.instagram.com/reel/DYi4eHZBqNS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYi4eHZBqNS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Late Show on Instagram: &quot;Steven Spielberg is patiently...Because -- I think you saw, he did an interview where he said, &#x27;No, no, the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYi4eHZBqNS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYi4eHZBqNS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Late Show on Instagram: &quot;Steven Spielberg is patiently...Because -- I think you saw, he did an interview where he said, &#x27;No, no, the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thewrap.com  
    Title: steven spielberg unfair aliens havent revealed to him  
-   Link: <a href="https://www.thewrap.com/creative-content/tv-shows/steven-spielberg-unfair-aliens-havent-revealed-to-him/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewrap.com/creative-content/tv-shows/steven-spielberg-unfair-aliens-havent-revealed-to-him/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can watch the full extraterrestrial conversation in the video above. Stephen Colbert...Read more...</p></details>
+   Link:<a href="https://www.thewrap.com/creative-content/tv-shows/steven-spielberg-unfair-aliens-havent-revealed-to-him/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewrap.com/creative-content/tv-shows/steven-spielberg-unfair-aliens-havent-revealed-to-him/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can watch the full extraterrestrial conversation in the video above. Stephen Colbert...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/colbertlateshow/posts/steven-spielberg-is-patiently-awaiting-his-own-personal-close-encounter-colbert-/1450047193831190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colbertlateshow/posts/steven-spielberg-is-patiently-awaiting-his-own-personal-close-encounter-colbert-/1450047193831190/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ork in UFO/Extraterrestrials...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/colbertlateshow/posts/steven-spielberg-is-patiently-awaiting-his-own-personal-close-encounter-colbert-/1450047193831190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colbertlateshow/posts/steven-spielberg-is-patiently-awaiting-his-own-personal-close-encounter-colbert-/1450047193831190/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ork in UFO/Extraterrestrials...Read more...</p></details>

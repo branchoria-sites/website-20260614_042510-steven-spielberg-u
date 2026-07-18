@@ -442,7 +442,7 @@ image: /assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-ov
 
 ## Introduction
 
-Devils Tower became UFO mythology because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* made a real, unmistakable landmark function like a message. In Steven Spielberg’s film, witnesses are not simply trying to understand lights in the sky; they are being pulled towards a place. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s mashed-potato mountain, Jillian Guiler’s sketches, the government’s secret Wyoming operation and the final exchange of light and music all turn Devils Tower into the geography of contact: a destination where private obsession, official secrecy and extraterrestrial communication finally meet. The effect worked because the site already looked singular. The National Park Service describes Devils Tower as a rock formation rising above the grassland and ponderosa pine forests, made of rare phonolite porphyry and marked by extraordinary columnar jointing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
+Devils Tower became UFO mythology because *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* made a real, unmistakable landmark function like a message. In Steven Spielberg’s film, witnesses are not simply trying to understand lights in the sky; they are being pulled towards a place. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s mashed-potato mountain, Jillian Guiler’s sketches, the government’s secret Wyoming operation and the final exchange of light and music all turn Devils Tower into the geography of contact: a destination where private obsession, official secrecy and extraterrestrial communication finally meet. The effect worked because the site already looked singular. The National Park Service describes Devils Tower as a rock formation rising above the grassland and ponderosa pine forests, made of rare phonolite porphyry and marked by extraordinary columnar jointing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-overview.webp" | relative_url }}" alt="Overview image for Devils Tower" loading="eager" decoding="sync" fetchpriority="high">
@@ -450,11 +450,11 @@ The film did not invent the Tower’s significance. It overlaid a twentieth-cent
 
 ## The landmark as a mental image
 
-The central trick of Devils Tower in *Close Encounters* is that the place appears before it is named. Roy Neary does not initially know what the shape means. He sees it in his mind, repeats it unconsciously, sculpts it with mashed potatoes, tries to build it from clay and later recognises it only when a television news report shows the real mountain in Wyoming. AFI’s plot summary tracks that progression: Roy is “haunted by the mountain shape”, sculpts it at dinner, builds models, then recognises the flat-topped form when footage near Devils Tower appears during the staged evacuation report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+The central trick of Devils Tower in *Close Encounters* is that the place appears before it is named. Roy Neary does not initially know what the shape means. He sees it in his mind, repeats it unconsciously, sculpts it with mashed potatoes, tries to build it from clay and later recognises it only when a television news report shows the real mountain in Wyoming. AFI’s plot summary tracks that progression: Roy is “haunted by the mountain shape”, sculpts it at dinner, builds models, then recognises the flat-topped form when footage near Devils Tower appears during the staged evacuation report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That makes the Tower different from a normal film location. It is not merely where the climax happens; it is the image that organises the film’s middle movement. Spielberg turns geography into compulsion. The [witnesses]({{ 'witnesses/' | relative_url }}) do not decode a clue in the calm manner of detectives. They repeat a form they cannot explain, and the audience watches the gap between image and meaning slowly close.
 
-Devils Tower is unusually suited to that role because it is recognisable from silhouette alone. The NPS describes it as rising above the surrounding grassland “like a rocky sentinel”, with columns that can soar hundreds of feet and stretch up to 10 feet in width. Geologists still debate details of its formation, but agree that erosion exposed a harder igneous mass while wearing away the surrounding sedimentary rock. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> This gives the film a powerful visual premise: the landmark looks both natural and improbable, like something that could be ancient geology or a deliberately planted signal.
+Devils Tower is unusually suited to that role because it is recognisable from silhouette alone. The NPS describes it as rising above the surrounding grassland “like a rocky sentinel”, with columns that can soar hundreds of feet and stretch up to 10 feet in width. Geologists still debate details of its formation, but agree that erosion exposed a harder igneous mass while wearing away the surrounding sedimentary rock.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> This gives the film a powerful visual premise: the landmark looks both natural and improbable, like something that could be ancient geology or a deliberately planted signal.
 
 The flat top matters, too. A pointed mountain would suggest pilgrimage, conquest or wilderness. Devils Tower’s table-like summit and vertical sides suggest something else: a receiving platform, a beacon, a form waiting to be completed by arrival from above. The film exploits that ambiguity. Roy’s models are not beautiful landscapes; they are attempts to reconstruct a mental summons.
 
@@ -462,7 +462,7 @@ The flat top matters, too. A pointed mountain would suggest pilgrimage, conquest
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-1-dark.svg" | relative_url }}" alt="Devils Tower illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A destination for witnesses and officials
 
-Once the Tower is identified, *Close Encounters* changes from a story about scattered sightings into a story about converging routes. The extraterrestrial signal is translated into Wyoming coordinates, while ordinary witnesses recognise the same form through dreams, drawings and compulsions. AFI records the narrative mechanism clearly: a repeated numerical signal is identified as longitude, the team determines the location is in Wyoming, and military personnel study a map of “Devil’s Tower” while debating cover stories to evacuate the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Once the Tower is identified, *Close Encounters* changes from a story about scattered sightings into a story about converging routes. The extraterrestrial signal is translated into Wyoming coordinates, while ordinary witnesses recognise the same form through dreams, drawings and compulsions. AFI records the narrative mechanism clearly: a repeated numerical signal is identified as longitude, the team determines the location is in Wyoming, and military personnel study a map of “Devil’s Tower” while debating cover stories to evacuate the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That convergence gives the film its distinctive geography of contact. Three systems arrive at the same place:
 
@@ -470,18 +470,18 @@ That convergence gives the film its distinctive geography of contact. Three syst
 * **Scientific translation:** Lacombe’s team treats the signal as data, maps it and prepares an organised response.
 * **State [secrecy]({{ 'secrecy/' | relative_url }}):** the military turns the surrounding area into a restricted zone, using a false nerve-gas emergency to keep civilians away.
 
-The result is not just a landing site but a contested threshold. The same place means revelation to the witnesses, operational control to the authorities and communication to the visitors. AFI’s summary notes the staged train derailment and nerve-gas story, the evacuation, the roadblocks, the detention of civilians and the discovery of a lit landing arena behind Devils Tower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+The result is not just a landing site but a contested threshold. The same place means revelation to the witnesses, operational control to the authorities and communication to the visitors. AFI’s summary notes the staged train derailment and nerve-gas story, the evacuation, the roadblocks, the detention of civilians and the discovery of a lit landing arena behind Devils Tower.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 This is why Devils Tower feels more convincing than an abstract science-fiction base. The film does not stage contact in a clean laboratory or on a remote planet. It places it beside an American national monument, reachable by roads, visible from a distance and surrounded by ordinary land. The journey to contact therefore has recognisable social obstacles: television news, barricades, gas masks, helicopters, soldiers and people trying to decide whether official explanations can be trusted.
 
-The production history reinforces the importance of the place. AFI lists Devils Tower, Wyoming, among the film’s geographic locations, alongside places such as Burbank, Mobile, Washington, White Sands and India. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Yet among those locations, Devils Tower is the one that becomes the film’s visual emblem. The others broaden the story into a global pattern of UFO activity; the Tower concentrates that pattern into one destination.
+The production history reinforces the importance of the place. AFI lists Devils Tower, Wyoming, among the film’s geographic locations, alongside places such as Burbank, Mobile, Washington, White Sands and India.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> Yet among those locations, Devils Tower is the one that becomes the film’s visual emblem. The others broaden the story into a global pattern of UFO activity; the Tower concentrates that pattern into one destination.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cdkS0TgEG30" title="Close Encounters of the Third Kind (4/8) Movie CLIP - Roy&#x27;s Mashed Potatoes (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cdkS0TgEG30" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (4/8) Movie CLIP - Roy&#x27;s Mashed Potatoes (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 417.6K &middot; Uploaded: October 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cdkS0TgEG30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cdkS0TgEG30">Open on YouTube</a></p></div></div></div>
 
 ## How place makes contact feel real
 
-The realism of the final encounter comes partly from the fact that Devils Tower is not fictional scenery. The NPS identifies the site as America’s first national monument, established in 1906, and describes it as a significant natural and cultural landmark in north-eastern Wyoming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> The Tower also has visible features that make it difficult to reduce to a painted backdrop: its columnar faces, boulder fields, surrounding prairie, access roads and changing light all give the climax a sense of scale.
+The realism of the final encounter comes partly from the fact that Devils Tower is not fictional scenery. The NPS identifies the site as America’s first national monument, established in 1906, and describes it as a significant natural and cultural landmark in north-eastern Wyoming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> The Tower also has visible features that make it difficult to reduce to a painted backdrop: its columnar faces, boulder fields, surrounding prairie, access roads and changing light all give the climax a sense of scale.
 
 Spielberg uses that scale to make the impossible feel staged within a real landscape. The witnesses climb, hide, look down into an illuminated arena and watch the sky fill with movement. The landing site is technologically artificial, but the surrounding form is ancient. That contrast is crucial. The film’s science-fiction machinery looks temporary; the Tower looks like it has been waiting for centuries.
 
@@ -493,24 +493,24 @@ This helps explain why the film’s most memorable act of communication happens 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-2-dark.svg" | relative_url }}" alt="Devils Tower illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_devils_tower_contact_d94aa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The older meanings beneath the UFO image
 
-The UFO mythology around Devils Tower is powerful, but it sits on top of older meanings that the film does not own. The National Park Service describes the Tower as sacred to Northern Plains Indians and Indigenous people, and its cultural pages stress that stories associated with the site should be understood as oral histories or sacred narratives rather than merely as “myths” or “legends”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
+The UFO mythology around Devils Tower is powerful, but it sits on top of older meanings that the film does not own. The National Park Service describes the Tower as sacred to Northern Plains Indians and Indigenous people, and its cultural pages stress that stories associated with the site should be understood as oral histories or sacred narratives rather than merely as “myths” or “legends”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
 
-Those traditions often connect the Tower to bears, rescue, ascent and the sky. In one Kiowa narrative recorded by the NPS, seven girls chased by bears pray to a rock, which rises and carries them upward; the bears’ claws leave marks on the sides, and the girls become the Pleiades. Crow, Arapaho, Cheyenne and Lakota accounts also connect the place with Bear Lodge, sacred action, worship or supernatural transformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
+Those traditions often connect the Tower to bears, rescue, ascent and the sky. In one Kiowa narrative recorded by the NPS, seven girls chased by bears pray to a rock, which rises and carries them upward; the bears’ claws leave marks on the sides, and the girls become the Pleiades. Crow, Arapaho, Cheyenne and Lakota accounts also connect the place with Bear Lodge, sacred action, worship or supernatural transformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
 
 That matters for reading *Close Encounters* carefully. Spielberg’s film uses the Tower as a modern symbol of cosmic contact, but the site was already a place where stories linked land, sky, danger and transformation. The film’s UFO narrative is not the same as those Indigenous traditions and should not be treated as replacing them. Instead, it shows how a landmark can accumulate meanings: sacred site, geological wonder, national monument, climbing destination, film location and UFO icon.
 
-Even the name “Devils Tower” carries contested history. The NPS explains that many maps from 1857 to 1901 used Bear Lodge or Bears Lodge, based on a common Lakota name, while the later “Devil’s Tower” label may have arisen from a bad translation or from a deliberate renaming by Richard Irving Dodge’s expedition. The official spelling became “Devils Tower” without an apostrophe because of federal naming policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
+Even the name “Devils Tower” carries contested history. The NPS explains that many maps from 1857 to 1901 used Bear Lodge or Bears Lodge, based on a common Lakota name, while the later “Devil’s Tower” label may have arisen from a bad translation or from a deliberate renaming by Richard Irving Dodge’s expedition. The official spelling became “Devils Tower” without an apostrophe because of federal naming policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span>
 
-The modern management of the site reflects these layered meanings. Since 1996, the NPS has implemented a voluntary June climbing closure out of respect for tribal cultural activities connected with Mato Tipila or Bear Lodge; the agency says the closure originated in the 1995 Climbing Management Plan and has led to an average 85% reduction in climbers during June. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> This is a reminder that Devils Tower is not only a pop-culture symbol. It is a living cultural landscape whose meanings exceed the UFO frame.
+The modern management of the site reflects these layered meanings. Since 1996, the NPS has implemented a voluntary June climbing closure out of respect for tribal cultural activities connected with Mato Tipila or Bear Lodge; the agency says the closure originated in the 1995 Climbing Management Plan and has led to an average 85% reduction in climbers during June.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service How the Tower Formed</span><span class="citation-popover-snippet">National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</span></span></span> This is a reminder that Devils Tower is not only a pop-culture symbol. It is a living cultural landscape whose meanings exceed the UFO frame.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lS8wl03wx9k" title="DEVILS TOWER!!! Close Encounters of the Third Kind filming location and National Monument with kids." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lS8wl03wx9k" target="_blank" rel="noopener noreferrer">DEVILS TOWER!!! Close Encounters of the Third Kind filming location and National Monument with kids.</a></p><p class="youtube-embed-meta">Channel: Doodle the Travel Bug &middot; Views: 5.1K &middot; Uploaded: November 2020</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lS8wl03wx9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lS8wl03wx9k">Open on YouTube</a></p></div></div></div>
 
 ## From film location to UFO pilgrimage site
 
-After *Close Encounters*, Devils Tower became inseparable from the public memory of cinematic UFO contact. The National Parks Foundation describes the film as making Devils Tower a pop-culture phenomenon, while the NPS reports that the monument reached an all-time visitation high by September 2021, with more than 509,000 visitors and most visitation concentrated between late May and early September. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalparks.org/explore/parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalparks.org">[National Park Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalparks.org</span><span class="citation-popover-snippet">National Park FoundationDevils Tower National MonumentClose Encounters of the Third Kind made Devils Tower a pop culture phenomenon, and...</span></span></span>
+After *Close Encounters*, Devils Tower became inseparable from the public memory of cinematic UFO contact. The National Parks Foundation describes the film as making Devils Tower a pop-culture phenomenon, while the NPS reports that the monument reached an all-time visitation high by September 2021, with more than 509,000 visitors and most visitation concentrated between late May and early September.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalparks.org/explore/parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalparks.org">[National Park Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalparks.org</span><span class="citation-popover-snippet">National Park FoundationDevils Tower National MonumentClose Encounters of the Third Kind made Devils Tower a pop culture phenomenon, and...</span></span></span>
 
-Local accounts of the film’s legacy describe a particularly direct link between the location and tourism. A 2026 Cowboy State Daily feature reported that filming at Devils Tower began in May 1976 after an agreement with local rancher Jesse Thomas Driskill, and that the production transformed hay meadows near the monument into the decontamination base and main filming area. The same report says the film helped turn the landmark into a bucket-list stop for movie lovers and believers in extraterrestrial life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local accounts of the film’s legacy describe a particularly direct link between the location and tourism. A 2026 Cowboy State Daily feature reported that filming at Devils Tower began in May 1976 after an agreement with local rancher Jesse Thomas Driskill, and that the production transformed hay meadows near the monument into the decontamination base and main filming area. The same report says the film helped turn the landmark into a bucket-list stop for movie lovers and believers in extraterrestrial life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That “pilgrimage” effect is unusually fitting because the film itself is about people travelling to the Tower. Viewers who later visit are, in a mild and playful way, repeating the structure of the story: they have seen an image, attached meaning to it, and gone to the place where the image becomes real. Unlike a studio set, Devils Tower allows that loop to continue outside the cinema.
 
@@ -531,194 +531,194 @@ That is why Devils Tower became more than the location of the final scene. In *C
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Devils Tower Became UFO Mythology. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Devils Tower Became UFO Mythology. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supplies the encounter framework and UFO vocabulary that shaped Close Encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies the encounter framework and UFO vocabulary that shaped Close Encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Directly covers the film that transformed Devils Tower into a lasting image of alien contact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the film that transformed Devils Tower into a lasting image of alien contact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places Close Encounters within Spielberg&#x27;s larger career and fascination with awe, obsession and contact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Close Encounters within Spielberg&#x27;s larger career and fascination with awe, obsession and contact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Connects Close Encounters to J. Allen Hynek and the real UFO culture behind the movie&#x27;s mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Close Encounters to J. Allen Hynek and the real UFO culture behind the movie&#x27;s mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="devils-tower-why-devils-tower-became-ufo-mythology-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -734,7 +734,7 @@ That is why Devils Tower became more than the location of the final scene. In *C
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -754,7 +754,7 @@ That is why Devils Tower became more than the location of the final scene. In *C
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -786,7 +786,7 @@ That is why Devils Tower became more than the location of the final scene. In *C
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -838,7 +838,7 @@ That is why Devils Tower became more than the location of the final scene. In *C
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -883,7 +883,7 @@ That is why Devils Tower became more than the location of the final scene. In *C
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -924,199 +924,199 @@ That is why Devils Tower became more than the location of the final scene. In *C
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nps.gov  
    Title: National Park Service How the Tower Formed  
-   Link: <a href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/nature/tower-formation.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/nature/tower-formation.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/nature/tower-formation.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceHow the Tower Formed - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nps.gov  
    Title: devils tower sees record breaking visitation in 2021  
-   Link: <a href="https://www.nps.gov/deto/learn/news/devils-tower-sees-record-breaking-visitation-in-2021.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/devils-tower-sees-record-breaking-visitation-in-2021.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceDevils Tower Sees Record-breaking Visitation in 2021 - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/news/devils-tower-sees-record-breaking-visitation-in-2021.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/devils-tower-sees-record-breaking-visitation-in-2021.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceDevils Tower Sees Record-breaking Visitation in 2021 - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/deto/" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/</a>  
+   Link:<a href="https://www.nps.gov/deto/" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nps.gov  
    Title: National Park Service First Stories  
-   Link: <a href="https://www.nps.gov/deto/learn/historyculture/first-stories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/historyculture/first-stories.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceFirst Stories - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/historyculture/first-stories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/historyculture/first-stories.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceFirst Stories - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nps.gov  
    Title: National Park Service About the Name  
-   Link: <a href="https://www.nps.gov/deto/learn/historyculture/aboutthename.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/historyculture/aboutthename.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceAbout the Name - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/historyculture/aboutthename.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/historyculture/aboutthename.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceAbout the Name - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nps.gov  
    Title: National Park Service Voluntary Climbing Closure in June  
-   Link: <a href="https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-in-june.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-in-june.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceVoluntary Climbing Closure in June - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-in-june.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-in-june.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceVoluntary Climbing Closure in June - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nps.gov  
    Title: National Park Service Park Statistics  
-   Link: <a href="https://www.nps.gov/deto/learn/management/statistics.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/management/statistics.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServicePark Statistics - Devils Tower National Monument (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/deto/learn/management/statistics.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/management/statistics.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServicePark Statistics - Devils Tower National Monument (U.S. National Park Service)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nps.gov  
    Title: Geologic Formations  
-   Link: <a href="https://www.nps.gov/deto/learn/nature/geologicformations.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/nature/geologicformations.htm</a>  
+   Link:<a href="https://www.nps.gov/deto/learn/nature/geologicformations.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/nature/geologicformations.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nps.gov  
    Title: geodiversity atlas devils tower national monument wyoming  
-   Link: <a href="https://www.nps.gov/articles/nps-geodiversity-atlas-devils-tower-national-monument-wyoming.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/nps-geodiversity-atlas-devils-tower-national-monument-wyoming.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/nps-geodiversity-atlas-devils-tower-national-monument-wyoming.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/nps-geodiversity-atlas-devils-tower-national-monument-wyoming.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nps.gov  
    Title: voluntary climbing closure at devils tower  
-   Link: <a href="https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-at-devils-tower.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-at-devils-tower.htm</a>  
+   Link:<a href="https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-at-devils-tower.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/deto/learn/news/voluntary-climbing-closure-at-devils-tower.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: irma.nps.gov  
    Title: Annual Park Recreation Visitation (1904 Last Calendar Year)  
-   Link: <a href="https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Annual%20Park%20Recreation%20Visitation%20%281904%20-%20Last%20Calendar%20Year%29?Park=DETO" target="_blank" rel="noopener noreferrer nofollow">https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Annual%20Park%20Recreation%20Visitation%20%281904%20-%20Last%20Calendar%20Year%29?Park=DETO</a>  
+   Link:<a href="https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Annual%20Park%20Recreation%20Visitation%20%281904%20-%20Last%20Calendar%20Year%29?Park=DETO" target="_blank" rel="noopener noreferrer nofollow">https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Annual%20Park%20Recreation%20Visitation%20%281904%20-%20Last%20Calendar%20Year%29?Park=DETO</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalparks.org  
-   Link: <a href="https://www.nationalparks.org/explore/parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparks.org/explore/parks/devils-tower-national-monument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park FoundationDevils Tower National MonumentClose Encounters of the Third Kind made Devils Tower a pop culture phenomenon, and...</p></details>
+   Link:<a href="https://www.nationalparks.org/explore/parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparks.org/explore/parks/devils-tower-national-monument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park FoundationDevils Tower National MonumentClose Encounters of the Third Kind made Devils Tower a pop culture phenomenon, and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cowboystatedaily.com  
-   Link: <a href="https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/</a>  
+   Link:<a href="https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/31/50-years-later-sci-fi-fans-still-find-their-close-encounters-at-devils-tower/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3uNJqDZtaCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3uNJqDZtaCM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3uNJqDZtaCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3uNJqDZtaCM</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/devilstower.nps/photos/june-is-a-culturally-significant-month-for-many-of-the-northern-plains-tribes-du/7859299600747641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/devilstower.nps/photos/june-is-a-culturally-significant-month-for-many-of-the-northern-plains-tribes-du/7859299600747641/</a>  
+   Link:<a href="https://www.facebook.com/devilstower.nps/photos/june-is-a-culturally-significant-month-for-many-of-the-northern-plains-tribes-du/7859299600747641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/devilstower.nps/photos/june-is-a-culturally-significant-month-for-many-of-the-northern-plains-tribes-du/7859299600747641/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: data.hereandthere.club  
    Title: devils tower  
-   Link: <a href="https://data.hereandthere.club/national-park-visitation/devils-tower/2008" target="_blank" rel="noopener noreferrer nofollow">https://data.hereandthere.club/national-park-visitation/devils-tower/2008</a>  
+   Link:<a href="https://data.hereandthere.club/national-park-visitation/devils-tower/2008" target="_blank" rel="noopener noreferrer nofollow">https://data.hereandthere.club/national-park-visitation/devils-tower/2008</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Devils Tower  
-   Link: <a href="https://en.wikipedia.org/wiki/Devils_Tower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devils_Tower</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Devils_Tower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devils_Tower</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Devils Tower National Monument  
-   Link: <a href="https://de.wikipedia.org/wiki/Devils_Tower_National_Monument" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Devils_Tower_National_Monument</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Devils_Tower_National_Monument" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Devils_Tower_National_Monument</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cowboystatedaily.com  
    Title: Sen. Ogden Driskill Recalls Filming of “Close Encounters  
-   Link: <a href="https://cowboystatedaily.com/2022/05/19/sen-ogden-driskill-recalls-filming-of-close-encounters-on-his-familys-ranch-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2022/05/19/sen-ogden-driskill-recalls-filming-of-close-encounters-on-his-familys-ranch-at-devils-tower/</a>  
+   Link:<a href="https://cowboystatedaily.com/2022/05/19/sen-ogden-driskill-recalls-filming-of-close-encounters-on-his-familys-ranch-at-devils-tower/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2022/05/19/sen-ogden-driskill-recalls-filming-of-close-encounters-on-his-familys-ranch-at-devils-tower/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/locations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/locations/</a>  
+   Link:<a href="https://www.imdb.com/title/tt0075860/locations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/locations/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: parkrangerjohn.com  
    Title: Devils Tower National Monument  
-   Link: <a href="https://www.parkrangerjohn.com/devils-tower-national-monument/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkrangerjohn.com/devils-tower-national-monument/</a>  
+   Link:<a href="https://www.parkrangerjohn.com/devils-tower-national-monument/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkrangerjohn.com/devils-tower-national-monument/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: travelwyoming.com  
    Title: devils tower national monument  
-   Link: <a href="https://travelwyoming.com/listing/devils-tower-national-monument/2466/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/listing/devils-tower-national-monument/2466/</a>  
+   Link:<a href="https://travelwyoming.com/listing/devils-tower-national-monument/2466/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/listing/devils-tower-national-monument/2466/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/devils-tower" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/devils-tower</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/devils-tower" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/devils-tower</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/geology-and-ecology-of-national-parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/geology-and-ecology-of-national-parks/devils-tower-national-monument</a>  
+   Link:<a href="https://www.usgs.gov/geology-and-ecology-of-national-parks/devils-tower-national-monument" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/geology-and-ecology-of-national-parks/devils-tower-national-monument</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: deanoinamerica.wordpress.com  
    Title: devils tower national monument  
-   Link: <a href="https://deanoinamerica.wordpress.com/2013/09/08/devils-tower-national-monument/" target="_blank" rel="noopener noreferrer nofollow">https://deanoinamerica.wordpress.com/2013/09/08/devils-tower-national-monument/</a>  
+   Link:<a href="https://deanoinamerica.wordpress.com/2013/09/08/devils-tower-national-monument/" target="_blank" rel="noopener noreferrer nofollow">https://deanoinamerica.wordpress.com/2013/09/08/devils-tower-national-monument/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: movie-locations.com  
    Title: Close Encounters Of The Third Kind  
-   Link: <a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
+   Link:<a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/devil" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/devil</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/devil" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/devil</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lS8wl03wx9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lS8wl03wx9k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Close Encounters of the Third Kind: The giant ship...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lS8wl03wx9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lS8wl03wx9k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Close Encounters of the Third Kind: The giant ship...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Rocks, Camera, Action: An Encounter at Devils Tower  
-   Link: <a href="https://www.youtube.com/watch?v=hrjomjxalD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hrjomjxalD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 DEVILS TOWER!!! Close Encounters of the Third Kind filming location and National Monument with kids...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hrjomjxalD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hrjomjxalD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 DEVILS TOWER!!! Close Encounters of the Third Kind filming location and National Monument with kids...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4c6cVxHOZsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4c6cVxHOZsQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Rocks, Camera, Action: An Encounter at Devils Tower...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4c6cVxHOZsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4c6cVxHOZsQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Rocks, Camera, Action: An Encounter at Devils Tower...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Close Encounters at Devils Tower  
-   Link: <a href="https://www.youtube.com/watch?v=VS31KRruhWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VS31KRruhWE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Heading For Devil&#x27;s Tower | Close Encounters of the Third Kind | Creature Features...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VS31KRruhWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VS31KRruhWE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Heading For Devil&#x27;s Tower | Close Encounters of the Third Kind | Creature Features...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYhqnh4j410/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYhqnh4j410/</a>  
+   Link:<a href="https://www.instagram.com/p/DYhqnh4j410/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYhqnh4j410/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/254378395_Who_visits_the_US_National_Parks_An_analysis_of_park_visitors_and_visitation_1990-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254378395_Who_visits_the_US_National_Parks_An_analysis_of_park_visitors_and_visitation_1990-2008</a>  
+   Link:<a href="https://www.researchgate.net/publication/254378395_Who_visits_the_US_National_Parks_An_analysis_of_park_visitors_and_visitation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254378395_Who_visits_the_US_National_Parks_An_analysis_of_park_visitors_and_visitation</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: allaboutthejersey.com  
-   Link: <a href="https://www.allaboutthejersey.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutthejersey.com/</a>  
+   Link:<a href="https://www.allaboutthejersey.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutthejersey.com/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/1iccnu5/close_encounter_of_the_third_kind_where_were_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1iccnu5/close_encounter_of_the_third_kind_where_were_the/</a>  
+   Link:<a href="https://www.reddit.com/r/movies/comments/1iccnu5/close_encounter_of_the_third_kind_where_were_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1iccnu5/close_encounter_of_the_third_kind_where_were_the/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: intermountainhistories.org  
-   Link: <a href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow">https://www.intermountainhistories.org/items/show/226</a>  
+   Link:<a href="https://www.intermountainhistories.org/items/show/226" target="_blank" rel="noopener noreferrer nofollow">https://www.intermountainhistories.org/items/show/226</a>  

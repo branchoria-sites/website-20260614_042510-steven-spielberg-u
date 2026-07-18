@@ -264,39 +264,39 @@ image: /assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_ge
 
 ## Introduction
 
-The clearest way to see Steven Spielberg’s shift on UFOs is to compare how he framed *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* in 1977 with how he discussed *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* in 2026. The difference is not simply that both films involve alien contact. It is that Spielberg’s language moved from treating the subject as a fascinating possibility to treating it as a reflection of a belief he now personally holds. In 1977 he described himself as an “agnostic” between science fact and science fiction and preferred the term “science speculation”. By 2026, while promoting *Disclosure Day*, he was openly saying that he believed extraterrestrials had visited Earth and were still here. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">if you believe its science fact if you dont believe its science fiction im an ag</span><span class="citation-popover-snippet">if you don&#x27;t believe, it&#x27;s science fiction. I&#x27;m an agnostic...CLOSE ENCOUNTERS OF THE THIRD KIND (1977): Forty years ago Steven Spielber...</span></span></span>
+The clearest way to see Steven Spielberg’s shift on UFOs is to compare how he framed *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* in 1977 with how he discussed *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* in 2026. The difference is not simply that both films involve alien contact. It is that Spielberg’s language moved from treating the subject as a fascinating possibility to treating it as a reflection of a belief he now personally holds. In 1977 he described himself as an “agnostic” between science fact and science fiction and preferred the term “science speculation”. By 2026, while promoting *Disclosure Day*, he was openly saying that he believed extraterrestrials had visited Earth and were still here.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">if you believe its science fact if you dont believe its science fiction im an ag</span><span class="citation-popover-snippet">if you don&#x27;t believe, it&#x27;s science fiction. I&#x27;m an agnostic...CLOSE ENCOUNTERS OF THE THIRD KIND (1977): Forty years ago Steven Spielber...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-1-dark.svg" | relative_url }}" alt="Genre Belief Shift Ac 86 A7 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That change matters because Spielberg has often been one of the most influential popular interpreters of UFO culture. His films did not merely entertain audiences; they helped shape how generations imagined contact with non-human intelligence. The contrast between *Close Encounters* and *Disclosure Day* therefore reveals a shift not only in storytelling style but also in how Spielberg publicly positions the boundary between imagination and belief. BFI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
+That change matters because Spielberg has often been one of the most influential popular interpreters of UFO culture. His films did not merely entertain audiences; they helped shape how generations imagined contact with non-human intelligence. The contrast between *Close Encounters* and *Disclosure Day* therefore reveals a shift not only in storytelling style but also in how Spielberg publicly positions the boundary between imagination and belief. BFI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UFe6NRgoXCM" title="Disclosure Day | Official Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer">Disclosure Day | Official Teaser</a></p><p class="youtube-embed-meta">Channel: Universal Pictures &middot; Views: 34.3M &middot; Uploaded: December 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UFe6NRgoXCM">Open on YouTube</a></p></div></div></div>
 
 ## What science speculation meant in 1977
 
-When Spielberg discussed *Close Encounters of the Third Kind* during production in 1977, he resisted a simple division between science fact and science fiction. He argued that belief itself affected how people classified UFO stories. If someone believed the reports were true, they might regard them as science fact; if not, they would be treated as science fiction. His preferred label was “science speculation”, a phrase that deliberately occupied the middle ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">CBS MorningsSteven Spielberg has a new film coming out currently called &quot;Disclosure Day&quot;, which is about aliens finally coming out in pub...</span></span></span>
+When Spielberg discussed *Close Encounters of the Third Kind* during production in 1977, he resisted a simple division between science fact and science fiction. He argued that belief itself affected how people classified UFO stories. If someone believed the reports were true, they might regard them as science fact; if not, they would be treated as science fiction. His preferred label was “science speculation”, a phrase that deliberately occupied the middle ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">CBS MorningsSteven Spielberg has a new film coming out currently called &quot;Disclosure Day&quot;, which is about aliens finally coming out in pub...</span></span></span>
 
-This framing was important because *Close Encounters* was built around uncertainty. The film drew inspiration from UFO reports, witness testimony and public fascination with unexplained sightings, but it did not present itself as a cinematic declaration that alien visitation had been proven. Instead, it invited audiences to imagine what might happen if some of the stories were real. The film’s emotional power came from wonder, curiosity and the possibility that conventional assumptions might be incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+This framing was important because *Close Encounters* was built around uncertainty. The film drew inspiration from UFO reports, witness testimony and public fascination with unexplained sightings, but it did not present itself as a cinematic declaration that alien visitation had been proven. Instead, it invited audiences to imagine what might happen if some of the stories were real. The film’s emotional power came from wonder, curiosity and the possibility that conventional assumptions might be incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
-In other words, Spielberg’s position in 1977 was exploratory. He was deeply interested in the phenomenon, willing to take [witnesses]({{ 'witnesses/' | relative_url }}) seriously and eager to dramatise the idea of contact, but he still framed the subject as an open question rather than a settled conviction. The language of “science speculation” preserved that ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+In other words, Spielberg’s position in 1977 was exploratory. He was deeply interested in the phenomenon, willing to take [witnesses]({{ 'witnesses/' | relative_url }}) seriously and eager to dramatise the idea of contact, but he still framed the subject as an open question rather than a settled conviction. The language of “science speculation” preserved that ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-ZJkeq6YECg" title="Disclosure Day Featurette - Emily Blunt (2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-ZJkeq6YECg" target="_blank" rel="noopener noreferrer">Disclosure Day Featurette - Emily Blunt (2026)</a></p><p class="youtube-embed-meta">Channel: Rotten Tomatoes Trailers &middot; Views: 37.6K &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-ZJkeq6YECg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-ZJkeq6YECg">Open on YouTube</a></p></div></div></div>
 
 ## What changed in Spielberg's 2026 framing
 
-The public framing surrounding *Disclosure Day* is noticeably different. The film itself revolves around the release of hidden evidence that proves humanity is not alone and triggers a worldwide reckoning. Rather than focusing on uncertain sightings, the narrative assumes that disclosure has occurred and asks how society responds when the question is effectively settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Disclosure Day &#124; Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t al...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
+The public framing surrounding *Disclosure Day* is noticeably different. The film itself revolves around the release of hidden evidence that proves humanity is not alone and triggers a worldwide reckoning. Rather than focusing on uncertain sightings, the narrative assumes that disclosure has occurred and asks how society responds when the question is effectively settled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Disclosure Day &#124; Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t al...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
 
-More significant than the plot, however, is Spielberg’s own language while promoting the film. In interviews with CBS News, he stated that he “absolutely” believed extraterrestrials had been here and were here now, basing that belief on decades of testimony, documentaries and accumulated circumstantial evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
+More significant than the plot, however, is Spielberg’s own language while promoting the film. In interviews with CBS News, he stated that he “absolutely” believed extraterrestrials had been here and were here now, basing that belief on decades of testimony, documentaries and accumulated circumstantial evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
 
-Reports surrounding the film highlighted an even sharper distinction. Whereas *Close Encounters* was described as speculative, Spielberg argued that *Disclosure Day* should not be viewed as conventional science fiction. The implication was not that he possessed proof, but that the premise felt closer to what he personally regarded as reality than to a purely imaginative scenario. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
+Reports surrounding the film highlighted an even sharper distinction. Whereas *Close Encounters* was described as speculative, Spielberg argued that *Disclosure Day* should not be viewed as conventional science fiction. The implication was not that he possessed proof, but that the premise felt closer to what he personally regarded as reality than to a purely imaginative scenario.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
 
 This creates a striking contrast:
 
 1977: *Close Encounters*2026: *Disclosure Day*UFOs framed as a fascinating possibilityAlien visitation treated as a personally credible reality“Science speculation”“Not science fiction” framingAgnostic public positionExplicit personal beliefFocus on mystery and uncertaintyFocus on revelation and disclosureAudience asked to imagine “what if?”Audience asked to consider “what happens when everyone knows?”
 
-The underlying subject remains alien contact, but the rhetorical starting point changes from possibility to conviction. BFI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
+The underlying subject remains alien contact, but the rhetorical starting point changes from possibility to conviction. BFI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-2-dark.svg" | relative_url }}" alt="Genre Belief Shift Ac 86 A7 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,11 +304,11 @@ The underlying subject remains alien contact, but the rhetorical starting point 
 
 Genre labels are often treated as marketing categories, but in Spielberg’s case they reveal how he thinks about the UFO question itself.
 
-Calling *Close Encounters* “science speculation” signalled intellectual openness. The phrase acknowledged uncertainty and allowed viewers with very different beliefs to meet in the same imaginative space. Sceptics could enjoy it as fiction; believers could view it as a plausible dramatisation of real possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+Calling *Close Encounters* “science speculation” signalled intellectual openness. The phrase acknowledged uncertainty and allowed viewers with very different beliefs to meet in the same imaginative space. Sceptics could enjoy it as fiction; believers could view it as a plausible dramatisation of real possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIA close encounter with Steven Spielberg &#124; Sight and Sound</span><span class="citation-popover-snippet">December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
-By contrast, describing *Disclosure Day* as something other than traditional science fiction narrows that distance. The story is still fictional, but the framing suggests that the underlying premise—alien visitation and hidden knowledge about it—is no longer merely an imaginative exercise in Spielberg’s mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
+By contrast, describing *Disclosure Day* as something other than traditional science fiction narrows that distance. The story is still fictional, but the framing suggests that the underlying premise—alien visitation and hidden knowledge about it—is no longer merely an imaginative exercise in Spielberg’s mind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
 
-That shift mirrors broader changes in UFO culture. During the 1970s, UFO discussions largely occupied the margins of public discourse. By the 2020s, congressional hearings, military UAP investigations and sustained media coverage had moved the topic closer to mainstream debate, even while definitive evidence of extraterrestrial visitation remained absent. Spielberg’s language reflects that changed environment: he is speaking not as a filmmaker inventing possibilities, but as a filmmaker who believes the central question deserves to be taken seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decider.com">[Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decider.com</span><span class="citation-popover-snippet">Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</span></span></span>
+That shift mirrors broader changes in UFO culture. During the 1970s, UFO discussions largely occupied the margins of public discourse. By the 2020s, congressional hearings, military UAP investigations and sustained media coverage had moved the topic closer to mainstream debate, even while definitive evidence of extraterrestrial visitation remained absent. Spielberg’s language reflects that changed environment: he is speaking not as a filmmaker inventing possibilities, but as a filmmaker who believes the central question deserves to be taken seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decider.com">[Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decider.com</span><span class="citation-popover-snippet">Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AP3mSV-uiX8" title="Pathology professor and UAP expert on impact of Spielberg&#x27;s &quot;Disclosure Day&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer">Pathology professor and UAP expert on impact of Spielberg&#x27;s &quot;Disclosure Day&quot;</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 182.9K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AP3mSV-uiX8">Open on YouTube</a></p></div></div></div>
@@ -317,202 +317,202 @@ That shift mirrors broader changes in UFO culture. During the 1970s, UFO discuss
 
 The most revealing contrast between *Close Encounters* and *Disclosure Day* is not found in special effects, plot structure or depictions of aliens. It is found in the evolution of Spielberg’s own vocabulary.
 
-In 1977, he occupied a middle ground between belief and disbelief, using “science speculation” to keep the question open. In 2026, he publicly described alien visitation as something he personally accepts on the basis of accumulated circumstantial evidence and promoted a film built around the consequences of disclosure rather than the mystery of possibility. BFI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
+In 1977, he occupied a middle ground between belief and disbelief, using “science speculation” to keep the question open. In 2026, he publicly described alien visitation as something he personally accepts on the basis of accumulated circumstantial evidence and promoted a film built around the consequences of disclosure rather than the mystery of possibility. BFI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS News &#124; Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</span></span></span>
 
-Viewed together, the two films function almost as bookends. *Close Encounters* asks whether contact might be real. *Disclosure Day* begins from the assumption that the truth has finally emerged. The distance between those starting points illustrates the broader shift in Spielberg’s public belief framing over nearly five decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decider.com">[Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decider.com</span><span class="citation-popover-snippet">Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
+Viewed together, the two films function almost as bookends. *Close Encounters* asks whether contact might be real. *Disclosure Day* begins from the assumption that the truth has finally emerged. The distance between those starting points illustrates the broader shift in Spielberg’s public belief framing over nearly five decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decider.com">[Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decider.com</span><span class="citation-popover-snippet">Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-snippet">South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-3-dark.svg" | relative_url }}" alt="Genre Belief Shift Ac 86 A7 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_spielberg_belief_shi_340948_genre_belief_shift_ac86a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Genre Belief Shift Ac 86 A7. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Genre Belief Shift Ac 86 A7. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="genre-belief-shift-ac-86-a7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,195 +718,195 @@ Viewed together, the two films function almost as bookends. *Close Encounters* a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: if you believe its science fact if you dont believe its science fiction im an ag  
-   Link: <a href="https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>if you don&#x27;t believe, it&#x27;s science fiction. I&#x27;m an agnostic...CLOSE ENCOUNTERS OF THE THIRD KIND (1977): Forty years ago Steven Spielber...</p></details>
+   Link:<a href="https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SightSoundmag/posts/if-you-believe-its-science-fact-if-you-dont-believe-its-science-fiction-im-an-ag/1609418391188908/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>if you don&#x27;t believe, it&#x27;s science fiction. I&#x27;m an agnostic...CLOSE ENCOUNTERS OF THE THIRD KIND (1977): Forty years ago Steven Spielber...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: decider.com  
-   Link: <a href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</p></details>
+   Link:<a href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day | Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t al...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day | Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t al...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
-   Link: <a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
+   Link:<a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbs.com  
    Title: WEEKDAY MORNINGS. Clips. Nick Jonas reflects  
-   Link: <a href="https://www.cbs.com/shows/video/ALVE01KTKRPFR3E5EBCMZWXY6FNPSV/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/shows/video/ALVE01KTKRPFR3E5EBCMZWXY6FNPSV/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch CBS Mornings: Steven Spielberg talks &quot;Disclosure Day...He also discusses his opinion on aliens, saying they &quot;have been here and...</p></details>
+   Link:<a href="https://www.cbs.com/shows/video/ALVE01KTKRPFR3E5EBCMZWXY6FNPSV/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/shows/video/ALVE01KTKRPFR3E5EBCMZWXY6FNPSV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch CBS Mornings: Steven Spielberg talks &quot;Disclosure Day...He also discusses his opinion on aliens, saying they &quot;have been here and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Pathology professor and UAP expert on impact of Spielberg's "Disclosure Day"  
-   Link: <a href="https://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AP3mSV-uiX8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AP3mSV-uiX8</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fW73jP8RolM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fW73jP8RolM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>266K views · 2 days ago...more. CBS Mornings. 3.29M...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fW73jP8RolM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fW73jP8RolM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>266K views · 2 days ago...more. CBS Mornings. 3.29M...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/CBS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/CBS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBSWelcome to the official CBS YouTube channel to see clips from your favorite shows! Don&#x27;t forget to subscribe!...more. Welcome to the...</p></details>
+   Link:<a href="https://www.youtube.com/CBS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/CBS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBSWelcome to the official CBS YouTube channel to see clips from your favorite shows! Don&#x27;t forget to subscribe!...more. Welcome to the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS MorningsSteven Spielberg has a new film coming out currently called &quot;Disclosure Day&quot;, which is about aliens finally coming out in pub...</p></details>
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS MorningsSteven Spielberg has a new film coming out currently called &quot;Disclosure Day&quot;, which is about aliens finally coming out in pub...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbs.com  
-   Link: <a href="https://www.cbs.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS TV Network Primetime, Daytime, Late Night and Classic...Watch CBS television online. Find CBS primetime, daytime, late night, and cl...</p></details>
+   Link:<a href="https://www.cbs.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS TV Network Primetime, Daytime, Late Night and Classic...Watch CBS television online. Find CBS primetime, daytime, late night, and cl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: steven.com  
-   Link: <a href="https://steven.com/" target="_blank" rel="noopener noreferrer nofollow">https://steven.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating System for the Creator EconomyThe operating system for the creator economy. Connecting creators to resources, platforms, commun...</p></details>
+   Link:<a href="https://steven.com/" target="_blank" rel="noopener noreferrer nofollow">https://steven.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operating System for the Creator EconomyThe operating system for the creator economy. Connecting creators to resources, platforms, commun...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zajhP7mtvMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zajhP7mtvMo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the new Spielberg live up to Close Encounters of the Third Kind?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zajhP7mtvMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zajhP7mtvMo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the new Spielberg live up to Close Encounters of the Third Kind?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Does the new Spielberg live up to Close Encounters of the Third Kind?  
-   Link: <a href="https://www.youtube.com/watch?v=rMCl6iinzZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rMCl6iinzZI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s new alien film explores extraterrestrial hope | 7NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rMCl6iinzZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rMCl6iinzZI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg&#x27;s new alien film explores extraterrestrial hope | 7NEWS...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Spielberg's new alien film explores extraterrestrial hope | 7NEWS  
-   Link: <a href="https://www.youtube.com/watch?v=20VZ1vfLpeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20VZ1vfLpeo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Featurette - Emily Blunt (2026)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20VZ1vfLpeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20VZ1vfLpeo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Featurette - Emily Blunt (2026)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Disclosure Day Featurette  
-   Link: <a href="https://www.youtube.com/watch?v=-ZJkeq6YECg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZJkeq6YECg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-ZJkeq6YECg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZJkeq6YECg</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ely think that they have been here, and they are here.&quot; By Ben Mankiewicz.Read more...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ely think that they have been here, and they are here.&quot; By Ben Mankiewicz.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindClose Encounters of the Third Kind is a 1977 American science fiction drama film written and directe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindClose Encounters of the Third Kind is a 1977 American science fiction drama film written and directe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar-winning director Steven Spielberg talks to CBS...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar-winning director Steven Spielberg talks to CBS...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scmp.com  
-   Link: <a href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</p></details>
+   Link:<a href="https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/lifestyle/entertainment/article/3356608/why-steven-spielberg-doesnt-consider-disclosure-day-be-science-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostWhy Steven Spielberg doesn&#x27;t consider Disclosure Day to...Yesterday — 2 days ago — The veteran director says tha...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News | Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</p></details>
+   Link:<a href="https://www.cbsnews.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News | Breaking news, top stories &amp; today&#x27;s latest...CBS News offers breaking news coverage of today&#x27;s top headlines. Stay informed...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cbsnews.com  
    Title: Escalation in attacks between U.S. and Iran  
-   Link: <a href="https://www.cbsnews.com/video/escalation-in-attacks-between-us-and-iran/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/escalation-in-attacks-between-us-and-iran/</a>  
+   Link:<a href="https://www.cbsnews.com/video/escalation-in-attacks-between-us-and-iran/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/escalation-in-attacks-between-us-and-iran/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cbsnews.com  
    Title: What May's inflation report signals about state of U.S. economy  
-   Link: <a href="https://www.cbsnews.com/video/what-may-inflation-report-signals-state-us-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/what-may-inflation-report-signals-state-us-economy/</a>  
+   Link:<a href="https://www.cbsnews.com/video/what-may-inflation-report-signals-state-us-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/what-may-inflation-report-signals-state-us-economy/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/CBS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CBS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBSCBS Broadcasting Inc., commonly shortened to CBS (an abbreviation of its original name, the Columbia Broadcasting System), is an Am...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/CBS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CBS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBSCBS Broadcasting Inc., commonly shortened to CBS (an abbreviation of its original name, the Columbia Broadcasting System), is an Am...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure DayDisclosure Day is a 2026 American science fiction film directed and produced by Steven Spielberg from a screenplay by Da...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure DayDisclosure Day is a 2026 American science fiction film directed and produced by Steven Spielberg from a screenplay by Da...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.reddit.com/r/Spielberg/comments/1poc23u/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Spielberg/comments/1poc23u/close_encounters_of_the_third_kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpielbergI read a good review back in 1977 that asked, &quot;why couldn&#x27;t the scientists just call India on the phone and ask, &quot;hey, where d...</p></details>
+   Link:<a href="https://www.reddit.com/r/Spielberg/comments/1poc23u/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Spielberg/comments/1poc23u/close_encounters_of_the_third_kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpielbergI read a good review back in 1977 that asked, &quot;why couldn&#x27;t the scientists just call India on the phone and ask, &quot;hey, where d...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: x.com  
-   Link: <a href="https://x.com/SightSoundmag/status/2064612645492162998" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SightSoundmag/status/2064612645492162998</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Sight and Sound magazine... speculation.” As a new Spielberg sci-fi feature hits cinemas, we look back nearly 50 year...</p></details>
+   Link:<a href="https://x.com/SightSoundmag/status/2064612645492162998" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SightSoundmag/status/2064612645492162998</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Sight and Sound magazine... speculation.” As a new Spielberg sci-fi feature hits cinemas, we look back nearly 50 year...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg’s film “Disclosure Day” sparks renewed conversation, especially following the Pentagon’s recent release of UFO files and...</p></details>
+   Link:<a href="https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg’s film “Disclosure Day” sparks renewed conversation, especially following the Pentagon’s recent release of UFO files and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: paramountplus.com  
    Title: CB S Shows, Movies, News, Sports & More Catch all your favorites from CBS  
-   Link: <a href="https://www.paramountplus.com/brands/cbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.paramountplus.com/brands/cbs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Shows, Movies, News, Sports &amp; MoreCatch all your favorites from CBS - from hit TV shows, news, sports, events, movies, documentaries...</p></details>
+   Link:<a href="https://www.paramountplus.com/brands/cbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.paramountplus.com/brands/cbs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Shows, Movies, News, Sports &amp; MoreCatch all your favorites from CBS - from hit TV shows, news, sports, events, movies, documentaries...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: bfi.org.uk  
    Title: BFIA close encounter with Steven Spielberg | Sight and Sound  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</p></details>
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 10, 2021 — 10 Dec 2021 — In our Spring 1977 issue, we joined Spielberg on the set of his fourth feature, Close Encounters of the...</p></details>
    Published: December 10, 2021  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: time.com  
-   Link: <a href="https://time.com/article/2026/06/03/disclosure-day-cast-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/disclosure-day-cast-interview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>em to believe in alien life, their encounter with fellow believer former...Read more...</p></details>
+   Link:<a href="https://time.com/article/2026/06/03/disclosure-day-cast-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/disclosure-day-cast-interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em to believe in alien life, their encounter with fellow believer former...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/oscarrace/comments/1u090rj/steven_spielberg_on_disclosure_day_and_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/oscarrace/comments/1u090rj/steven_spielberg_on_disclosure_day_and_alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first track from John Williams&#x27; score for Disclosure Day has been released...</p></details>
+   Link:<a href="https://www.reddit.com/r/oscarrace/comments/1u090rj/steven_spielberg_on_disclosure_day_and_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/oscarrace/comments/1u090rj/steven_spielberg_on_disclosure_day_and_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first track from John Williams&#x27; score for Disclosure Day has been released...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZX0CTdESdY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZX0CTdESdY/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While promoting his upcoming film Disclosure Day...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZX0CTdESdY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZX0CTdESdY/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While promoting his upcoming film Disclosure Day...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
    Title: If aliens do exist, should we be told?  
-   Link: <a href="https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s...22-May-2026 — If aliens do exist, should we be told? Steven Spielberg&#x27;s Disclosure Day looks for answers. Spielberg...</p></details>
+   Link:<a href="https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/steven-spielbergs-disclosure-day/2026/may/22/should-we-be-told-if-aliens-exist-disclosure-day-explores-the-question</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s...22-May-2026 — If aliens do exist, should we be told? Steven Spielberg&#x27;s Disclosure Day looks for answers. Spielberg...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZVKHHjuXai/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZVKHHjuXai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the extraordinary, the impossible and the reality of aliens...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZVKHHjuXai/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZVKHHjuXai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the extraordinary, the impossible and the reality of aliens...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to a set visit from Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to a set visit from Close Encounters of the Third Kind...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-child/
 description: Focused pages that expand on Child View.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_child_perspective_al_9a0a86
 parent_title: Child View
@@ -16,7 +16,7 @@ parent_permalink: /child-view/
 
 # Explore Topics in Child View
 
-The following pages expand on the main **[Child View]({{ '/child-view/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Child View]({{ '/child-view/' | relative_url }})** page and cover its key branches in.
 
 - [Barry Toy Room Wonde Fb 9 Ec 6]({{ '/barry-toy-room-wonde-fb-9-ec-6/' | relative_url }})
 - [Elliott Bedroom Cont 32 A3 B3]({{ '/elliott-bedroom-cont-32-a3-b3/' | relative_url }})

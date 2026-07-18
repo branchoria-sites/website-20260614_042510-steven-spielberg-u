@@ -442,15 +442,15 @@ image: /assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-ov
 
 ## Introduction
 
-J. Allen Hynek gave Steven Spielberg more than a memorable title. His “close encounter” system supplied *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* with a real investigative vocabulary: a way to sort UFO reports by proximity, physical effects and the presence of beings. That mattered because Spielberg’s film is not just an alien-contact fantasy; it is a story about [witnesses]({{ 'witnesses/' | relative_url }}) trying to describe something that official language cannot easily contain. Hynek’s taxonomy made the film feel adjacent to field reports, case files and scientific caution, even while the drama moved far beyond what evidence could prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+J. Allen Hynek gave Steven Spielberg more than a memorable title. His “close encounter” system supplied *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* with a real investigative vocabulary: a way to sort UFO reports by proximity, physical effects and the presence of beings. That mattered because Spielberg’s film is not just an alien-contact fantasy; it is a story about [witnesses]({{ 'witnesses/' | relative_url }}) trying to describe something that official language cannot easily contain. Hynek’s taxonomy made the film feel adjacent to field reports, case files and scientific caution, even while the drama moved far beyond what evidence could prove.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-overview.webp" | relative_url }}" alt="Overview image for Hynek System" loading="eager" decoding="sync" fetchpriority="high">
-The result is a rare case where a technical classification system became part of popular cinema. “Close encounter of the third kind” originally meant a sighting in which an entity is seen in or near a UFO. Spielberg turned that category into a narrative destination: not merely seeing lights, not merely finding traces, but arriving at contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+The result is a rare case where a technical classification system became part of popular cinema. “Close encounter of the third kind” originally meant a sighting in which an entity is seen in or near a UFO. Spielberg turned that category into a narrative destination: not merely seeing lights, not merely finding traces, but arriving at contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
 ## The meaning of a close encounter
 
-Hynek’s system was designed to organise UFO reports, not to prove aliens existed. The Center for UFO Studies, which continues to present Hynek’s categories, describes the system as a way to classify reports for investigators and communicate them concisely to the public. It begins with more distant categories such as nocturnal lights, daylight discs and radar-visual sightings, then moves into “close encounters” where the object is near enough for detailed observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+Hynek’s system was designed to organise UFO reports, not to prove aliens existed. The Center for UFO Studies, which continues to present Hynek’s categories, describes the system as a way to classify reports for investigators and communicate them concisely to the public. It begins with more distant categories such as nocturnal lights, daylight discs and radar-visual sightings, then moves into “close encounters” where the object is near enough for detailed observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
 The three original close-encounter categories were simple but powerful:
 
@@ -459,7 +459,7 @@ The three original close-encounter categories were simple but powerful:
 
 * **Close Encounters of the First Kind:** a UFO is seen nearby, typically within about 500 feet, but without interaction.
 * **Close Encounters of the Second Kind:** the UFO appears to affect the environment, witnesses, animals, vehicles or equipment, leaving something that might be investigated afterwards.
-* **Close Encounters of the Third Kind:** an entity is seen in or near the UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+* **Close Encounters of the Third Kind:** an entity is seen in or near the UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
 </div>
 
@@ -471,15 +471,15 @@ The system also gives the title a striking ambiguity. “Third kind” sounds fo
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-1-dark.svg" | relative_url }}" alt="Hynek System illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a real UFO adviser mattered
 
-Hynek’s presence gave *Close Encounters of the Third Kind* a different kind of [credibility]({{ 'credibility/' | relative_url }}) from ordinary science-fiction worldbuilding. He was not a random paranormal enthusiast hired for atmosphere. He had worked as a scientific adviser to the United States Air Force’s UFO investigations, including Project Blue Book, the long-running programme whose declassified records are now held by the National Archives. The Archives notes that Project Blue Book and related Air Force UFO records covered investigations from 1947 to 1969, with 12,618 sightings reported and 701 left “unidentified” when the project ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Hynek’s presence gave *Close Encounters of the Third Kind* a different kind of [credibility]({{ 'credibility/' | relative_url }}) from ordinary science-fiction worldbuilding. He was not a random paranormal enthusiast hired for atmosphere. He had worked as a scientific adviser to the United States Air Force’s UFO investigations, including Project Blue Book, the long-running programme whose declassified records are now held by the National Archives. The Archives notes that Project Blue Book and related Air Force UFO records covered investigations from 1947 to 1969, with 12,618 sightings reported and 701 left “unidentified” when the project ended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The American Film Institute’s production history makes the link between Hynek and the film unusually concrete. Spielberg’s project had earlier titles, including *Watch the Skies* and *Meeting of the Minds*, but the final title came from Hynek’s writings. AFI also records that after a letter from Hynek’s attorney, Columbia bought the rights to Hynek’s book *The UFO Experience* and Hynek was hired as technical adviser. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+The American Film Institute’s production history makes the link between Hynek and the film unusually concrete. Spielberg’s project had earlier titles, including *Watch the Skies* and *Meeting of the Minds*, but the final title came from Hynek’s writings. AFI also records that after a letter from Hynek’s attorney, Columbia bought the rights to Hynek’s book *The UFO Experience* and Hynek was hired as technical adviser.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That hiring mattered for three reasons.
 
-First, it connected the film to the world of documented UFO reporting. Spielberg was not adapting one single case, but he wanted the texture of reports, witnesses and official procedures. AFI cites a 1977 *Los Angeles Times* account saying Spielberg interviewed airline pilots, air traffic controllers and ordinary witnesses while avoiding people he considered unreliable. Hynek’s role fits that same pattern: the film seeks wonder, but it borrows from investigative culture rather than pure fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+First, it connected the film to the world of documented UFO reporting. Spielberg was not adapting one single case, but he wanted the texture of reports, witnesses and official procedures. AFI cites a 1977 *Los Angeles Times* account saying Spielberg interviewed airline pilots, air traffic controllers and ordinary witnesses while avoiding people he considered unreliable. Hynek’s role fits that same pattern: the film seeks wonder, but it borrows from investigative culture rather than pure fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
-Second, Hynek helped legitimise the film’s central sympathy for witnesses. The National Archives’ discussion of Project Blue Book notes that Hynek considered the “insufficient data” category especially problematic because some reports contained relevant details such as time, location and weather, yet still could not be responsibly resolved. That is very close to the emotional territory of Spielberg’s film: people have experiences they cannot reduce to ordinary explanations, but their inability to prove them leaves them isolated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
+Second, Hynek helped legitimise the film’s central sympathy for witnesses. The National Archives’ discussion of Project Blue Book notes that Hynek considered the “insufficient data” category especially problematic because some reports contained relevant details such as time, location and weather, yet still could not be responsibly resolved. That is very close to the emotional territory of Spielberg’s film: people have experiences they cannot reduce to ordinary explanations, but their inability to prove them leaves them isolated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
 
 Third, Hynek’s own intellectual position was useful dramatically because it sat between belief and scepticism. He pushed for more serious study of UFO reports, but his classification system did not by itself declare that UFOs were extraterrestrial craft. That distinction is important. The film uses Hynek’s seriousness as a springboard, then makes a leap into direct alien contact that belongs to drama rather than confirmed science.
 
@@ -492,9 +492,9 @@ Hynek’s system is most visible in the title, but its influence runs deeper tha
 
 At the beginning, sightings are fragmentary. Lights appear in the sky. Instruments and vehicles behave strangely. Witnesses cannot explain what they have seen. These are cinematic versions of report categories: visual observation, physical effect, confusion over whether the evidence is enough. Spielberg makes the categories felt rather than lectured.
 
-The second-kind idea is especially important because it gives the film its material weight. A purely visual UFO film risks becoming a spectacle of lights. *Close Encounters* keeps returning to consequences: power failures, heat, damaged ordinary life, government response, physical locations and the compulsive model of Devil’s Tower. Hynek’s second category included environmental and witness effects, because such traces could in principle be studied after the event. Spielberg turns that investigative logic into story momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+The second-kind idea is especially important because it gives the film its material weight. A purely visual UFO film risks becoming a spectacle of lights. *Close Encounters* keeps returning to consequences: power failures, heat, damaged ordinary life, government response, physical locations and the compulsive model of Devil’s Tower. Hynek’s second category included environmental and witness effects, because such traces could in principle be studied after the event. Spielberg turns that investigative logic into story momentum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
-The third-kind category becomes the film’s emotional payoff. Hynek’s definition is restrained: an entity is observed in or near a UFO. Spielberg expands that into a choreographed encounter at Devil’s Tower, where sight, sound, colour and gesture become a form of communication. The famous musical exchange does not come from Hynek’s taxonomy, but the taxonomy prepares the viewer to understand why this is the decisive stage. It is not simply another sighting; it is the category where the unknown becomes inhabited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
+The third-kind category becomes the film’s emotional payoff. Hynek’s definition is restrained: an entity is observed in or near a UFO. Spielberg expands that into a choreographed encounter at Devil’s Tower, where sight, sound, colour and gesture become a form of communication. The famous musical exchange does not come from Hynek’s taxonomy, but the taxonomy prepares the viewer to understand why this is the decisive stage. It is not simply another sighting; it is the category where the unknown becomes inhabited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Classification Systems</span><span class="citation-popover-snippet">Center for UFO StudiesClassification Systems - Center for UFO Studies...</span></span></span>
 
 Hynek also appears briefly in the film itself, near the final contact sequence. The cameo is small, but symbolically neat: the man who created the classification system watches Spielberg’s fictional fulfilment of its most famous category. It is less a plot point than a seal of continuity between UFO investigation and Hollywood mythmaking.
 
@@ -502,13 +502,13 @@ Hynek also appears briefly in the film itself, near the final contact sequence. 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-2-dark.svg" | relative_url }}" alt="Hynek System illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hynek_close_encounte_402c04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Science gives the film a frame; drama supplies the answer
 
-The most important distinction is that Hynek gave Spielberg a frame, not a conclusion. Project Blue Book’s official record did not establish extraterrestrial visitation. The National Archives summarises the Air Force’s conclusions as finding no UFO reports that posed a national-security threat, no unidentified sightings that demonstrated technology beyond present scientific knowledge, and no substantial proof of extraterrestrial vehicles visiting Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
+The most important distinction is that Hynek gave Spielberg a frame, not a conclusion. Project Blue Book’s official record did not establish extraterrestrial visitation. The National Archives summarises the Air Force’s conclusions as finding no UFO reports that posed a national-security threat, no unidentified sightings that demonstrated technology beyond present scientific knowledge, and no substantial proof of extraterrestrial vehicles visiting Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
 
 That remains the tension at the centre of any evidence-aware reading of *Close Encounters*. The film borrows the language of scientific sorting but answers the mystery in a way that real investigations did not. Hynek’s categories can describe a claim: sighting, effect, entity. They cannot verify the cause of the claim. Spielberg’s film takes the most dramatic possible interpretation and makes it emotionally persuasive.
 
 This is not a flaw; it is the film’s operating method. The taxonomy gives the story restraint at the front end and release at the back end. Early scenes feel grounded because they resemble witness reports and official confusion. The final scenes feel transcendent because the film stops classifying and starts communicating. Science helps the characters name the threshold; cinema imagines what crossing it might feel like.
 
-Modern UAP investigations make that boundary even clearer. The Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology, while still treating unresolved aerial phenomena as a subject for ongoing examination. That position is far more cautious than Spielberg’s ending, but it also shows why Hynek’s approach still matters: unexplained does not automatically mean alien, yet unexplained reports can still invite better evidence, better data and more careful language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
+Modern UAP investigations make that boundary even clearer. The Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology, while still treating unresolved aerial phenomena as a subject for ongoing examination. That position is far more cautious than Spielberg’s ending, but it also shows why Hynek’s approach still matters: unexplained does not automatically mean alien, yet unexplained reports can still invite better evidence, better data and more careful language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7LYqfZ70yGY" title="Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer">Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 13.3K &middot; Uploaded: May 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7LYqfZ70yGY">Open on YouTube</a></p></div></div></div>
@@ -519,7 +519,7 @@ Before Spielberg, many screen UFOs were invasion machines, [Cold War]({{ 'cold-w
 
 That shift made UFO experience feel procedural and intimate at the same time. The viewer watches technicians, maps, instruments, military [secrecy]({{ 'secrecy/' | relative_url }}) and scientific personnel, but the emotional centre remains with ordinary witnesses. Roy Neary is not a trained investigator; he is someone overtaken by an event that the taxonomy can name but not domesticate. That combination is why the film’s use of Hynek’s system is more than decorative.
 
-The Library of Congress, writing about the film’s National Film Registry status, says *Close Encounters* helped codify the popular depiction of space aliens. That codification did not come only from the alien design or the mothership spectacle. It also came from the film’s basic architecture of contact: escalating from sighting, to trace, to encounter, to communication. Hynek supplied the grammar; Spielberg supplied the emotional syntax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Library of Congress, writing about the film’s National Film Registry status, says *Close Encounters* helped codify the popular depiction of space aliens. That codification did not come only from the alien design or the mothership spectacle. It also came from the film’s basic architecture of contact: escalating from sighting, to trace, to encounter, to communication. Hynek supplied the grammar; Spielberg supplied the emotional syntax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The phrase “close encounter” has since become ordinary pop-cultural language, often detached from Hynek’s careful categories. That is the paradox of Spielberg’s success. A system built to discipline UFO reports became famous because a film transformed it into a mythic promise. Many viewers remember the wonder more than the taxonomy, but the taxonomy is what made the wonder feel as if it had entered the story through a real-world door.
 
@@ -538,194 +538,194 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Hynek Gave Close Encounters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Hynek Gave Close Encounters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces the classification system that supplied the film&#x27;s title and investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the classification system that supplied the film&#x27;s title and investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Shows how Hynek&#x27;s terminology was adapted into cinematic storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how Hynek&#x27;s terminology was adapted into cinematic storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Places Hynek&#x27;s work within the broader history of UFO investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Hynek&#x27;s work within the broader history of UFO investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly examines Hynek&#x27;s life, work and influence on popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Hynek&#x27;s life, work and influence on popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure"><img src="{{ '/assets/images/marketplace-covers/6beba74151c270bba8dd.jpg' | relative_url }}" alt="Listing image for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure"><img src="{{ '/assets/images/marketplace-covers/6beba74151c270bba8dd.jpg' | relative_url }}" alt="Listing image for Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Konami SF Movie Selection UFO-04 UFO Single Item Spacecraft Model kit Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/2d467856e3c5a4eb10ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/2d467856e3c5a4eb10ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="hynek-system-what-hynek-gave-close-encounters-steven-spielberg-and-ufos-ufo-spacecraft-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,191 +931,191 @@ That is what Hynek gave *Close Encounters*: not proof, not prophecy, and not a h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Aliens at the Archives – The Unwritten Record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
+   Link:<a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: j allen hynek ufos project blue book  
-   Link: <a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7LYqfZ70yGY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind - Watch the Skies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7LYqfZ70yGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7LYqfZ70yGY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind - Watch the Skies...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Close Encounters Of The Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnujThAyxpM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Fifth Kind, CE-5 Protocols, ET Contact Method...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LnujThAyxpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnujThAyxpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Fifth Kind, CE-5 Protocols, ET Contact Method...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Classification Systems  
-   Link: <a href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/classification-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesClassification Systems - Center for UFO Studies...</p></details>
+   Link:<a href="https://cufos.org/types-of-ufos/classification-systems/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/classification-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesClassification Systems - Center for UFO Studies...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jordanmposs.com  
    Title: the ufo experience  
-   Link: <a href="https://www.jordanmposs.com/blog/2025/12/4/the-ufo-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.jordanmposs.com/blog/2025/12/4/the-ufo-experience</a>  
+   Link:<a href="https://www.jordanmposs.com/blog/2025/12/4/the-ufo-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.jordanmposs.com/blog/2025/12/4/the-ufo-experience</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: filmfestival.nl  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.filmfestival.nl/film/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.filmfestival.nl/film/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.filmfestival.nl/film/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.filmfestival.nl/film/close-encounters-of-the-third-kind</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: brevitymag.com  
    Title: close encounters  
-   Link: <a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
+   Link:<a href="https://brevitymag.com/craft-essays/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://brevitymag.com/craft-essays/close-encounters/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: biography.com  
    Title: J. Allen Hynek  
-   Link: <a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
+   Link:<a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Kypd8pyDGeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kypd8pyDGeU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Kypd8pyDGeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kypd8pyDGeU</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
    Title: The UFO Experience  
-   Link: <a href="https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek</a>  
+   Link:<a href="https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: catalog.freelibrary.org  
-   Link: <a href="https://catalog.freelibrary.org/Record/2682335" target="_blank" rel="noopener noreferrer nofollow">https://catalog.freelibrary.org/Record/2682335</a>  
+   Link:<a href="https://catalog.freelibrary.org/Record/2682335" target="_blank" rel="noopener noreferrer nofollow">https://catalog.freelibrary.org/Record/2682335</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Ufo-Experience-J-Allen-Hynek/dp/0345246942" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Ufo-Experience-J-Allen-Hynek/dp/0345246942</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO ExperienceHynek&#x27;s book is the defining text of modern, serious UFOlogy and anyone who studies UFO phenomena but has not read this...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Ufo-Experience-J-Allen-Hynek/dp/0345246942" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Ufo-Experience-J-Allen-Hynek/dp/0345246942</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO ExperienceHynek&#x27;s book is the defining text of modern, serious UFOlogy and anyone who studies UFO phenomena but has not read this...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: This Man Sparked Spielberg's Interest in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326151593_The_Close_Encounters_Man_How_One_Man_Made_the_World_Believe_in_UFOs_by_Mark_O%27Connell" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326151593_The_Close_Encounters_Man_How_One_Man_Made_the_World_Believe_in_UFOs_by_Mark_O%27Connell</a>  
+   Link:<a href="https://www.researchgate.net/publication/326151593_The_Close_Encounters_Man_How_One_Man_Made_the_World_Believe_in_UFOs_by_Mark_O%27Connell" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326151593_The_Close_Encounters_Man_How_One_Man_Made_the_World_Believe_in_UFOs_by_Mark_O%27Connell</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQ4Owc2DfDO/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ4Owc2DfDO/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DQ4Owc2DfDO/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ4Owc2DfDO/?hl=en</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: afi.com.au  
-   Link: <a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  
+   Link:<a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: universalcompendium.com  
-   Link: <a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  
+   Link:<a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  

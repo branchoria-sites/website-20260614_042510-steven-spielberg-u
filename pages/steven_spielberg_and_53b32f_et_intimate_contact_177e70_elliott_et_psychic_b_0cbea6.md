@@ -267,9 +267,9 @@ Within Spielberg’s broader fascination with UFOs and alien contact, this is a 
 
 The film’s strongest evidence for a real psychic connection arrives in scenes that would make little sense if Elliott and E.T. were merely friends.
 
-While Elliott is at school, E.T. remains at home exploring human culture through television. When E.T. drinks beer, Elliott suddenly becomes intoxicated in class despite being nowhere near him. As E.T. watches a romantic scene from *The Quiet Man*, Elliott is overwhelmed by the same emotional impulse and unexpectedly kisses a girl at school. The film presents these events as simultaneous and causally linked rather than coincidental. The plot summary itself identifies this as a consequence of the pair beginning to share thoughts and emotions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+While Elliott is at school, E.T. remains at home exploring human culture through television. When E.T. drinks beer, Elliott suddenly becomes intoxicated in class despite being nowhere near him. As E.T. watches a romantic scene from *The Quiet Man*, Elliott is overwhelmed by the same emotional impulse and unexpectedly kisses a girl at school. The film presents these events as simultaneous and causally linked rather than coincidental. The plot summary itself identifies this as a consequence of the pair beginning to share thoughts and emotions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
-The sequence matters because it moves beyond sympathy. Elliott is not simply guessing what E.T. feels. He experiences the effects directly. The editing cross-cuts between locations to show one consciousness influencing another across distance. Viewers are invited to understand the relationship as an actual mechanism operating within the story world rather than a symbolic representation of friendship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+The sequence matters because it moves beyond sympathy. Elliott is not simply guessing what E.T. feels. He experiences the effects directly. The editing cross-cuts between locations to show one consciousness influencing another across distance. Viewers are invited to understand the relationship as an actual mechanism operating within the story world rather than a symbolic representation of friendship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 The connection continues throughout the film:
 
@@ -279,7 +279,7 @@ The connection continues throughout the film:
 * Elliott reacts physically to E.T.’s experiences.
 * He senses E.T.’s desires before they are spoken.
 * He understands E.T.’s longing for home.
-* As E.T. weakens, Elliott becomes ill as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemaaxis.com">[Cinema Axis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemaaxis.com</span><span class="citation-popover-title">Cinema Axis80&#x27;s Library: E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial - Cinema AxisAugust 8, 2012 — 8 Aug 2012 — E.T. possesses telepathic and telekinetic powers and communicates with E...</span><span class="citation-popover-meta">Published: August 8, 2012</span></span></span>
+* As E.T. weakens, Elliott becomes ill as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemaaxis.com">[Cinema Axis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemaaxis.com</span><span class="citation-popover-title">Cinema Axis80&#x27;s Library: E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial - Cinema AxisAugust 8, 2012 — 8 Aug 2012 — E.T. possesses telepathic and telekinetic powers and communicates with E...</span><span class="citation-popover-meta">Published: August 8, 2012</span></span></span>
 
 </div>
 
@@ -305,11 +305,11 @@ Many stories about children and extraordinary creatures rely on affection, loyal
 
 The evidence is that the relationship changes both participants.
 
-Film critics and commentators have often noted that Elliott becomes more spontaneous and emotionally expressive after the connection develops. Pauline Kael famously argued that the telepathic link loosens Elliott’s cautious personality and allows buried feelings to surface. The film itself repeatedly associates the bond with emotional transformation rather than simple companionship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
+Film critics and commentators have often noted that Elliott becomes more spontaneous and emotionally expressive after the connection develops. Pauline Kael famously argued that the telepathic link loosens Elliott’s cautious personality and allows buried feelings to surface. The film itself repeatedly associates the bond with emotional transformation rather than simple companionship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">E.T. the Extra-Terrestrial</span><span class="citation-popover-snippet">E.T. the Extra-Terrestrial</span></span></span>
 
 E.T. also changes through the relationship. He learns human language, humour and affection while absorbing the emotional atmosphere of Elliott’s family. The connection works in both directions. It is not ownership but mutual influence.
 
-The distinction becomes especially important when government scientists enter the story. The adults want evidence, classification and control. Elliott already possesses something they cannot measure: direct experiential knowledge of another intelligence. He does not believe E.T. is alive and feeling because he has studied him. He knows because he feels those emotions himself. Roger Ebert highlighted this aspect of the film, noting that Elliott can sense E.T.’s condition when the alien is dying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertE.T. The Extra-Terrestrial movie reviewElliott and E.T. are linked mentally, so Elliott can sense that E.T. is dying. Elliott...</span></span></span>
+The distinction becomes especially important when government scientists enter the story. The adults want evidence, classification and control. Elliott already possesses something they cannot measure: direct experiential knowledge of another intelligence. He does not believe E.T. is alive and feeling because he has studied him. He knows because he feels those emotions himself. Roger Ebert highlighted this aspect of the film, noting that Elliott can sense E.T.’s condition when the alien is dying.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertE.T. The Extra-Terrestrial movie reviewElliott and E.T. are linked mentally, so Elliott can sense that E.T. is dying. Elliott...</span></span></span>
 
 For Spielberg, this becomes a radical definition of first contact. True understanding comes not from observation but from shared experience.
 
@@ -319,11 +319,11 @@ For Spielberg, this becomes a radical definition of first contact. True understa
 
 The most dramatic test of the bond arrives during E.T.’s illness.
 
-As E.T. deteriorates, Elliott begins to weaken as well. The film repeatedly links their physical conditions. Elliott even tells his mother, “We’re sick. I think we’re dying.” The language is revealing. He does not describe two separate illnesses. He speaks as though they are part of the same living system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savethecat.com">[Save the Cat!®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savethecat.com</span><span class="citation-popover-snippet">Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</span></span></span>
+As E.T. deteriorates, Elliott begins to weaken as well. The film repeatedly links their physical conditions. Elliott even tells his mother, “We’re sick. I think we’re dying.” The language is revealing. He does not describe two separate illnesses. He speaks as though they are part of the same living system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savethecat.com">[Save the Cat!®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savethecat.com</span><span class="citation-popover-snippet">Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</span></span></span>
 
 The emotional consequences are even more significant.
 
-When E.T. appears to die, Elliott experiences a profound emptiness. In story analyses and critical readings of the scene, the loss is portrayed as more than grief. Elliott feels the disappearance of a presence that had existed inside his own consciousness. The separation is experienced almost as an amputation of feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savethecat.com">[Save the Cat!®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savethecat.com</span><span class="citation-popover-snippet">Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</span></span></span>
+When E.T. appears to die, Elliott experiences a profound emptiness. In story analyses and critical readings of the scene, the loss is portrayed as more than grief. Elliott feels the disappearance of a presence that had existed inside his own consciousness. The separation is experienced almost as an amputation of feeling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savethecat.com">[Save the Cat!®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savethecat.com</span><span class="citation-popover-snippet">Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</span></span></span>
 
 This is why the death sequence remains so powerful. Spielberg is not asking the audience to mourn a friendly alien. He is asking them to imagine what it would mean to lose someone whose thoughts and emotions had become intertwined with their own.
 
@@ -338,9 +338,9 @@ Throughout the film, language remains limited. E.T. learns English slowly. Human
 
 The connection is emotional rather than verbal.
 
-Many analyses of the film note that Elliott and E.T. primarily share feelings rather than detailed thoughts. Their relationship is built on empathy, loneliness, fear, joy and affection. The bond allows each character to experience the other’s inner world directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ploominator19.wordpress.com">[Ploominate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ploominator19.wordpress.com</span><span class="citation-popover-title">Ploominate The Emotional Connection in E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</span></span></span>
+Many analyses of the film note that Elliott and E.T. primarily share feelings rather than detailed thoughts. Their relationship is built on empathy, loneliness, fear, joy and affection. The bond allows each character to experience the other’s inner world directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ploominator19.wordpress.com">[Ploominate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ploominator19.wordpress.com</span><span class="citation-popover-title">Ploominate The Emotional Connection in E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</span></span></span>
 
-The farewell scene completes this idea. By the end, neither character needs lengthy explanations. Their understanding already exists. E.T.’s promise that he will remain present is meaningful because the film has spent two hours demonstrating that emotional connection can transcend physical distance. The bond has taught both characters that contact is not merely proximity. It is remembrance, empathy and shared feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ploominator19.wordpress.com">[Ploominate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ploominator19.wordpress.com</span><span class="citation-popover-title">Ploominate The Emotional Connection in E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</span></span></span>
+The farewell scene completes this idea. By the end, neither character needs lengthy explanations. Their understanding already exists. E.T.’s promise that he will remain present is meaningful because the film has spent two hours demonstrating that emotional connection can transcend physical distance. The bond has taught both characters that contact is not merely proximity. It is remembrance, empathy and shared feeling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ploominator19.wordpress.com">[Ploominate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ploominator19.wordpress.com</span><span class="citation-popover-title">Ploominate The Emotional Connection in E.T</span><span class="citation-popover-snippet">the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</span></span></span>
 
 Within Spielberg’s UFO imagination, this may be the most intimate vision of alien encounter he ever created. The extraordinary discovery is not that humanity is not alone. It is that two completely different beings can know each other so deeply that the boundary between “your feelings” and “mine” begins to disappear.
 
@@ -348,194 +348,194 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_et_intimate_contact_177e70_elliott_et_psychic_b_0cbea6-Illustration-3-dark.svg" | relative_url }}" alt="Elliott Et Psychic B 0 Cbea 6 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_et_intimate_contact_177e70_elliott_et_psychic_b_0cbea6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_et_intimate_contact_177e70_elliott_et_psychic_b_0cbea6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Elliott Et Psychic B 0 Cbea 6. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Elliott Et Psychic B 0 Cbea 6. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="elliott-et-psychic-b-0-cbea-6-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,98 +741,98 @@ Within Spielberg’s UFO imagination, this may be the most intimate vision of al
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: E.T. the Extra-Terrestrial  
-   Link: <a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cinemaaxis.com  
    Title: Cinema Axis80's Library: E.T  
-   Link: <a href="https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial - Cinema AxisAugust 8, 2012 — 8 Aug 2012 — E.T. possesses telepathic and telekinetic powers and communicates with E...</p></details>
+   Link:<a href="https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://cinemaaxis.com/2012/08/08/the-80s-movie-library-[e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial - Cinema AxisAugust 8, 2012 — 8 Aug 2012 — E.T. possesses telepathic and telekinetic powers and communicates with E...</p></details>
    Published: August 8, 2012  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: savethecat.com  
-   Link: <a href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow">https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</p></details>
+   Link:<a href="https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet" target="_blank" rel="noopener noreferrer nofollow">https://savethecat.com/beat-sheets/e-t-the-extra-terrestrial-beat-sheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Save the Cat!®E.T. The Extra-Terrestrial Beat SheetThe family is questioned, and Elliott feels E.T.&#x27;s fear. Soon, his health begins to im...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rogerebert.com  
-   Link: <a href="https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertE.T. The Extra-Terrestrial movie reviewElliott and E.T. are linked mentally, so Elliott can sense that E.T. is dying. Elliott...</p></details>
+   Link:<a href="https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertE.T. The Extra-Terrestrial movie reviewElliott and E.T. are linked mentally, so Elliott can sense that E.T. is dying. Elliott...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ploominator19.wordpress.com  
    Title: Ploominate The Emotional Connection in E.T  
-   Link: <a href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</p></details>
+   Link:<a href="https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://ploominator19.wordpress.com/2022/04/15/the-emotional-connection-in-e-t-the-extra-terrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial15 Apr 2022 — Elliot and E.T. feel each other&#x27;s feelings.” E.T. points to his heart, implying that leaving Elliot is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: E.T.: The Extra-Terrestrial: Saving the frogs HD CLIP  
-   Link: <a href="https://www.youtube.com/watch?v=Fn7iqDIBzSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fn7iqDIBzSc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE EXTRA-TERRESTRIAL - Steven Spielberg on E.T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fn7iqDIBzSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fn7iqDIBzSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE EXTRA-TERRESTRIAL - Steven Spielberg on E.T...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: THE EXTRA-TERRESTRIAL  
-   Link: <a href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aiqLxSuXBzI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Reflects on Creating E.T. The Extra-Terrestrial | Bonus Feature...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aiqLxSuXBzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aiqLxSuXBzI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Reflects on Creating E.T. The Extra-Terrestrial | Bonus Feature...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/292386528/Film-Treatment-for-E-T" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/292386528/Film-Treatment-for-E-T</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Film Treatment Analysis | PDF | NatureElliott pushes aside some stalks and shines the light into the face of E.T.... He opens the c...</p></details>
+   Link:<a href="https://www.scribd.com/document/292386528/Film-Treatment-for-E-T" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/292386528/Film-Treatment-for-E-T</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. Film Treatment Analysis | PDF | NatureElliott pushes aside some stalks and shines the light into the face of E.T.... He opens the c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40greim/the-resurrection-of-e-t-explained-bf13ed714880" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40greim/the-resurrection-of-e-t-explained-bf13ed714880</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Resurrection of E.T. Explained | by Greg ReimerET is a member of a hive mind species who share consciousness via a communal telepathi...</p></details>
+   Link:<a href="https://medium.com/%40greim/the-resurrection-of-e-t-explained-bf13ed714880" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40greim/the-resurrection-of-e-t-explained-bf13ed714880</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Resurrection of E.T. Explained | by Greg ReimerET is a member of a hive mind species who share consciousness via a communal telepathi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tcmfansite/posts/2209765729465028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tcmfansite/posts/2209765729465028/</a>  
+   Link:<a href="https://www.facebook.com/groups/tcmfansite/posts/2209765729465028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tcmfansite/posts/2209765729465028/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: exhibits.usu.edu  
    Title: Digital Exhibits ET the Extra Terrestrial: Elliott's Relationship with ETE.T  
-   Link: <a href="https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/elliottsrelationshipwithet" target="_blank" rel="noopener noreferrer nofollow">https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/elliottsrelationshipwithet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is connected to reality; he requires normal skills and an understanding of this reality in order to achieve his goal. Elliot is connected...</p></details>
+   Link:<a href="https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/elliottsrelationshipwithet" target="_blank" rel="noopener noreferrer nofollow">https://exhibits.usu.edu/exhibits/show/ettheextraterrestrial/elliottsrelationshipwithet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is connected to reality; he requires normal skills and an understanding of this reality in order to achieve his goal. Elliot is connected...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/17omjys/famed_critic_roger_ebert_wrote_a_review_for_et/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/17omjys/famed_critic_roger_ebert_wrote_a_review_for_et/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gle important shot is seen either as ET would see it, or as Elliott would...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/17omjys/famed_critic_roger_ebert_wrote_a_review_for_et/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/17omjys/famed_critic_roger_ebert_wrote_a_review_for_et/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gle important shot is seen either as ET would see it, or as Elliott would...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: movies.stackexchange.com  
    Title: how does elliott start feeling behaving like e t  
-   Link: <a href="https://movies.stackexchange.com/questions/37126/how-does-elliott-start-feeling-behaving-like-e-t" target="_blank" rel="noopener noreferrer nofollow">https://movies.stackexchange.com/questions/37126/how-does-elliott-start-feeling-behaving-like-e-t</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>when Elliott is at school and E.T. is alone at home with the dog, strange things start happening. When E.T. drinks beer, Elliott starts f...</p></details>
+   Link:<a href="https://movies.stackexchange.com/questions/37126/how-does-elliott-start-feeling-behaving-like-e-t" target="_blank" rel="noopener noreferrer nofollow">https://movies.stackexchange.com/questions/37126/how-does-elliott-start-feeling-behaving-like-e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>when Elliott is at school and E.T. is alone at home with the dog, strange things start happening. When E.T. drinks beer, Elliott starts f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: screenrant.com  
    Title: et extra terrestrial movie ending explained  
-   Link: <a href="https://screenrant.com/et-extra-terrestrial-movie-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/et-extra-terrestrial-movie-ending-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra-Terrestrial Ending Explained8 Dec 2020 — This explains why their fates seem so inexplicably intertwined, such as when Elli...</p></details>
+   Link:<a href="https://screenrant.com/et-extra-terrestrial-movie-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/et-extra-terrestrial-movie-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T. The Extra-Terrestrial Ending Explained8 Dec 2020 — This explains why their fates seem so inexplicably intertwined, such as when Elli...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/4cqpg5/serious_can_someone_logically_explain_the_pivotal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/4cqpg5/serious_can_someone_logically_explain_the_pivotal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s. He gets sick after spending a night outside and is found...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/4cqpg5/serious_can_someone_logically_explain_the_pivotal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/4cqpg5/serious_can_someone_logically_explain_the_pivotal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s. He gets sick after spending a night outside and is found...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: letsschmooze.blogspot.com  
    Title: et analysis part 10 act three  
-   Link: <a href="https://letsschmooze.blogspot.com/2010/01/et-analysis-part-10-act-three.html" target="_blank" rel="noopener noreferrer nofollow">https://letsschmooze.blogspot.com/2010/01/et-analysis-part-10-act-three.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Part 10 – Act Three13 Jan 2010 — E.T.&#x27;s heart light comes on when he comes back to life. The heart light was planted in the open...</p></details>
+   Link:<a href="https://letsschmooze.blogspot.com/2010/01/et-analysis-part-10-act-three.html" target="_blank" rel="noopener noreferrer nofollow">https://letsschmooze.blogspot.com/2010/01/et-analysis-part-10-act-three.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Part 10 – Act Three13 Jan 2010 — E.T.&#x27;s heart light comes on when he comes back to life. The heart light was planted in the open...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ukessays.com  
    Title: critical analysis of monster theory in e t  
-   Link: <a href="https://www.ukessays.com/essays/film-studies/critical-analysis-of-monster-theory-in-e-t.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ukessays.com/essays/film-studies/critical-analysis-of-monster-theory-in-e-t.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial is love and relationships. The two main characters, Elliott and E.T., share the...Read more...</p></details>
+   Link:<a href="https://www.ukessays.com/essays/film-studies/critical-analysis-of-monster-theory-in-e-t.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ukessays.com/essays/film-studies/critical-analysis-of-monster-theory-in-e-t.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Extra-Terrestrial is love and relationships. The two main characters, Elliott and E.T., share the...Read more...</p></details>

@@ -274,7 +274,7 @@ This creates a distinctive form of “dark wonder”. Instead of inviting humani
 
 The answer in Spielberg’s cinema is yes, but only by changing what wonder means.
 
-In *Close Encounters*, wonder comes from anticipation and communication. The UFOs are mysterious, but the mystery promises connection. In *War of the Worlds*, the mystery remains unresolved and threatening. Humans do not decode the visitors, negotiate with them or gain meaningful knowledge about them. Yet the aliens are still presented as phenomena so vast that they exceed ordinary experience. Wonder shifts from hopeful discovery to stunned confrontation with the unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds</span><span class="citation-popover-snippet">The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
+In *Close Encounters*, wonder comes from anticipation and communication. The UFOs are mysterious, but the mystery promises connection. In *War of the Worlds*, the mystery remains unresolved and threatening. Humans do not decode the visitors, negotiate with them or gain meaningful knowledge about them. Yet the aliens are still presented as phenomena so vast that they exceed ordinary experience. Wonder shifts from hopeful discovery to stunned confrontation with the unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds</span><span class="citation-popover-snippet">The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
 
 This is an important distinction within Spielberg’s UFO work. The emotional response is not admiration of the invaders themselves. Rather, it is awe at their scale, power and incomprehensibility.
 
@@ -285,7 +285,7 @@ This is an important distinction within Spielberg’s UFO work. The emotional re
 
 The clearest mechanism behind dark wonder is scale.
 
-Spielberg repeatedly introduces alien technology through carefully staged reveals. The famous emergence of the first tripod in *War of the Worlds* begins with confusion rather than immediate action. Streets crack open, electrical systems fail and the crowd struggles to understand what is happening. Only gradually does the machine rise above the cityscape, transforming a local disturbance into a revelation of something impossibly large. Critics and commentators have frequently highlighted this sequence as a masterclass in withholding and revelation, combining dread with a moment of astonishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
+Spielberg repeatedly introduces alien technology through carefully staged reveals. The famous emergence of the first tripod in *War of the Worlds* begins with confusion rather than immediate action. Streets crack open, electrical systems fail and the crowd struggles to understand what is happening. Only gradually does the machine rise above the cityscape, transforming a local disturbance into a revelation of something impossibly large. Critics and commentators have frequently highlighted this sequence as a masterclass in withholding and revelation, combining dread with a moment of astonishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theconflictedfilmsnob.com">[The Conflicted Film Snob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theconflictedfilmsnob.com</span><span class="citation-popover-title">The Conflicted Film Snob The Art of the Reveal: &quot;War of the Worlds&quot; Edition</span><span class="citation-popover-snippet">The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
 
 The tripod is terrifying, but it is also visually majestic. Its height dwarfs buildings. Its movements feel both mechanical and animal. The audience experiences a brief instant of amazement before the machine begins killing people. That emotional sequence matters. Spielberg allows wonder to occur first, then corrupts it.
 
@@ -293,9 +293,9 @@ The same effect appears throughout the film:
 
 * The towering silhouettes of the tripods emerging through smoke and dust.
 * The immense scale of destruction viewed from ground level rather than from a detached military perspective.
-* The alien soundscape, particularly the tripod horn, which transforms the invasion into an event that feels almost mythic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">War of the Worlds: Steven Spielberg&#x27;s Dystopian...March 17, 2025 — The tripods were made to seem both extraterrestrial and ominous...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
+* The alien soundscape, particularly the tripod horn, which transforms the invasion into an event that feels almost mythic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">War of the Worlds: Steven Spielberg&#x27;s Dystopian...March 17, 2025 — The tripods were made to seem both extraterrestrial and ominous...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
 
-Unlike many invasion blockbusters that present destruction as military spectacle, Spielberg often keeps the camera close to ordinary people. This perspective makes the machines appear even larger and more incomprehensible. The audience shares the characters’ inability to grasp the full event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds</span><span class="citation-popover-snippet">The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
+Unlike many invasion blockbusters that present destruction as military spectacle, Spielberg often keeps the camera close to ordinary people. This perspective makes the machines appear even larger and more incomprehensible. The audience shares the characters’ inability to grasp the full event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds</span><span class="citation-popover-snippet">The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-2-dark.svg" | relative_url }}" alt="Dark Wonder Invasion 2 E148 A illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,7 +303,7 @@ Unlike many invasion blockbusters that present destruction as military spectacle
 
 Another reason wonder survives the attack is that Spielberg refuses to explain everything.
 
-Many science-fiction films reduce mystery by revealing the invaders’ motives, culture or technology. *War of the Worlds* offers surprisingly little explanation. The aliens arrive through a plan apparently set in motion long before human history, with their machines hidden beneath the Earth. The implications are enormous, yet the film never pauses to answer every question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+Many science-fiction films reduce mystery by revealing the invaders’ motives, culture or technology. *War of the Worlds* offers surprisingly little explanation. The aliens arrive through a plan apparently set in motion long before human history, with their machines hidden beneath the Earth. The implications are enormous, yet the film never pauses to answer every question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 This lack of explanation serves two purposes.
 
@@ -311,7 +311,7 @@ First, it intensifies fear. An enemy that cannot be understood is harder to resi
 
 Second, it preserves a sense of cosmic scale. The audience is reminded that human beings occupy only a small position within a much larger universe. The invasion is frightening precisely because it reveals how limited human knowledge really is.
 
-This approach echoes Spielberg’s earlier UFO films, where mystery generates wonder. The difference is that *Close Encounters* eventually rewards curiosity with communication. *War of the Worlds* never offers that reassurance. The mystery remains open, and therefore unsettling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbleasdale.com">[The JohnBleasdale Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbleasdale.com</span><span class="citation-popover-title">The John Bleasdale Universe Spiel Blog: 24</span><span class="citation-popover-snippet">War of the Worlds - John Bleasdale22 Jan 2019 — Steven Spielberg owes a lot to aliens from outer space. His 60s mentality of awe and wond...</span></span></span>
+This approach echoes Spielberg’s earlier UFO films, where mystery generates wonder. The difference is that *Close Encounters* eventually rewards curiosity with communication. *War of the Worlds* never offers that reassurance. The mystery remains open, and therefore unsettling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbleasdale.com">[The JohnBleasdale Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbleasdale.com</span><span class="citation-popover-title">The John Bleasdale Universe Spiel Blog: 24</span><span class="citation-popover-snippet">War of the Worlds - John Bleasdale22 Jan 2019 — Steven Spielberg owes a lot to aliens from outer space. His 60s mentality of awe and wond...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KioF1sTQFtE" title="Independence Day vs. War of the Worlds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KioF1sTQFtE" target="_blank" rel="noopener noreferrer">Independence Day vs. War of the Worlds</a></p><p class="youtube-embed-meta">Channel: Lindsay Ellis &middot; Views: 2.0M &middot; Uploaded: February 2019</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KioF1sTQFtE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KioF1sTQFtE">Open on YouTube</a></p></div></div></div>
@@ -320,13 +320,13 @@ This approach echoes Spielberg’s earlier UFO films, where mystery generates wo
 
 The most revealing comparison is with Spielberg’s earlier alien imagery.
 
-In *Close Encounters*, giant spacecraft emerge from darkness in scenes built around light, music and revelation. The audience experiences awe because the unknown appears beautiful. In *War of the Worlds*, giant tripods emerge from beneath cities in scenes built around panic and destruction. Yet the visual strategy remains surprisingly similar: gradual revelation, overwhelming size and a sense that human observers are witnessing something beyond ordinary reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickeringmyth.com">[Flickering Myth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickeringmyth.com</span><span class="citation-popover-title">Flickering Myth Close Encounters of the Spielberg Kind</span><span class="citation-popover-snippet">Flickering MythClose Encounters of the Spielberg KindApril 26, 2026 — 26 Apr 2026 — Close Encounters is decidedly patient in comparison t...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+In *Close Encounters*, giant spacecraft emerge from darkness in scenes built around light, music and revelation. The audience experiences awe because the unknown appears beautiful. In *War of the Worlds*, giant tripods emerge from beneath cities in scenes built around panic and destruction. Yet the visual strategy remains surprisingly similar: gradual revelation, overwhelming size and a sense that human observers are witnessing something beyond ordinary reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickeringmyth.com">[Flickering Myth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickeringmyth.com</span><span class="citation-popover-title">Flickering Myth Close Encounters of the Spielberg Kind</span><span class="citation-popover-snippet">Flickering MythClose Encounters of the Spielberg KindApril 26, 2026 — 26 Apr 2026 — Close Encounters is decidedly patient in comparison t...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 
 The emotional destination changes, but the cinematic mechanism remains recognisably Spielbergian.
 
 This continuity explains why many viewers remember moments of amazement even in one of Spielberg’s bleakest science-fiction films. The invasion imagery does not merely depict violence. It transforms violence into an encounter with the sublime—the experience of confronting something so vast and powerful that it exceeds normal categories of understanding.
 
-Historically, this marks an evolution rather than a rejection of Spielberg’s UFO imagination. The youthful optimism of *Close Encounters* and *E.T.* gives way to a post-[Cold War]({{ 'cold-war/' | relative_url }}) and post-9/11 atmosphere of vulnerability, yet the fascination with the unknown remains intact. Critics have frequently noted that *War of the Worlds* channels contemporary fears while retaining Spielberg’s instinct for spectacle and mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-title">and yet it has detractors. Devin attempts to set the record straight.Read more</span><span class="citation-popover-snippet">Defense Of Spielberg&#x27;s WAR OF THE WORLDSFebruary 19, 2013 — 19 Feb 2013 — Spielberg&#x27;s 9/11 allegory is dark, thrilling and masterfully made...</span><span class="citation-popover-meta">Published: February 19, 2013</span></span></span>
+Historically, this marks an evolution rather than a rejection of Spielberg’s UFO imagination. The youthful optimism of *Close Encounters* and *E.T.* gives way to a post-[Cold War]({{ 'cold-war/' | relative_url }}) and post-9/11 atmosphere of vulnerability, yet the fascination with the unknown remains intact. Critics have frequently noted that *War of the Worlds* channels contemporary fears while retaining Spielberg’s instinct for spectacle and mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birthmoviesdeath.com">[Birth.Movies.Death.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birthmoviesdeath.com</span><span class="citation-popover-title">and yet it has detractors. Devin attempts to set the record straight.Read more</span><span class="citation-popover-snippet">Defense Of Spielberg&#x27;s WAR OF THE WORLDSFebruary 19, 2013 — 19 Feb 2013 — Spielberg&#x27;s 9/11 allegory is dark, thrilling and masterfully made...</span><span class="citation-popover-meta">Published: February 19, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-3-dark.svg" | relative_url }}" alt="Dark Wonder Invasion 2 E148 A illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_friendly_vs_hostile_b51dae_dark_wonder_invasion_2e148a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,194 +343,194 @@ That is why the tripod sequences remain memorable long after the immediate shock
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Dark Wonder Invasion 2 E148 A. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Dark Wonder Invasion 2 E148 A. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="dark-wonder-invasion-2-e148-a-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ That is why the tripod sequences remain memorable long after the immediate shock
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ That is why the tripod sequences remain memorable long after the immediate shock
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ That is why the tripod sequences remain memorable long after the immediate shock
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ That is why the tripod sequences remain memorable long after the immediate shock
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ That is why the tripod sequences remain memorable long after the immediate shock
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,102 +736,102 @@ That is why the tripod sequences remain memorable long after the immediate shock
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: slashfilm.com  
    Title: Slash Film The Daily Stream: Steven Spielberg's War Of The Worlds  
-   Link: <a href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</p></details>
+   Link:<a href="https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/882050/the-daily-stream-steven-spielbergs-war-of-the-worlds-remains-a-complex-atypical-blockbuster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily Stream: Steven Spielberg&#x27;s War Of The Worlds...June 2, 2022 — 1 Jun 2022 — This film is not the typical blockbuster a...</p></details>
    Published: June 2, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: johnbleasdale.com  
    Title: The John Bleasdale Universe Spiel Blog: 24  
-   Link: <a href="https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds - John Bleasdale22 Jan 2019 — Steven Spielberg owes a lot to aliens from outer space. His 60s mentality of awe and wond...</p></details>
+   Link:<a href="https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.johnbleasdale.com/spielblog/spielblog-24-war-of-the-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds - John Bleasdale22 Jan 2019 — Steven Spielberg owes a lot to aliens from outer space. His 60s mentality of awe and wond...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Steven Spielberg&#x27;s Dystopian...March 17, 2025 — The tripods were made to seem both extraterrestrial and ominous...</p></details>
+   Link:<a href="https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40rinoingenito04/war-of-the-worlds-steven-spielbergs-dystopian-masterpiece-e107e70405c3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Steven Spielberg&#x27;s Dystopian...March 17, 2025 — The tripods were made to seem both extraterrestrial and ominous...</p></details>
    Published: March 17, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theconflictedfilmsnob.com  
    Title: The Conflicted Film Snob The Art of the Reveal: "War of the Worlds" Edition  
-   Link: <a href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow">https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</p></details>
+   Link:<a href="https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/" target="_blank" rel="noopener noreferrer nofollow">https://theconflictedfilmsnob.com/2015/07/10/anatomy-of-a-scene-war-of-the-worlds-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Conflicted Film SnobThe Art of the Reveal: &quot;War of the Worlds&quot; EditionJuly 10, 2015 — 10 Jul 2015 — The first reveal of an alien Trip...</p></details>
    Published: July 10, 2015  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flickeringmyth.com  
    Title: Flickering Myth Close Encounters of the Spielberg Kind  
-   Link: <a href="https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickering MythClose Encounters of the Spielberg KindApril 26, 2026 — 26 Apr 2026 — Close Encounters is decidedly patient in comparison t...</p></details>
+   Link:<a href="https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickeringmyth.com/close-encounters-of-the-spielberg-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flickering MythClose Encounters of the Spielberg KindApril 26, 2026 — 26 Apr 2026 — Close Encounters is decidedly patient in comparison t...</p></details>
    Published: April 26, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: birthmoviesdeath.com  
    Title: and yet it has detractors. Devin attempts to set the record straight.Read more  
-   Link: <a href="https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Of Spielberg&#x27;s WAR OF THE WORLDSFebruary 19, 2013 — 19 Feb 2013 — Spielberg&#x27;s 9/11 allegory is dark, thrilling and masterfully made...</p></details>
+   Link:<a href="https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://birthmoviesdeath.com/2013/02/19/in-defense-of-spielbergs-war-of-the-worlds.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Of Spielberg&#x27;s WAR OF THE WORLDSFebruary 19, 2013 — 19 Feb 2013 — Spielberg&#x27;s 9/11 allegory is dark, thrilling and masterfully made...</p></details>
    Published: February 19, 2013  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: horrorthriller.com  
-   Link: <a href="https://horrorthriller.com/Movies/VWX/WotW.html" target="_blank" rel="noopener noreferrer nofollow">https://horrorthriller.com/Movies/VWX/WotW.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s WAR OF THE WORLDS movie reviewKelly Parks reviews War of the Worlds starring Tom Cruise, Dakota Fanning, Justin Chatwi...</p></details>
+   Link:<a href="https://horrorthriller.com/Movies/VWX/WotW.html" target="_blank" rel="noopener noreferrer nofollow">https://horrorthriller.com/Movies/VWX/WotW.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s WAR OF THE WORLDS movie reviewKelly Parks reviews War of the Worlds starring Tom Cruise, Dakota Fanning, Justin Chatwi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZF9p_7gWGx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZF9p_7gWGx/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZF9p_7gWGx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZF9p_7gWGx/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: screenhub.blog  
    Title: a look back at spielbergs war of the worlds screenhub entertainment  
-   Link: <a href="https://screenhub.blog/2024/09/17/a-look-back-at-spielbergs-war-of-the-worlds-screenhub-entertainment/" target="_blank" rel="noopener noreferrer nofollow">https://screenhub.blog/2024/09/17/a-look-back-at-spielbergs-war-of-the-worlds-screenhub-entertainment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at Spielberg&#x27;s &#x27;War of the Worlds&#x27;17 Sept 2024 — War of the Worlds tells the story of Ray (Tom Cruise), an apathetic and divo...</p></details>
+   Link:<a href="https://screenhub.blog/2024/09/17/a-look-back-at-spielbergs-war-of-the-worlds-screenhub-entertainment/" target="_blank" rel="noopener noreferrer nofollow">https://screenhub.blog/2024/09/17/a-look-back-at-spielbergs-war-of-the-worlds-screenhub-entertainment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at Spielberg&#x27;s &#x27;War of the Worlds&#x27;17 Sept 2024 — War of the Worlds tells the story of Ray (Tom Cruise), an apathetic and divo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: People are calling it Spielberg's best film in 20 years  
-   Link: <a href="https://www.instagram.com/p/DY4bOKcCPpe/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY4bOKcCPpe/?img_index=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critics say it captures classic Spielberg magic, mystery, awe, emotion. If the hype is real, we&#x27;re not just getting a hit, we&#x27;re witnessi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY4bOKcCPpe/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY4bOKcCPpe/?img_index=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critics say it captures classic Spielberg magic, mystery, awe, emotion. If the hype is real, we&#x27;re not just getting a hit, we&#x27;re witnessi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: war of the worlds 2005 what did you think about  
-   Link: <a href="https://www.reddit.com/r/scifi/comments/my42f3/war_of_the_worlds_2005_what_did_you_think_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/my42f3/war_of_the_worlds_2005_what_did_you_think_about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What did you think about Steven...The movie wasn&#x27;t terrible, it was a typical Steven Spielberg scifi action movie. A lot of flashy scene...</p></details>
+   Link:<a href="https://www.reddit.com/r/scifi/comments/my42f3/war_of_the_worlds_2005_what_did_you_think_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/my42f3/war_of_the_worlds_2005_what_did_you_think_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What did you think about Steven...The movie wasn&#x27;t terrible, it was a typical Steven Spielberg scifi action movie. A lot of flashy scene...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/1850go5/the_scene_where_the_pods_emerge_in_steven/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1850go5/the_scene_where_the_pods_emerge_in_steven/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ally captures the crush of panicking people as well and just...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/1850go5/the_scene_where_the_pods_emerge_in_steven/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1850go5/the_scene_where_the_pods_emerge_in_steven/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ally captures the crush of panicking people as well and just...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;t seem to be anything under the hood. Is there any subtext?Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueFilm/comments/1f3nrfm/what_is_the_point_of_close_encounters_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;t seem to be anything under the hood. Is there any subtext?Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: emanuellevy.com  
    Title: War of the Worlds According to Spielberg  
-   Link: <a href="https://emanuellevy.com/interviews/war-of-the-worlds-according-to-spielberg-4/" target="_blank" rel="noopener noreferrer nofollow">https://emanuellevy.com/interviews/war-of-the-worlds-according-to-spielberg-4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emanuel Levy26 Jun 2005 — In the movie, you see American fleeing for their lives, being attacked for no reason, having no idea why theyre...</p></details>
+   Link:<a href="https://emanuellevy.com/interviews/war-of-the-worlds-according-to-spielberg-4/" target="_blank" rel="noopener noreferrer nofollow">https://emanuellevy.com/interviews/war-of-the-worlds-according-to-spielberg-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emanuel Levy26 Jun 2005 — In the movie, you see American fleeing for their lives, being attacked for no reason, having no idea why theyre...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pielberg&#x27;s Close Encounters of the Third Kind.Read more...</p></details>
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pielberg&#x27;s Close Encounters of the Third Kind.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161952237016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161952237016696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s of the third Kind &quot;? What are the similarities?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161952237016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161952237016696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s of the third Kind &quot;? What are the similarities?...</p></details>

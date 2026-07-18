@@ -259,13 +259,13 @@ image: /assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_avi
 
 ## Introduction
 
-In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Steven Spielberg broadens the UFO witness problem beyond ordinary citizens and into the world of aviation. This shift matters because pilots and air traffic controllers occupy a special place in public trust. They are trained observers, accustomed to judging distance, speed, weather conditions and aircraft behaviour under pressure. When such people report something unusual, the claim becomes harder to dismiss as simple confusion or fantasy. At the same time, Spielberg recognises a paradox that has long existed in real UFO reporting: the very professionals whose testimony carries the most weight often face the greatest professional risk if they speak openly. That tension allows the film to explore [credibility]({{ 'credibility/' | relative_url }}) not as a question of belief alone, but as a problem embedded within institutions, careers and public reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
+In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Steven Spielberg broadens the UFO witness problem beyond ordinary citizens and into the world of aviation. This shift matters because pilots and air traffic controllers occupy a special place in public trust. They are trained observers, accustomed to judging distance, speed, weather conditions and aircraft behaviour under pressure. When such people report something unusual, the claim becomes harder to dismiss as simple confusion or fantasy. At the same time, Spielberg recognises a paradox that has long existed in real UFO reporting: the very professionals whose testimony carries the most weight often face the greatest professional risk if they speak openly. That tension allows the film to explore [credibility]({{ 'credibility/' | relative_url }}) not as a question of belief alone, but as a problem embedded within institutions, careers and public reputation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_aviation_witness_pre_9c5838-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Witness Pre 9 C5838 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_aviation_witness_pre_9c5838-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_aviation_witness_pre_9c5838-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why aviation witnesses carry unusual authority
 
-One of the film's earliest and most memorable sequences unfolds through radio communications between pilots and air traffic controllers. Two commercial aircraft encounter a brilliantly illuminated object that appears to manoeuvre in ways they do not expect. Spielberg deliberately keeps much of the event off-screen. The audience hears professionals describing what they see in the precise language of aviation rather than through emotional speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
+One of the film's earliest and most memorable sequences unfolds through radio communications between pilots and air traffic controllers. Two commercial aircraft encounter a brilliantly illuminated object that appears to manoeuvre in ways they do not expect. Spielberg deliberately keeps much of the event off-screen. The audience hears professionals describing what they see in the precise language of aviation rather than through emotional speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
 
 This is an important storytelling choice. Pilots are not presented as UFO enthusiasts searching for mysteries. They are working professionals performing routine duties. Their credibility derives from several factors:
 
@@ -279,7 +279,7 @@ This is an important storytelling choice. Pilots are not presented as UFO enthus
 
 </div>
 
-Because of these characteristics, Spielberg turns aviation personnel into a bridge between private testimony and institutional evidence. The UFO is no longer merely something seen by a troubled individual such as [Roy Neary]({{ 'roy-neary/' | relative_url }}). It is something entering regulated airspace and attracting the attention of trained observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Because of these characteristics, Spielberg turns aviation personnel into a bridge between private testimony and institutional evidence. The UFO is no longer merely something seen by a troubled individual such as [Roy Neary]({{ 'roy-neary/' | relative_url }}). It is something entering regulated airspace and attracting the attention of trained observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 The effect is historical as well as dramatic. UFO debates throughout the twentieth century often gave special attention to pilot reports precisely because aviation [witnesses]({{ 'witnesses/' | relative_url }}) were assumed to possess technical expertise. Spielberg draws on that cultural assumption, making the audience confront a more difficult question: if people whose careers depend on accurate observation are alarmed, can the experience be dismissed as easily as an ordinary misunderstanding?
 
@@ -288,13 +288,13 @@ The effect is historical as well as dramatic. UFO debates throughout the twentie
 
 ## How professional risk shapes what gets reported
 
-The most revealing moment in the aviation sequence is not the sighting itself but what follows it. After the near encounter, controllers ask whether the pilots wish to file an official UFO report. Both crews decline. In a few lines of dialogue, Spielberg exposes a social mechanism that extends far beyond science fiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
+The most revealing moment in the aviation sequence is not the sighting itself but what follows it. After the near encounter, controllers ask whether the pilots wish to file an official UFO report. Both crews decline. In a few lines of dialogue, Spielberg exposes a social mechanism that extends far beyond science fiction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
 
 The pilots' refusal suggests that credibility operates in two directions. Reporting a strange object may demonstrate honesty, but it may also invite questions about judgement, perception and professionalism. The film implies that witnesses can simultaneously believe they saw something extraordinary and decide that speaking publicly is not worth the potential consequences.
 
-That idea has remained relevant in modern discussions of unidentified aerial phenomena. NASA's independent UAP study concluded that stigma continues to discourage reporting and that negative perceptions affect the quality and quantity of available data. The report specifically notes barriers that can prevent aviation personnel from documenting unusual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
+That idea has remained relevant in modern discussions of unidentified aerial phenomena. NASA's independent UAP study concluded that stigma continues to discourage reporting and that negative perceptions affect the quality and quantity of available data. The report specifically notes barriers that can prevent aviation personnel from documenting unusual observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
 
-Similar concerns have appeared in contemporary pilot testimony. Former naval aviator Ryan Graves told the US House Oversight Committee that stigma discourages reporting and can silence commercial pilots who fear professional repercussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — 2. The stigma attached to UAP is real and powerful and challenges national secur...</span></span></span>
+Similar concerns have appeared in contemporary pilot testimony. Former naval aviator Ryan Graves told the US House Oversight Committee that stigma discourages reporting and can silence commercial pilots who fear professional repercussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — 2. The stigma attached to UAP is real and powerful and challenges national secur...</span></span></span>
 
 Spielberg anticipated this dynamic decades earlier. His pilots are not sceptics dismissing the event, nor are they crusaders demanding disclosure. They occupy a more realistic middle ground: witnesses who have seen something they cannot explain but who understand that official acknowledgement carries costs.
 
@@ -322,7 +322,7 @@ This paradox helps explain why Spielberg treats witness testimony as a social pr
 
 The aviation material gains additional significance because of where Spielberg places it within the film's larger structure. The professional concern expressed in control towers and cockpits stands in sharp contrast to the reactions Roy Neary later receives at home.
 
-Controllers and pilots respond to unusual events with procedural seriousness. They assess traffic, request confirmation and attempt to determine whether a safety threat exists. Their uncertainty is professional uncertainty: they acknowledge that something unusual may be present even when they lack an explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
+Controllers and pilots respond to unusual events with procedural seriousness. They assess traffic, request confirmation and attempt to determine whether a safety threat exists. Their uncertainty is professional uncertainty: they acknowledge that something unusual may be present even when they lack an explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transcripts.foreverdreaming.org">[Forever Dreaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transcripts.foreverdreaming.org</span><span class="citation-popover-snippet">Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</span></span></span>
 
 Roy's family experiences uncertainty differently. His increasingly obsessive behaviour makes him appear unreliable regardless of what he actually witnessed. The domestic world judges credibility through social norms and emotional stability rather than through technical observation.
 
@@ -345,7 +345,7 @@ The UFO therefore functions as a test of credibility in different environments. 
 
 A common misconception is that Spielberg uses pilots and controllers simply to strengthen the case that UFOs are real. The scenes do something more subtle. They show that trained observers can produce credible testimony without producing certainty.
 
-Modern aviation examples illustrate the same point. Investigations have repeatedly shown that sincere and experienced pilots can sometimes misidentify unusual lights, satellite formations or atmospheric phenomena. Yet those cases do not make pilot reports worthless. Instead, they demonstrate why aviation testimony is valuable but not conclusive. It deserves attention because of the observer's expertise, while still requiring corroboration and analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Modern aviation examples illustrate the same point. Investigations have repeatedly shown that sincere and experienced pilots can sometimes misidentify unusual lights, satellite formations or atmospheric phenomena. Yet those cases do not make pilot reports worthless. Instead, they demonstrate why aviation testimony is valuable but not conclusive. It deserves attention because of the observer's expertise, while still requiring corroboration and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Spielberg's treatment closely mirrors this distinction. The pilots' authority matters because they are trained professionals, but their testimony does not instantly solve the mystery. Their reports deepen the puzzle rather than resolve it.
 
@@ -358,197 +358,197 @@ That balance helps explain why the aviation sequences remain so effective. They 
 
 Within Spielberg's larger exploration of UFO belief, pilots and controllers serve a crucial narrative function. They demonstrate that the credibility crisis surrounding extraordinary experiences is not confined to isolated individuals. It can reach into highly structured professional systems staffed by people whose careers depend on observation, accuracy and judgement.
 
-By showing trained aviation personnel hesitating to report what they have seen, Spielberg highlights a tension that continues to shape real-world UAP discussions: expertise can increase the value of testimony, but it does not eliminate the social pressures attached to making extraordinary claims. The result is one of the film's most enduring insights. The challenge is not only seeing something strange in the sky. It is deciding whether telling others about it will make you more believable—or less. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeardedtrio.com">[The Bearded Trio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeardedtrio.com</span><span class="citation-popover-title">close encounters of third kind taking</span><span class="citation-popover-snippet">It&#x27;s a gripping scene that I never tire of...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
+By showing trained aviation personnel hesitating to report what they have seen, Spielberg highlights a tension that continues to shape real-world UAP discussions: expertise can increase the value of testimony, but it does not eliminate the social pressures attached to making extraordinary claims. The result is one of the film's most enduring insights. The challenge is not only seeing something strange in the sky. It is deciding whether telling others about it will make you more believable—or less.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeardedtrio.com">[The Bearded Trio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeardedtrio.com</span><span class="citation-popover-title">close encounters of third kind taking</span><span class="citation-popover-snippet">It&#x27;s a gripping scene that I never tire of...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Aviation Witness Pre 9 C5838. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Aviation Witness Pre 9 C5838. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt"><img src="{{ '/assets/images/marketplace-covers/48c44fc2800773d0262a.jpg' | relative_url }}" alt="Listing image for Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cat Selfie UFO Anubis Ancient God Witnesses Alien Contact T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift"><img src="{{ '/assets/images/marketplace-covers/c5e755d49629e52e3a63.jpg' | relative_url }}" alt="Listing image for Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Occupy Earth Alien T-Shirt – Funny Astronaut UFO Graphic Tee | Space Humor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="aviation-witness-pre-9-c5838-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ By showing trained aviation personnel hesitating to report what they have seen, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ By showing trained aviation personnel hesitating to report what they have seen, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ By showing trained aviation personnel hesitating to report what they have seen, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ By showing trained aviation personnel hesitating to report what they have seen, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ By showing trained aviation personnel hesitating to report what they have seen, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,149 +754,149 @@ By showing trained aviation personnel hesitating to report what they have seen, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The negative stigma that impacts reporting rates in turn impacts the study of UAP. In...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — 2. The stigma attached to UAP is real and powerful and challenges national secur...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — 2. The stigma attached to UAP is real and powerful and challenges national secur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fbkXE1xBTM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8fbkXE1xBTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fbkXE1xBTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit?  
-   Link: <a href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GgT2mjhpAg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind - Air Traffic Control scene HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GgT2mjhpAg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind - Air Traffic Control scene HD...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=MLiRnvppAaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLiRnvppAaM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Air Traffic Control Scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MLiRnvppAaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLiRnvppAaM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Air Traffic Control Scene...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Close Encounters Air Traffic Control Scene  
-   Link: <a href="https://www.youtube.com/watch?v=KW10xCub3Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KW10xCub3Kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - Air Traffic Control...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KW10xCub3Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KW10xCub3Kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - Air Traffic Control...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nTlzU2O-Rg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nTlzU2O-Rg8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nTlzU2O-Rg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nTlzU2O-Rg8</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: transcripts.foreverdreaming.org  
-   Link: <a href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow">https://transcripts.foreverdreaming.org/viewtopic.php?t=127077</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</p></details>
+   Link:<a href="https://transcripts.foreverdreaming.org/viewtopic.php?t=127077" target="_blank" rel="noopener noreferrer nofollow">https://transcripts.foreverdreaming.org/viewtopic.php?t=127077</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forever DreamingClose Encounters of the Third Kind (1977)20 Sept 2023 — TWA 517, do you want to report a UFO? Over. Negative. We don&#x27;t wa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thebeardedtrio.com  
    Title: close encounters of third kind taking  
-   Link: <a href="https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a gripping scene that I never tire of...Read more...</p></details>
+   Link:<a href="https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeardedtrio.com/2020/04/close-encounters-of-third-kind-taking.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a gripping scene that I never tire of...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0075860/trivia/?item=tr0684361" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/trivia/?item=tr0684361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - TriviaReal air traffic controllers were used in the opening sequence. In addition, the synthe...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0075860/trivia/?item=tr0684361" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/trivia/?item=tr0684361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - TriviaReal air traffic controllers were used in the opening sequence. In addition, the synthe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ops.group  
    Title: close encounters of the third kind  
-   Link: <a href="https://ops.group/blog/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ops.group/blog/close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2021 — aliensdronesflight safetyHazardUASUFO. New Posts. NAT Guide 2026 – My First NAT Flight is Tomorrow 29 April, 2026 · Greenlan...</p></details>
+   Link:<a href="https://ops.group/blog/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ops.group/blog/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2021 — aliensdronesflight safetyHazardUASUFO. New Posts. NAT Guide 2026 – My First NAT Flight is Tomorrow 29 April, 2026 · Greenlan...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Set Up Independent Study on Unidentified Aerial...I just...don&#x27;t get why anyone believes that a species advanced enough for inte...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Set Up Independent Study on Unidentified Aerial...I just...don&#x27;t get why anyone believes that a species advanced enough for inte...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fanfare.pub  
    Title: spielberg celebration revisiting close encounters of the third kind 583264a87ebb  
-   Link: <a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...2 Jun 2026 — Simon Dillon discusses Steven Spielberg&#x27;s UFO themed science f...</p></details>
+   Link:<a href="https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb" target="_blank" rel="noopener noreferrer nofollow">https://fanfare.pub/spielberg-celebration-revisiting-close-encounters-of-the-third-kind-583264a87ebb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg Celebration: Revisiting &#x27;Close Encounters of the...2 Jun 2026 — Simon Dillon discusses Steven Spielberg&#x27;s UFO themed science f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: the defense department released new ufo files of sightings in the northeastern u  
-   Link: <a href="https://www.facebook.com/news4reno/posts/the-defense-department-released-new-ufo-files-of-sightings-in-the-northeastern-u/1323524979904772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news4reno/posts/the-defense-department-released-new-ufo-files-of-sightings-in-the-northeastern-u/1323524979904772/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Department released new UFO files of...&quot; Indeed, NASA conducted its own independent investigation into UAP sightings in 2022...</p></details>
+   Link:<a href="https://www.facebook.com/news4reno/posts/the-defense-department-released-new-ufo-files-of-sightings-in-the-northeastern-u/1323524979904772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news4reno/posts/the-defense-department-released-new-ufo-files-of-sightings-in-the-northeastern-u/1323524979904772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Department released new UFO files of...&quot; Indeed, NASA conducted its own independent investigation into UAP sightings in 2022...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
    Published: May 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2. Investigate without stigma. The ridicule that has surrounded this topic for decades. is...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. Investigate without stigma. The ridicule that has surrounded this topic for decades. is...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — According to the report, NASA&#x27;s very involvement in UAP will play a vital...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — According to the report, NASA&#x27;s very involvement in UAP will play a vital...</p></details>

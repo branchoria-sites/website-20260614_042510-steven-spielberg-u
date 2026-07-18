@@ -270,24 +270,24 @@ The most distinctive feature of recent UAP disclosure efforts is that they borro
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-1-dark.svg" | relative_url }}" alt="UAP Records Release F323 B7 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This procedural framework creates a powerful narrative engine. Every classified file becomes a potential clue. Every redaction becomes a source of suspicion. Every delay can be interpreted as either a legitimate national-security concern or evidence of continued concealment. In storytelling terms, the archive itself becomes the mystery.
 
-The records-release plot differs from earlier conspiracy narratives because it focuses on institutional mechanisms. Rather than secret agents hiding evidence in a warehouse, the conflict centres on review procedures, legal deadlines, competing interpretations of [secrecy]({{ 'secrecy/' | relative_url }}) and fights between oversight bodies and agencies. The drama emerges from paperwork, testimony and access to information rather than from direct encounters with extraterrestrials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">government records associated with reports of unidentified anomalous</span><span class="citation-popover-snippet">Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</span></span></span>
+The records-release plot differs from earlier conspiracy narratives because it focuses on institutional mechanisms. Rather than secret agents hiding evidence in a warehouse, the conflict centres on review procedures, legal deadlines, competing interpretations of [secrecy]({{ 'secrecy/' | relative_url }}) and fights between oversight bodies and agencies. The drama emerges from paperwork, testimony and access to information rather than from direct encounters with extraterrestrials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">government records associated with reports of unidentified anomalous</span><span class="citation-popover-snippet">Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</span></span></span>
 
 ## The JFK records model for UAP
 
-A crucial development in this shift was the proposed UAP Disclosure Act of 2023. Its architects explicitly modelled the legislation on the framework used for the release of records related to the assassination of President John F. Kennedy. The proposal called for a dedicated UAP Records Collection managed through the National Archives and designed to centralise government records concerning UAPs, technologies of unknown origin and related matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
+A crucial development in this shift was the proposed UAP Disclosure Act of 2023. Its architects explicitly modelled the legislation on the framework used for the release of records related to the assassination of President John F. Kennedy. The proposal called for a dedicated UAP Records Collection managed through the National Archives and designed to centralise government records concerning UAPs, technologies of unknown origin and related matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
 
 The significance of the JFK comparison goes beyond administrative design. The JFK records process occupies a special place in American political culture because it acknowledges a public interest in historical transparency while also recognising that governments resist disclosure. By invoking that model, lawmakers effectively cast UAP records as a category of information that citizens could reasonably expect to examine.
 
 This has major storytelling consequences. The archive becomes a destination. Characters are no longer searching for a crashed saucer in the desert; they are searching for a document collection. The narrative question becomes whether the crucial record exists, whether it was destroyed, whether it remains classified, or whether someone can force its release.
 
-The appeal of this structure is evident because the JFK model already contains built-in dramatic tensions: deadlines, withheld files, review panels, political pressure and public expectations. The same elements now shape UAP disclosure narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[NYU Journal of Legislation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
+The appeal of this structure is evident because the JFK model already contains built-in dramatic tensions: deadlines, withheld files, review panels, political pressure and public expectations. The same elements now shape UAP disclosure narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[NYU Journal of Legislation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SpzJnrwob1A" title="LIVE | Congress holds UFO hearing with retired Maj. David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer">LIVE | Congress holds UFO hearing with retired Maj. David Grusch</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.0M &middot; Uploaded: July 2023 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SpzJnrwob1A">Open on YouTube</a></p></div></div></div>
 
 ## Presumption of disclosure as story pressure
 
-One of the most important concepts in recent UAP legislation is the idea that records should be presumed public unless a compelling reason exists to keep them secret. This reverses the logic of traditional secrecy systems, where disclosure must be justified and classification is often the default position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[NYU Journal of Legislation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</span></span></span>
+One of the most important concepts in recent UAP legislation is the idea that records should be presumed public unless a compelling reason exists to keep them secret. This reverses the logic of traditional secrecy systems, where disclosure must be justified and classification is often the default position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[NYU Journal of Legislation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</span></span></span>
 
 As a storytelling device, a presumption of disclosure creates continuous pressure. Agencies become responsible for explaining why records remain hidden. Each withheld document becomes narratively meaningful because secrecy itself requires justification.
 
@@ -305,7 +305,7 @@ Several recurring tensions emerge from this framework:
 
 </div>
 
-These tensions generate suspense without requiring definitive proof of extraterrestrial visitation. The conflict survives even when the underlying phenomenon remains unresolved. A story can focus entirely on access to records while leaving the ultimate mystery unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Implications of the Unidentified Anomalous Phenomena...Jan 9, 2024 — On December 22, 2023, President Biden signed into law the 2024 Nati...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
+These tensions generate suspense without requiring definitive proof of extraterrestrial visitation. The conflict survives even when the underlying phenomenon remains unresolved. A story can focus entirely on access to records while leaving the ultimate mystery unanswered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Implications of the Unidentified Anomalous Phenomena...Jan 9, 2024 — On December 22, 2023, President Biden signed into law the 2024 Nati...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-2-dark.svg" | relative_url }}" alt="UAP Records Release F323 B7 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,7 +313,7 @@ These tensions generate suspense without requiring definitive proof of extraterr
 
 The records-release plot depends heavily on whistleblowers because archives rarely become public through institutional goodwill alone. Contemporary UAP legislation has therefore become closely associated with protections for individuals who claim knowledge of hidden programmes or improperly withheld information.
 
-David Grusch's 2023 congressional testimony helped establish this narrative pattern. His public statements framed the issue not simply as the existence of unusual phenomena but as a matter of oversight, reporting channels and alleged concealment from authorised government bodies. Whether one accepts his claims or not, the structure of the story is revealing: an insider uses protected disclosure mechanisms to challenge a system of secrecy and trigger demands for documentary review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+David Grusch's 2023 congressional testimony helped establish this narrative pattern. His public statements framed the issue not simply as the existence of unusual phenomena but as a matter of oversight, reporting channels and alleged concealment from authorised government bodies. Whether one accepts his claims or not, the structure of the story is revealing: an insider uses protected disclosure mechanisms to challenge a system of secrecy and trigger demands for documentary review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 In narrative terms, whistleblower protections perform several functions simultaneously:
 
@@ -327,7 +327,7 @@ In narrative terms, whistleblower protections perform several functions simultan
 
 </div>
 
-This is why modern UFO stories increasingly resemble political thrillers. The key figure is often not the witness who saw something extraordinary but the insider who claims that records exist and that authorised oversight has been blocked. The plot then follows the attempt to move information from classified systems into public archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
+This is why modern UFO stories increasingly resemble political thrillers. The key figure is often not the witness who saw something extraordinary but the insider who claims that records exist and that authorised oversight has been blocked. The plot then follows the attempt to move information from classified systems into public archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lcrCMLVk614" title="David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer">David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 511.9K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lcrCMLVk614">Open on YouTube</a></p></div></div></div>
@@ -336,7 +336,7 @@ This is why modern UFO stories increasingly resemble political thrillers. The ke
 
 An intriguing feature of records-based disclosure narratives is that they often gain strength from incomplete success. A fully solved mystery ends the search. A partially released archive creates new questions.
 
-The legislative history of UAP disclosure reflects this tension. Portions of the ambitious 2023 disclosure framework were modified before final passage, leaving some advocates arguing that the strongest transparency mechanisms had been weakened. Rather than ending public interest, these disputes intensified attention on what remained undisclosed and who had influenced the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</span></span></span>
+The legislative history of UAP disclosure reflects this tension. Portions of the ambitious 2023 disclosure framework were modified before final passage, leaving some advocates arguing that the strongest transparency mechanisms had been weakened. Rather than ending public interest, these disputes intensified attention on what remained undisclosed and who had influenced the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</span></span></span>
 
 For storytelling, this is ideal. The audience receives enough information to believe that records exist, but not enough to settle every question. The archive remains active, review processes continue and future releases remain possible.
 
@@ -346,205 +346,205 @@ That structure mirrors how real archival controversies often unfold. The drama d
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-3-dark.svg" | relative_url }}" alt="UAP Records Release F323 B7 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_ufo_whistleblower_pl_221fcb_uap_records_release_f323b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The archive as the new UFO frontier
 
-Recent legislation has already produced institutional consequences. The National Archives has established a UAP Records Collection and directed agencies to identify and transfer relevant records for public disclosure. New UAP-related materials continue to be added and released through archival processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span>
+Recent legislation has already produced institutional consequences. The National Archives has established a UAP Records Collection and directed agencies to identify and transfer relevant records for public disclosure. New UAP-related materials continue to be added and released through archival processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span>
 
 This development marks a significant evolution in UFO storytelling. In earlier eras, the frontier was physical: deserts, military bases, remote encounter sites and hidden laboratories. In the records-release plot, the frontier is bureaucratic. The mystery lies inside filing systems, classified databases and archival collections.
 
-For narratives influenced by contemporary UAP politics, disclosure therefore becomes less about a dramatic landing and more about a prolonged struggle over evidence management. The archive replaces the crash site. The review board replaces the secret scientist. The whistleblower replaces the lone witness. And the central conflict becomes a question of democratic governance: who has the authority to decide what the public may know about the unknown. Senate Democratic Leadership <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span>
+For narratives influenced by contemporary UAP politics, disclosure therefore becomes less about a dramatic landing and more about a prolonged struggle over evidence management. The archive replaces the crash site. The review board replaces the secret scientist. The whistleblower replaces the lone witness. And the central conflict becomes a question of democratic governance: who has the authority to decide what the public may know about the unknown. Senate Democratic Leadership<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wHyoEOyT6Q" title="UFO whistleblower: &#x27;Non-human biologics&#x27; found on crashed craft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer">UFO whistleblower: &#x27;Non-human biologics&#x27; found on crashed craft</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 45.1K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wHyoEOyT6Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to UAP Records Release F323 B7. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to UAP Records Release F323 B7. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="uap-records-release-f323-b7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,195 +750,195 @@ For narratives influenced by contemporary UAP politics, disclosure therefore bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defensescoop.com  
    Title: government records associated with reports of unidentified anomalous  
-   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: young.senate.gov  
-   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNatio...</p></details>
+   Link:<a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNatio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives JFK Assassination Records  
-   Link: <a href="https://www.archives.gov/research/jfk/release-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/release-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</p></details>
+   Link:<a href="https://www.archives.gov/research/jfk/release-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/release-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJFK Assassination Records - 2025 Documents Release18 Mar 2025 — March 18, 2025 Release In accordance with President Dona...</p></details>
    Published: March 18, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA will continue to add UAP records to the...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA will continue to add UAP records to the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
+   Link:<a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records CollectionThe National Archives has in its custody records across multiple reco...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records CollectionThe National Archives has in its custody records across multiple reco...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RFK Files, UAP Records, and MoreApr 28, 2025 — We released the first tranche of Records Related to the Assassination of Senator Robert F...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RFK Files, UAP Records, and MoreApr 28, 2025 — We released the first tranche of Records Related to the Assassination of Senator Robert F...</p></details>
    Published: april 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...3 days ago — The National Security Agency has produced hundreds of pages of hist...</p></details>
+   Link:<a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...3 days ago — The National Security Agency has produced hundreds of pages of hist...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense Authorization Act for Fiscal Year 2024The National Defense Authorization Act for Fiscal Year 2024 (NDAA 2024) is a Un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense Authorization Act for Fiscal Year 2024The National Defense Authorization Act for Fiscal Year 2024 (NDAA 2024) is a Un...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of UFO reports by the United States governmentInvestigation of UFO reports by the United States government has taken pla...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of UFO reports by the United States governmentInvestigation of UFO reports by the United States government has taken pla...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nyujlpp.org  
-   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</p></details>
+   Link:<a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NYU Journal of LegislationTHE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: insidegovernmentcontracts.com  
-   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of the Unidentified Anomalous Phenomena...Jan 9, 2024 — On December 22, 2023, President Biden signed into law the 2024 Nati...</p></details>
+   Link:<a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of the Unidentified Anomalous Phenomena...Jan 9, 2024 — On December 22, 2023, President Biden signed into law the 2024 Nati...</p></details>
    Published: December 22, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both in th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lcgsco.org  
-   Link: <a href="https://lcgsco.org/national-archives-releases-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://lcgsco.org/national-archives-releases-uap-records/</a>  
+   Link:<a href="https://lcgsco.org/national-archives-releases-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://lcgsco.org/national-archives-releases-uap-records/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch, a former intelligence official, tells UFO hearing he w...</p></details>
+   Link:<a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch, a former intelligence official, tells UFO hearing he w...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: uapradar.com  
-   Link: <a href="https://uapradar.com/sections/official-releases" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/sections/official-releases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official UAP Releases &amp; Government RecordsTrack official UAP releases, government records, agency statements, and public documents separa...</p></details>
+   Link:<a href="https://uapradar.com/sections/official-releases" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/sections/official-releases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official UAP Releases &amp; Government RecordsTrack official UAP releases, government records, agency statements, and public documents separa...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesNEW: To maximize transparency, the National Archives has released new records related to Unidentified Anomalous Pheno...</p></details>
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesNEW: To maximize transparency, the National Archives has released new records related to Unidentified Anomalous Pheno...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: burlison.house.gov  
    Title: rep burlison introduces uap disclosure act 2025 amendment ndaa  
-   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burlison Introduces UAP Disclosure Act of 2025 as...29 Aug 2025 — Require public disclosure of UAP records within 25 years unless the Pr...</p></details>
+   Link:<a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burlison Introduces UAP Disclosure Act of 2025 as...29 Aug 2025 — Require public disclosure of UAP records within 25 years unless the Pr...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: the national archives continues to deliver for the american people by making mor  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/the-national-archives-continues-to-deliver-for-the-american-people-by-making-mor/1068208275354765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/the-national-archives-continues-to-deliver-for-the-american-people-by-making-mor/1068208275354765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesMike Emett The 1992 Kennedy Assassination Act (signed by George Bush)indicates that the records be released no later...</p></details>
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/the-national-archives-continues-to-deliver-for-the-american-people-by-making-mor/1068208275354765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/the-national-archives-continues-to-deliver-for-the-american-people-by-making-mor/1068208275354765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesMike Emett The 1992 Kennedy Assassination Act (signed by George Bush)indicates that the records be released no later...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/live/9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/live/9wHyoEOyT6Q</a>  
+   Link:<a href="https://www.youtube.com/live/9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/live/9wHyoEOyT6Q</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftDuring a congressional hearing on July 26, 2023, David Grusch a former combat officer and vet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftDuring a congressional hearing on July 26, 2023, David Grusch a former combat officer and vet...</p></details>
    Published: July 26, 2023  

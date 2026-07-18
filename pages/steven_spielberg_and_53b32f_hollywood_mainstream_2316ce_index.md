@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-hollywood/
 description: Focused pages that expand on Mainstreaming.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_hollywood_mainstream_2316ce
 parent_title: Mainstreaming
@@ -16,7 +16,7 @@ parent_permalink: /mainstreaming/
 
 # Explore Topics in Mainstreaming
 
-The following pages expand on the main **[Mainstreaming]({{ '/mainstreaming/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Mainstreaming]({{ '/mainstreaming/' | relative_url }})** page and cover its key branches in.
 
 - [Close Encounters Acc 6250 F5]({{ '/close-encounters-acc-6250-f5/' | relative_url }})
 - [Et Friendly Alien]({{ '/et-friendly-alien/' | relative_url }})

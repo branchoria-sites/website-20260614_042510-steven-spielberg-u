@@ -264,249 +264,249 @@ image: /assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothe
 
 ## Introduction
 
-The model’s survival demonstrates that the flying saucer in Spielberg’s work was more than a narrative device. It became a recognised cultural icon, important enough to be collected, preserved and interpreted as part of the history of both cinema and humanity’s fascination with space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+The model’s survival demonstrates that the flying saucer in Spielberg’s work was more than a narrative device. It became a recognised cultural icon, important enough to be collected, preserved and interpreted as part of the history of both cinema and humanity’s fascination with space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-1-dark.svg" | relative_url }}" alt="Mothership Museum Wo Fbaed 7 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Mothership Was Built as an Object of Awe
 
-The museum piece is the original large-scale model used to create the mothership seen in the film. According to the Smithsonian, the design originated with Spielberg and was constructed by a team led by model maker Gregory Jein. Built from wood, plastic and metal, it incorporated model-kit components, train parts and countless small details that would become visible only under specialised lighting and photographic effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+The museum piece is the original large-scale model used to create the mothership seen in the film. According to the Smithsonian, the design originated with Spielberg and was constructed by a team led by model maker Gregory Jein. Built from wood, plastic and metal, it incorporated model-kit components, train parts and countless small details that would become visible only under specialised lighting and photographic effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
-What made the model remarkable was not simply its size but its visual philosophy. Contemporary science-fiction films often presented spacecraft as sleek machines. Spielberg’s mothership instead resembled a floating city of lights. Visual-effects artists emphasised luminosity, complexity and irregularity. When filmed under Douglas Trumbull’s supervision, the miniature appeared less like engineered hardware and more like a radiant presence descending from another world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vfxvoice.com">[VFX Voice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vfxvoice.com</span><span class="citation-popover-title">close encounters with an effects milestone</span><span class="citation-popover-snippet">1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</span></span></span>
+What made the model remarkable was not simply its size but its visual philosophy. Contemporary science-fiction films often presented spacecraft as sleek machines. Spielberg’s mothership instead resembled a floating city of lights. Visual-effects artists emphasised luminosity, complexity and irregularity. When filmed under Douglas Trumbull’s supervision, the miniature appeared less like engineered hardware and more like a radiant presence descending from another world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vfxvoice.com">[VFX Voice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vfxvoice.com</span><span class="citation-popover-title">close encounters with an effects milestone</span><span class="citation-popover-snippet">1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</span></span></span>
 
-The physical model therefore embodied the film’s central idea: the UFO as something that inspires wonder before it invites explanation. Even when viewed up close, the object remains difficult to read as a conventional vehicle. Its crowded surfaces, layered structures and glowing undercarriage resist immediate interpretation, encouraging prolonged looking—the same response Spielberg sought from audiences during the film’s climactic encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+The physical model therefore embodied the film’s central idea: the UFO as something that inspires wonder before it invites explanation. Even when viewed up close, the object remains difficult to read as a conventional vehicle. Its crowded surfaces, layered structures and glowing undercarriage resist immediate interpretation, encouraging prolonged looking—the same response Spielberg sought from audiences during the film’s climactic encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FBaZQojd1_s" title="DOUGLAS TRUMBULL | Master Class | Higher Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FBaZQojd1_s" target="_blank" rel="noopener noreferrer">DOUGLAS TRUMBULL | Master Class | Higher Learning</a></p><p class="youtube-embed-meta">Channel: TIFF &middot; Views: 158.8K &middot; Uploaded: December 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FBaZQojd1_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FBaZQojd1_s">Open on YouTube</a></p></div></div></div>
 
 ### Hidden Details and Human Craft
 
-One reason the model attracts sustained attention in museum settings is the discovery of details invisible during normal viewing of the film. The builders embedded tiny objects as jokes and signatures within the structure, including a Volkswagen bus, a mailbox, an aircraft, a submarine and even a miniature R2-D2 figure. These additions were never intended as major screen elements but became famous once visitors could examine the model directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+One reason the model attracts sustained attention in museum settings is the discovery of details invisible during normal viewing of the film. The builders embedded tiny objects as jokes and signatures within the structure, including a Volkswagen bus, a mailbox, an aircraft, a submarine and even a miniature R2-D2 figure. These additions were never intended as major screen elements but became famous once visitors could examine the model directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
-These hidden features alter the way the mothership is understood. Instead of appearing as an anonymous cinematic effect, it becomes evidence of craftsmanship and personality. Visitors see not only Spielberg’s alien vision but also the hands of the artists who constructed it. The object therefore preserves a record of practical-effects culture from an era before digital imagery became dominant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Adam Savage Examines the Mother Ship Model from Close...While Adam Savage was visiting the National Air and Space Museum&#x27;s Udvar-Hazy Ce...</span></span></span>
+These hidden features alter the way the mothership is understood. Instead of appearing as an anonymous cinematic effect, it becomes evidence of craftsmanship and personality. Visitors see not only Spielberg’s alien vision but also the hands of the artists who constructed it. The object therefore preserves a record of practical-effects culture from an era before digital imagery became dominant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Adam Savage Examines the Mother Ship Model from Close...While Adam Savage was visiting the National Air and Space Museum&#x27;s Udvar-Hazy Ce...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-2-dark.svg" | relative_url }}" alt="Mothership Museum Wo Fbaed 7 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Museum Display Changes Its Meaning
 
-The most striking aspect of the mothership’s museum life is where it is displayed. The Smithsonian places the model within the Steven F. Udvar-Hazy Center, a facility devoted primarily to aviation and spaceflight history. There it exists among aircraft, spacecraft and other technological artefacts rather than within a conventional film museum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-snippet">MODELS-Miscellaneous; Country of Origin. United States of America; Location. Steven F. Udvar-Hazy Center in Chantilly, VA; Exhibit Sta...</span></span></span>
+The most striking aspect of the mothership’s museum life is where it is displayed. The Smithsonian places the model within the Steven F. Udvar-Hazy Center, a facility devoted primarily to aviation and spaceflight history. There it exists among aircraft, spacecraft and other technological artefacts rather than within a conventional film museum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-snippet">MODELS-Miscellaneous; Country of Origin. United States of America; Location. Steven F. Udvar-Hazy Center in Chantilly, VA; Exhibit Sta...</span></span></span>
 
-That context subtly transforms the object. In a cinema, viewers suspend disbelief and accept the mothership as an extraterrestrial craft. In a museum, nobody mistakes it for a real UFO. Yet its presence among historic aerospace objects encourages a different kind of reflection. Visitors are invited to consider how imagined futures and real technological aspirations influence one another. The model becomes part of a broader story about humanity’s relationship with flight, exploration and the unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+That context subtly transforms the object. In a cinema, viewers suspend disbelief and accept the mothership as an extraterrestrial craft. In a museum, nobody mistakes it for a real UFO. Yet its presence among historic aerospace objects encourages a different kind of reflection. Visitors are invited to consider how imagined futures and real technological aspirations influence one another. The model becomes part of a broader story about humanity’s relationship with flight, exploration and the unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
-The placement is especially appropriate because *Close Encounters* was never merely about aliens. Spielberg framed UFOs as symbols of curiosity, communication and transcendence. Displaying the mothership in an aerospace museum acknowledges that cultural visions of space can be historically significant even when they originate in fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+The placement is especially appropriate because *Close Encounters* was never merely about aliens. Spielberg framed UFOs as symbols of curiosity, communication and transcendence. Displaying the mothership in an aerospace museum acknowledges that cultural visions of space can be historically significant even when they originate in fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xquO9TKNbq8" title="Close Encounters Model Features Planes from Bermuda Triangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xquO9TKNbq8" target="_blank" rel="noopener noreferrer">Close Encounters Model Features Planes from Bermuda Triangle</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 5.3K &middot; Uploaded: December 2016</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xquO9TKNbq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xquO9TKNbq8">Open on YouTube</a></p></div></div></div>
 
 ## From Film Prop to Cultural Memory
 
-Not every famous movie prop survives, and fewer still become museum artefacts. The preservation of the *Close Encounters* mothership signals its status as more than production equipment. It has become a recognised symbol of a particular moment in science-fiction history and of Spielberg’s distinctive approach to UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+Not every famous movie prop survives, and fewer still become museum artefacts. The preservation of the *Close Encounters* mothership signals its status as more than production equipment. It has become a recognised symbol of a particular moment in science-fiction history and of Spielberg’s distinctive approach to UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
-Its continued display also reflects the enduring influence of the film itself. The mothership remains one of the most recognisable spacecraft ever created for cinema despite lacking the streamlined design language associated with many science-fiction franchises. Its cultural power comes instead from emotional association. Audiences remember the overwhelming lights, the musical communication sequence and the sense that contact with the unknown might be beautiful rather than destructive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Steven F. Udvar-Hazy CenterLocation, Dulles International... The primary special-effects miniature of the &quot;Mothership&quot; used in the fi...</span></span></span>
+Its continued display also reflects the enduring influence of the film itself. The mothership remains one of the most recognisable spacecraft ever created for cinema despite lacking the streamlined design language associated with many science-fiction franchises. Its cultural power comes instead from emotional association. Audiences remember the overwhelming lights, the musical communication sequence and the sense that contact with the unknown might be beautiful rather than destructive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Steven F. Udvar-Hazy CenterLocation, Dulles International... The primary special-effects miniature of the &quot;Mothership&quot; used in the fi...</span></span></span>
 
-Museum preservation freezes that memory in physical form. Visitors are no longer encountering only a scene from a film; they are encountering the actual object that helped generate one of cinema’s most influential images of extraterrestrial visitation. The model functions simultaneously as artwork, technological artefact and cultural relic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+Museum preservation freezes that memory in physical form. Visitors are no longer encountering only a scene from a film; they are encountering the actual object that helped generate one of cinema’s most influential images of extraterrestrial visitation. The model functions simultaneously as artwork, technological artefact and cultural relic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-3-dark.svg" | relative_url }}" alt="Mothership Museum Wo Fbaed 7 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_saucer_awe_symbol_8d5590_mothership_museum_wo_fbaed7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Mothership Represents Today
 
-The mothership’s second life reveals how Spielberg’s flying saucer imagery moved beyond entertainment. The object survives because it embodies a widely shared experience of wonder. It represents the practical ingenuity of special-effects artists, the imaginative optimism of 1970s science fiction and the enduring appeal of UFOs as symbols of mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vfxvoice.com">[VFX Voice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vfxvoice.com</span><span class="citation-popover-title">close encounters with an effects milestone</span><span class="citation-popover-snippet">1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</span></span></span>
+The mothership’s second life reveals how Spielberg’s flying saucer imagery moved beyond entertainment. The object survives because it embodies a widely shared experience of wonder. It represents the practical ingenuity of special-effects artists, the imaginative optimism of 1970s science fiction and the enduring appeal of UFOs as symbols of mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vfxvoice.com">[VFX Voice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vfxvoice.com</span><span class="citation-popover-title">close encounters with an effects milestone</span><span class="citation-popover-snippet">1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</span></span></span>
 
-Seen in a museum, the model no longer asks whether aliens are real. Instead, it invites a different question: why did this vision of contact capture the public imagination so deeply that the artefact itself became worth preserving? The answer lies in Spielberg’s achievement. He transformed the flying saucer from a simple science-fiction machine into an object of awe, and the preserved mothership remains one of the clearest physical reminders of that transformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
+Seen in a museum, the model no longer asks whether aliens are real. Instead, it invites a different question: why did this vision of contact capture the public imagination so deeply that the artefact itself became worth preserving? The answer lies in Spielberg’s achievement. He transformed the flying saucer from a simple science-fiction machine into an object of awe, and the preserved mothership remains one of the clearest physical reminders of that transformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r3S0i4Ankgk" title="Adam Savage Examines the Mother Ship Model from Close Encounters of the Third Kind!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer">Adam Savage Examines the Mother Ship Model from Close Encounters of the Third Kind!</a></p><p class="youtube-embed-meta">Channel: Adam Savage’s Tested &middot; Views: 337.9K &middot; Uploaded: August 2019</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r3S0i4Ankgk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mothership Museum Wo Fbaed 7. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mothership Museum Wo Fbaed 7. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="mothership-museum-wo-fbaed-7-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,147 +712,147 @@ Seen in a museum, the model no longer asks whether aliens are real. Instead, it 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3S0i4Ankgk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adam Savage Examines the Mother Ship Model from Close...While Adam Savage was visiting the National Air and Space Museum&#x27;s Udvar-Hazy Ce...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r3S0i4Ankgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3S0i4Ankgk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adam Savage Examines the Mother Ship Model from Close...While Adam Savage was visiting the National Air and Space Museum&#x27;s Udvar-Hazy Ce...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven F. Udvar-Hazy CenterLocation, Dulles International... The primary special-effects miniature of the &quot;Mothership&quot; used in the fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steven_F._Udvar-Hazy_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven F. Udvar-Hazy CenterLocation, Dulles International... The primary special-effects miniature of the &quot;Mothership&quot; used in the fi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FBaZQojd1_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FBaZQojd1_s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOUGLAS TRUMBULL | Master Class | Higher Learning... Douglas Trumbull, the industry pioneer behind the special effects of 2001: A Space O...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FBaZQojd1_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FBaZQojd1_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOUGLAS TRUMBULL | Master Class | Higher Learning... Douglas Trumbull, the industry pioneer behind the special effects of 2001: A Space O...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://es.wikipedia.org/wiki/Archivo%3ASmithsonian_NASM_-_Close_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_%285144012861%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Archivo%3ASmithsonian_NASM_-_Close_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_%285144012861%29.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Mother Ship spacecraft...Model in wood, plastic and metal of the Mother Ship spacecraft used in th...</p></details>
+   Link:<a href="https://es.wikipedia.org/wiki/Archivo%3ASmithsonian_NASM_-_Close_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_%285144012861%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Archivo%3ASmithsonian_NASM_-_Close_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_%285144012861%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Mother Ship spacecraft...Model in wood, plastic and metal of the Mother Ship spacecraft used in th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Close Encounters Mothership  
-   Link: <a href="https://www.youtube.com/watch?v=YYrwu8KvZA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YYrwu8KvZA0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Adam Savage Examines the Mother Ship Model from Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YYrwu8KvZA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YYrwu8KvZA0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Adam Savage Examines the Mother Ship Model from Close Encounters of the Third Kind...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Close Encounters Model Features Planes from Bermuda Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=xquO9TKNbq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xquO9TKNbq8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Mothership Model (with extras) - Close Encounters of the Third Kind (1977) - Smithsonian...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xquO9TKNbq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xquO9TKNbq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Mothership Model (with extras) - Close Encounters of the Third Kind (1977) - Smithsonian...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Mothership Model (with extras)  
-   Link: <a href="https://www.youtube.com/watch?v=sSA3LSONpak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sSA3LSONpak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sSA3LSONpak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sSA3LSONpak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: This Man Sparked Spielberg's Interest in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</p></details>
+   Link:<a href="https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/model-spacecraft-mother-ship-movie-close-encounters-third-kind/nasm_A19790906000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumMother Ship ModelDec 21, 2020 — Mother Ship Model - Close Encounters of the Third Kind at Udvar-Hazy Ctr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: si.edu  
-   Link: <a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MODELS-Miscellaneous; Country of Origin. United States of America; Location. Steven F. Udvar-Hazy Center in Chantilly, VA; Exhibit Sta...</p></details>
+   Link:<a href="https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MODELS-Miscellaneous; Country of Origin. United States of America; Location. Steven F. Udvar-Hazy Center in Chantilly, VA; Exhibit Sta...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airandspace.si.edu  
    Title: web10041 2003640jpg  
-   Link: <a href="https://airandspace.si.edu/multimedia-gallery/image/web10041-2003640jpg" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/web10041-2003640jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind at Udvar-Hazy CtrThe mother ship model used for the 1977 film &quot;Close Encounters of the Third Kind&quot; is among...</p></details>
+   Link:<a href="https://airandspace.si.edu/multimedia-gallery/image/web10041-2003640jpg" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/web10041-2003640jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind at Udvar-Hazy CtrThe mother ship model used for the 1977 film &quot;Close Encounters of the Third Kind&quot; is among...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vfxvoice.com  
    Title: close encounters with an effects milestone  
-   Link: <a href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://vfxvoice.com/close-encounters-with-an-effects-milestone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</p></details>
+   Link:<a href="https://vfxvoice.com/close-encounters-with-an-effects-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://vfxvoice.com/close-encounters-with-an-effects-milestone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2018 — Close Encounters&#x27; sci-fi story about human contact with an alien species was always going to necessitate the use of visual e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/airandspace.si.edu/air-and-space-quarterly/issue-18/hollywood-close-encounters-model" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/airandspace.si.edu/air-and-space-quarterly/issue-18/hollywood-close-encounters-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumThe Mothership&#x27;s StowawaysUdvar-Hazy Center can see one of cinema&#x27;s most famous spaceships: a huge model of...</p></details>
+   Link:<a href="https://airandspace.si.edu/airandspace.si.edu/air-and-space-quarterly/issue-18/hollywood-close-encounters-model" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/airandspace.si.edu/air-and-space-quarterly/issue-18/hollywood-close-encounters-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumThe Mothership&#x27;s StowawaysUdvar-Hazy Center can see one of cinema&#x27;s most famous spaceships: a huge model of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/multimedia-gallery/ce3kmothershipjpg" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/ce3kmothershipjpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jein&#x27;s model of the mothershipOne museum, two locations... Greg Jein&#x27;s model of the mothership from Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://airandspace.si.edu/multimedia-gallery/ce3kmothershipjpg" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/ce3kmothershipjpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jein&#x27;s model of the mothershipOne museum, two locations... Greg Jein&#x27;s model of the mothership from Close Encounters of the Third Kind...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: opendoclab.mit.edu  
-   Link: <a href="https://opendoclab.mit.edu/presents/doug-trumbull-immersive-media-film-visual-effects/" target="_blank" rel="noopener noreferrer nofollow">https://opendoclab.mit.edu/presents/doug-trumbull-immersive-media-film-visual-effects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trumbull | Immersive Media, Film, Visual EffectsDoug Trumbull is an immersive media pioneer, a filmmaker and a visual effects visionary...</p></details>
+   Link:<a href="https://opendoclab.mit.edu/presents/doug-trumbull-immersive-media-film-visual-effects/" target="_blank" rel="noopener noreferrer nofollow">https://opendoclab.mit.edu/presents/doug-trumbull-immersive-media-film-visual-effects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trumbull | Immersive Media, Film, Visual EffectsDoug Trumbull is an immersive media pioneer, a filmmaker and a visual effects visionary...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DH_pmlSy8GD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DH_pmlSy8GD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d Kind. This was Steven Spielberg&#x27;s 1977 movie...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DH_pmlSy8GD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DH_pmlSy8GD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d Kind. This was Steven Spielberg&#x27;s 1977 movie...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AClose_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_at_the_Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AClose_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_at_the_Steven_F._Udvar-Hazy_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Close Encounters of the Third Kind Mother Ship...8 Aug 2025 — Smithsonian NASM - Close Encounters of the Third Kin...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AClose_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_at_the_Steven_F._Udvar-Hazy_Center" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AClose_Encounters_of_the_Third_Kind_Mother_Ship_spacecraft_model_at_the_Steven_F._Udvar-Hazy_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Close Encounters of the Third Kind Mother Ship...8 Aug 2025 — Smithsonian NASM - Close Encounters of the Third Kin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oddthingsiveseen.com  
-   Link: <a href="https://www.oddthingsiveseen.com/2010/11/photo-essay-close-encounters-mothership.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oddthingsiveseen.com/2010/11/photo-essay-close-encounters-mothership.html</a>  
+   Link:<a href="https://www.oddthingsiveseen.com/2010/11/photo-essay-close-encounters-mothership.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oddthingsiveseen.com/2010/11/photo-essay-close-encounters-mothership.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assholeswatchingmovies.com  
    Title: practical impractical effects in close encounters of the third kind  
-   Link: <a href="https://assholeswatchingmovies.com/2018/10/04/practical-impractical-effects-in-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://assholeswatchingmovies.com/2018/10/04/practical-impractical-effects-in-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical &amp; Impractical Effects in Close Encounters of the...4 Oct 2018 — Douglas Trumbull was the visual effects supervisor on Close En...</p></details>
+   Link:<a href="https://assholeswatchingmovies.com/2018/10/04/practical-impractical-effects-in-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://assholeswatchingmovies.com/2018/10/04/practical-impractical-effects-in-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical &amp; Impractical Effects in Close Encounters of the...4 Oct 2018 — Douglas Trumbull was the visual effects supervisor on Close En...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: Fantastic to see these remarkable pieces of history survive  
-   Link: <a href="https://www.facebook.com/groups/movieprops/posts/7879096622130198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/movieprops/posts/7879096622130198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the model of the alien Mother Ship used in the filming of the movie &quot;Close Encounters of the Third Kind&quot; (Columbia Pictures, 1977...</p></details>
+   Link:<a href="https://www.facebook.com/groups/movieprops/posts/7879096622130198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/movieprops/posts/7879096622130198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is the model of the alien Mother Ship used in the filming of the movie &quot;Close Encounters of the Third Kind&quot; (Columbia Pictures, 1977...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: variety.com  
    Title: douglas trumbull close encounters star trek memorable moments 1235175308  
-   Link: <a href="https://variety.com/2022/artisans/news/douglas-trumbull-close-encounters-star-trek-memorable-moments-1235175308/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/artisans/news/douglas-trumbull-close-encounters-star-trek-memorable-moments-1235175308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trumbull was Oscar nominated for visual effects for Spielberg&#x27;s “Close Encounters,” and one...Read more...</p></details>
+   Link:<a href="https://variety.com/2022/artisans/news/douglas-trumbull-close-encounters-star-trek-memorable-moments-1235175308/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/artisans/news/douglas-trumbull-close-encounters-star-trek-memorable-moments-1235175308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trumbull was Oscar nominated for visual effects for Spielberg&#x27;s “Close Encounters,” and one...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: This is the model of the alien Mother Ship used  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/this-is-the-model-of-the-alien-mother-ship-used-in-the-filming-of-the-movie-clos/1346291373966414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/this-is-the-model-of-the-alien-mother-ship-used-in-the-filming-of-the-movie-clos/1346291373966414/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mothership created by Greg Jein and his team for Close Encounters of the Third Kind (1977) is on display at the Steven F. Udv...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/this-is-the-model-of-the-alien-mother-ship-used-in-the-filming-of-the-movie-clos/1346291373966414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/this-is-the-model-of-the-alien-mother-ship-used-in-the-filming-of-the-movie-clos/1346291373966414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mothership created by Greg Jein and his team for Close Encounters of the Third Kind (1977) is on display at the Steven F. Udv...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160286018756696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160286018756696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7) is on display at the Smithsonian&#x27;s National Air and Space...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160286018756696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160286018756696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7) is on display at the Smithsonian&#x27;s National Air and Space...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cyberpunk/comments/u6lcni/special_effects_master_douglas_trumbull_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cyberpunk/comments/u6lcni/special_effects_master_douglas_trumbull_on_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the shot with it it looks more like he&#x27;s a giant than it...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cyberpunk/comments/u6lcni/special_effects_master_douglas_trumbull_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cyberpunk/comments/u6lcni/special_effects_master_douglas_trumbull_on_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the shot with it it looks more like he&#x27;s a giant than it...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/testedcom/posts/speaking-of-close-encounters-of-the-third-kind-adam-savage-got-to-examine-the-mo/10157382096900791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/testedcom/posts/speaking-of-close-encounters-of-the-third-kind-adam-savage-got-to-examine-the-mo/10157382096900791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>splay at the Smithsonian Air &amp; Space museum (a gift from...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/testedcom/posts/speaking-of-close-encounters-of-the-third-kind-adam-savage-got-to-examine-the-mo/10157382096900791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/testedcom/posts/speaking-of-close-encounters-of-the-third-kind-adam-savage-got-to-examine-the-mo/10157382096900791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>splay at the Smithsonian Air &amp; Space museum (a gift from...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: x.com  
-   Link: <a href="https://x.com/airandspace/status/2007240557299442000" target="_blank" rel="noopener noreferrer nofollow">https://x.com/airandspace/status/2007240557299442000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ounters of the Third Kind.&quot; The ship was conceived by...Read more...</p></details>
+   Link:<a href="https://x.com/airandspace/status/2007240557299442000" target="_blank" rel="noopener noreferrer nofollow">https://x.com/airandspace/status/2007240557299442000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ounters of the Third Kind.&quot; The ship was conceived by...Read more...</p></details>

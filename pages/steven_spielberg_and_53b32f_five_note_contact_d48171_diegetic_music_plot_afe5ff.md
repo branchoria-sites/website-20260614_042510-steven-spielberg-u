@@ -263,7 +263,7 @@ In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Ki
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_diegetic_music_plot_afe5ff-Illustration-1-dark.svg" | relative_url }}" alt="Diegetic Music Plot Afe 5 Ff illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_diegetic_music_plot_afe5ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_diegetic_music_plot_afe5ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because film scores are normally non-diegetic—they are heard by the audience but not by the characters. *Close Encounters* deliberately collapses that boundary. The same musical material that functions as score also functions as language, signal, protocol and dialogue. By the climax at [Devils Tower]({{ 'devils-tower/' | relative_url }}), the audience is not merely listening to music about communication; it is watching communication occur through music. As the Los Angeles Philharmonic notes in its programme materials on the film, music is presented as “the key to communication between humans and benign aliens,” with the five-note motif serving as the central non-verbal link between the two species. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span>
+This distinction matters because film scores are normally non-diegetic—they are heard by the audience but not by the characters. *Close Encounters* deliberately collapses that boundary. The same musical material that functions as score also functions as language, signal, protocol and dialogue. By the climax at [Devils Tower]({{ 'devils-tower/' | relative_url }}), the audience is not merely listening to music about communication; it is watching communication occur through music. As the Los Angeles Philharmonic notes in its programme materials on the film, music is presented as “the key to communication between humans and benign aliens,” with the five-note motif serving as the central non-verbal link between the two species.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span>
 
 ## What Diegetic Music Means in Close Encounters
 
@@ -271,9 +271,9 @@ In film theory, diegetic music is music that exists within the fictional world a
 
 Spielberg's innovation was not merely to include diegetic music. Films had done that for decades. The innovation was to make diegetic music the central engine of the plot.
 
-Throughout *Close Encounters*, the audience gradually learns that music is not simply describing the mystery of the UFOs. It is becoming the method through which the mystery will be solved. The five-note phrase appears first as a recurring musical idea, but later emerges as a practical communication system shared by humans and extraterrestrials. The distinction between soundtrack and story therefore dissolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
+Throughout *Close Encounters*, the audience gradually learns that music is not simply describing the mystery of the UFOs. It is becoming the method through which the mystery will be solved. The five-note phrase appears first as a recurring musical idea, but later emerges as a practical communication system shared by humans and extraterrestrials. The distinction between soundtrack and story therefore dissolves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
 
-Film scholar Tom Schneller's analysis of the score argues that the musical architecture of *Close Encounters* is deeply tied to narrative progression rather than functioning merely as thematic decoration. The score's motifs develop alongside the story's movement toward intelligibility and contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Sweet Fulfillment</span><span class="citation-popover-snippet">Sweet Fulfillment - Close Encounters of the Third KindPDF &#124; On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</span></span></span>
+Film scholar Tom Schneller's analysis of the score argues that the musical architecture of *Close Encounters* is deeply tied to narrative progression rather than functioning merely as thematic decoration. The score's motifs develop alongside the story's movement toward intelligibility and contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Sweet Fulfillment</span><span class="citation-popover-snippet">Sweet Fulfillment - Close Encounters of the Third KindPDF &#124; On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</span></span></span>
 
 The result is a rare example of a film where understanding the music is effectively the same thing as understanding the narrative.
 
@@ -293,7 +293,7 @@ Spielberg therefore sought a communication medium that could plausibly cross bio
 
 </div>
 
-The film's communication system combines tones, coloured lights and hand signals into a structured language-like exchange. The audience sees scientists responding to alien signals through musical phrases rather than spoken words. According to analyses of the film's climax, this system explicitly links pitch relationships with visual and mathematical correspondences, suggesting that both sides are using patterns as a shared foundation for meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musictales.club/article/five-tones-spielbergs-alien-language" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musictales.club">[Music Tales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musictales.club</span><span class="citation-popover-title">five tones spielbergs alien language</span><span class="citation-popover-snippet">Five tones of Spielberg&#x27;s alien languageAug 23, 2018 — The most iconic Close Encounters sequence is perhaps the five tones — a simple mus...</span></span></span>
+The film's communication system combines tones, coloured lights and hand signals into a structured language-like exchange. The audience sees scientists responding to alien signals through musical phrases rather than spoken words. According to analyses of the film's climax, this system explicitly links pitch relationships with visual and mathematical correspondences, suggesting that both sides are using patterns as a shared foundation for meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musictales.club/article/five-tones-spielbergs-alien-language" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musictales.club">[Music Tales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musictales.club</span><span class="citation-popover-title">five tones spielbergs alien language</span><span class="citation-popover-snippet">Five tones of Spielberg&#x27;s alien languageAug 23, 2018 — The most iconic Close Encounters sequence is perhaps the five tones — a simple mus...</span></span></span>
 
 This choice fundamentally alters the dramatic stakes. The question is no longer whether humans can translate alien speech. The question becomes whether two intelligences can recognise and continue a pattern.
 
@@ -323,7 +323,7 @@ The dramatic structure unfolds through successive musical exchanges:
 
 </div>
 
-The scene therefore generates suspense through musical interaction rather than physical conflict. The audience watches a conversation unfold in real time. The participants happen to be separated by species, but the mechanics resemble improvisational dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
+The scene therefore generates suspense through musical interaction rather than physical conflict. The audience watches a conversation unfold in real time. The participants happen to be separated by species, but the mechanics resemble improvisational dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
 
 What makes the sequence remarkable is that narrative progression occurs through musical performance itself. If the exchange stopped, the plot would stop.
 
@@ -333,9 +333,9 @@ What makes the sequence remarkable is that narrative progression occurs through 
 
 The famous motif succeeds because it is neither a complete song nor a random signal.
 
-John Williams has repeatedly described the challenge of creating a phrase that could plausibly function as communication. Spielberg required a five-note structure, and Williams reportedly generated hundreds of possibilities before arriving at the final version. Sources associated with the film's production place the number at roughly 300–350 variants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">John Williams&#x27; Great Performances Theme Song and...David Horn: Can you tell me a little bit about what you did together on Close Enco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">close encounters of the third kind john williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — I speak of the now iconic five-tone Communication Motif used to communicate...</span><span class="citation-popover-meta">Published: May 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">16 Apr 2020 — The famous five note theme (D-E-C-C-G) used... Williams wrote over 300 examples of the iconic five-tone motif for Clo...</span></span></span> The motif's simplicity is deceptive.
+John Williams has repeatedly described the challenge of creating a phrase that could plausibly function as communication. Spielberg required a five-note structure, and Williams reportedly generated hundreds of possibilities before arriving at the final version. Sources associated with the film's production place the number at roughly 300–350 variants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">John Williams&#x27; Great Performances Theme Song and...David Horn: Can you tell me a little bit about what you did together on Close Enco...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">close encounters of the third kind john williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — I speak of the now iconic five-tone Communication Motif used to communicate...</span><span class="citation-popover-meta">Published: May 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">16 Apr 2020 — The famous five note theme (D-E-C-C-G) used... Williams wrote over 300 examples of the iconic five-tone motif for Clo...</span></span></span> The motif's simplicity is deceptive.
 
-According to Spielberg's later recollections and Williams's own comments, the phrase works because it feels conversational. Williams explained that it contains both a statement and a question. The melodic shape does not feel finished; it appears to request continuation. Spielberg himself famously compared it to a “doorbell,” a signal intended to provoke a response rather than deliver a complete message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair John Williams Is Not Retiring on Steven Spielberg</span><span class="citation-popover-snippet">This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</span></span></span>
+According to Spielberg's later recollections and Williams's own comments, the phrase works because it feels conversational. Williams explained that it contains both a statement and a question. The melodic shape does not feel finished; it appears to request continuation. Spielberg himself famously compared it to a “doorbell,” a signal intended to provoke a response rather than deliver a complete message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair John Williams Is Not Retiring on Steven Spielberg</span><span class="citation-popover-snippet">This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</span></span></span>
 
 This unfinished quality is essential to its narrative function.
 
@@ -352,7 +352,7 @@ Because of this design, every repetition advances the story. The motif is not at
 
 Another reason the score becomes plot is that the alien craft effectively acquires a musical voice.
 
-Rather than speaking through translated dialogue, the mothership expresses itself through musical replies. Williams and Spielberg experimented with different sonic approaches during production, initially trying more futuristic synthesised responses before deciding that a richer orchestral voice worked better dramatically. Williams later recalled that both he and Spielberg disliked the earliest electronic responses and revised the approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair John Williams Is Not Retiring on Steven Spielberg</span><span class="citation-popover-snippet">This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</span></span></span>
+Rather than speaking through translated dialogue, the mothership expresses itself through musical replies. Williams and Spielberg experimented with different sonic approaches during production, initially trying more futuristic synthesised responses before deciding that a richer orchestral voice worked better dramatically. Williams later recalled that both he and Spielberg disliked the earliest electronic responses and revised the approach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair John Williams Is Not Retiring on Steven Spielberg</span><span class="citation-popover-snippet">This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</span></span></span>
 
 The consequence is that the mothership behaves almost like a performer in a duet.
 
@@ -374,7 +374,7 @@ This strategy creates a remarkable reversal.
 
 At first, audiences assume they are hearing a conventional film theme. Later, they discover that the theme has been functioning as a signal all along. Music that seemed to belong exclusively to the soundtrack turns out to belong to the story world as well.
 
-Critics and scholars frequently point to this dual function as one of the score's most distinctive achievements. The motif serves simultaneously as a narrative device, a musical theme and a communication system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span> ResearchGate Because the audience already knows the phrase when the scientists begin performing it <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Sweet Fulfillment</span><span class="citation-popover-snippet">Sweet Fulfillment - Close Encounters of the Third KindPDF &#124; On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</span></span></span>, viewers effectively become participants in the exchange. They recognise the musical vocabulary at the same moment the characters deploy it.
+Critics and scholars frequently point to this dual function as one of the score's most distinctive achievements. The motif serves simultaneously as a narrative device, a musical theme and a communication system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span> ResearchGate Because the audience already knows the phrase when the scientists begin performing it<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Sweet Fulfillment</span><span class="citation-popover-snippet">Sweet Fulfillment - Close Encounters of the Third KindPDF &#124; On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</span></span></span>, viewers effectively become participants in the exchange. They recognise the musical vocabulary at the same moment the characters deploy it.
 
 ## Why the Soundtrack Literally Becomes the Story
 
@@ -384,205 +384,205 @@ In *Close Encounters*, remove the musical communication sequence and the plot's 
 
 The score ceases to be background material and becomes a narrative technology.
 
-As commentators on the film have observed, few major studio productions have ever assigned such structural importance to a musical idea. The five-note motif is not merely the film's most recognisable sound; it is the mechanism that allows humans and aliens to recognise one another as intelligences capable of dialogue. JWFan <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnloomis.org">[John Loomis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnloomis.org</span><span class="citation-popover-title">John Loomis Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The aliens communicate though lights, colours and notes. The...Read more...</span></span></span>
+As commentators on the film have observed, few major studio productions have ever assigned such structural importance to a musical idea. The five-note motif is not merely the film's most recognisable sound; it is the mechanism that allows humans and aliens to recognise one another as intelligences capable of dialogue. JWFan<span class="citation-chip-wrap"><a class="citation-chip" href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnloomis.org">[John Loomis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnloomis.org</span><span class="citation-popover-title">John Loomis Close Encounters of the Third Kind</span><span class="citation-popover-snippet">The aliens communicate though lights, colours and notes. The...Read more...</span></span></span>
 
 Within Spielberg's broader UFO vision, this choice carries thematic significance. The unknown is not conquered through weapons, political authority or scientific domination. Instead, first contact succeeds through listening, response and mutual pattern recognition.
 
-That is why the climactic exchange remains so distinctive. The audience is not watching characters communicate while music plays underneath. It is watching music become communication itself. The soundtrack does not accompany the story. For a crucial stretch of *Close Encounters of the Third Kind*, the soundtrack is the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
+That is why the climactic exchange remains so distinctive. The audience is not watching characters communicate while music plays underneath. It is watching music become communication itself. The soundtrack does not accompany the story. For a crucial stretch of *Close Encounters of the Third Kind*, the soundtrack is the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laphil.com">[LA Phil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laphil.com</span><span class="citation-popover-title">A five-note motif serves as this non-verbal link and appears in various guises</span><span class="citation-popover-snippet">LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m2JL0xABlrQ" title="Close Encounters of the Third Kind — &quot;Tones&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind — &quot;Tones&quot;</a></p><p class="youtube-embed-meta">Channel: Moist Cut &middot; Views: 949.4K &middot; Uploaded: March 2014</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m2JL0xABlrQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Diegetic Music Plot Afe 5 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Diegetic Music Plot Afe 5 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="diegetic-music-plot-afe-5-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ That is why the climactic exchange remains so distinctive. The audience is not w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ That is why the climactic exchange remains so distinctive. The audience is not w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ That is why the climactic exchange remains so distinctive. The audience is not w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ That is why the climactic exchange remains so distinctive. The audience is not w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ That is why the climactic exchange remains so distinctive. The audience is not w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,138 +788,138 @@ That is why the climactic exchange remains so distinctive. The audience is not w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Sweet Fulfillment  
-   Link: <a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Fulfillment - Close Encounters of the Third KindPDF | On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Fulfillment - Close Encounters of the Third KindPDF | On Sep 15, 2014, Tom Schneller published Sweet Fulfillment: Allus...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2020 — The famous five note theme (D-E-C-C-G) used... Williams wrote over 300 examples of the iconic five-tone motif for Clo...</p></details>
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2020 — The famous five note theme (D-E-C-C-G) used... Williams wrote over 300 examples of the iconic five-tone motif for Clo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Great Performances Theme Song and...David Horn: Can you tell me a little bit about what you did together on Close Enco...</p></details>
+   Link:<a href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Great Performances Theme Song and...David Horn: Can you tell me a little bit about what you did together on Close Enco...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jwfan.com  
    Title: close encounters of the third kind 1977 album reviews expanded edition  
-   Link: <a href="https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/" target="_blank" rel="noopener noreferrer nofollow">https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND (1977)25 Jan 2003 — Williams uses high notes on strings, sharp piano hits. The five note motif (A...</p></details>
+   Link:<a href="https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/" target="_blank" rel="noopener noreferrer nofollow">https://jwfan.com/close-encounters-of-the-third-kind-1977-album-reviews-expanded-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND (1977)25 Jan 2003 — Williams uses high notes on strings, sharp piano hits. The five note motif (A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jwfan.com  
    Title: Close Encounters 5 note sequence?  
-   Link: <a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13365-close-encounters-5-note-sequence%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F13365-close-encounters-5-note-sequence%2F=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Discussion12 Jul 2007 — If my memory is correct Spielberg wanted a 5 note sequence, Williams thought it might be better with 7. T...</p></details>
+   Link:<a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13365-close-encounters-5-note-sequence%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F13365-close-encounters-5-note-sequence%2F=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Discussion12 Jul 2007 — If my memory is correct Spielberg wanted a 5 note sequence, Williams thought it might be better with 7. T...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I2bTXPKTc7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I2bTXPKTc7A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Five-Note Conversation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I2bTXPKTc7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I2bTXPKTc7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Five-Note Conversation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How Stranger Things 5 gives away the plot with music  
-   Link: <a href="https://www.youtube.com/watch?v=HYD8SYireuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HYD8SYireuE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | 5-Note Sequence | GarageBand...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HYD8SYireuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HYD8SYireuE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | 5-Note Sequence | GarageBand...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | 5-Note Sequence | Garage Band  
-   Link: <a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: laphil.com  
    Title: A five-note motif serves as this non-verbal link and appears in various guises  
-   Link: <a href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</p></details>
+   Link:<a href="https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.laphil.com/musicdb/pieces/1314/excerpts-from-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LA PhilExcerpts from Close Encounters of the Third Kind, John...Music is presented as the key to communication between humans and benign...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thelistenersclub.com  
    Title: john williams close encounters of the third kind a cinematic tone poem  
-   Link: <a href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow">https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</p></details>
+   Link:<a href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow">https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — Spielberg described the score&#x27;s iconic five-note “Comm...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: johnloomis.org  
    Title: John Loomis Close Encounters of the Third Kind  
-   Link: <a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aliens communicate though lights, colours and notes. The...Read more...</p></details>
+   Link:<a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aliens communicate though lights, colours and notes. The...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: musictales.club  
    Title: five tones spielbergs alien language  
-   Link: <a href="https://musictales.club/article/five-tones-spielbergs-alien-language" target="_blank" rel="noopener noreferrer nofollow">https://musictales.club/article/five-tones-spielbergs-alien-language</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five tones of Spielberg&#x27;s alien languageAug 23, 2018 — The most iconic Close Encounters sequence is perhaps the five tones — a simple mus...</p></details>
+   Link:<a href="https://musictales.club/article/five-tones-spielbergs-alien-language" target="_blank" rel="noopener noreferrer nofollow">https://musictales.club/article/five-tones-spielbergs-alien-language</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five tones of Spielberg&#x27;s alien languageAug 23, 2018 — The most iconic Close Encounters sequence is perhaps the five tones — a simple mus...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: moviemusicuk.us  
    Title: close encounters of the third kind john williams  
-   Link: <a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — I speak of the now iconic five-tone Communication Motif used to communicate...</p></details>
+   Link:<a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KIND28 May 2018 — I speak of the now iconic five-tone Communication Motif used to communicate...</p></details>
    Published: May 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vanityfair.com  
    Title: Vanity Fair John Williams Is Not Retiring on Steven Spielberg  
-   Link: <a href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/historyofmusic2016/posts/-john-williams-close-encounters-of-the-third-kind-a-soundtrack-carved-from-the-2/1301672861607458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyofmusic2016/posts/-john-williams-close-encounters-of-the-third-kind-a-soundtrack-carved-from-the-2/1301672861607458/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Close Encounters of the Third KindWilliams wrote over 300 examples of the iconic five-tone motif for &quot;Close Encounters&quot;—th...</p></details>
+   Link:<a href="https://www.facebook.com/historyofmusic2016/posts/-john-williams-close-encounters-of-the-third-kind-a-soundtrack-carved-from-the-2/1301672861607458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyofmusic2016/posts/-john-williams-close-encounters-of-the-third-kind-a-soundtrack-carved-from-the-2/1301672861607458/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Close Encounters of the Third KindWilliams wrote over 300 examples of the iconic five-tone motif for &quot;Close Encounters&quot;—th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ars-nova.com  
-   Link: <a href="https://www.ars-nova.com/Theory%20Q%26A/Q35.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ars-nova.com/Theory%20Q%26A/Q35.html</a>  
+   Link:<a href="https://www.ars-nova.com/Theory%20Q%26A/Q35.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ars-nova.com/Theory%20Q%26A/Q35.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with musicHumans and aliens try to communicate with each other with music. Kind: Commun...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with musicHumans and aliens try to communicate with each other with music. Kind: Commun...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>score for &quot;Close Encounters of the Third Kind,&quot; emphasizing the concept of...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>score for &quot;Close Encounters of the Third Kind,&quot; emphasizing the concept of...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musictap.com  
    Title: R E:Visit: John Williams, “Close Encounters of the Third  
-   Link: <a href="https://musictap.com/2019/05/08/revisit-john-williams-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://musictap.com/2019/05/08/revisit-john-williams-close-encounters-of-the-third-kind-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunphy takes a deep dive into the often overlooked score for Steven Spielberg&#x27;s Close Encounters of the Third Kind from John Williams...</p></details>
+   Link:<a href="https://musictap.com/2019/05/08/revisit-john-williams-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://musictap.com/2019/05/08/revisit-john-williams-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dunphy takes a deep dive into the often overlooked score for Steven Spielberg&#x27;s Close Encounters of the Third Kind from John Williams...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: A five-note motif in some ways may not be a melody  
-   Link: <a href="https://www.facebook.com/thelegacyofjohnwilliams/posts/a-five-note-motif-in-some-ways-may-not-be-a-melody-it-may-be-more-of-a-signal-th/223142899522146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thelegacyofjohnwilliams/posts/a-five-note-motif-in-some-ways-may-not-be-a-melody-it-may-be-more-of-a-signal-th/223142899522146/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;ve ever seen Maestro Williams conduct a selection from “Close Encounters” in concert, he always mentions the 5-note motif was mean...</p></details>
+   Link:<a href="https://www.facebook.com/thelegacyofjohnwilliams/posts/a-five-note-motif-in-some-ways-may-not-be-a-melody-it-may-be-more-of-a-signal-th/223142899522146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thelegacyofjohnwilliams/posts/a-five-note-motif-in-some-ways-may-not-be-a-melody-it-may-be-more-of-a-signal-th/223142899522146/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;ve ever seen Maestro Williams conduct a selection from “Close Encounters” in concert, he always mentions the 5-note motif was mean...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Does this scene mean anything musically?  
-   Link: <a href="https://www.reddit.com/r/musictheory/comments/33z8yg/does_this_scene_mean_anything_musically_close/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/33z8yg/does_this_scene_mean_anything_musically_close/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Close...Close encounters of the third kind have aliens that seem to talk using music. When the first make contact with the government t...</p></details>
+   Link:<a href="https://www.reddit.com/r/musictheory/comments/33z8yg/does_this_scene_mean_anything_musically_close/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/33z8yg/does_this_scene_mean_anything_musically_close/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Close...Close encounters of the third kind have aliens that seem to talk using music. When the first make contact with the government t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10158865206596696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10158865206596696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d by scientists to communicate with...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10158865206596696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10158865206596696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d by scientists to communicate with...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m2JL0xABlrQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suite. Boston... Movie CLIP - Communicating with the Mothership (1977) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m2JL0xABlrQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suite. Boston... Movie CLIP - Communicating with the Mothership (1977) HD...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: publications-prairial.fr  
-   Link: <a href="https://publications-prairial.fr/emergences/index.php?id=304" target="_blank" rel="noopener noreferrer nofollow">https://publications-prairial.fr/emergences/index.php?id=304</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boyish Worlds: John Williams and Child Gaze - Prairialby M Kempna-Pieniążek · 2026 — The sonic atmosphere created in this way precedes th...</p></details>
+   Link:<a href="https://publications-prairial.fr/emergences/index.php?id=304" target="_blank" rel="noopener noreferrer nofollow">https://publications-prairial.fr/emergences/index.php?id=304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boyish Worlds: John Williams and Child Gaze - Prairialby M Kempna-Pieniążek · 2026 — The sonic atmosphere created in this way precedes th...</p></details>

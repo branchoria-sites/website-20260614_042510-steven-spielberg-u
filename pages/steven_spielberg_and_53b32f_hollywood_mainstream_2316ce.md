@@ -453,9 +453,9 @@ The risk is that cinema works by emotional persuasion, not evidential testing. *
 
 ## From fringe claims to popular wonder
 
-By the early 1970s, UFO reports in the United States had lost some of the public momentum they had during the flying-saucer waves of the post-war period. Smithsonian Magazine describes the subject at that point as increasingly associated with amateur investigators and sensationalist tabloid culture rather than sober public debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s breakthrough was to take that material and give it the prestige machinery of the modern Hollywood blockbuster: major studio backing, serious performances, cutting-edge effects, John Williams’s music and a director already famous for making popular fear feel intimate after *Jaws*.
+By the early 1970s, UFO reports in the United States had lost some of the public momentum they had during the flying-saucer waves of the post-war period. Smithsonian Magazine describes the subject at that point as increasingly associated with amateur investigators and sensationalist tabloid culture rather than sober public debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s breakthrough was to take that material and give it the prestige machinery of the modern Hollywood blockbuster: major studio backing, serious performances, cutting-edge effects, John Williams’s music and a director already famous for making popular fear feel intimate after *Jaws*.
 
-The key film was *Close Encounters of the Third Kind* in 1977. Its title came from astronomer and UFO researcher J. Allen Hynek’s classification system, and the American Film Institute records that Columbia bought rights connected to Hynek’s book *The UFO Experience* and hired him as technical adviser. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> This matters because the film did not simply invent a flying-saucer fantasy from scratch. It absorbed the language of UFO investigation — sightings, categories, witnesses, official denial, scientific curiosity — and placed it inside a story that treated contact as frightening but ultimately meaningful.
+The key film was *Close Encounters of the Third Kind* in 1977. Its title came from astronomer and UFO researcher J. Allen Hynek’s classification system, and the American Film Institute records that Columbia bought rights connected to Hynek’s book *The UFO Experience* and hired him as technical adviser.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> This matters because the film did not simply invent a flying-saucer fantasy from scratch. It absorbed the language of UFO investigation — sightings, categories, witnesses, official denial, scientific curiosity — and placed it inside a story that treated contact as frightening but ultimately meaningful.
 
 The move was subtle but powerful. In many earlier alien films, the visitor from the sky was a threat, a [Cold War]({{ 'cold-war/' | relative_url }}) metaphor or a monster. Spielberg’s film made the UFO encounter a summons. [Roy Neary]({{ 'roy-neary/' | relative_url }})’s experience is not framed as a delusion to be mocked; it is framed as an unbearable truth that ordinary life cannot accommodate. The government lies, the witnesses are confused, and the final revelation is not a military battle but a staged act of communication through light, sound and music.
 
@@ -469,11 +469,11 @@ Hollywood’s influence on UFO belief is rarely as simple as “a film made peop
 
 Spielberg’s special role is that he did not present UFO belief only as conspiracy. He presented it as longing. *Close Encounters* turns the witness into someone wounded by knowledge. *E.T. the Extra-Terrestrial* then moved the alien even further from threat into intimacy: not a national-security object, but a vulnerable visitor loved by a child. These films did not prove anything about UFO claims, but they widened the emotional range in which alien visitation could be imagined. The extraterrestrial could be mysterious, benevolent, wounded, musical, childlike, spiritual or morally superior — not merely hostile.
 
-That is why Spielberg remains central whenever UFOs return to public conversation. In a recent Associated Press interview, he said he had been “a believer” since making *Close Encounters*, while also acknowledging that he had long stopped short of claiming alien visitation without personal proof. He then said he had changed his mind because he now regarded the circumstantial evidence as overwhelming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSteven Spielberg on his faith in alien life, the future of the movies and the power of empathy - ABC News...</span></span></span> The significance is not that a director’s belief settles the issue. It is that a globally trusted storyteller can make the act of belief feel culturally respectable.
+That is why Spielberg remains central whenever UFOs return to public conversation. In a recent Associated Press interview, he said he had been “a believer” since making *Close Encounters*, while also acknowledging that he had long stopped short of claiming alien visitation without personal proof. He then said he had changed his mind because he now regarded the circumstantial evidence as overwhelming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSteven Spielberg on his faith in alien life, the future of the movies and the power of empathy - ABC News...</span></span></span> The significance is not that a director’s belief settles the issue. It is that a globally trusted storyteller can make the act of belief feel culturally respectable.
 
-Public opinion shows how wide that respectable zone has become. Pew Research Center found in 2021 that 65% of Americans said intelligent life probably exists on other planets, and 51% said UFOs reported by military personnel were at least probably evidence of intelligent life beyond Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Gallup similarly reported in 2021 that 41% of Americans thought some UFO sightings involved alien spacecraft, up from 33% two years earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">Do Americans Believe in UFOs?</span><span class="citation-popover-snippet">Do Americans Believe in UFOs?</span></span></span> These surveys do not prove that Spielberg caused the change, but they show the cultural terrain into which his films fit: belief in extraterrestrial life is mainstream, while belief that UFO reports show alien visitation remains contested but no longer socially marginal.
+Public opinion shows how wide that respectable zone has become. Pew Research Center found in 2021 that 65% of Americans said intelligent life probably exists on other planets, and 51% said UFOs reported by military personnel were at least probably evidence of intelligent life beyond Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Gallup similarly reported in 2021 that 41% of Americans thought some UFO sightings involved alien spacecraft, up from 33% two years earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">Do Americans Believe in UFOs?</span><span class="citation-popover-snippet">Do Americans Believe in UFOs?</span></span></span> These surveys do not prove that Spielberg caused the change, but they show the cultural terrain into which his films fit: belief in extraterrestrial life is mainstream, while belief that UFO reports show alien visitation remains contested but no longer socially marginal.
 
-The wider Hollywood pattern reinforces that shift. The Guardian has argued that alien film and television have long reflected human hopes, fears and anxieties before official institutions took the subject seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s contribution was to make the hopeful version unusually persuasive. He gave audiences not just [saucers]({{ 'saucers/' | relative_url }}), but a grammar of awe: the glowing doorway, the child’s face, the upward gaze, the five-note call, the crowd gathered before the impossible.
+The wider Hollywood pattern reinforces that shift. The Guardian has argued that alien film and television have long reflected human hopes, fears and anxieties before official institutions took the subject seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spielberg’s contribution was to make the hopeful version unusually persuasive. He gave audiences not just [saucers]({{ 'saucers/' | relative_url }}), but a grammar of awe: the glowing doorway, the child’s face, the upward gaze, the five-note call, the crowd gathered before the impossible.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dnnW31mpW2k" title="Close Encounters of the Third Kind (1977): 10 Weird Facts You Didn’t Know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dnnW31mpW2k" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (1977): 10 Weird Facts You Didn’t Know!</a></p><p class="youtube-embed-meta">Channel: Iconic Star Rewind &middot; Views: 77.7K &middot; Uploaded: January 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dnnW31mpW2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dnnW31mpW2k">Open on YouTube</a></p></div></div></div>
@@ -490,7 +490,7 @@ The Spielberg template for mainstreaming UFO belief depends on a few recurring c
 
 **Disclosure is imagined as revelation.** The final encounter at [Devils Tower]({{ 'devils-tower/' | relative_url }}) feels closer to a sacred unveiling than a press conference. That is part of its beauty, but also part of its evidential danger. It trains the imagination to expect truth to arrive as spectacle, not as slow, uncertain verification.
 
-The cultural afterlife of *Close Encounters* shows the strength of that template. A scholarly chapter on the film’s cultural impact notes that rumours even circulated during production that the film was part of a government acclimatisation programme preparing humanity for contact, and argues that, conspiracy theories aside, the film influenced both later science fiction and the UFO subculture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Close Encounters: Cultural Impact</span><span class="citation-popover-snippet">Research Gate Close Encounters: Cultural Impact</span></span></span> That rumour is revealing not because it was proven, but because it shows how easily a powerful Hollywood image can be folded back into UFO belief itself.
+The cultural afterlife of *Close Encounters* shows the strength of that template. A scholarly chapter on the film’s cultural impact notes that rumours even circulated during production that the film was part of a government acclimatisation programme preparing humanity for contact, and argues that, conspiracy theories aside, the film influenced both later science fiction and the UFO subculture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Close Encounters: Cultural Impact</span><span class="citation-popover-snippet">Research Gate Close Encounters: Cultural Impact</span></span></span> That rumour is revealing not because it was proven, but because it shows how easily a powerful Hollywood image can be folded back into UFO belief itself.
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-2-dark.svg" | relative_url }}" alt="Mainstreaming illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -498,11 +498,11 @@ The cultural afterlife of *Close Encounters* shows the strength of that template
 
 The central critique is not that Spielberg made people foolish. It is that Hollywood can make a contested claim feel morally and emotionally true before it is evidentially established. A film can place the viewer inside the witness’s fear, isolation and wonder. It can make disbelief look cold, bureaucratic or unimaginative. It can make secrecy feel obvious because secrecy is narratively satisfying. None of that is the same as evidence.
 
-This distinction matters because official UAP discussion has moved into a more serious register in recent years. NASA’s 2023 independent study report acknowledged that credible witnesses, including military aviators, have reported objects they did not recognise, while also stressing that most such events have been explained and that a smaller number cannot yet be identified as known human-made or natural phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, in its 2024 historical report, stated that it had found no evidence of extraterrestrial origin for UFO or UAP cases it reviewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-14 "Endnote 14")
+This distinction matters because official UAP discussion has moved into a more serious register in recent years. NASA’s 2023 independent study report acknowledged that credible witnesses, including military aviators, have reported objects they did not recognise, while also stressing that most such events have been explained and that a smaller number cannot yet be identified as known human-made or natural phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, in its 2024 historical report, stated that it had found no evidence of extraterrestrial origin for UFO or UAP cases it reviewed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-14 "Endnote 14")
 
 That official caution is very different from the emotional rhythm of Hollywood disclosure. In a film, the unexplained tends to become meaningful by the final act. In a scientific or intelligence process, “unexplained” may simply mean insufficient data, poor sensor quality, classified context, observational error, rare atmospheric effects, drones, balloons or something not yet identified. The gap between “not explained” and “alien” is exactly where cinema can exert pressure.
 
-Recent journalism on UFO files illustrates the same tension. AP reported vivid descriptions from newly released files — discs, orbs and even a “potato”-shaped object — while also noting that the files contained no conclusive evidence of alien life or cover-ups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Wired made a similar point about real-world disclosure: if alien contact were ever confirmed, it would more likely require verifiable data, independent analysis and the slow accumulation of evidence than a single cinematic reveal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent journalism on UFO files illustrates the same tension. AP reported vivid descriptions from newly released files — discs, orbs and even a “potato”-shaped object — while also noting that the files contained no conclusive evidence of alien life or cover-ups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Wired made a similar point about real-world disclosure: if alien contact were ever confirmed, it would more likely require verifiable data, independent analysis and the slow accumulation of evidence than a single cinematic reveal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Spielberg’s films therefore sit in a productive but risky middle ground. They honour the emotional seriousness of witnesses, which is valuable. People can see strange things, be sincerely shaken, and deserve fair investigation without ridicule. But the films also make awe feel like confirmation. They show how belief can become socially respectable through beauty, empathy and narrative closure, even when the real-world evidential record remains ambiguous.
 
@@ -521,194 +521,194 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-3-dark.svg" | relative_url }}" alt="Mainstreaming illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Hollywood Made UFO Belief Respectable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Hollywood Made UFO Belief Respectable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Shows how public fascination with UFOs became a mainstream cultural topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how public fascination with UFOs became a mainstream cultural topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Documents the film that helped make UFO belief emotionally respectable in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the film that helped make UFO belief emotionally respectable in popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains Spielberg&#x27;s influence on popular culture and the public image of alien contact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Spielberg&#x27;s influence on popular culture and the public image of alien contact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters Man">Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly explores how UFO ideas moved from fringe discussion into mainstream culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how UFO ideas moved from fringe discussion into mainstream culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="mainstreaming-how-hollywood-made-ufo-belief-respectable-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -828,7 +828,7 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -873,7 +873,7 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -914,144 +914,144 @@ The best way to read this legacy is neither as proof nor as propaganda. Spielber
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.gallup.com  
    Title: Do Americans Believe in UFOs?  
-   Link: <a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Close Encounters: Cultural Impact  
-   Link: <a href="https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact</a>  
+   Link:<a href="https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349618033_Close_Encounters_Cultural_Impact</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/real-life-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-[disclosure-day</a>  
+   Link:<a href="https://www.wired.com/story/real-life-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-[disclosure-day</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.gallup.com  
    Title: larger minority says ufos alien spacecraft.aspx  
-   Link: <a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/</a>  
+   Link:<a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSteven Spielberg on his faith in alien life, the future of the movies and the power of empathy - ABC News...</p></details>
+   Link:<a href="https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/wireStory/steven-spielberg-faith-alien-life-future-movies-power-133556739</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSteven Spielberg on his faith in alien life, the future of the movies and the power of empathy - ABC News...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
+   Link:<a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae</a>  
+   Link:<a href="https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: pentagon ufo report hiding aliens  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reelviews.net  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.reelviews.net/reelviews/close-encounters-of-the-third-kind</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M7QsN75bUhc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Everything You Didn&#x27;t Know | SYFY WIRE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M7QsN75bUhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Everything You Didn&#x27;t Know | SYFY WIRE...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Everything You Didn't Know | SYFY WIRE  
-   Link: <a href="https://www.youtube.com/watch?v=r14AxxN1cLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r14AxxN1cLc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sci Fi Flicks - Close Encounters Of The Third Kind A Discussion With Richard Dreyfuss...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r14AxxN1cLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r14AxxN1cLc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sci Fi Flicks - Close Encounters Of The Third Kind A Discussion With Richard Dreyfuss...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CmMTOOcBuzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CmMTOOcBuzk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CmMTOOcBuzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CmMTOOcBuzk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: This Man Sparked Spielberg's Interest in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Says Aliens &#x27;Have Been Here And Are Here&#x27;, Cites Congress Testimonies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Says Aliens &#x27;Have Been Here And Are Here&#x27;, Cites Congress Testimonies...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/</a>  
+   Link:<a href="https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/YonkersNewswire/posts/4324874267770118/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV1iKy5ES5h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1iKy5ES5h/</a>  
+   Link:<a href="https://www.instagram.com/reel/DV1iKy5ES5h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1iKy5ES5h/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cambridgeday.com  
-   Link: <a href="https://www.cambridgeday.com/2026/06/12/a-new-kind-of-close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeday.com/2026/06/12/a-new-kind-of-close-encounter/</a>  
+   Link:<a href="https://www.cambridgeday.com/2026/06/12/a-new-kind-of-close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeday.com/2026/06/12/a-new-kind-of-close-encounter/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/they-are-here-and-who-knows-maybe-theyve-always-been-here-steven-spielberg-belie/1438469951640485/</a>  

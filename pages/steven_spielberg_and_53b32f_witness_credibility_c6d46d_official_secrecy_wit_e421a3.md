@@ -268,14 +268,14 @@ In *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Ki
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-1-dark.svg" | relative_url }}" alt="Official Secrecy Wit E421 A3 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a crucial extension of Spielberg’s larger concern with witness [credibility]({{ 'credibility/' | relative_url }}). [Roy Neary]({{ 'roy-neary/' | relative_url }}) and other experiencers are not simply disbelieved by family members or neighbours. They are placed inside an environment where official narratives redefine reality before witnesses can explain their experiences. The result is a system in which testimony is isolated, marginalised and rendered socially suspect even when it may be accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+This is a crucial extension of Spielberg’s larger concern with witness [credibility]({{ 'credibility/' | relative_url }}). [Roy Neary]({{ 'roy-neary/' | relative_url }}) and other experiencers are not simply disbelieved by family members or neighbours. They are placed inside an environment where official narratives redefine reality before witnesses can explain their experiences. The result is a system in which testimony is isolated, marginalised and rendered socially suspect even when it may be accurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odN_MTXj4OA" title="Arrival Scene | CLOSE ENCOUNTERS OF THE THIRD KIND (1977) Movie CLIP HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odN_MTXj4OA" target="_blank" rel="noopener noreferrer">Arrival Scene | CLOSE ENCOUNTERS OF THE THIRD KIND (1977) Movie CLIP HD</a></p><p class="youtube-embed-meta">Channel: JoBlo Movie Clips &middot; Views: 643.6K &middot; Uploaded: October 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odN_MTXj4OA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odN_MTXj4OA">Open on YouTube</a></p></div></div></div>
 
 ## Why the False Evacuation Matters to Credibility
 
-The most revealing act of [secrecy]({{ 'secrecy/' | relative_url }}) in the film is the manufactured evacuation of the Devils Tower area. Authorities spread a story about a dangerous environmental incident, presented as a toxic release requiring immediate evacuation. The cover story creates a legitimate reason for the public to stay away from the site where contact is expected to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themerica.org">[Themerica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themerica.org</span><span class="citation-popover-title">close encounters of the themed kind</span><span class="citation-popover-snippet">Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</span></span></span>
+The most revealing act of [secrecy]({{ 'secrecy/' | relative_url }}) in the film is the manufactured evacuation of the Devils Tower area. Authorities spread a story about a dangerous environmental incident, presented as a toxic release requiring immediate evacuation. The cover story creates a legitimate reason for the public to stay away from the site where contact is expected to occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themerica.org">[Themerica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themerica.org</span><span class="citation-popover-title">close encounters of the themed kind</span><span class="citation-popover-snippet">Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</span></span></span>
 
 What matters for witness credibility is not simply that the government lies. The important point is that the lie supplies a competing explanation that automatically outranks individual testimony.
 
@@ -302,7 +302,7 @@ The evacuation therefore functions as a credibility filter. It removes the physi
 
 The film repeatedly shows that secrecy has two simultaneous effects. It protects knowledge inside institutions while increasing uncertainty outside them.
 
-Government personnel, scientists and project leaders know that something extraordinary is happening. They are interpreting signals, coordinating logistics and preparing for contact. Yet that growing body of knowledge does not increase public understanding. Instead, it widens the gap between insiders and [outsiders]({{ 'outsiders/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/galacticgals/posts/744714095034751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind movie reviewThe government works in secrecy to interpret these communications, which eventuall...</span></span></span>
+Government personnel, scientists and project leaders know that something extraordinary is happening. They are interpreting signals, coordinating logistics and preparing for contact. Yet that growing body of knowledge does not increase public understanding. Instead, it widens the gap between insiders and [outsiders]({{ 'outsiders/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/galacticgals/posts/744714095034751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind movie reviewThe government works in secrecy to interpret these communications, which eventuall...</span></span></span>
 
 For witnesses such as Roy, the consequences are severe. He possesses fragments of truth but lacks the institutional context needed to explain them. The authorities possess the context but refuse to share it. This produces a peculiar situation in which the witness is simultaneously correct and socially discredited.
 
@@ -329,7 +329,7 @@ Many conspiracy stories portray secrecy as a straightforward attempt to hide a s
 
 The authorities in *Close Encounters* are certainly concealing information, but the film is less interested in secret files than in control of evidence. The critical issue is who gets to decide what counts as meaningful information.
 
-The false evacuation illustrates this perfectly. Officials do not erase the witnesses' experiences. Roy still remembers what happened. Other witnesses still exist. Instead, authorities alter the environment in which those experiences can be understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themerica.org">[Themerica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themerica.org</span><span class="citation-popover-title">close encounters of the themed kind</span><span class="citation-popover-snippet">Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</span></span></span>
+The false evacuation illustrates this perfectly. Officials do not erase the witnesses' experiences. Roy still remembers what happened. Other witnesses still exist. Instead, authorities alter the environment in which those experiences can be understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themerica.org">[Themerica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themerica.org</span><span class="citation-popover-title">close encounters of the themed kind</span><span class="citation-popover-snippet">Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</span></span></span>
 
 This is why the film's secrecy feels different from a conventional cover-up thriller:
 
@@ -348,200 +348,200 @@ Roy's determination threatens the carefully managed boundary between public igno
 
 That dynamic explains why Spielberg's officials devote energy to managing people rather than merely securing a location. The challenge is not just protecting the landing site. It is preventing witnesses from creating alternative narratives that compete with the authorised one.
 
-This theme remains central to Spielberg's UFO imagination. The drama is not built around proving that aliens exist. It is built around the political and social consequences of knowing something that institutions refuse to acknowledge openly. In that environment, witnesses become troublesome not because they are unreliable, but because they possess fragments of truth that cannot be comfortably integrated into the official account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
+This theme remains central to Spielberg's UFO imagination. The drama is not built around proving that aliens exist. It is built around the political and social consequences of knowing something that institutions refuse to acknowledge openly. In that environment, witnesses become troublesome not because they are unreliable, but because they possess fragments of truth that cannot be comfortably integrated into the official account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close (2022 film</span><span class="citation-popover-snippet">Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-3-dark.svg" | relative_url }}" alt="Official Secrecy Wit E421 A3 illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_witness_credibility_c6d46d_official_secrecy_wit_e421a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Official Secrecy Wit E421 A3. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Official Secrecy Wit E421 A3. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/9e2fc62c42855d347740.jpg' | relative_url }}" alt="Listing image for FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY ALIEN &quot;FIRST CONTACT, ROSWELL NM&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T"><img src="{{ '/assets/images/marketplace-covers/17af250b85cafac708f8.jpg' | relative_url }}" alt="Listing image for CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">CONTACT THIS!! Alien middle finger the bird flip off UFO Outer space T shirt T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399"><img src="{{ '/assets/images/marketplace-covers/8ec13946f9ba537154de.jpg' | relative_url }}" alt="Listing image for Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Benthic Petroleum Mens Tshirt Alien T-shirt Space Contact Abyss UFO Tee D399</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage alien workshop x mossimo Sz M Makin Contact"><img src="{{ '/assets/images/marketplace-covers/067cd1423bd8be63d0e3.jpg' | relative_url }}" alt="Listing image for Vintage alien workshop x mossimo Sz M Makin Contact" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage alien workshop x mossimo Sz M Makin Contact</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien contact t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien contact t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+contact+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien contact t shirt" data-ebay-reference="official-secrecy-wit-e421-a3-steven-spielberg-and-ufos-alien-contact-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,121 +747,121 @@ This theme remains central to Spielberg's UFO imagination. The drama is not buil
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: themerica.org  
    Title: close encounters of the themed kind  
-   Link: <a href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</p></details>
+   Link:<a href="https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.themerica.org/blog/2018/01/14/close-encounters-of-the-themed-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Themed Kind.14 Jan 2018 — The government has chased everyone away with a cover story that a train wreck...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/galacticgals/posts/744714095034751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/galacticgals/posts/744714095034751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind movie reviewThe government works in secrecy to interpret these communications, which eventuall...</p></details>
+   Link:<a href="https://www.facebook.com/groups/galacticgals/posts/744714095034751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/galacticgals/posts/744714095034751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind movie reviewThe government works in secrecy to interpret these communications, which eventuall...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/top10films/posts/steven-spielbergs-close-encounters-of-the-third-kind-is-almost-50-yet-it-feels-l/1668477818612349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/top10films/posts/steven-spielbergs-close-encounters-of-the-third-kind-is-almost-50-yet-it-feels-l/1668477818612349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>truth in the face of massive government secrecy and lies.”...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/top10films/posts/steven-spielbergs-close-encounters-of-the-third-kind-is-almost-50-yet-it-feels-l/1668477818612349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/top10films/posts/steven-spielbergs-close-encounters-of-the-third-kind-is-almost-50-yet-it-feels-l/1668477818612349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>truth in the face of massive government secrecy and lies.”...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterIn ufology, a close encounter is an event in which a person witnesses an unidentified flying object (UFO) at relatively...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Professor J  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160259707551696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160259707551696/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek&#x27;s UFO Research and Close...Professor J.Allen Hynek was scientific advisor for Project Sign, Project Grudge and Project Blue...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160259707551696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160259707551696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek&#x27;s UFO Research and Close...Professor J.Allen Hynek was scientific advisor for Project Sign, Project Grudge and Project Blue...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/close" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/close</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — to change from being open to not being open, or to cause something to do this: close...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/close" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — to change from being open to not being open, or to cause something to do this: close...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: latimes.com  
    Title: What is it with Spielberg and space aliens?  
-   Link: <a href="https://www.latimes.com/entertainment-arts/movies/story/2026-06-11/steven-spielberg-space-aliens-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/movies/story/2026-06-11/steven-spielberg-space-aliens-[disclosure-day</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We... - LA Times2 days ago — “War of the Worlds” remains a fascinating film within the director&#x27;s space alien canon because it has an an...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/movies/story/2026-06-11/steven-spielberg-space-aliens-[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/movies/story/2026-06-11/steven-spielberg-space-aliens-[disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We... - LA Times2 days ago — “War of the Worlds” remains a fascinating film within the director&#x27;s space alien canon because it has an an...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lidocinemas.com.au  
-   Link: <a href="https://www.lidocinemas.com.au/movies/close" target="_blank" rel="noopener noreferrer nofollow">https://www.lidocinemas.com.au/movies/close</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now Showing Coming 675 Glenferrie Road, Hawthorn, VIC 3122 (03) 8658. Leo and Remi are two thirteen-year-old best friends, whose seemingl...</p></details>
+   Link:<a href="https://www.lidocinemas.com.au/movies/close" target="_blank" rel="noopener noreferrer nofollow">https://www.lidocinemas.com.au/movies/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now Showing Coming 675 Glenferrie Road, Hawthorn, VIC 3122 (03) 8658. Leo and Remi are two thirteen-year-old best friends, whose seemingl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: the-jh-movie-collection-official.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe United States Army evacuates the entire area around Devils Tower by planting false reports in the media t...</p></details>
+   Link:<a href="https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://the-jh-movie-collection-official.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe United States Army evacuates the entire area around Devils Tower by planting false reports in the media t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: movie-locations.com  
-   Link: <a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind | 1977The big evacuation scene filmed at Bay Minette over the Mobile and Tensaw Rivers, 30 miles north...</p></details>
+   Link:<a href="https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php" target="_blank" rel="noopener noreferrer nofollow">https://movie-locations.com/movies/c/Close-Encounters-Of-The-Third-Kind.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third Kind | 1977The big evacuation scene filmed at Bay Minette over the Mobile and Tensaw Rivers, 30 miles north...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/close</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE Synonyms: 566 Similar and Opposite WordsSynonyms for CLOSE: crowded, tight, packed, dense, thick, compact, jammed, serried; Antonym...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/close" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE Synonyms: 566 Similar and Opposite WordsSynonyms for CLOSE: crowded, tight, packed, dense, thick, compact, jammed, serried; Antonym...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: raisingchildren.net.au  
-   Link: <a href="https://raisingchildren.net.au/guides/movie-reviews/close" target="_blank" rel="noopener noreferrer nofollow">https://raisingchildren.net.au/guides/movie-reviews/close</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CloseClose is a beautiful, tender and sad Belgian film about the intensity of teenage friendship and the enormous void that can be left b...</p></details>
+   Link:<a href="https://raisingchildren.net.au/guides/movie-reviews/close" target="_blank" rel="noopener noreferrer nofollow">https://raisingchildren.net.au/guides/movie-reviews/close</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CloseClose is a beautiful, tender and sad Belgian film about the intensity of teenage friendship and the enormous void that can be left b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindNo longer just concerned with the true intentions of visitors from outer space, it was the government&#x27;s...</p></details>
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindNo longer just concerned with the true intentions of visitors from outer space, it was the government&#x27;s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/GenerationJones/comments/1gba8th/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GenerationJones/comments/1gba8th/close_encounters_of_the_third_kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: r/GenerationJonesAnd on the night we camped there and watched the movie, at the moment the UFOs star...</p></details>
+   Link:<a href="https://www.reddit.com/r/GenerationJones/comments/1gba8th/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GenerationJones/comments/1gba8th/close_encounters_of_the_third_kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: r/GenerationJonesAnd on the night we camped there and watched the movie, at the moment the UFOs star...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: musingsofamiddleagedgeek.blog  
-   Link: <a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — Musings of a Middle-Aged Geek · “Close Encounters of the Third Kin...</p></details>
+   Link:<a href="https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://musingsofamiddleagedgeek.blog/2024/06/19/close-encounters-of-the-third-kind-introducing-steven-spielbergs-1977-ufopus-to-fresh-eyes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>introducing Steven Spielberg&#x27;s 1977 UFOpus to fresh eyes…19 Jun 2024 — Musings of a Middle-Aged Geek · “Close Encounters of the Third Kin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/17w9qz8/can_we_talk_about_this_ive_always_heard_rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17w9qz8/can_we_talk_about_this_ive_always_heard_rumors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensI&#x27;ve always heard rumors that Steven Spielberg was briefed about aliens when making Close Encounters of the Third Kind and I find...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/17w9qz8/can_we_talk_about_this_ive_always_heard_rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17w9qz8/can_we_talk_about_this_ive_always_heard_rumors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensI&#x27;ve always heard rumors that Steven Spielberg was briefed about aliens when making Close Encounters of the Third Kind and I find...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind</a>  
+   Link:<a href="https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fran-delpizzo.medium.com  
    Title: the artist and the obsession close encounters of the third kind e55b963ba1a4  
-   Link: <a href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government evacuates people from their homes under false pretences in order to cover up the expected arrival of aliens. Overall though, i...</p></details>
+   Link:<a href="https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fran-delpizzo.medium.com/the-artist-and-the-obsession-close-encounters-of-the-third-kind-e55b963ba1a4?source=---------9----------------------------</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government evacuates people from their homes under false pretences in order to cover up the expected arrival of aliens. Overall though, i...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: crittical-analysis.com  
    Title: close encounters and the cost of passion spielberg summer continues  
-   Link: <a href="https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS and the Cost of Passion: SPIELBERG...10 Aug 2024 — It&#x27;s an early Spielberg epic exploring humanity&#x27;s response to seeing...</p></details>
+   Link:<a href="https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.crittical-analysis.com/articles/close-encounters-and-the-cost-of-passion-spielberg-summer-continues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS and the Cost of Passion: SPIELBERG...10 Aug 2024 — It&#x27;s an early Spielberg epic exploring humanity&#x27;s response to seeing...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thirdcoastreview.com  
-   Link: <a href="https://thirdcoastreview.com/film-tv/2026/06/12/review-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://thirdcoastreview.com/film-tv/2026/06/12/review-disclosure-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ttempts to envision a world in which long-held government secrets about alien...Read more...</p></details>
+   Link:<a href="https://thirdcoastreview.com/film-tv/2026/06/12/review-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://thirdcoastreview.com/film-tv/2026/06/12/review-disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ttempts to envision a world in which long-held government secrets about alien...Read more...</p></details>

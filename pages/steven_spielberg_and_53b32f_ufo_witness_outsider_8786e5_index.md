@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-ufo/
 description: Focused pages that expand on Outsiders.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_ufo_witness_outsider_8786e5
 parent_title: Outsiders
@@ -16,7 +16,7 @@ parent_permalink: /outsiders/
 
 # Explore Topics in Outsiders
 
-The following pages expand on the main **[Outsiders]({{ '/outsiders/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Outsiders]({{ '/outsiders/' | relative_url }})** page and cover its key branches in.
 
 - [Certainty Without Pr Ccc 99 A]({{ '/certainty-without-pr-ccc-99-a/' | relative_url }})
 - [Devils Tower Fugitiv 4 Ed 10 C]({{ '/devils-tower-fugitiv-4-ed-10-c/' | relative_url }})

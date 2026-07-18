@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-aliens/
 description: Focused pages that expand on Moral Tests.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_aliens_moral_tests_7f68df
 parent_title: Moral Tests
@@ -16,7 +16,7 @@ parent_permalink: /moral-tests/
 
 # Explore Topics in Moral Tests
 
-The following pages expand on the main **[Moral Tests]({{ '/moral-tests/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Moral Tests]({{ '/moral-tests/' | relative_url }})** page and cover its key branches in.
 
 - [Elliott Family Respo]({{ '/elliott-family-respo/' | relative_url }})
 - [Et Vulnerable Alien 49029 E]({{ '/et-vulnerable-alien-49029-e/' | relative_url }})

@@ -268,9 +268,9 @@ Traditional invasion stories often create two parallel narratives. One follows c
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-1-dark.svg" | relative_url }}" alt="No Experts Invasion illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spielberg deliberately strips away most of that structure. The audience never spends meaningful time in the White House, the Pentagon, a research laboratory, or an international crisis centre. There is no character equivalent to the expert physicist of the 1953 adaptation, where Dr. Clayton Forrester helps interpret the alien threat for both characters and viewers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">The War of the Worlds (1953 film</span></span></span>
+Spielberg deliberately strips away most of that structure. The audience never spends meaningful time in the White House, the Pentagon, a research laboratory, or an international crisis centre. There is no character equivalent to the expert physicist of the 1953 adaptation, where Dr. Clayton Forrester helps interpret the alien threat for both characters and viewers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">The War of the Worlds (1953 film</span></span></span>
 
-The absence of explanatory figures changes the emotional experience of the film. Instead of asking, “How will humanity solve this problem?”, viewers are pushed into a more immediate question: “How do I survive the next hour?” The invasion remains mysterious because the characters never gain access to the information that conventional disaster films normally provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
+The absence of explanatory figures changes the emotional experience of the film. Instead of asking, “How will humanity solve this problem?”, viewers are pushed into a more immediate question: “How do I survive the next hour?” The invasion remains mysterious because the characters never gain access to the information that conventional disaster films normally provide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
 
 This choice also aligns with Spielberg’s broader depiction of hostile contact. In earlier films such as *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, understanding is possible. Communication becomes the goal. In *War of the Worlds*, understanding is largely irrelevant to survival. The aliens do not arrive to converse, negotiate, or reveal themselves. They simply act.
 
@@ -281,7 +281,7 @@ This choice also aligns with Spielberg’s broader depiction of hostile contact.
 
 The film repeatedly turns away from scenes that another director might have treated as major exposition moments.
 
-When military forces engage the tripods, the audience rarely receives a strategic overview. Ray often sees battles from a distance, through smoke, crowds, or fragments of conversation. The viewer hears rumours, half-truths, and speculation rather than authoritative briefings. Even large military operations remain mostly off-screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+When military forces engage the tripods, the audience rarely receives a strategic overview. Ray often sees battles from a distance, through smoke, crowds, or fragments of conversation. The viewer hears rumours, half-truths, and speculation rather than authoritative briefings. Even large military operations remain mostly off-screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 Several techniques reinforce this restriction:
 
@@ -306,7 +306,7 @@ The effect is claustrophobic. Even though the invasion is global, the film feels
 
 Ray Ferrier is not a scientist, soldier, journalist, or politician. He has no special access to information. That limitation is not merely a character detail; it is the organising principle of the film.
 
-Because Ray cannot explain what is happening, the aliens remain frighteningly opaque. He does not know where they came from, how many there are, what they want, or whether resistance is succeeding. Every answer arrives late, incompletely, or indirectly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">War of the Worlds (2005)An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes o...</span></span></span>
+Because Ray cannot explain what is happening, the aliens remain frighteningly opaque. He does not know where they came from, how many there are, what they want, or whether resistance is succeeding. Every answer arrives late, incompletely, or indirectly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">War of the Worlds (2005)An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes o...</span></span></span>
 
 This perspective transforms the tripods into something closer to a natural disaster than a conventional enemy. People witness destruction before they understand its cause. They react emotionally rather than strategically. The audience shares that uncertainty.
 
@@ -318,11 +318,11 @@ As a result, the film's fear comes less from what the aliens are than from how l
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-2-dark.svg" | relative_url }}" alt="No Experts Invasion illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The New Yorker Critique of Institutional Absence
 
-One of the most frequently cited contemporary observations came from *The New Yorker*. Reviewing the film in 2005, critic Anthony Lane highlighted the near-total disappearance of the expert class from Spielberg’s narrative. He noted that there were “no experts” in the story—no scientists explaining alien biology, no military-intelligence specialists interpreting events, and none of the authoritative figures that had become standard in earlier science-fiction cinema. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
+One of the most frequently cited contemporary observations came from *The New Yorker*. Reviewing the film in 2005, critic Anthony Lane highlighted the near-total disappearance of the expert class from Spielberg’s narrative. He noted that there were “no experts” in the story—no scientists explaining alien biology, no military-intelligence specialists interpreting events, and none of the authoritative figures that had become standard in earlier science-fiction cinema.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
 
 Lane’s observation points to a broader cultural shift. Earlier invasion films often expressed confidence that institutions could understand and eventually manage extraordinary threats. Experts translated chaos into knowledge. Governments organised responses. Scientific expertise served as a stabilising force.
 
-Spielberg’s film is far more sceptical about that reassurance. Institutions are present but largely invisible. Military forces fight bravely yet appear overwhelmed. Government responses remain distant. Knowledge exists somewhere beyond the frame, but neither Ray nor the audience gains meaningful access to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
+Spielberg’s film is far more sceptical about that reassurance. Institutions are present but largely invisible. Military forces fight bravely yet appear overwhelmed. Government responses remain distant. Knowledge exists somewhere beyond the frame, but neither Ray nor the audience gains meaningful access to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
 
 For some critics, this absence intensified the film’s realism. Ordinary people caught in catastrophic events rarely possess complete information. For others, the lack of explanation felt frustrating. Yet even critics who disagreed about the film’s success often recognised the deliberate nature of the choice.
 
@@ -337,200 +337,200 @@ In *War of the Worlds*, that bridge never appears.
 
 The film's refusal to provide authoritative interpreters keeps alien contact fundamentally alien. The invaders are not decoded into familiar motives or scientific categories. They remain distant, overwhelming, and largely unknowable. By denying viewers the comfort of explanation, Spielberg creates one of his most unsettling visions of extraterrestrial encounter: a world where humanity is not at the centre of the story and where nobody is available to explain what is happening.
 
-That absence of experts is not a missing element. It is one of the film’s central creative decisions, shaping how fear, uncertainty, and hostile contact are experienced from beginning to end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
+That absence of experts is not a missing element. It is one of the film’s central creative decisions, shaping how fear, uncertainty, and hostile contact are experienced from beginning to end.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</span><span class="citation-popover-meta">Published: July 4, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-3-dark.svg" | relative_url }}" alt="No Experts Invasion illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85_no_experts_invasion_c76656-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to No Experts Invasion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to No Experts Invasion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-experts-invasion-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ That absence of experts is not a missing element. It is one of the film’s cent
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ That absence of experts is not a missing element. It is one of the film’s cent
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ That absence of experts is not a missing element. It is one of the film’s cent
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ That absence of experts is not a missing element. It is one of the film’s cent
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ That absence of experts is not a missing element. It is one of the film’s cent
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,98 +736,98 @@ That absence of experts is not a missing element. It is one of the film’s cent
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes o...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0407304/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0407304/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005)An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (1953 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/article/2026/06/03/[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/[disclosure-day</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hem to believe in alien life, their encounter with fellow believer former...Read more...</p></details>
+   Link:<a href="https://time.com/article/2026/06/03/[disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/03/[disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hem to believe in alien life, their encounter with fellow believer former...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=k8sPyd5DicE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k8sPyd5DicE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) - Caravan of Garbage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k8sPyd5DicE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k8sPyd5DicE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) - Caravan of Garbage...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=piBMPm3il0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=piBMPm3il0E</a>  
+   Link:<a href="https://www.youtube.com/watch?v=piBMPm3il0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=piBMPm3il0E</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
    Title: The New Yorker Stayin' Alive  
-   Link: <a href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2005/07/11/stayin-alive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2005/07/11/stayin-alive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerStayin&#x27; AliveJuly 4, 2005 — 4 Jul 2005 — There are no experts in Steven Spielberg&#x27;s “War of the Worlds”—no brilliant scient...</p></details>
    Published: July 4, 2005  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sffchronicles.com  
-   Link: <a href="https://www.sffchronicles.com/threads/30371/" target="_blank" rel="noopener noreferrer nofollow">https://www.sffchronicles.com/threads/30371/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) | Science Fiction &amp; Fantasy forum17 Mar 2004 — Steven Spielberg and Tom Cruise will bring The War of the Worlds...</p></details>
+   Link:<a href="https://www.sffchronicles.com/threads/30371/" target="_blank" rel="noopener noreferrer nofollow">https://www.sffchronicles.com/threads/30371/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005) | Science Fiction &amp; Fantasy forum17 Mar 2004 — Steven Spielberg and Tom Cruise will bring The War of the Worlds...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheView/posts/emily-blunt-tells-us-about-taking-the-lead-to-explore-the-unknown-in-steven-spie/1562142591934347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheView/posts/emily-blunt-tells-us-about-taking-the-lead-to-explore-the-unknown-in-steven-spie/1562142591934347/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s misunderstanding. Will we ever really be able to communicate with aliens after first contact? Scientists and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheView/posts/emily-blunt-tells-us-about-taking-the-lead-to-explore-the-unknown-in-steven-spie/1562142591934347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheView/posts/emily-blunt-tells-us-about-taking-the-lead-to-explore-the-unknown-in-steven-spie/1562142591934347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s misunderstanding. Will we ever really be able to communicate with aliens after first contact? Scientists and...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: reevaluating the ending of war of the worlds 2005  
-   Link: <a href="https://www.reddit.com/r/movies/comments/1jji7ec/reevaluating_the_ending_of_war_of_the_worlds_2005/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1jji7ec/reevaluating_the_ending_of_war_of_the_worlds_2005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reevaluating the Ending of War of the Worlds (2005)I&#x27;ve noticed that the ending of War of the Worlds (2005) is often criticized for being...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/1jji7ec/reevaluating_the_ending_of_war_of_the_worlds_2005/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/1jji7ec/reevaluating_the_ending_of_war_of_the_worlds_2005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reevaluating the Ending of War of the Worlds (2005)I&#x27;ve noticed that the ending of War of the Worlds (2005) is often criticized for being...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZRhIo9z59f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZRhIo9z59f/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, and survival, creating a film that still feels unsettling...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZRhIo9z59f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZRhIo9z59f/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, and survival, creating a film that still feels unsettling...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1749814981940531/posts/4539319332990068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1749814981940531/posts/4539319332990068/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on – a stark contrast to many later alien invasion flicks.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1749814981940531/posts/4539319332990068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1749814981940531/posts/4539319332990068/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on – a stark contrast to many later alien invasion flicks.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vusf.wordpress.com  
    Title: bonus framing in war of the worlds 2005  
-   Link: <a href="https://vusf.wordpress.com/2019/12/09/bonus-framing-in-war-of-the-worlds-2005/" target="_blank" rel="noopener noreferrer nofollow">https://vusf.wordpress.com/2019/12/09/bonus-framing-in-war-of-the-worlds-2005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com[BONUS] Framing in “War of the Worlds” (2005) - Science/Fiction9 Dec 2019 — War of the Worlds follows a father (Cruise) and...</p></details>
+   Link:<a href="https://vusf.wordpress.com/2019/12/09/bonus-framing-in-war-of-the-worlds-2005/" target="_blank" rel="noopener noreferrer nofollow">https://vusf.wordpress.com/2019/12/09/bonus-framing-in-war-of-the-worlds-2005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com[BONUS] Framing in “War of the Worlds” (2005) - Science/Fiction9 Dec 2019 — War of the Worlds follows a father (Cruise) and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/dnkwte/the_steven_spielberg_war_of_the_worlds_movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/dnkwte/the_steven_spielberg_war_of_the_worlds_movie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The entitled bratty girl and the rebel son...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/dnkwte/the_steven_spielberg_war_of_the_worlds_movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/dnkwte/the_steven_spielberg_war_of_the_worlds_movie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The entitled bratty girl and the rebel son...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spacejockeyreviews.com  
    Title: war of the worlds 1953 vs 2005  
-   Link: <a href="https://spacejockeyreviews.com/war-of-the-worlds-1953-vs-2005/" target="_blank" rel="noopener noreferrer nofollow">https://spacejockeyreviews.com/war-of-the-worlds-1953-vs-2005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Jockey ReviewsWar of the Worlds (1953 vs. 2005)13 Jan 2013 — Directed by Byron Haskin, the 50&#x27;s War of the Worlds begins with us he...</p></details>
+   Link:<a href="https://spacejockeyreviews.com/war-of-the-worlds-1953-vs-2005/" target="_blank" rel="noopener noreferrer nofollow">https://spacejockeyreviews.com/war-of-the-worlds-1953-vs-2005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Jockey ReviewsWar of the Worlds (1953 vs. 2005)13 Jan 2013 — Directed by Byron Haskin, the 50&#x27;s War of the Worlds begins with us he...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blackfilm.com  
-   Link: <a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Press Conference Interview with Director Steven Spielberg and Tom Cruise. Previous Page. One of the things changed fro...</p></details>
+   Link:<a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds: Press Conference Interview with Director Steven Spielberg and Tom Cruise. Previous Page. One of the things changed fro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rIXEsR3ZSBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rIXEsR3ZSBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the World (2005) Movie Review | S1-E23...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rIXEsR3ZSBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rIXEsR3ZSBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the World (2005) Movie Review | S1-E23...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/movie.talk.club/posts/2257379045036833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/movie.talk.club/posts/2257379045036833/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s War of the Worlds 2005 film reviewWar of the Worlds (2005) Director: Steven Spielberg | Starring: Tom Cruise, Dakota F...</p></details>
+   Link:<a href="https://www.facebook.com/groups/movie.talk.club/posts/2257379045036833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/movie.talk.club/posts/2257379045036833/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s War of the Worlds 2005 film reviewWar of the Worlds (2005) Director: Steven Spielberg | Starring: Tom Cruise, Dakota F...</p></details>

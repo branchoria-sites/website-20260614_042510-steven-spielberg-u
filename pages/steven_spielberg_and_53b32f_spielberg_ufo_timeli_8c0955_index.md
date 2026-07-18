@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-spielberg/
 description: Focused pages that expand on Timeline.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_spielberg_ufo_timeli_8c0955
 parent_title: Timeline
@@ -16,7 +16,7 @@ parent_permalink: /timeline/
 
 # Explore Topics in Timeline
 
-The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in.
 
 - [Close Encounters Cut 8 D9509]({{ '/close-encounters-cut-8-d9509/' | relative_url }})
 - [Crystal Skull Pulp 8 Dd 1 Fb]({{ '/crystal-skull-pulp-8-dd-1-fb/' | relative_url }})

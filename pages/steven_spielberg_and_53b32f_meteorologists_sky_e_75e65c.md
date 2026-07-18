@@ -446,15 +446,15 @@ In Spielberg’s UFO stories, strange lights are never only a question of what i
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-overview.webp" | relative_url }}" alt="Overview image for Sky Experts" loading="eager" decoding="sync" fetchpriority="high">
-This is not a dry technical issue. UFO culture has always depended on the tension between testimony and filtering. Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* borrowed [credibility]({{ 'credibility/' | relative_url }}) from astronomer J. Allen Hynek’s encounter taxonomy and from interviews with pilots, air traffic controllers and ordinary witnesses; *Disclosure Day* updates that pattern by placing a meteorologist near the centre of the revelation drama. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+This is not a dry technical issue. UFO culture has always depended on the tension between testimony and filtering. Spielberg’s *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* borrowed [credibility]({{ 'credibility/' | relative_url }}) from astronomer J. Allen Hynek’s encounter taxonomy and from interviews with pilots, air traffic controllers and ordinary witnesses; *Disclosure Day* updates that pattern by placing a meteorologist near the centre of the revelation drama.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 ## Why a meteorologist changes the UFO question
 
 A meteorologist is an unusually useful figure in a UFO plot because they stand at the border between public trust and natural ambiguity. Weather presenters are familiar household voices, yet their subject is one of the main sources of visual misidentification. Clouds can look engineered. Balloons can look purposeful. Atmospheric optics can make distant objects seem closer, brighter, larger or stranger than they are.
 
-That makes Margaret Fairchild’s profession in *Disclosure Day* more than decorative. Reviews describe her as a Kansas City weather presenter whose strange experience pushes her from television normality into alien-contact mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The drama works because her authority is partly ordinary and partly technical. She is not a military pilot or a secret scientist; she is someone viewers are used to trusting when the sky becomes threatening or confusing.
+That makes Margaret Fairchild’s profession in *Disclosure Day* more than decorative. Reviews describe her as a Kansas City weather presenter whose strange experience pushes her from television normality into alien-contact mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The drama works because her authority is partly ordinary and partly technical. She is not a military pilot or a secret scientist; she is someone viewers are used to trusting when the sky becomes threatening or confusing.
 
-This is a different kind of credibility from the one Spielberg used in *Close Encounters*. In 1977, the film drew on Hynek, an astronomer and former consultant to official UFO investigations, whose classification system gave the title its language. AFI’s production history notes that Columbia bought rights to Hynek’s *The UFO Experience* and hired him as technical adviser; it also records Spielberg’s research with “airline pilots, air traffic controllers, and housewives”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> The pattern is clear: Spielberg’s UFO cinema repeatedly asks the audience to weigh ordinary [witnesses]({{ 'witnesses/' | relative_url }}) against recognised sky expertise.
+This is a different kind of credibility from the one Spielberg used in *Close Encounters*. In 1977, the film drew on Hynek, an astronomer and former consultant to official UFO investigations, whose classification system gave the title its language. AFI’s production history notes that Columbia bought rights to Hynek’s *The UFO Experience* and hired him as technical adviser; it also records Spielberg’s research with “airline pilots, air traffic controllers, and housewives”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span> The pattern is clear: Spielberg’s UFO cinema repeatedly asks the audience to weigh ordinary [witnesses]({{ 'witnesses/' | relative_url }}) against recognised sky expertise.
 
 In *Disclosure Day*, the meteorologist makes that question more intimate. A weather presenter is trained to say “this is a cloud”, “this is a front”, “this is a storm system”, or “this is uncertain”. When that person becomes the one who cannot fit the event into the usual categories, the story gains a particular kind of tension: the professional explainer has become the unexplained.
 
@@ -462,13 +462,13 @@ In *Disclosure Day*, the meteorologist makes that question more intimate. A weat
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-1-dark.svg" | relative_url }}" alt="Sky Experts illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather, atmosphere and misidentification
 
-The practical reason sky professionals matter is simple: a large share of UFO and UAP interpretation begins by eliminating familiar causes. NASA defines unidentified anomalous phenomena as sky observations that cannot be identified as aircraft or known natural phenomena from a scientific perspective, and stresses that the shortage of high-quality observations prevents firm conclusions in many cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to Release, Discuss Unidentified Anomalous Phenomena Report</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</span></span></span> That definition makes meteorology central. Before a sighting can become extraordinary, weather and atmosphere have to be considered carefully.
+The practical reason sky professionals matter is simple: a large share of UFO and UAP interpretation begins by eliminating familiar causes. NASA defines unidentified anomalous phenomena as sky observations that cannot be identified as aircraft or known natural phenomena from a scientific perspective, and stresses that the shortage of high-quality observations prevents firm conclusions in many cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to Release, Discuss Unidentified Anomalous Phenomena Report</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</span></span></span> That definition makes meteorology central. Before a sighting can become extraordinary, weather and atmosphere have to be considered carefully.
 
-The Met Office gives a vivid example with lenticular clouds. These smooth, lens-shaped clouds form downwind of hills or mountains when stable air creates standing waves; because they resemble the classic flying-saucer shape, the Met Office says they are believed to be among the common explanations for UFO sightings worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations - Met Office...</span></span></span> This is exactly the kind of object that can defeat casual perception. It can look solid, artificial and strangely stationary, while still being an atmospheric formation.
+The Met Office gives a vivid example with lenticular clouds. These smooth, lens-shaped clouds form downwind of hills or mountains when stable air creates standing waves; because they resemble the classic flying-saucer shape, the Met Office says they are believed to be among the common explanations for UFO sightings worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations - Met Office...</span></span></span> This is exactly the kind of object that can defeat casual perception. It can look solid, artificial and strangely stationary, while still being an atmospheric formation.
 
-Balloons create a second bridge between meteorology and UFO stories. National Weather Service pages describe routine upper-air observations in which balloons carry radiosondes to collect pressure, temperature, humidity and wind data; some NWS offices launch them twice a day, and the balloons can climb above 100,000 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">Balloons are launched at our office at 7 AM and 7 PM EDT and 6 AM and 6 PM EST</span><span class="citation-popover-snippet">National Weather ServiceWeather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice...</span></span></span> To a person on the ground, a high-altitude balloon may appear as a pale dot, a shining object, a slow-moving sphere or something apparently too high and steady to be ordinary.
+Balloons create a second bridge between meteorology and UFO stories. National Weather Service pages describe routine upper-air observations in which balloons carry radiosondes to collect pressure, temperature, humidity and wind data; some NWS offices launch them twice a day, and the balloons can climb above 100,000 feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">Balloons are launched at our office at 7 AM and 7 PM EDT and 6 AM and 6 PM EST</span><span class="citation-popover-snippet">National Weather ServiceWeather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice...</span></span></span> To a person on the ground, a high-altitude balloon may appear as a pale dot, a shining object, a slow-moving sphere or something apparently too high and steady to be ordinary.
 
-That does not mean “UFO” simply means “weather balloon”. It means weather balloons are one of several ordinary objects that can become extraordinary when seen without context. The 2024 consolidated UAP reporting cycle is a useful modern anchor: AARO received 757 reports and resolved 118 during the reporting period as prosaic objects such as balloons, birds and unmanned aerial systems, while many others remained unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>. Department of War The unresolved cases are not automatically alien; the resolved cases are not proof that witnesses were foolish. Both categories show why trained sky interpretation matters.
+That does not mean “UFO” simply means “weather balloon”. It means weather balloons are one of several ordinary objects that can become extraordinary when seen without context. The 2024 consolidated UAP reporting cycle is a useful modern anchor: AARO received 757 reports and resolved 118 during the reporting period as prosaic objects such as balloons, birds and unmanned aerial systems, while many others remained unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>. Department of War The unresolved cases are not automatically alien; the resolved cases are not proof that witnesses were foolish. Both categories show why trained sky interpretation matters.
 
 A meteorologist’s value is therefore not that they can explain everything away. It is that they know the checklist: clouds, inversions, storm light, balloons, aircraft tracks, satellite visibility, wind direction, local terrain and time of day. UFO stories become more credible, not less, when they show that this ordinary work has been done.
 
@@ -479,11 +479,11 @@ A meteorologist’s value is therefore not that they can explain everything away
 
 Spielberg’s UFO drama has never been satisfied with expertise alone. *Close Encounters* is full of systems: air traffic control, government co-ordination, scientific teams, coded signals and Hynek’s implied taxonomy. Yet its emotional centre is [Roy Neary]({{ 'roy-neary/' | relative_url }}), an ordinary man whose sighting becomes a private compulsion before it becomes public knowledge. That contrast is part of the film’s lasting power: official expertise can organise the mystery, but it cannot fully contain the witness’s experience.
 
-The same tension gives the meteorologist figure her dramatic charge. A weather professional has a public role built on explanation, but a UFO narrative often begins where explanation fails. Margaret Fairchild’s reported arc in *Disclosure Day* turns a familiar broadcaster into someone who channels or translates something beyond her prior knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In story terms, that is a collision between two forms of authority: the authority of training and the authority of direct encounter.
+The same tension gives the meteorologist figure her dramatic charge. A weather professional has a public role built on explanation, but a UFO narrative often begins where explanation fails. Margaret Fairchild’s reported arc in *Disclosure Day* turns a familiar broadcaster into someone who channels or translates something beyond her prior knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In story terms, that is a collision between two forms of authority: the authority of training and the authority of direct encounter.
 
 This is why UFO plots often become arguments about legitimacy. A pilot may be trusted because they know aircraft. An astronomer may be trusted because they know celestial objects. A meteorologist may be trusted because they know atmospheric behaviour. But a witness may insist that the decisive fact is not expertise at all; it is having been there.
 
-The best UFO storytelling does not flatten this conflict into “experts good, witnesses bad” or “believers brave, sceptics blind”. Real-world UAP work increasingly shows the same caution. The Department of Defense has said that most reports demonstrate mundane characteristics such as balloons, drones, clutter, natural phenomena or other explainable sources, while also acknowledging that humans can be deceived and sensors can produce unexpected responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>. Department of War That is not a dismissal of witnesses. It is a reminder that perception and instrumentation both need interpretation.
+The best UFO storytelling does not flatten this conflict into “experts good, witnesses bad” or “believers brave, sceptics blind”. Real-world UAP work increasingly shows the same caution. The Department of Defense has said that most reports demonstrate mundane characteristics such as balloons, drones, clutter, natural phenomena or other explainable sources, while also acknowledging that humans can be deceived and sensors can produce unexpected responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>. Department of War That is not a dismissal of witnesses. It is a reminder that perception and instrumentation both need interpretation.
 
 For Spielberg, this tension is especially useful because his alien films are built around awe. If every strange light is explained too quickly, wonder dies. If no expert filter is applied, the story becomes credulous. The meteorologist helps hold the middle ground: a character who knows how often the sky misleads, but who may still be forced to admit that this time the usual answers are not enough.
 
@@ -493,9 +493,9 @@ For Spielberg, this tension is especially useful because his alien films are bui
 
 Sky professionals matter in UFO stories because they make the difference between spectacle and investigation. A strange light can be moving, silent, bright or fast in a witness account, but those details only become useful when someone asks how far away it was, what direction it moved, what the wind was doing, whether aircraft or satellites were in the area, and whether any atmospheric condition could change its apparent shape or speed.
 
-That is why recent scientific UAP proposals emphasise multi-sensor observation rather than testimony alone. The Galileo Project’s ground-based observatory plan, for example, describes wide-field and narrow-field cameras, radar-derived measurements, radio spectrum analysis, microphones and environmental sensors for temperature, pressure, humidity and wind velocity. The point is not to replace human observers, but to surround a sighting with enough context that a later analyst can separate aircraft, atmospheric effects, instrument artefacts and genuinely unusual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is why recent scientific UAP proposals emphasise multi-sensor observation rather than testimony alone. The Galileo Project’s ground-based observatory plan, for example, describes wide-field and narrow-field cameras, radar-derived measurements, radio spectrum analysis, microphones and environmental sensors for temperature, pressure, humidity and wind velocity. The point is not to replace human observers, but to surround a sighting with enough context that a later analyst can separate aircraft, atmospheric effects, instrument artefacts and genuinely unusual behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Another modern example is the misidentification of Starlink satellite trains. A 2024 study examined a 2022 incident in which multiple commercial pilots reported a UAP over the Pacific; the authors used satellite orbital data and flight data to reconstruct the sighting as recently launched Starlink satellites seen in an unusual illumination configuration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is not meteorology in the narrow sense, but it belongs to the same family of sky expertise: knowing what else is in the sky before calling something anomalous.
+Another modern example is the misidentification of Starlink satellite trains. A 2024 study examined a 2022 incident in which multiple commercial pilots reported a UAP over the Pacific; the authors used satellite orbital data and flight data to reconstruct the sighting as recently launched Starlink satellites seen in an unusual illumination configuration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is not meteorology in the narrow sense, but it belongs to the same family of sky expertise: knowing what else is in the sky before calling something anomalous.
 
 Meteorologists add a particular layer because they understand the lower atmosphere as an active medium rather than an empty backdrop. Their expertise can matter in at least four ways:
 
@@ -516,11 +516,11 @@ That last point explains the appeal of a weather presenter in *Disclosure Day*. 
 
 ## The Spielberg pattern: from Hynek to the weather desk
 
-Spielberg’s UFO cinema has always been unusually interested in the social process of explanation. *Close Encounters* opens out from private sightings to air traffic control, government [secrecy]({{ 'secrecy/' | relative_url }}), scientific staging and finally communication. Its title comes from Hynek’s formal classification system, and Hynek’s advisory role helped connect the film to real UFO discourse rather than generic space fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Spielberg’s UFO cinema has always been unusually interested in the social process of explanation. *Close Encounters* opens out from private sightings to air traffic control, government [secrecy]({{ 'secrecy/' | relative_url }}), scientific staging and finally communication. Its title comes from Hynek’s formal classification system, and Hynek’s advisory role helped connect the film to real UFO discourse rather than generic space fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 That does not mean Spielberg made a documentary. He used expert language to make wonder feel serious. The air traffic control sequence, the witness interviews implied by the story, and the scientific apparatus at Devil’s Tower all tell the audience that sightings pass through institutions before becoming accepted reality. Expertise does not remove the miracle; it gives the miracle a frame.
 
-*Disclosure Day* appears to shift that frame from the research consultant and the control room to the media weather desk. The Guardian describes Margaret Fairchild as a local TV weather presenter in Kansas City whose strange abilities emerge amid a wider alien-conspiracy plot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Entertainment coverage has similarly identified her as a meteorologist drawn into the film’s disclosure drama. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cosmopolitan.com">[Cosmopolitan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cosmopolitan.com</span><span class="citation-popover-title">Where and When to Stream &#x27;Disclosure Day&#x27;Today — **</span><span class="citation-popover-snippet">*Disclosure Day*, the new sci-fi thriller directed by Steven Spielberg, premiered in theaters on June 12, 2026, in various premium format...</span><span class="citation-popover-meta">Published: June 12, 2026</span></span></span> The choice is telling: in a world saturated with livestreams, phone footage and public distrust, the person who explains the sky on television becomes a natural bridge between cosmic event and mass audience.
+*Disclosure Day* appears to shift that frame from the research consultant and the control room to the media weather desk. The Guardian describes Margaret Fairchild as a local TV weather presenter in Kansas City whose strange abilities emerge amid a wider alien-conspiracy plot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Entertainment coverage has similarly identified her as a meteorologist drawn into the film’s disclosure drama.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cosmopolitan.com">[Cosmopolitan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cosmopolitan.com</span><span class="citation-popover-title">Where and When to Stream &#x27;Disclosure Day&#x27;Today — **</span><span class="citation-popover-snippet">*Disclosure Day*, the new sci-fi thriller directed by Steven Spielberg, premiered in theaters on June 12, 2026, in various premium format...</span><span class="citation-popover-meta">Published: June 12, 2026</span></span></span> The choice is telling: in a world saturated with livestreams, phone footage and public distrust, the person who explains the sky on television becomes a natural bridge between cosmic event and mass audience.
 
 The contrast also marks a change in UFO culture. In 1977, Spielberg could lean on Hynek’s classification system and [Cold War]({{ 'cold-war/' | relative_url }})-era official secrecy. In 2026, after NASA reports, AARO casework, congressional hearings and online debunking communities, UFO stories operate in a more crowded information environment. A meteorologist character fits that environment because she embodies both public communication and empirical caution.
 
@@ -528,9 +528,9 @@ The contrast also marks a change in UFO culture. In 1977, Spielberg could lean o
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-3-dark.svg" | relative_url }}" alt="Sky Experts illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What meteorologists cannot settle
 
-The meteorologist’s role has limits, and those limits are important. Weather expertise can test atmospheric explanations, but it cannot by itself decide the full meaning of a UAP case. A sighting might involve aircraft, satellites, sensor artefacts, classified technology, hoaxes, memory errors, or insufficient data. NASA’s public framing is careful on this point: there are many accounts and visuals, but limited high-quality observations, making firm scientific conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span>
+The meteorologist’s role has limits, and those limits are important. Weather expertise can test atmospheric explanations, but it cannot by itself decide the full meaning of a UAP case. A sighting might involve aircraft, satellites, sensor artefacts, classified technology, hoaxes, memory errors, or insufficient data. NASA’s public framing is careful on this point: there are many accounts and visuals, but limited high-quality observations, making firm scientific conclusions difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span>
 
-That caution protects both scepticism and curiosity. It prevents every strange light from being inflated into alien contact, but it also prevents premature dismissal when the data are incomplete. AARO’s historical review reached a similar broad conclusion: past investigations did not establish extraterrestrial origin, and many reports could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, while some remained unresolved because the data were not strong enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+That caution protects both scepticism and curiosity. It prevents every strange light from being inflated into alien contact, but it also prevents premature dismissal when the data are incomplete. AARO’s historical review reached a similar broad conclusion: past investigations did not establish extraterrestrial origin, and many reports could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, while some remained unresolved because the data were not strong enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 In story terms, this limitation is useful. A meteorologist can say, “This is what the weather was doing,” but cannot necessarily say, “This is what the universe means.” Spielberg’s alien films live in that gap. They respect the need for explanation while preserving the emotional force of the unexplained.
 
@@ -548,194 +548,194 @@ Spielberg’s UFO work keeps returning to people who look upward and cannot go b
 The result is a more interesting UFO story. Strange lights are not treated as automatic proof, and expert caution is not treated as spiritual failure. The sky professional matters because they force the story to earn its awe.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets to Explain Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets to Explain Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Addresses how experts, institutions and evidence interact in unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how experts, institutions and evidence interact in unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
+</h4>
+<p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Explains how weather expertise and atmospheric interpretation shape understanding of the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how weather expertise and atmospheric interpretation shape understanding of the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing observations from explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing observations from explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Shows how professional expertise and witness testimony are woven into Spielberg&#x27;s UFO storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how professional expertise and witness testimony are woven into Spielberg&#x27;s UFO storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sky-experts-who-gets-to-explain-strange-lights-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -751,7 +751,7 @@ The result is a more interesting UFO story. Strange lights are not treated as au
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -771,7 +771,7 @@ The result is a more interesting UFO story. Strange lights are not treated as au
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -803,7 +803,7 @@ The result is a more interesting UFO story. Strange lights are not treated as au
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -855,7 +855,7 @@ The result is a more interesting UFO story. Strange lights are not treated as au
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -900,7 +900,7 @@ The result is a more interesting UFO story. Strange lights are not treated as au
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -941,245 +941,245 @@ The result is a more interesting UFO story. Strange lights are not treated as au
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: to Release, Discuss Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
    Title: Balloons are launched at our office at 7 AM and 7 PM EDT and 6 AM and 6 PM EST  
-   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWeather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice...</p></details>
+   Link:<a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWeather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceEducation Corner weather balloonWeather balloons carry an instrument called a radiosonde twice a day. the weather...</p></details>
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceEducation Corner weather balloonWeather balloons carry an instrument called a radiosonde twice a day. the weather...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</p></details>
    Published: November 14, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Working to Better Understand, Resolve Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Working to Better Understand, Resolve Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cosmopolitan.com  
    Title: Where and When to Stream 'Disclosure Day'Today — **  
-   Link: <a href="https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>*Disclosure Day*, the new sci-fi thriller directed by Steven Spielberg, premiered in theaters on June 12, 2026, in various premium format...</p></details>
+   Link:<a href="https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmopolitan.com/entertainment/movies/a71572601/how-to-watch-disclosure-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>*Disclosure Day*, the new sci-fi thriller directed by Steven Spielberg, premiered in theaters on June 12, 2026, in various premium format...</p></details>
    Published: June 12, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weather.gov  
    Title: KEY Weather Balloon Poster  
-   Link: <a href="https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
+   Link:<a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ohx/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ohx/upperair</a>  
+   Link:<a href="https://www.weather.gov/ohx/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ohx/upperair</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
+   Link:<a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hnx/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hnx/upperair</a>  
+   Link:<a href="https://www.weather.gov/hnx/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hnx/upperair</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.gov  
    Title: Balloon Tour  
-   Link: <a href="https://www.weather.gov/rev/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rev/upperair</a>  
+   Link:<a href="https://www.weather.gov/rev/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rev/upperair</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: time.com  
-   Link: <a href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/09/disclosure-day-review/</a>  
+   Link:<a href="https://time.com/article/2026/06/09/disclosure-day-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/article/2026/06/09/disclosure-day-review/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Disclosure Day | Official Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=SCYT8vb2siQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SCYT8vb2siQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist claims UFO was &#x27;showing off for me&#x27; | CUOMO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SCYT8vb2siQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SCYT8vb2siQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist claims UFO was &#x27;showing off for me&#x27; | CUOMO...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular</a>  
+   Link:<a href="https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Unusual cloud formations  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations - Met Office...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations - Met Office...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind | Voyage  
-   Link: <a href="https://www.youtube.com/watch?v=1r8P8WVlBH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1r8P8WVlBH8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1r8P8WVlBH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1r8P8WVlBH8</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rheaven.blogspot.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://rheaven.blogspot.com/2013/08/close-encounters-of-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://rheaven.blogspot.com/2013/08/close-encounters-of-third-kind.html</a>  
+   Link:<a href="https://rheaven.blogspot.com/2013/08/close-encounters-of-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://rheaven.blogspot.com/2013/08/close-encounters-of-third-kind.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reverseshot.org  
    Title: Disclosure Day  
-   Link: <a href="https://reverseshot.org/reviews/entry/3468/disclosure_day" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/reviews/entry/3468/disclosure_day</a>  
+   Link:<a href="https://reverseshot.org/reviews/entry/3468/disclosure_day" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/reviews/entry/3468/disclosure_day</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663</a>  
+   Link:<a href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Actors and creators weigh in on the significance of the ending, suggesting “Listen” is both a literal and philosophical message urging hu...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Actors and creators weigh in on the significance of the ending, suggesting “Listen” is both a literal and philosophical message urging hu...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/emily-blunt-josh-o-connor-steven-spielberg-look-stars-ew-disclosure-day-cover-shoot-see-photos-11992837" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/emily-blunt-josh-o-connor-steven-spielberg-look-stars-ew-disclosure-day-cover-shoot-see-photos-11992837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blunt prepared for her role by immersing herself in real-life UFO testimonies and learning Korean and Russian for dialogue delivery, guid...</p></details>
+   Link:<a href="https://ew.com/emily-blunt-josh-o-connor-steven-spielberg-look-stars-ew-disclosure-day-cover-shoot-see-photos-11992837" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/emily-blunt-josh-o-connor-steven-spielberg-look-stars-ew-disclosure-day-cover-shoot-see-photos-11992837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blunt prepared for her role by immersing herself in real-life UFO testimonies and learning Korean and Russian for dialogue delivery, guid...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: inverse.com  
-   Link: <a href="https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inverse&#x27;Disclosure Day&#x27; Review: Steven Spielberg&#x27;s UFO Magnum...4 days ago — Steven Spielberg&#x27;s UFO movie magnum opus takes us to the st...</p></details>
+   Link:<a href="https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/entertainment/disclosure-day-review-steven-spielberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inverse&#x27;Disclosure Day&#x27; Review: Steven Spielberg&#x27;s UFO Magnum...4 days ago — Steven Spielberg&#x27;s UFO movie magnum opus takes us to the st...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Retired meteorologist claims UFO was 'showing off for me' | CUOMO  
-   Link: <a href="https://www.youtube.com/watch?v=VQC_EOxrVs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQC_EOxrVs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt Explores The Unknown In Steven Spielberg’s Sci‑fi Thriller ‘Disclosure Day’ | The View...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VQC_EOxrVs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQC_EOxrVs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt Explores The Unknown In Steven Spielberg’s Sci‑fi Thriller ‘Disclosure Day’ | The View...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZdBowMoFr3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZdBowMoFr3o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did meteorologist Andy Parker catch a UFO on live TV?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZdBowMoFr3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZdBowMoFr3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did meteorologist Andy Parker catch a UFO on live TV?...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Max's Mad Laboratory: UAP phenomenon part 4  
-   Link: <a href="https://www.youtube.com/watch?v=b04v8p5jrrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b04v8p5jrrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Disclosure Day&quot; Spielberg Emily Blunt meteorologist Emily Blunt on Learning Korean, Russian, Alien for &#x27;Disclosure Day&#x27; TODAY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b04v8p5jrrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b04v8p5jrrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Disclosure Day&quot; Spielberg Emily Blunt meteorologist Emily Blunt on Learning Korean, Russian, Alien for &#x27;Disclosure Day&#x27; TODAY...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
+   Link:<a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: theholofiles.com  
-   Link: <a href="https://theholofiles.com/2026/06/11/disclosure-day-explained/" target="_blank" rel="noopener noreferrer nofollow">https://theholofiles.com/2026/06/11/disclosure-day-explained/</a>  
+   Link:<a href="https://theholofiles.com/2026/06/11/disclosure-day-explained/" target="_blank" rel="noopener noreferrer nofollow">https://theholofiles.com/2026/06/11/disclosure-day-explained/</a>  

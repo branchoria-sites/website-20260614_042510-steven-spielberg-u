@@ -442,7 +442,7 @@ image: /assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85-ov
 
 ## Introduction
 
-*War of the Worlds* is Spielberg’s darkest answer to the question that made *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* so moving: what happens when contact is not a summons, but an assault? Released in 2005, his adaptation of H. G. Wells’s invasion story replaces the luminous invitation of earlier Spielberg alien cinema with panic, ash, sirens, missing-person walls, military helplessness and families fleeing through a collapsing America. The film still belongs inside Spielberg’s UFO imagination, but it turns the emotional polarity upside down: the sky no longer promises communication, and the alien presence offers no explanation, bargain or shared language. AFI identifies the film as a Spielberg-directed, Tom Cruise-led adaptation released on 29 June 2005, while contemporary and later critics have repeatedly read it as one of the clearest post-9/11 alien-invasion films of its era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Catalog/moviedetails/67276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogWar of the Worlds (2005) - AFI CatalogPG-13 &#124; 117 mins &#124; Science fiction &#124; 29 June 2005; Cast: Tom Cruise, Dakota Fanning, Mi...</span><span class="citation-popover-meta">Published: June 2005</span></span></span>
+*War of the Worlds* is Spielberg’s darkest answer to the question that made *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* so moving: what happens when contact is not a summons, but an assault? Released in 2005, his adaptation of H. G. Wells’s invasion story replaces the luminous invitation of earlier Spielberg alien cinema with panic, ash, sirens, missing-person walls, military helplessness and families fleeing through a collapsing America. The film still belongs inside Spielberg’s UFO imagination, but it turns the emotional polarity upside down: the sky no longer promises communication, and the alien presence offers no explanation, bargain or shared language. AFI identifies the film as a Spielberg-directed, Tom Cruise-led adaptation released on 29 June 2005, while contemporary and later critics have repeatedly read it as one of the clearest post-9/11 alien-invasion films of its era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Catalog/moviedetails/67276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogWar of the Worlds (2005) - AFI CatalogPG-13 &#124; 117 mins &#124; Science fiction &#124; 29 June 2005; Cast: Tom Cruise, Dakota Fanning, Mi...</span><span class="citation-popover-meta">Published: June 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85-overview.webp" | relative_url }}" alt="Overview image for War Worlds" loading="eager" decoding="sync" fetchpriority="high">
@@ -450,9 +450,9 @@ image: /assets/images/steven_spielberg_and_53b32f_war_worlds_hostile_c_1f3e85-ov
 
 Spielberg’s earlier alien films made contact feel spiritually charged. *Close Encounters* moved towards music, light and exchange; *E.T.* made the extraterrestrial vulnerable, childlike and intimate. *War of the Worlds* keeps the sense of awe but drains it of comfort. The tripod’s first emergence is staged like a revelation, yet what is revealed is not intelligence reaching out but intelligence choosing extermination. The result is not a reversal of Spielberg’s UFO interests so much as their fear-side: contact remains overwhelming, but its meaning is unreadable and lethal.
 
-That contrast was not accidental. Production accounts and interviews around the film repeatedly framed *War of the Worlds* as the hostile counterweight to Spielberg’s benevolent alien work. The film’s own premise is stripped to a blunt survival line: Ray Ferrier, a divorced dockworker, must protect his children after alien machines begin devastating cities and towns. Rotten Tomatoes’ synopsis captures the domestic scale of the plot, noting that the invasion begins during an already tense weekend with Ray’s children, while AFI’s catalogue records the central creative team: Spielberg directing, Josh Friedman and David Koepp writing, and Janusz Kamiński photographing the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rottentomatoes.com/m/war_of_the_worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesWar of the WorldsHowever, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the...</span></span></span>
+That contrast was not accidental. Production accounts and interviews around the film repeatedly framed *War of the Worlds* as the hostile counterweight to Spielberg’s benevolent alien work. The film’s own premise is stripped to a blunt survival line: Ray Ferrier, a divorced dockworker, must protect his children after alien machines begin devastating cities and towns. Rotten Tomatoes’ synopsis captures the domestic scale of the plot, noting that the invasion begins during an already tense weekend with Ray’s children, while AFI’s catalogue records the central creative team: Spielberg directing, Josh Friedman and David Koepp writing, and Janusz Kamiński photographing the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rottentomatoes.com/m/war_of_the_worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesWar of the WorldsHowever, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the...</span></span></span>
 
-The most important creative decision is that the aliens do not arrive as visitors in the usual screen language of spacecraft. In Spielberg’s version, the tripods have been hidden underground, waiting beneath ordinary streets. This makes invasion feel less like a spectacle from outer space than a buried threat erupting inside daily life. A 2005 press-conference account describes the change from Wells’s falling cylinders to machines lying dormant beneath the Earth, while later production summaries attribute the buried-tripod idea to Spielberg’s resistance to the familiar image of aliens arriving in spaceships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">Black FilmPress Conference Interview with Director Steven Spielberg...Jun 24, 2005 — One of the things changed from the novel was having...</span></span></span>
+The most important creative decision is that the aliens do not arrive as visitors in the usual screen language of spacecraft. In Spielberg’s version, the tripods have been hidden underground, waiting beneath ordinary streets. This makes invasion feel less like a spectacle from outer space than a buried threat erupting inside daily life. A 2005 press-conference account describes the change from Wells’s falling cylinders to machines lying dormant beneath the Earth, while later production summaries attribute the buried-tripod idea to Spielberg’s resistance to the familiar image of aliens arriving in spaceships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackfilm.com">[Black Film]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackfilm.com</span><span class="citation-popover-snippet">Black FilmPress Conference Interview with Director Steven Spielberg...Jun 24, 2005 — One of the things changed from the novel was having...</span></span></span>
 
 That choice gives the film its particular terror. The enemy is alien, but the rupture is local: pavements crack, church walls split, neighbourhoods turn into killing grounds. The first contact is not a meeting at a landing site; it is the destruction of a street corner.
 
@@ -462,11 +462,11 @@ That choice gives the film its particular terror. The enemy is alien, but the ru
 
 One of the film’s bleakest moves is its refusal to give the invaders a communicative dimension. Spielberg’s earlier UFO cinema is full of signals: lights, tones, gestures, faces, musical phrases. *War of the Worlds* has signals too, but they are warnings rather than messages. Lightning strikes disable technology. The tripod horn is not language in the humanising sense; it is a sound of domination. The heat ray is the invaders’ clearest “statement”.
 
-This matters because Spielberg does not simply make the aliens evil in a comic-book way. He makes them unknowable. They do not explain themselves, negotiate, threaten by broadcast or appear before world leaders. The New Yorker’s 2005 review stressed how radically the film removes the usual institutional apparatus of invasion cinema: no brilliant scientists, no military-intelligence experts, no White House or United Nations response guiding the audience through the crisis. Instead, the viewer stays close to Ray’s panic as the destruction becomes “immediate and total”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</span></span></span>
+This matters because Spielberg does not simply make the aliens evil in a comic-book way. He makes them unknowable. They do not explain themselves, negotiate, threaten by broadcast or appear before world leaders. The New Yorker’s 2005 review stressed how radically the film removes the usual institutional apparatus of invasion cinema: no brilliant scientists, no military-intelligence experts, no White House or United Nations response guiding the audience through the crisis. Instead, the viewer stays close to Ray’s panic as the destruction becomes “immediate and total”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</span></span></span>
 
 The absence of explanation also changes the viewer’s relationship to scale. A more conventional invasion film often expands outward towards maps, command rooms and strategy. Spielberg contracts inward. The audience knows almost nothing more than the fleeing family knows. This makes the aliens feel less like opponents in a war narrative and more like a hostile condition: weather, plague, occupation and mass violence fused into one unstoppable presence.
 
-Roger Ebert saw a weakness in that refusal, arguing that the invasion seemed destructive “for no apparent reason” and that the aliens’ long planning produced a strangely flawed strategy. That criticism points to a real tension in the film: as speculative world-building, the invaders are thinly explained; as a nightmare of helpless contact, their opacity is the point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/war-of-the-worlds-2005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-title">Roger Ebert Creaking Havoc movie review &amp; film</span><span class="citation-popover-snippet">Roger EbertCreaking Havoc movie review &amp; film summary“War of the Worlds” is a big, clunky movie containing some sensational sights but la...</span></span></span>
+Roger Ebert saw a weakness in that refusal, arguing that the invasion seemed destructive “for no apparent reason” and that the aliens’ long planning produced a strangely flawed strategy. That criticism points to a real tension in the film: as speculative world-building, the invaders are thinly explained; as a nightmare of helpless contact, their opacity is the point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/reviews/war-of-the-worlds-2005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-title">Roger Ebert Creaking Havoc movie review &amp; film</span><span class="citation-popover-snippet">Roger EbertCreaking Havoc movie review &amp; film summary“War of the Worlds” is a big, clunky movie containing some sensational sights but la...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLxvFakk3tg" title="&#x27;War of the Worlds&#x27; | Unscripted | Steven Spielberg, Tom Cruise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLxvFakk3tg" target="_blank" rel="noopener noreferrer">&#x27;War of the Worlds&#x27; | Unscripted | Steven Spielberg, Tom Cruise</a></p><p class="youtube-embed-meta">Channel: Moviefone &middot; Views: 158.0K &middot; Uploaded: September 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLxvFakk3tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLxvFakk3tg">Open on YouTube</a></p></div></div></div>
@@ -475,11 +475,11 @@ Roger Ebert saw a weakness in that refusal, arguing that the invasion seemed des
 
 The most distinctive part of Spielberg’s *War of the Worlds* is not that the aliens are powerful. It is that human beings become refugees almost immediately. The film does not centre heroic counterattack. It follows people running, hiding, crowding roads, fighting over transport and trying to keep children alive when the old systems no longer work.
 
-That makes the film very different from the triumphant alien-invasion blockbuster tradition. In *Independence Day*, destruction eventually feeds a story of military recovery and patriotic victory. In *War of the Worlds*, the state and army are mostly background forces, brave but overmatched. The film’s practical lesson is not “fight back”; it is “move, hide, endure”. Contemporary commentary recognised this as a defining feature, with one widely cited description reducing the film’s anti-war posture to the blunt instruction: if aliens invade, do not fight back — run. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
+That makes the film very different from the triumphant alien-invasion blockbuster tradition. In *Independence Day*, destruction eventually feeds a story of military recovery and patriotic victory. In *War of the Worlds*, the state and army are mostly background forces, brave but overmatched. The film’s practical lesson is not “fight back”; it is “move, hide, endure”. Contemporary commentary recognised this as a defining feature, with one widely cited description reducing the film’s anti-war posture to the blunt instruction: if aliens invade, do not fight back — run.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">War of the Worlds (2005 film</span><span class="citation-popover-snippet">War of the Worlds (2005 film</span></span></span>
 
 Spielberg builds that helplessness through concrete images rather than speeches. Ray comes home covered in grey ash after the first tripod attack. A burning train passes through a crossing as if the machinery of everyday life is still obeying its schedule while civilisation collapses. Crowds swarm the only working car. A ferry crossing turns into a crush of panic and violence. Bodies float downriver. The horror comes from watching ordinary civic space become evacuation space.
 
-This is where the film’s post-9/11 reading becomes unavoidable, though it should not be reduced to a one-to-one allegory. The Guardian’s review called it a powerful update of Wells for the post-9/11 era, while later retrospectives have singled out its imagery of dust, missing people, sudden urban attack and terrified civilians as central to its impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianWar of the Worlds &#124; Film5 Jan 2006 — A powerful, intense movie that skilfully updates the HG Wells classic for the post 9/11...</span></span></span>
+This is where the film’s post-9/11 reading becomes unavoidable, though it should not be reduced to a one-to-one allegory. The Guardian’s review called it a powerful update of Wells for the post-9/11 era, while later retrospectives have singled out its imagery of dust, missing people, sudden urban attack and terrified civilians as central to its impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianWar of the Worlds &#124; Film5 Jan 2006 — A powerful, intense movie that skilfully updates the HG Wells classic for the post 9/11...</span></span></span>
 
 The line “Is it the terrorists?” spoken by Rachel, Ray’s daughter, is especially revealing. It places the alien attack inside the mental furniture of an American child in 2005: the first available explanation for catastrophe is terrorism. That does not make the tripods terrorists in a literal sense. It makes hostile contact a screen on which contemporary fear can register.
 
@@ -489,7 +489,7 @@ The line “Is it the terrorists?” spoken by Rachel, Ray’s daughter, is espe
 
 For all its scale, *War of the Worlds* is built around a narrow family problem. Ray is not a scientist, soldier or chosen intermediary. He is an unreliable father who becomes useful only when the world shrinks to survival. That is a crucial Spielberg move. The invasion does not test humanity through speeches about civilisation; it tests one parent’s capacity to protect children he does not fully understand.
 
-This domestic focus makes the film a darker mirror of *Close Encounters*. In *Close Encounters*, [Roy Neary]({{ 'roy-neary/' | relative_url }})’s encounter pulls him away from family life and towards the alien unknown. In *War of the Worlds*, Ray’s encounter forces him into family responsibility. The aliens are not an escape route from domestic failure; they are the catastrophe that exposes it. A 2005 interview account directly raised this reversal, asking Spielberg about the contrast between the man who leaves with the aliens and the father who must stay with his family. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chud.com">[CHUD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chud.com</span><span class="citation-popover-title">interview tom cruise and steven spielberg war of the worlds</span><span class="citation-popover-snippet">interview tom cruise and steven spielberg war of the worlds</span></span></span>
+This domestic focus makes the film a darker mirror of *Close Encounters*. In *Close Encounters*, [Roy Neary]({{ 'roy-neary/' | relative_url }})’s encounter pulls him away from family life and towards the alien unknown. In *War of the Worlds*, Ray’s encounter forces him into family responsibility. The aliens are not an escape route from domestic failure; they are the catastrophe that exposes it. A 2005 interview account directly raised this reversal, asking Spielberg about the contrast between the man who leaves with the aliens and the father who must stay with his family.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chud.com">[CHUD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chud.com</span><span class="citation-popover-title">interview tom cruise and steven spielberg war of the worlds</span><span class="citation-popover-snippet">interview tom cruise and steven spielberg war of the worlds</span></span></span>
 
 Tom Cruise’s casting sharpens the effect. Cruise’s star image often suggests competence, velocity and control. Spielberg uses that expectation against the viewer. Ray survives not because he understands the invasion but because he reacts quickly, grabs what he can and keeps moving. He is not heroic in the clean blockbuster sense; he is frightened, angry, improvisational and morally compromised.
 
@@ -500,9 +500,9 @@ The basement sequence with Harlan Ogilvy, played by Tim Robbins, pushes this sur
 
 ## The Tripods as Spielberg’s Anti-Saucers
 
-Spielberg’s tripods are among the film’s most important ideas. They are not sleek flying [saucers]({{ 'saucers/' | relative_url }}) or graceful motherships. They are towering, jointed, biological-mechanical war machines that make the human body feel tiny and obsolete. Wired’s 2005 production report noted that Spielberg had long wanted to revisit this kind of invasion story and that modern visual-effects technology finally allowed him to realise walking tripods rather than the hovering machines used in the 1953 film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/06/war-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Close Encounters of the Worst Kind</span><span class="citation-popover-snippet">Close Encounters of the Worst Kind</span></span></span>
+Spielberg’s tripods are among the film’s most important ideas. They are not sleek flying [saucers]({{ 'saucers/' | relative_url }}) or graceful motherships. They are towering, jointed, biological-mechanical war machines that make the human body feel tiny and obsolete. Wired’s 2005 production report noted that Spielberg had long wanted to revisit this kind of invasion story and that modern visual-effects technology finally allowed him to realise walking tripods rather than the hovering machines used in the 1953 film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/06/war-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Close Encounters of the Worst Kind</span><span class="citation-popover-snippet">Close Encounters of the Worst Kind</span></span></span>
 
-Their design also matters because they are frighteningly impersonal. A saucer can hover like a mystery. A tripod strides like an occupation force. The movement is visible, weighty and predatory. Production accounts describe the challenge of making the machines feel like 150-foot creatures, with visual-effects work focused on their scale, motion and physical presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Their design also matters because they are frighteningly impersonal. A saucer can hover like a mystery. A tripod strides like an occupation force. The movement is visible, weighty and predatory. Production accounts describe the challenge of making the machines feel like 150-foot creatures, with visual-effects work focused on their scale, motion and physical presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The tripod is therefore the hostile version of Spielberg’s luminous UFO. In *Close Encounters*, the alien craft becomes an object of fascination: a shape that invites looking, listening and decoding. In *War of the Worlds*, the alien machine punishes looking. To see it is to be seen by it. Contact becomes surveillance, targeting and erasure.
 
@@ -516,7 +516,7 @@ The film’s sound design reinforces that anti-saucer quality. The tripod horn i
 
 This horror emphasis explains why the film can feel so different from Spielberg’s warmer alien stories while still belonging to the same imagination. The question remains “What if we are not alone?” The answer changes from “we might be transformed by contact” to “we might not survive being noticed”.
 
-The New Yorker’s review called it a “stark, horror-movie take” on Wells, noting the lack of comforting authorities and the speed with which the machines begin vaporising everything in sight. That reading is useful because it identifies the film’s real engine: not military suspense, not political strategy, but exposure. Human beings are out in the open, visible to a force they cannot meaningfully address. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</span></span></span>
+The New Yorker’s review called it a “stark, horror-movie take” on Wells, noting the lack of comforting authorities and the speed with which the machines begin vaporising everything in sight. That reading is useful because it identifies the film’s real engine: not military suspense, not political strategy, but exposure. Human beings are out in the open, visible to a force they cannot meaningfully address.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Stayin&#x27; Alive</span><span class="citation-popover-snippet">Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</span></span></span>
 
 The film’s PG-13 blockbuster surface can hide how grim some of its images are. People are reduced to drifting clothing and ash. A crowd becomes a mob around Ray’s vehicle. The river carries corpses. Human bodies are harvested. The aliens do not merely kill; they turn the human world into raw material.
 
@@ -534,194 +534,194 @@ The film also preserves a Wellsian irony: human weapons cannot solve the invasio
 That final reversal is important for Spielberg’s broader UFO vision. In *Close Encounters*, humility allows contact. In *War of the Worlds*, humility is forced on humanity by terror. The result is a film that does not abandon Spielberg’s fascination with extraterrestrial life; it darkens it. The universe may contain intelligence, but intelligence is not automatically wisdom, kindness or kinship. Sometimes contact is not disclosure, friendship or transcendence. Sometimes it is the moment the ground opens and the machines rise.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Spielberg Made Contact Terrifying. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Spielberg Made Contact Terrifying. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10075108-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains Spielberg&#x27;s broader emotional and cinematic approach to fear, family and spectacle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Spielberg&#x27;s broader emotional and cinematic approach to fear, family and spectacle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Represents the hopeful contact model that War of the Worlds darkens and reverses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the hopeful contact model that War of the Worlds darkens and reverses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides real-world UFO context for contrasting fear, uncertainty and evidence with invasion fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world UFO context for contrasting fear, uncertainty and evidence with invasion fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/36314-M.jpg" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/36314-M.jpg" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Subjects: Imaginary wars and battles, Juvenile fiction, Space warfare, Science Fiction &amp; Fantasy, Fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Subjects: Imaginary wars and battles, Juvenile fiction, Space warfare, Science Fiction &amp; Fantasy, Fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Steven Spielberg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion"><img src="{{ '/assets/images/marketplace-covers/36a49182a2efe697ba1b.jpg' | relative_url }}" alt="Listing image for BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion"><img src="{{ '/assets/images/marketplace-covers/36a49182a2efe697ba1b.jpg' | relative_url }}" alt="Listing image for BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">BNIP Collectible Loot Crate Exclusive #LootPins January 2016 Alien Invasion</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New"><img src="{{ '/assets/images/marketplace-covers/ffb113347f7e78adc50d.jpg' | relative_url }}" alt="Listing image for Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New"><img src="{{ '/assets/images/marketplace-covers/ffb113347f7e78adc50d.jpg' | relative_url }}" alt="Listing image for Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion Collectible Guitar Picks - Two Packs - 12 Count Total - New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened"><img src="{{ '/assets/images/marketplace-covers/29f7e6681d394ea93cb2.jpg' | relative_url }}" alt="Listing image for Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened"><img src="{{ '/assets/images/marketplace-covers/29f7e6681d394ea93cb2.jpg' | relative_url }}" alt="Listing image for Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Loot Crate Pin January 2016 Invasion Exclusive Alien Robot Collectible Unopened</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Fantastic Adventures alien invasion art Tin Sign collectible interior"><img src="{{ '/assets/images/marketplace-covers/e440c89aa7ff33246e1b.jpg' | relative_url }}" alt="Listing image for 1947 Fantastic Adventures alien invasion art Tin Sign collectible interior" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">1947 Fantastic Adventures alien invasion art Tin Sign collectible interior</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Fantastic Adventures alien invasion art Tin Sign collectible interior"><img src="{{ '/assets/images/marketplace-covers/e440c89aa7ff33246e1b.jpg' | relative_url }}" alt="Listing image for 1947 Fantastic Adventures alien invasion art Tin Sign collectible interior" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">1947 Fantastic Adventures alien invasion art Tin Sign collectible interior</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion collectible -book -books" data-ebay-reference="war-worlds-when-spielberg-made-contact-terrifying-steven-spielberg-and-ufos-alien-invasion-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,162 +927,162 @@ That final reversal is important for Spielberg’s broader UFO vision. In *Close
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Catalog/moviedetails/67276" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67276</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogWar of the Worlds (2005) - AFI CatalogPG-13 | 117 mins | Science fiction | 29 June 2005; Cast: Tom Cruise, Dakota Fanning, Mi...</p></details>
+   Link:<a href="https://catalog.afi.com/Catalog/moviedetails/67276" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67276</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogWar of the Worlds (2005) - AFI CatalogPG-13 | 117 mins | Science fiction | 29 June 2005; Cast: Tom Cruise, Dakota Fanning, Mi...</p></details>
    Published: June 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: War of the Worlds (2005 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War_of_the_Worlds_%282005_film%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: chud.com  
    Title: interview tom cruise and steven spielberg war of the worlds  
-   Link: <a href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/</a>  
+   Link:<a href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: Close Encounters of the Worst Kind  
-   Link: <a href="https://www.wired.com/2005/06/war-2" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/06/war-2</a>  
+   Link:<a href="https://www.wired.com/2005/06/war-2" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/06/war-2</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Catalog/moviedetails/51100" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/51100</a>  
+   Link:<a href="https://catalog.afi.com/Catalog/moviedetails/51100" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/51100</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: watch.afi.com  
    Title: war of the worlds  
-   Link: <a href="https://watch.afi.com/movie/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://watch.afi.com/movie/war-of-the-worlds</a>  
+   Link:<a href="https://watch.afi.com/movie/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://watch.afi.com/movie/war-of-the-worlds</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/War</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cn4CQdnUD0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cn4CQdnUD0Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;War of the Worlds&#x27; | Unscripted | Steven Spielberg, Tom Cruise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cn4CQdnUD0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cn4CQdnUD0Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;War of the Worlds&#x27; | Unscripted | Steven Spielberg, Tom Cruise...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: 'War of the Worlds' | Unscripted | Steven Spielberg, Tom Cruise  
-   Link: <a href="https://www.youtube.com/watch?v=LLxvFakk3tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLxvFakk3tg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Insane Invasion Strategy in WAR OF THE WORLDS explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LLxvFakk3tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLxvFakk3tg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Insane Invasion Strategy in WAR OF THE WORLDS explained...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWar of the Worlds | Film5 Jan 2006 — A powerful, intense movie that skilfully updates the HG Wells classic for the post 9/11...</p></details>
+   Link:<a href="https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/movie/105119/war.of.the.worlds/review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWar of the Worlds | Film5 Jan 2006 — A powerful, intense movie that skilfully updates the HG Wells classic for the post 9/11...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/war_of_the_worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/war_of_the_worlds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rotten TomatoesWar of the WorldsHowever, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/war_of_the_worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/war_of_the_worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rotten TomatoesWar of the WorldsHowever, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blackfilm.com  
-   Link: <a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black FilmPress Conference Interview with Director Steven Spielberg...Jun 24, 2005 — One of the things changed from the novel was having...</p></details>
+   Link:<a href="https://www.blackfilm.com/20050624/features/warofworldpress2.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress2.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black FilmPress Conference Interview with Director Steven Spielberg...Jun 24, 2005 — One of the things changed from the novel was having...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newyorker.com  
    Title: The New Yorker Stayin' Alive  
-   Link: <a href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2005/07/11/stayin-alive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2005/07/11/stayin-alive" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2005/07/11/stayin-alive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wells&#x27;s novel, devoid of scientific experts or high-level political intervention, instead focusing on raw human survival. Tom Cruise star...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rogerebert.com  
    Title: Roger Ebert Creaking Havoc movie review & film  
-   Link: <a href="https://www.rogerebert.com/reviews/war-of-the-worlds-2005" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/war-of-the-worlds-2005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertCreaking Havoc movie review &amp; film summary“War of the Worlds” is a big, clunky movie containing some sensational sights but la...</p></details>
+   Link:<a href="https://www.rogerebert.com/reviews/war-of-the-worlds-2005" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/war-of-the-worlds-2005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertCreaking Havoc movie review &amp; film summary“War of the Worlds” is a big, clunky movie containing some sensational sights but la...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: boxofficemojo.com  
-   Link: <a href="https://www.boxofficemojo.com/year/world/2005/?sort=domesticGrossToDate" target="_blank" rel="noopener noreferrer nofollow">https://www.boxofficemojo.com/year/world/2005/?sort=domesticGrossToDate</a>  
+   Link:<a href="https://www.boxofficemojo.com/year/world/2005/?sort=domesticGrossToDate" target="_blank" rel="noopener noreferrer nofollow">https://www.boxofficemojo.com/year/world/2005/?sort=domesticGrossToDate</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: the-numbers.com  
    Title: War of the Worlds  
-   Link: <a href="https://www.the-numbers.com/movie/War-of-the-Worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.the-numbers.com/movie/War-of-the-Worlds</a>  
+   Link:<a href="https://www.the-numbers.com/movie/War-of-the-Worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.the-numbers.com/movie/War-of-the-Worlds</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reverseshot.org  
    Title: war of the worlds  
-   Link: <a href="https://reverseshot.org/archive/entry/725/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/archive/entry/725/war-of-the-worlds</a>  
+   Link:<a href="https://reverseshot.org/archive/entry/725/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://reverseshot.org/archive/entry/725/war-of-the-worlds</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2005/jul/04/news" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2005/jul/04/news</a>  
+   Link:<a href="https://www.theguardian.com/film/2005/jul/04/news" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2005/jul/04/news</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: moviemom.com  
    Title: war of the worlds  
-   Link: <a href="https://moviemom.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://moviemom.com/war-of-the-worlds/</a>  
+   Link:<a href="https://moviemom.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://moviemom.com/war-of-the-worlds/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: War of the Worlds  
-   Link: <a href="https://www.youtube.com/watch?v=51sGBG_-JBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=51sGBG_-JBE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=51sGBG_-JBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=51sGBG_-JBE</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rogerebert.com  
    Title: war of the worlds  
-   Link: <a href="https://www.rogerebert.com/reviews/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/war-of-the-worlds</a>  
+   Link:<a href="https://www.rogerebert.com/reviews/war-of-the-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/reviews/war-of-the-worlds</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blackfilm.com  
-   Link: <a href="https://www.blackfilm.com/20050624/features/warofworldpress1.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress1.shtml</a>  
+   Link:<a href="https://www.blackfilm.com/20050624/features/warofworldpress1.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.blackfilm.com/20050624/features/warofworldpress1.shtml</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: letterboxd.com  
    Title: war of the worlds  
-   Link: <a href="https://letterboxd.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/war-of-the-worlds/</a>  
+   Link:<a href="https://letterboxd.com/film/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/war-of-the-worlds/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: independent.co.uk  
    Title: post-9/11 reality.Read more  
-   Link: <a href="https://www.independent.co.uk/arts-entertainment/films/features/war-of-the-worlds-spielberg-tom-cruise-b2782006.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/films/features/war-of-the-worlds-spielberg-tom-cruise-b2782006.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentHow War of the Worlds became one of Steven Spielberg&#x27;s...4 Jul 2025 — Two decades on, it&#x27;s easy to gloss over the echoes...</p></details>
+   Link:<a href="https://www.independent.co.uk/arts-entertainment/films/features/war-of-the-worlds-spielberg-tom-cruise-b2782006.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/films/features/war-of-the-worlds-spielberg-tom-cruise-b2782006.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentHow War of the Worlds became one of Steven Spielberg&#x27;s...4 Jul 2025 — Two decades on, it&#x27;s easy to gloss over the echoes...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Insane Invasion Strategy in WAR OF THE WORLDS explained  
-   Link: <a href="https://www.youtube.com/watch?v=7E41m2ip3ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7E41m2ip3ZQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): The Attack Begins | First Tripod On Earth Scene...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7E41m2ip3ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7E41m2ip3ZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War of the Worlds (2005): The Attack Begins | First Tripod On Earth Scene...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/ak1itd/war_of_the_worlds_and_steven_spielbergs_mastery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/ak1itd/war_of_the_worlds_and_steven_spielbergs_mastery/</a>  
+   Link:<a href="https://www.reddit.com/r/movies/comments/ak1itd/war_of_the_worlds_and_steven_spielbergs_mastery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/ak1itd/war_of_the_worlds_and_steven_spielbergs_mastery/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
+   Link:<a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1105478149/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1105478149/34</a>  
+   Link:<a href="https://d-nb.info/1105478149/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1105478149/34</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW1h2Uasc6r/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1h2Uasc6r/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DW1h2Uasc6r/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1h2Uasc6r/?hl=en</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161952237016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161952237016696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161952237016696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161952237016696/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: boxofficeprophets.com  
-   Link: <a href="https://www.boxofficeprophets.com/tickermaster/movienews.cfm?TMID=1107" target="_blank" rel="noopener noreferrer nofollow">https://www.boxofficeprophets.com/tickermaster/movienews.cfm?TMID=1107</a>  
+   Link:<a href="https://www.boxofficeprophets.com/tickermaster/movienews.cfm?TMID=1107" target="_blank" rel="noopener noreferrer nofollow">https://www.boxofficeprophets.com/tickermaster/movienews.cfm?TMID=1107</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tapatalk.com  
-   Link: <a href="https://www.tapatalk.com/groups/monsterkidclassichorrorforum/new-war-of-the-worlds-by-spielberg-cruise-t4882-s90.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tapatalk.com/groups/monsterkidclassichorrorforum/new-war-of-the-worlds-by-spielberg-cruise-t4882-s90.html</a>  
+   Link:<a href="https://www.tapatalk.com/groups/monsterkidclassichorrorforum/new-war-of-the-worlds-by-spielberg-cruise-t4882-s90.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tapatalk.com/groups/monsterkidclassichorrorforum/new-war-of-the-worlds-by-spielberg-cruise-t4882-s90.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: curzon.com  
-   Link: <a href="https://www.curzon.com/journal/spielberg-s-aliens-always-respond-to-the-moment/" target="_blank" rel="noopener noreferrer nofollow">https://www.curzon.com/journal/spielberg-s-aliens-always-respond-to-the-moment/</a>  
+   Link:<a href="https://www.curzon.com/journal/spielberg-s-aliens-always-respond-to-the-moment/" target="_blank" rel="noopener noreferrer nofollow">https://www.curzon.com/journal/spielberg-s-aliens-always-respond-to-the-moment/</a>  

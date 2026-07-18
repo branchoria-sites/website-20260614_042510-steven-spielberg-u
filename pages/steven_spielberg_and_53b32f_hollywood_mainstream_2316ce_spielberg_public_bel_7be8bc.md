@@ -264,19 +264,19 @@ image: /assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_sp
 
 ## Introduction
 
-For many audiences, Spielberg occupies a rare position. He is associated with popular entertainment, but also with artistic prestige, technical craftsmanship and mainstream [credibility]({{ 'credibility/' | relative_url }}). When a figure with that reputation expresses openness to extraterrestrial visitation or unidentified aerial phenomena, the social meaning of the subject changes. People may not become convinced, but they may become less reluctant to take the topic seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
+For many audiences, Spielberg occupies a rare position. He is associated with popular entertainment, but also with artistic prestige, technical craftsmanship and mainstream [credibility]({{ 'credibility/' | relative_url }}). When a figure with that reputation expresses openness to extraterrestrial visitation or unidentified aerial phenomena, the social meaning of the subject changes. People may not become convinced, but they may become less reluctant to take the topic seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-1-dark.svg" | relative_url }}" alt="Spielberg Public Bel 7 Be 8 Bc illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Belief Without Personal Proof
 
-A revealing feature of Spielberg’s UFO views is that he has generally presented them as belief rather than personal knowledge. He has never claimed to possess direct proof, special access or a dramatic firsthand encounter. Instead, he has spoken about long-standing curiosity, research and a conviction that the universe is unlikely to be empty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Steven Spielberg said he believes it is &quot;...Read more...</span></span></span>
+A revealing feature of Spielberg’s UFO views is that he has generally presented them as belief rather than personal knowledge. He has never claimed to possess direct proof, special access or a dramatic firsthand encounter. Instead, he has spoken about long-standing curiosity, research and a conviction that the universe is unlikely to be empty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Steven Spielberg said he believes it is &quot;...Read more...</span></span></span>
 
-In recent interviews promoting his UFO-themed film *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, Spielberg argued that it is “mathematically and scientifically impossible” that no life exists elsewhere in the universe. He also stated that he believes extraterrestrial visitors may already have reached Earth, while acknowledging that his view reflects interpretation and belief rather than personal verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Steven Spielberg said he believes it is &quot;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
+In recent interviews promoting his UFO-themed film *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})*, Spielberg argued that it is “mathematically and scientifically impossible” that no life exists elsewhere in the universe. He also stated that he believes extraterrestrial visitors may already have reached Earth, while acknowledging that his view reflects interpretation and belief rather than personal verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Steven Spielberg said he believes it is &quot;...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
 
 This distinction is culturally important. Many celebrity endorsements of unusual claims depend on stories of private experiences. Spielberg’s influence works differently. His public position communicates that a person can regard the UFO question as worthy of attention without claiming privileged evidence. That makes the topic appear less associated with fringe certainty and more associated with curiosity, speculation and open inquiry.
 
-The same pattern can be seen in his long engagement with UFO researchers. During the development of *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Spielberg consulted astronomer and UFO investigator J. Allen Hynek, whose classification system supplied the film’s title. Spielberg drew on reported cases and investigator testimony, but transformed them into drama rather than presenting them as proven fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.osu.edu">[Ohio State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.osu.edu</span><span class="citation-popover-title">professor aimed to prove we are not alone</span><span class="citation-popover-snippet">Ohio State University LibrariesOSU professor aimed to prove “We are not alone”16 Nov 2012 — Josef Allen Hynek, a former OSU professor, wh...</span></span></span>
+The same pattern can be seen in his long engagement with UFO researchers. During the development of *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, Spielberg consulted astronomer and UFO investigator J. Allen Hynek, whose classification system supplied the film’s title. Spielberg drew on reported cases and investigator testimony, but transformed them into drama rather than presenting them as proven fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.osu.edu">[Ohio State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.osu.edu</span><span class="citation-popover-title">professor aimed to prove we are not alone</span><span class="citation-popover-snippet">Ohio State University LibrariesOSU professor aimed to prove “We are not alone”16 Nov 2012 — Josef Allen Hynek, a former OSU professor, wh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M7QsN75bUhc" title="Steven Spielberg Says Aliens ‘Have Been Here And Are Here’, Cites Congress Testimonies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer">Steven Spielberg Says Aliens ‘Have Been Here And Are Here’, Cites Congress Testimonies</a></p><p class="youtube-embed-meta">Channel: Screen Awards &middot; Views: 109 &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M7QsN75bUhc">Open on YouTube</a></p></div></div></div>
@@ -295,13 +295,13 @@ Several mechanisms are at work:
 * **Normalisation through reputation.** A director associated with widely respected films can make an unconventional subject seem less socially risky.
 * **Reduction of stigma.** Viewers who are curious about UFO reports may feel less pressure to dismiss the topic immediately.
 * **Legitimisation of conversation.** Journalists, academics and public figures may discuss the subject more openly when it appears connected to mainstream culture rather than only fringe communities.
-* **Separation from conspiracy culture.** Spielberg has often framed the question in terms of wonder, possibility and exploration rather than exclusively through accusations of hidden plots or secret control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
+* **Separation from conspiracy culture.** Spielberg has often framed the question in terms of wonder, possibility and exploration rather than exclusively through accusations of hidden plots or secret control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">CBS News...</span></span></span>
 
 </div>
 
 This effect can be subtle. A respected storyteller does not need to persuade audiences that UFO claims are correct. It is enough to persuade them that the subject is discussable.
 
-The broader UFO conversation in recent years has increasingly moved into mainstream institutions, including major news organisations, congressional hearings and public debate. Analysts have noted that topics once treated primarily as fringe interests are now discussed in more conventional settings. Spielberg’s long-standing public interest fits into that wider shift, even though he did not create it alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</span></span></span>
+The broader UFO conversation in recent years has increasingly moved into mainstream institutions, including major news organisations, congressional hearings and public debate. Analysts have noted that topics once treated primarily as fringe interests are now discussed in more conventional settings. Spielberg’s long-standing public interest fits into that wider shift, even though he did not create it alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-2-dark.svg" | relative_url }}" alt="Spielberg Public Bel 7 Be 8 Bc illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,7 +309,7 @@ The broader UFO conversation in recent years has increasingly moved into mainstr
 
 Not all celebrity belief has the same cultural impact. Spielberg's case is distinctive because his public image was built around storytelling that often balanced imagination with emotional realism.
 
-*Close Encounters of the Third Kind* presented UFO [witnesses]({{ 'witnesses/' | relative_url }}) as ordinary people struggling with extraordinary experiences. Rather than treating believers as comic figures, the film portrayed them as serious individuals confronting uncertainty. That narrative choice helped create a bridge between entertainment and public discussion. When Spielberg later expressed his own interest in the subject, audiences could connect those comments to decades of work exploring similar themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</span></span></span>
+*Close Encounters of the Third Kind* presented UFO [witnesses]({{ 'witnesses/' | relative_url }}) as ordinary people struggling with extraordinary experiences. Rather than treating believers as comic figures, the film portrayed them as serious individuals confronting uncertainty. That narrative choice helped create a bridge between entertainment and public discussion. When Spielberg later expressed his own interest in the subject, audiences could connect those comments to decades of work exploring similar themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rogerebert.com">[Roger Ebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rogerebert.com</span><span class="citation-popover-snippet">Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</span></span></span>
 
 There is also a feedback effect. The films increased public interest in UFOs; Spielberg's later comments encouraged audiences to revisit those films as expressions of a genuine fascination rather than merely commercial science fiction. The result is a cultural loop in which the creator and the work reinforce one another.
 
@@ -325,7 +325,7 @@ Importantly, this influence depends on trust. People who admire Spielberg's judg
 
 The strongest criticism of treating Spielberg's belief as meaningful evidence is straightforward: expertise in filmmaking is not expertise in establishing whether UFO claims are true.
 
-A celebrity's confidence, sincerity or intelligence does not resolve factual questions about extraterrestrial visitation. Evidence for extraordinary claims still depends on verifiable data, credible documentation, independent investigation and scientific scrutiny. Recent discussions of unidentified anomalous phenomena have repeatedly highlighted the difference between testimony, belief and confirmed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</span></span></span>
+A celebrity's confidence, sincerity or intelligence does not resolve factual questions about extraterrestrial visitation. Evidence for extraordinary claims still depends on verifiable data, credible documentation, independent investigation and scientific scrutiny. Recent discussions of unidentified anomalous phenomena have repeatedly highlighted the difference between testimony, belief and confirmed evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</span></span></span>
 
 This distinction helps explain both Spielberg's significance and his limits.
 
@@ -337,194 +337,194 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-3-dark.svg" | relative_url }}" alt="Spielberg Public Bel 7 Be 8 Bc illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_hollywood_mainstream_2316ce_spielberg_public_bel_7be8bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Spielberg Public Bel 7 Be 8 Bc. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Spielberg Public Bel 7 Be 8 Bc. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="spielberg-public-bel-7-be-8-bc-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,104 +730,104 @@ Understanding that difference clarifies Spielberg's role in the history of UFO b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</p></details>
+   Link:<a href="https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government. However, experts suggest that real-world disclosure would likely follow a more scientific and methodical path, akin to the di...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
    Title: steven spielberg admits he has a strong suspicion aliens are real 11929541  
-   Link: <a href="https://people.com/steven-spielberg-admits-he-has-a-strong-suspicion-aliens-are-real-11929541" target="_blank" rel="noopener noreferrer nofollow">https://people.com/steven-spielberg-admits-he-has-a-strong-suspicion-aliens-are-real-11929541</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Admits He Has a &#x27;Strong Suspicion&#x27;...18 Mar 2026 — The Oscar-winning director, whose filmography consists of several al...</p></details>
+   Link:<a href="https://people.com/steven-spielberg-admits-he-has-a-strong-suspicion-aliens-are-real-11929541" target="_blank" rel="noopener noreferrer nofollow">https://people.com/steven-spielberg-admits-he-has-a-strong-suspicion-aliens-are-real-11929541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Admits He Has a &#x27;Strong Suspicion&#x27;...18 Mar 2026 — The Oscar-winning director, whose filmography consists of several al...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M7QsN75bUhc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M7QsN75bUhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M7QsN75bUhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cbsnews.com  
    Title: · Steven Spielberg on "Disclosure Day" and alien visitations.Read more  
-   Link: <a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News&quot;Disclosure Day&quot; director Steven Spielberg on aliens1 day ago — Trump&#x27;s UFO Dump Leaves Earthlings Wanting More · Wait, Are Kids&#x27;...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/disclosure-day-director-steven-spielberg-on-alien-visitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News&quot;Disclosure Day&quot; director Steven Spielberg on aliens1 day ago — Trump&#x27;s UFO Dump Leaves Earthlings Wanting More · Wait, Are Kids&#x27;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg said he believes it is &quot;...Read more...</p></details>
+   Link:<a href="https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/steven-spielberg-tells-michelle-obama-alien-life-must-exist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg said he believes it is &quot;...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;Disclosure Day&quot; and says aliens &quot;have...... the entire world and proved we are not alone. He also discusses his...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/steven-spielberg-talks-disclosure-day-and-says-aliens-have-been-here-and-they-are-here/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg talks &quot;Disclosure Day&quot; and says aliens &quot;have...... the entire world and proved we are not alone. He also discusses his...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rogerebert.com  
-   Link: <a href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</p></details>
+   Link:<a href="https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere" target="_blank" rel="noopener noreferrer nofollow">https://www.rogerebert.com/interviews/top-secret-steven-spielberg-on-the-brink-of-the-close-encounters-premiere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger EbertTop secret: Steven Spielberg on the brink of the &quot;Close...It fairly leaped off the page at me as a movie title.” He invited H...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: library.osu.edu  
    Title: professor aimed to prove we are not alone  
-   Link: <a href="https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/" target="_blank" rel="noopener noreferrer nofollow">https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio State University LibrariesOSU professor aimed to prove “We are not alone”16 Nov 2012 — Josef Allen Hynek, a former OSU professor, wh...</p></details>
+   Link:<a href="https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/" target="_blank" rel="noopener noreferrer nofollow">https://library.osu.edu/site/archives/2012/11/16/osu-professor-aimed-to-prove-we-are-not-alone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio State University LibrariesOSU professor aimed to prove “We are not alone”16 Nov 2012 — Josef Allen Hynek, a former OSU professor, wh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe film depicts the interconnected stories of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;) (Dreyfuss), an everyday blue-collar worker...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe film depicts the interconnected stories of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;) (Dreyfuss), an everyday blue-collar worker...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg’s film “Disclosure Day” sparks renewed conversation, especially following the Pentagon’s recent release of UFO files and...</p></details>
+   Link:<a href="https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/500c2280dbdbcedfa09f3d2aa298f338</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg’s film “Disclosure Day” sparks renewed conversation, especially following the Pentagon’s recent release of UFO files and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: decider.com  
-   Link: <a href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</p></details>
+   Link:<a href="https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2026/06/07/steven-spielberg-says-aliens-have-been-here-ufo-thriller-disclosure-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg described the movie, which stars Emily Blunt as a meteorologist with unexplained powers, as a suspenseful exploration of belief...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: raymorton.com  
-   Link: <a href="https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Steven Spielberg&#x27;s Classic FilmClose Encounters of the Third Kind used all of the power and the magic of cinema to tell a s...</p></details>
+   Link:<a href="https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Steven Spielberg&#x27;s Classic FilmClose Encounters of the Third Kind used all of the power and the magic of cinema to tell a s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/news/ni65749167/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni65749167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg was asked whether he believes in the real-life existence of aliens in the run up to his new UFO movie Disclosure Day...</p></details>
+   Link:<a href="https://www.imdb.com/news/ni65749167/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni65749167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg was asked whether he believes in the real-life existence of aliens in the run up to his new UFO movie Disclosure Day...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni63982418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“I wish I had! I&#x27;ve never seen anything I can&#x27;t explain. But I believe certain people who have seen things that they...Read more...</p></details>
+   Link:<a href="https://www.imdb.com/news/ni63982418/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni63982418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“I wish I had! I&#x27;ve never seen anything I can&#x27;t explain. But I believe certain people who have seen things that they...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ladbible.com  
-   Link: <a href="https://www.ladbible.com/entertainment/steven-spielberg-says-evidence-aliens-overwhelming-778744-20260605" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/entertainment/steven-spielberg-says-evidence-aliens-overwhelming-778744-20260605</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>director Steven Spielberg says he believes in aliens and reckons the evidence is &#x27;overwhelming&#x27;. The legendary director has worked on mor...</p></details>
+   Link:<a href="https://www.ladbible.com/entertainment/steven-spielberg-says-evidence-aliens-overwhelming-778744-20260605" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/entertainment/steven-spielberg-says-evidence-aliens-overwhelming-778744-20260605</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>director Steven Spielberg says he believes in aliens and reckons the evidence is &#x27;overwhelming&#x27;. The legendary director has worked on mor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yahoo.com  
    Title: steven spielberg the first 10 years close encounters exclusive excerpt 195847036  
-   Link: <a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Steven Spielberg book explores the origins of &#x27;Close...Oct 24, 2023 — Allen Hynek, the UFO expert who coined the term “close encount...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Steven Spielberg book explores the origins of &#x27;Close...Oct 24, 2023 — Allen Hynek, the UFO expert who coined the term “close encount...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOsDr J Allen heinik whom Spielberg would eventually hire as a key technical consultant for his...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOsDr J Allen heinik whom Spielberg would eventually hire as a key technical consultant for his...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dailyherald.com  
-   Link: <a href="https://www.dailyherald.com/20260611/movies/steven-spielberg-on-his-faith-in-alien-life-the-future-of-the-movies-and-the-power-of-empathy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyherald.com/20260611/movies/steven-spielberg-on-his-faith-in-alien-life-the-future-of-the-movies-and-the-power-of-empathy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg on his faith in alien life, the future of the movies and the power of empathy...</p></details>
+   Link:<a href="https://www.dailyherald.com/20260611/movies/steven-spielberg-on-his-faith-in-alien-life-the-future-of-the-movies-and-the-power-of-empathy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyherald.com/20260611/movies/steven-spielberg-on-his-faith-in-alien-life-the-future-of-the-movies-and-the-power-of-empathy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg on his faith in alien life, the future of the movies and the power of empathy...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens had become the domain of amateur investigators and sensationalist tabloid...Read more...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-[saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens had become the domain of amateur investigators and sensationalist tabloid...Read more...</p></details>

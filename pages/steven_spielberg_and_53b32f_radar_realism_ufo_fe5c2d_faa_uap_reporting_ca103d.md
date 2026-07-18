@@ -268,15 +268,15 @@ One of the most memorable moments in *[Close Encounters]({{ 'close-encounters/' 
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_faa_uap_reporting_ca103d-Illustration-1-dark.svg" | relative_url }}" alt="Faa UAP Reporting Ca 103 D illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_faa_uap_reporting_ca103d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d_faa_uap_reporting_ca103d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern U.S. aviation policy approaches that problem very differently from the 1970s. The Federal Aviation Administration (FAA) and related agencies increasingly frame unidentified aerial phenomena (UAP) as aviation-safety information rather than as evidence for extraordinary claims. The key question is no longer “Was it a UFO?” but “Did something occur in the airspace system that needs to be documented and analysed?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
+Modern U.S. aviation policy approaches that problem very differently from the 1970s. The Federal Aviation Administration (FAA) and related agencies increasingly frame unidentified aerial phenomena (UAP) as aviation-safety information rather than as evidence for extraordinary claims. The key question is no longer “Was it a UFO?” but “Did something occur in the airspace system that needs to be documented and analysed?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
 
 ## How FAA Language Frames Unexplained Activity
 
-The most significant shift in recent years has been linguistic as much as procedural. Aviation authorities have moved away from the culturally loaded term “UFO” and adopted “UAP”, or unidentified anomalous phenomena. The change reflects a practical goal: encourage reporting without requiring a witness to endorse any particular explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
+The most significant shift in recent years has been linguistic as much as procedural. Aviation authorities have moved away from the culturally loaded term “UFO” and adopted “UAP”, or unidentified anomalous phenomena. The change reflects a practical goal: encourage reporting without requiring a witness to endorse any particular explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
 
-Current FAA air traffic guidance instructs controllers to notify supervisors when unexplained or unidentified phenomena are reported or observed. The emphasis is on documenting the event within existing operational channels rather than treating it as a special category of extraordinary occurrence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
+Current FAA air traffic guidance instructs controllers to notify supervisors when unexplained or unidentified phenomena are reported or observed. The emphasis is on documenting the event within existing operational channels rather than treating it as a special category of extraordinary occurrence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
 
-The FAA has also stated that it documents UAP sightings whenever pilots report them to air traffic control facilities. If corroborating information such as radar data exists, that information can be shared with government bodies responsible for analysing anomalous reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
+The FAA has also stated that it documents UAP sightings whenever pilots report them to air traffic control facilities. If corroborating information such as radar data exists, that information can be shared with government bodies responsible for analysing anomalous reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
 
 This framing matters because it removes an implicit burden from [witnesses]({{ 'witnesses/' | relative_url }}). A pilot does not have to prove what an object was. The requirement is simply to report a potential hazard, anomaly, or unexplained observation relevant to flight safety.
 
@@ -287,9 +287,9 @@ This framing matters because it removes an implicit burden from [witnesses]({{ '
 
 Aviation safety systems are designed to capture uncertainty. Reports are often filed precisely because an event has not yet been explained.
 
-From a safety perspective, an unidentified object near an aircraft creates concerns regardless of its ultimate identity. A drone, balloon, satellite reflection, military activity, atmospheric phenomenon, sensor error, or genuinely unknown object can all generate operational risks. Investigators need the report before they can determine which explanation fits best. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-snippet">UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — Aviation safety does not require the object to be extr...</span></span></span>
+From a safety perspective, an unidentified object near an aircraft creates concerns regardless of its ultimate identity. A drone, balloon, satellite reflection, military activity, atmospheric phenomenon, sensor error, or genuinely unknown object can all generate operational risks. Investigators need the report before they can determine which explanation fits best.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-snippet">UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — Aviation safety does not require the object to be extr...</span></span></span>
 
-This distinction is central to modern UAP policy. NASA's independent UAP study argued that aviation reporting systems can provide valuable data because they collect observations systematically rather than forcing immediate conclusions. The report specifically highlighted the potential value of using aviation safety-reporting mechanisms to gather consistent pilot observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</span></span></span>
+This distinction is central to modern UAP policy. NASA's independent UAP study argued that aviation reporting systems can provide valuable data because they collect observations systematically rather than forcing immediate conclusions. The report specifically highlighted the potential value of using aviation safety-reporting mechanisms to gather consistent pilot observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</span></span></span>
 
 In other words, the reporting process is not designed to answer whether extraterrestrials exist. It is designed to answer operational questions:
 
@@ -311,11 +311,11 @@ Those questions are much closer to the concerns of air traffic control than to t
 
 Spielberg's witness problem was partly about stigma. In *Close Encounters*, reporting a UFO feels professionally uncomfortable. Witnesses worry about [credibility]({{ 'credibility/' | relative_url }}) as much as accuracy.
 
-That concern has not entirely disappeared. Multiple studies, pilot organisations, and aviation commentators have argued that reluctance to report unusual observations can stem from fears about ridicule, career consequences, or uncertainty about how reports will be received. Recent discussions within aviation have focused on reducing those barriers by normalising the reporting of unexplained events through established safety systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5577853/navy-ufo-reporting-guidelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Navy is drafting formal guidelines for reporting sightings of unidentified flying objects (UFOs) following a significant increase in unex...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeaerospace.org">[Safe Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeaerospace.org</span><span class="citation-popover-title">the faa quietly updated its uap reporting policy</span><span class="citation-popover-snippet">and...7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observatio...</span></span></span>
+That concern has not entirely disappeared. Multiple studies, pilot organisations, and aviation commentators have argued that reluctance to report unusual observations can stem from fears about ridicule, career consequences, or uncertainty about how reports will be received. Recent discussions within aviation have focused on reducing those barriers by normalising the reporting of unexplained events through established safety systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5577853/navy-ufo-reporting-guidelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Navy is drafting formal guidelines for reporting sightings of unidentified flying objects (UFOs) following a significant increase in unex...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeaerospace.org">[Safe Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeaerospace.org</span><span class="citation-popover-title">the faa quietly updated its uap reporting policy</span><span class="citation-popover-snippet">and...7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observatio...</span></span></span>
 
 The practical effect of formal procedures is that they change the witness's role. Instead of becoming a public claimant about UFOs, the pilot becomes a reporter of operational information. That distinction may sound subtle, but it is institutionally important.
 
-A pilot who says, “I observed unidentified traffic at a specific position and time” is participating in a recognised safety process. A pilot who claims certainty about an extraordinary explanation is doing something different entirely. Modern guidance is structured to encourage the first behaviour while remaining neutral about the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">sightings to air traffic control.Read more...</span></span></span>
+A pilot who says, “I observed unidentified traffic at a specific position and time” is participating in a recognised safety process. A pilot who claims certainty about an extraordinary explanation is doing something different entirely. Modern guidance is structured to encourage the first behaviour while remaining neutral about the second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">sightings to air traffic control.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
@@ -324,9 +324,9 @@ A pilot who says, “I observed unidentified traffic at a specific position and 
 
 In broad terms, the modern process begins with operational reporting.
 
-A pilot who observes unexplained activity is encouraged to communicate with air traffic control. Controllers document relevant information, and FAA systems can preserve associated operational data such as communications records and, where available, radar information. Reports that have safety or security significance may be forwarded to appropriate government offices responsible for evaluating UAP-related information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">sightings to air traffic control.Read more...</span></span></span>
+A pilot who observes unexplained activity is encouraged to communicate with air traffic control. Controllers document relevant information, and FAA systems can preserve associated operational data such as communications records and, where available, radar information. Reports that have safety or security significance may be forwarded to appropriate government offices responsible for evaluating UAP-related information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">sightings to air traffic control.Read more...</span></span></span>
 
-Alongside FAA channels, aviation professionals may also use NASA's Aviation Safety Reporting System (ASRS), a long-standing confidential reporting programme intended to capture safety-related information from across the aviation community. Researchers and safety advocates have argued that ASRS offers a useful mechanism because it focuses on learning from reports rather than assigning blame. ASRS <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</span></span></span>
+Alongside FAA channels, aviation professionals may also use NASA's Aviation Safety Reporting System (ASRS), a long-standing confidential reporting programme intended to capture safety-related information from across the aviation community. Researchers and safety advocates have argued that ASRS offers a useful mechanism because it focuses on learning from reports rather than assigning blame. ASRS<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</span></span></span>
 
 The resulting approach treats unexplained sightings as data points. They may later prove mundane, significant, misidentified, or unresolved. The reporting obligation exists before that determination is made.
 
@@ -336,7 +336,7 @@ The resulting approach treats unexplained sightings as data points. They may lat
 
 The enduring relevance of Spielberg's air traffic-control scenes is that they capture a genuine procedural dilemma. Aviation professionals are trained to observe carefully, communicate clearly, and avoid unsupported conclusions. Yet they occasionally encounter events that do not fit established categories.
 
-Modern FAA guidance does not solve the mystery of every unexplained sighting. What it does provide is a framework for handling uncertainty. Witnesses are encouraged to report first and interpret later. Agencies collect information, compare observations, review sensor data, and assess possible hazards before reaching conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
+Modern FAA guidance does not solve the mystery of every unexplained sighting. What it does provide is a framework for handling uncertainty. Witnesses are encouraged to report first and interpret later. Agencies collect information, compare observations, review sensor data, and assess possible hazards before reaching conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">pilots from reporting...Read more...</span></span></span>
 
 That approach turns Spielberg's witness problem into a policy question rather than a cultural one. The challenge is no longer whether a pilot should admit seeing something strange. The challenge is ensuring that unusual observations enter the safety system quickly enough to be evaluated, regardless of what ultimately caused them.
 
@@ -345,194 +345,194 @@ That approach turns Spielberg's witness problem into a policy question rather th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Faa UAP Reporting Ca 103 D. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Faa UAP Reporting Ca 103 D. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="faa-uap-reporting-ca-103-d-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That approach turns Spielberg's witness problem into a policy question rather th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That approach turns Spielberg's witness problem into a policy question rather th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That approach turns Spielberg's witness problem into a policy question rather th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That approach turns Spielberg's witness problem into a policy question rather th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That approach turns Spielberg's witness problem into a policy question rather th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,146 +738,146 @@ That approach turns Spielberg's witness problem into a policy question rather th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots from reporting...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pilots from reporting...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 8  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...9-8-1. GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified an...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...9-8-1. GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings to air traffic control.Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings to air traffic control.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fliegerfaust.com  
-   Link: <a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — Aviation safety does not require the object to be extr...</p></details>
+   Link:<a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — Aviation safety does not require the object to be extr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flightsafetydetectives.com  
    Title: getting serious about uap sightings episode 187  
-   Link: <a href="https://flightsafetydetectives.com/getting-serious-about-uap-sightings-episode-187/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/getting-serious-about-uap-sightings-episode-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/getting-serious-about-uap-sightings-episode-187/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/getting-serious-about-uap-sightings-episode-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5577853/navy-ufo-reporting-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5577853/navy-ufo-reporting-guidelines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy is drafting formal guidelines for reporting sightings of unidentified flying objects (UFOs) following a significant increase in unex...</p></details>
+   Link:<a href="https://time.com/5577853/navy-ufo-reporting-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5577853/navy-ufo-reporting-guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy is drafting formal guidelines for reporting sightings of unidentified flying objects (UFOs) following a significant increase in unex...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - NASAASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - NASAASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notice JO 7110.800 - Unidentified Anomalous Phenomena...26 Sept 2025 — Type: Notice; Number: JO 7110.800...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notice JO 7110.800 - Unidentified Anomalous Phenomena...26 Sept 2025 — Type: Notice; Number: JO 7110.800...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: chap7 section 7  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety, Accident, and Hazard ReportsReports should be submitted on NASA ARC Forms 277, which are available free of charge, postage prepai...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety, Accident, and Hazard ReportsReports should be submitted on NASA ARC Forms 277, which are available free of charge, postage prepai...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notice JO 7210.970 - Unidentified Anomalous Phenomena...26 Sept 2025 — This notice reflects the change from the previously known term, u...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notice JO 7210.970 - Unidentified Anomalous Phenomena...26 Sept 2025 — This notice reflects the change from the previously known term, u...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/uassafety.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Reporting | NASA ASRSAnyone involved in Unmanned Aircraft Systems (UAS) / Drone operations can file a NASA ASRS report to describe...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/uassafety.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Reporting | NASA ASRSAnyone involved in Unmanned Aircraft Systems (UAS) / Drone operations can file a NASA ASRS report to describe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: safeaerospace.org  
    Title: the faa quietly updated its uap reporting policy  
-   Link: <a href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and...7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observatio...</p></details>
+   Link:<a href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and...7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observatio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: safeaerospace.org  
    Title: Safe Aerospace Why Don't Pilots Report What They See?  
-   Link: <a href="https://www.safeaerospace.org/news/why-don-t-pilots-report-what-they-see-understanding-the-career-risks-behind-uap-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/why-don-t-pilots-report-what-they-see-understanding-the-career-risks-behind-uap-reporting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...6 Jan 2026 — Pilots don&#x27;t stay silent because they&#x27;re afraid of being fired for &quot;seeing a UFO.&quot; They stay silent because...</p></details>
+   Link:<a href="https://www.safeaerospace.org/news/why-don-t-pilots-report-what-they-see-understanding-the-career-risks-behind-uap-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/why-don-t-pilots-report-what-they-see-understanding-the-career-risks-behind-uap-reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...6 Jan 2026 — Pilots don&#x27;t stay silent because they&#x27;re afraid of being fired for &quot;seeing a UFO.&quot; They stay silent because...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: safeaerospace.org  
-   Link: <a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans for Safe AerospaceU.S. government expands UFO investigations as new group forms to help pilots spot them. The U.S. government i...</p></details>
+   Link:<a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans for Safe AerospaceU.S. government expands UFO investigations as new group forms to help pilots spot them. The U.S. government i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: safeaerospace.org  
    Title: asa welcomes presidential directive to release government uap files  
-   Link: <a href="https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA Welcomes Presidential Directive to Release...20 Feb 2026 — FAA regulation 14 CFR §67 creates fear among pilots that their UAP report...</p></details>
+   Link:<a href="https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASA Welcomes Presidential Directive to Release...20 Feb 2026 — FAA regulation 14 CFR §67 creates fear among pilots that their UAP report...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:This opinion paper uses existing aviation safety principles to present a framework organized around five key consi...</p></details>
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:This opinion paper uses existing aviation safety principles to present a framework organized around five key consi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/makeareport" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/makeareport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Make a UAP ReportContact information for pilots, aviation professionals, and other witnesses of incidents or observations involving aircr...</p></details>
+   Link:<a href="https://www.narcap.org/makeareport" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/makeareport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Make a UAP ReportContact information for pilots, aviation professionals, and other witnesses of incidents or observations involving aircr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheRehearsal/comments/1kx7iqa/ufos_are_the_logical_next_step/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheRehearsal/comments/1kx7iqa/ufos_are_the_logical_next_step/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs are the logical next step.: r/TheRehearsalOne of the reasons I was excited to see Nathan exploring aviation stigma was because of i...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheRehearsal/comments/1kx7iqa/ufos_are_the_logical_next_step/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheRehearsal/comments/1kx7iqa/ufos_are_the_logical_next_step/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs are the logical next step.: r/TheRehearsalOne of the reasons I was excited to see Nathan exploring aviation stigma was because of i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flyingmag.com  
-   Link: <a href="https://www.flyingmag.com/what-are-you-afraid-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/what-are-you-afraid-of-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are You Afraid of? UFOs3 days ago — Historically, a significant stigma prevented pilots and controllers from openly discussing UFOs...</p></details>
+   Link:<a href="https://www.flyingmag.com/what-are-you-afraid-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/what-are-you-afraid-of-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are You Afraid of? UFOs3 days ago — Historically, a significant stigma prevented pilots and controllers from openly discussing UFOs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/</a>  
+   Link:<a href="https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
+   Link:<a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ATC-1 - Air East 31, do you wish to report a UFO? Over. 2:57.8. AE31 - Negative. We don&#x27;t want to report one of those either.Read more...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/CE3K_ATC_Transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATC-1 - Air East 31, do you wish to report a UFO? Over. 2:57.8. AE31 - Negative. We don&#x27;t want to report one of those either.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flightsafetydetectives.com  
    Title: Flight Safety Detectives Use ASRS to Report UAP and UFO Encounters  
-   Link: <a href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight attendants, and others in the...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/use-asrs-to-report-uap-and-ufo-encounters-episode-234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use ASRS to Report UAP and UFO Encounters - Episode 234NASA&#x27;s ASRS can be used by pilots, mechanics, flight attendants, and others in the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>•Encourage the aviation community to report UAP events to the ASRS. Presented at Contact...Read more...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>•Encourage the aviation community to report UAP events to the ASRS. Presented at Contact...Read more...</p></details>

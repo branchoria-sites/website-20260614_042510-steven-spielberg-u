@@ -259,11 +259,11 @@ image: /assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_cl
 
 ## Introduction
 
-The most revealing difference between *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* (1977) and *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* (2026) is not the aliens themselves. It is who gets to witness them. In Spielberg’s earlier UFO landmark, contact culminates at a secret landing site beneath Devils Tower, attended by scientists, military personnel and a handful of chosen civilians. In *Disclosure Day*, the decisive moment is a worldwide broadcast that turns hidden knowledge into public fact. The contrast marks a major shift in Spielberg’s UFO imagination: from a private encounter with the unknown to a crisis of information, evidence and mass awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
+The most revealing difference between *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* (1977) and *[Disclosure Day]({{ 'disclosure-day/' | relative_url }})* (2026) is not the aliens themselves. It is who gets to witness them. In Spielberg’s earlier UFO landmark, contact culminates at a secret landing site beneath Devils Tower, attended by scientists, military personnel and a handful of chosen civilians. In *Disclosure Day*, the decisive moment is a worldwide broadcast that turns hidden knowledge into public fact. The contrast marks a major shift in Spielberg’s UFO imagination: from a private encounter with the unknown to a crisis of information, evidence and mass awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-1-dark.svg" | relative_url }}" alt="Close Encounters Dis B68 C1 F illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than simply repeating the wonder of *Close Encounters*, *Disclosure Day* asks what happens when proof can no longer be contained. The result is a useful lens through which to understand how UFO stories—and public attitudes towards them—have changed over nearly fifty years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
+Rather than simply repeating the wonder of *Close Encounters*, *Disclosure Day* asks what happens when proof can no longer be contained. The result is a useful lens through which to understand how UFO stories—and public attitudes towards them—have changed over nearly fifty years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4flYTRE93yc" title="The Secrets of Close Encounters of the Third Kind - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4flYTRE93yc" target="_blank" rel="noopener noreferrer">The Secrets of Close Encounters of the Third Kind - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 6.9K &middot; Uploaded: July 2022</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4flYTRE93yc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4flYTRE93yc">Open on YouTube</a></p></div></div></div>
@@ -272,9 +272,9 @@ Rather than simply repeating the wonder of *Close Encounters*, *Disclosure Day* 
 
 ### The private awe of *Close Encounters*
 
-The climax of *Close Encounters of the Third Kind* unfolds at a highly controlled location near [Devils Tower]({{ 'devils-tower/' | relative_url }}), Wyoming. After government agencies clear the area through a fabricated emergency, only authorised personnel and a small number of witnesses are present when the mothership arrives. Scientists communicate with the visitors through music and light, abductees are returned, and [Roy Neary]({{ 'roy-neary/' | relative_url }}) is selected to depart with the extraterrestrials. The broader public never sees any of it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure Day</span><span class="citation-popover-snippet">Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</span></span></span>
+The climax of *Close Encounters of the Third Kind* unfolds at a highly controlled location near [Devils Tower]({{ 'devils-tower/' | relative_url }}), Wyoming. After government agencies clear the area through a fabricated emergency, only authorised personnel and a small number of witnesses are present when the mothership arrives. Scientists communicate with the visitors through music and light, abductees are returned, and [Roy Neary]({{ 'roy-neary/' | relative_url }}) is selected to depart with the extraterrestrials. The broader public never sees any of it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure Day</span><span class="citation-popover-snippet">Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</span></span></span>
 
-This [secrecy]({{ 'secrecy/' | relative_url }}) is not merely a plot device. It reflects the UFO culture of the 1970s, when sightings were largely personal experiences, often supported by testimony rather than widely shared evidence. Spielberg built the film around ordinary people whose lives are transformed by encounters that others struggle to believe. The emotional centre of the story is not public confirmation but personal revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+This [secrecy]({{ 'secrecy/' | relative_url }}) is not merely a plot device. It reflects the UFO culture of the 1970s, when sightings were largely personal experiences, often supported by testimony rather than widely shared evidence. Spielberg built the film around ordinary people whose lives are transformed by encounters that others struggle to believe. The emotional centre of the story is not public confirmation but personal revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
 The ending therefore creates a sense of sacred exclusivity:
 
@@ -288,18 +288,18 @@ The ending therefore creates a sense of sacred exclusivity:
 
 </div>
 
-The final image is not humanity learning a fact. It is one man crossing a threshold into the unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+The final image is not humanity learning a fact. It is one man crossing a threshold into the unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B3FHIY2zfc4" title="DISCLOSURE DAY | Official Trailer (2026) 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B3FHIY2zfc4" target="_blank" rel="noopener noreferrer">DISCLOSURE DAY | Official Trailer (2026) 4K</a></p><p class="youtube-embed-meta">Channel: JoBlo Movie Network &middot; Views: 32.3K &middot; Uploaded: March 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B3FHIY2zfc4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B3FHIY2zfc4">Open on YouTube</a></p></div></div></div>
 
 ### The public proof model of *Disclosure Day*
 
-*Disclosure Day* reverses that structure. Instead of ending at the point of contact, it ends at the point of revelation. The central conflict concerns evidence that has allegedly been concealed for decades. When Daniel Kellner and his allies succeed in broadcasting archived proof of alien encounters, the story moves from secrecy to global visibility. Television networks around the world carry the material, transforming alien existence from rumour into public knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
+*Disclosure Day* reverses that structure. Instead of ending at the point of contact, it ends at the point of revelation. The central conflict concerns evidence that has allegedly been concealed for decades. When Daniel Kellner and his allies succeed in broadcasting archived proof of alien encounters, the story moves from secrecy to global visibility. Television networks around the world carry the material, transforming alien existence from rumour into public knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</span></span></span>
 
-The physical setting of the climax is equally significant. Spielberg replaces the isolated mountain landing site with a newsroom and broadcast infrastructure. Reports on the film's production note that the fictional Kansas City station KCXE serves as the focal point of the disclosure sequence, while national media outlets amplify the revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-title">Condé Nast Traveler Where Was Disclosure Day Filmed?</span><span class="citation-popover-snippet">The Midwestern America of Spielberg&#x27;s Latest Sci-FiToday — Steven Spielberg&#x27;s sci-fi thriller *Disclosure Day* was crafted to feel ground...</span></span></span>
+The physical setting of the climax is equally significant. Spielberg replaces the isolated mountain landing site with a newsroom and broadcast infrastructure. Reports on the film's production note that the fictional Kansas City station KCXE serves as the focal point of the disclosure sequence, while national media outlets amplify the revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-title">Condé Nast Traveler Where Was Disclosure Day Filmed?</span><span class="citation-popover-snippet">The Midwestern America of Spielberg&#x27;s Latest Sci-FiToday — Steven Spielberg&#x27;s sci-fi thriller *Disclosure Day* was crafted to feel ground...</span></span></span>
 
-This changes the dramatic question entirely. In *Close Encounters*, the mystery is whether contact will occur. In *Disclosure Day*, contact has effectively already occurred; the struggle is over who controls the information and whether the public will finally see it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
+This changes the dramatic question entirely. In *Close Encounters*, the mystery is whether contact will occur. In *Disclosure Day*, contact has effectively already occurred; the struggle is over who controls the information and whether the public will finally see it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</span></span></span>
 
 A simple comparison highlights the contrast:
 
@@ -309,9 +309,9 @@ Then: *Close Encounters*Now: *Disclosure Day*Secret landing siteGlobal broadcast
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-2-dark.svg" | relative_url }}" alt="Close Encounters Dis B68 C1 F illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the reveal matters more than the aliens
 
-One striking feature of *Disclosure Day* is that the climactic broadcast carries as much weight as the extraterrestrials themselves. Reviews and ending analyses consistently describe the film as being concerned with transparency, communication and trust rather than merely proving alien life. Even the final message—reduced to the word “Listen”—points toward communication as the film's central theme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</span></span></span>
+One striking feature of *Disclosure Day* is that the climactic broadcast carries as much weight as the extraterrestrials themselves. Reviews and ending analyses consistently describe the film as being concerned with transparency, communication and trust rather than merely proving alien life. Even the final message—reduced to the word “Listen”—points toward communication as the film's central theme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</span></span></span>
 
-That emphasis differs from *Close Encounters*, where communication with the aliens is the climax. The famous musical exchange between humans and the mothership is presented as a breakthrough between species. In *Disclosure Day*, communication is redirected inward: humanity must communicate with itself about what it now knows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure Day</span><span class="citation-popover-snippet">Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</span></span></span>
+That emphasis differs from *Close Encounters*, where communication with the aliens is the climax. The famous musical exchange between humans and the mothership is presented as a breakthrough between species. In *Disclosure Day*, communication is redirected inward: humanity must communicate with itself about what it now knows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure Day</span><span class="citation-popover-snippet">Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</span></span></span>
 
 The shift reflects a broader narrative change:
 
@@ -324,211 +324,211 @@ The shift reflects a broader narrative change:
 
 </div>
 
-This makes *Disclosure Day* feel less like a first-contact adventure and more like a disclosure drama shaped by media systems, [whistleblowers]({{ 'whistleblowers/' | relative_url }}) and contested information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span>
+This makes *Disclosure Day* feel less like a first-contact adventure and more like a disclosure drama shaped by media systems, [whistleblowers]({{ 'whistleblowers/' | relative_url }}) and contested information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UFe6NRgoXCM" title="Disclosure Day | Official Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer">Disclosure Day | Official Teaser</a></p><p class="youtube-embed-meta">Channel: Universal Pictures &middot; Views: 34.3M &middot; Uploaded: December 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UFe6NRgoXCM">Open on YouTube</a></p></div></div></div>
 
 ## What the shift says about UFO belief now
 
-The movement from Devils Tower to worldwide disclosure mirrors changes in real-world UFO culture. When *Close Encounters* appeared, UFO discussions revolved around sightings, abductees and specialised investigators. Evidence was scarce, localised and often difficult to verify. The drama emerged from individual experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+The movement from Devils Tower to worldwide disclosure mirrors changes in real-world UFO culture. When *Close Encounters* appeared, UFO discussions revolved around sightings, abductees and specialised investigators. Evidence was scarce, localised and often difficult to verify. The drama emerged from individual experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
-Modern UFO debates, by contrast, are frequently framed around government records, classified programmes, whistleblower testimony, leaked footage and institutional [credibility]({{ 'credibility/' | relative_url }}). Whether or not particular claims are accepted, the public conversation has increasingly become a debate about access to information rather than isolated eyewitness reports. *Disclosure Day* translates that atmosphere into blockbuster storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span>
+Modern UFO debates, by contrast, are frequently framed around government records, classified programmes, whistleblower testimony, leaked footage and institutional [credibility]({{ 'credibility/' | relative_url }}). Whether or not particular claims are accepted, the public conversation has increasingly become a debate about access to information rather than isolated eyewitness reports. *Disclosure Day* translates that atmosphere into blockbuster storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</span></span></span>
 
-Seen this way, the two endings function almost as bookends to different eras of UFO belief. *Close Encounters* imagines a hidden encounter witnessed by a fortunate few. *Disclosure Day* imagines a moment when concealment finally fails and everyone becomes a witness at once. The wonder remains recognisably Spielbergian, but the route to that wonder has changed—from secret contact in the desert to disclosure in full public view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span>
+Seen this way, the two endings function almost as bookends to different eras of UFO belief. *Close Encounters* imagines a hidden encounter witnessed by a fortunate few. *Disclosure Day* imagines a moment when concealment finally fails and everyone becomes a witness at once. The wonder remains recognisably Spielbergian, but the route to that wonder has changed—from secret contact in the desert to disclosure in full public view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[Vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-title">lets talk about the ending of disclosure day</span><span class="citation-popover-snippet">The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-3-dark.svg" | relative_url }}" alt="Close Encounters Dis B68 C1 F illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_disclosure_day_retur_842eb0_close_encounters_dis_b68c1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Close Encounters Dis B68 C1 F. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Close Encounters Dis B68 C1 F. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="close-encounters-dis-b68-c1-f-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Seen this way, the two endings function almost as bookends to different eras of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Seen this way, the two endings function almost as bookends to different eras of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Seen this way, the two endings function almost as bookends to different eras of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Seen this way, the two endings function almost as bookends to different eras of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Seen this way, the two endings function almost as bookends to different eras of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,137 +734,137 @@ Seen this way, the two endings function almost as bookends to different eras of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-ending-explained-emily-blunt-colman-domingo-more-break-down-final-moments-11996395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg and co-writer David Koepp deliberately left alien origins and motivations vague to preserve mystery, presenting them as potenti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vulture.com  
    Title: lets talk about the ending of disclosure day  
-   Link: <a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</p></details>
+   Link:<a href="https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/lets-talk-about-the-ending-of-disclosure-day.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The movie follows Daniel and Margaret, two characters who uncover buried childhood alien abduction experiences and latent powers — math g...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: people.com  
-   Link: <a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
+   Link:<a href="https://people.com/disclosure-day-movie-ending-explained-11994547" target="_blank" rel="noopener noreferrer nofollow">https://people.com/disclosure-day-movie-ending-explained-11994547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the movie hints at a deeper alien plan involving Daniel and Margaret as empathic ambassadors, much about the alien species and tech...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gamesradar.com  
-   Link: <a href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</p></details>
+   Link:<a href="https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/entertainment/sci-fi-movies/disclosure-day-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story centers on Daniel and Margaret, two strangers with mysterious gifts from a past alien encounter in 1996. As they uncover a cons...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</p></details>
+   Link:<a href="https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/disclosure-day-steven-spielberg-emily-blunt-josh-oconnor-cover-story-11992832?srsltid=AfmBOorW7yiY4pL2QemTGFwecErb_BnkAz94-62qNQtBP5q4ioBMsK8z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg exposes the truth about &#x27;Disclosure Day&#x27;3 days ago — Out of this world: Steven Spielberg exposes the truth about his lat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure DayDisclosure Day is a 2026 American science fiction thriller film directed and produced by Steven Spielberg from a screenp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CQhSDMYNlL_" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CQhSDMYNlL_</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY | Official Trailer (2026) 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CQhSDMYNlL_" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CQhSDMYNlL_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY | Official Trailer (2026) 4K...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B3FHIY2zfc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B3FHIY2zfc4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY... &quot;Worst Movie of the Decade&quot; | 2026 Review, Steven Spielberg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B3FHIY2zfc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B3FHIY2zfc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DISCLOSURE DAY... &quot;Worst Movie of the Decade&quot; | 2026 Review, Steven Spielberg...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cntraveler.com  
    Title: Condé Nast Traveler Where Was Disclosure Day Filmed?  
-   Link: <a href="https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Midwestern America of Spielberg&#x27;s Latest Sci-FiToday — Steven Spielberg&#x27;s sci-fi thriller *Disclosure Day* was crafted to feel ground...</p></details>
+   Link:<a href="https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/where-was-disclosure-day-filmed-the-midwestern-america-of-spielbergs-latest-sci-fi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Midwestern America of Spielberg&#x27;s Latest Sci-FiToday — Steven Spielberg&#x27;s sci-fi thriller *Disclosure Day* was crafted to feel ground...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</p></details>
+   Link:<a href="https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/entertainment/disclosure-day-review-theres-an-alien-coverup-in-steven-spielbergs-exciting-sci-fi-movie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike his previous works like *Close Encounters* or *E.T.*, this movie steers away from space invasions or lovable extraterrestrials. In...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day | Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t alone, if...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UFe6NRgoXCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UFe6NRgoXCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day | Official TeaserA film by Steven Spielberg. Disclosure Day is in theaters 06.12.26. If you found out we weren&#x27;t alone, if...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of Roy Neary, an everyday blue-collar worker in Indi...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind | JH Wiki Collection 2.0 WikiThe film depicts the story of Roy Neary, an everyday blue-collar worker in Indi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: disclosuredaymovie.com  
-   Link: <a href="https://www.disclosuredaymovie.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosuredaymovie.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ind showtimes, and get tickets here. In Theaters 06.12.26...</p></details>
+   Link:<a href="https://www.disclosuredaymovie.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosuredaymovie.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ind showtimes, and get tickets here. In Theaters 06.12.26...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: raymorton.com  
-   Link: <a href="https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Steven Spielberg&#x27;s Classic FilmThe story of the making of CE3K is almost as amazing as the movie itself. Filmed on a variet...</p></details>
+   Link:<a href="https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.raymorton.com/books/close-encounters-of-the-third-kind-the-making-of-steven-spielbergs-classic-film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Steven Spielberg&#x27;s Classic FilmThe story of the making of CE3K is almost as amazing as the movie itself. Filmed on a variet...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSSundayMorning/posts/steven-spielberg-wrote-disclosure-day-on-his-ipad-typing-out-the-feature-film-in/1372469238082748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSSundayMorning/posts/steven-spielberg-wrote-disclosure-day-on-his-ipad-typing-out-the-feature-film-in/1372469238082748/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg wrote “Disclosure Day” on his iPadDisclosure Day director Steven Spielberg reveals to audiences what they can expect to...</p></details>
+   Link:<a href="https://www.facebook.com/CBSSundayMorning/posts/steven-spielberg-wrote-disclosure-day-on-his-ipad-typing-out-the-feature-film-in/1372469238082748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSSundayMorning/posts/steven-spielberg-wrote-disclosure-day-on-his-ipad-typing-out-the-feature-film-in/1372469238082748/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg wrote “Disclosure Day” on his iPadDisclosure Day director Steven Spielberg reveals to audiences what they can expect to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hzsnls/just_saw_close_encounters_for_the_first_time_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hzsnls/just_saw_close_encounters_for_the_first_time_i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesus had 12 disciples. Spellers likes crystals, he enjoys stone mountain because of the stones. Devils tower is a big land mass. Maybe...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hzsnls/just_saw_close_encounters_for_the_first_time_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hzsnls/just_saw_close_encounters_for_the_first_time_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesus had 12 disciples. Spellers likes crystals, he enjoys stone mountain because of the stones. Devils tower is a big land mass. Maybe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kuow.org  
-   Link: <a href="https://www.kuow.org/stories/disclosure-day-isn-t-as-out-of-this-world-as-its-premise" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/disclosure-day-isn-t-as-out-of-this-world-as-its-premise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I could imagine and much more about what other people have actually witnessed...Read more...</p></details>
+   Link:<a href="https://www.kuow.org/stories/disclosure-day-isn-t-as-out-of-this-world-as-its-premise" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/disclosure-day-isn-t-as-out-of-this-world-as-its-premise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I could imagine and much more about what other people have actually witnessed...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: memoria.film  
-   Link: <a href="https://memoria.film/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://memoria.film/disclosure-day-ending-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rid, blowing the transformers and disabling the station&#x27;s backup generators.Read more...</p></details>
+   Link:<a href="https://memoria.film/disclosure-day-ending-explained/" target="_blank" rel="noopener noreferrer nofollow">https://memoria.film/disclosure-day-ending-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rid, blowing the transformers and disabling the station&#x27;s backup generators.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: in close encounters of the third kind 1977 j  
-   Link: <a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Close Encounters of the Third Kind (1977) J. Allen...-Fifth Kind: Direct communications between aliens and humans.... Devil&#x27;s Tower...</p></details>
+   Link:<a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Close Encounters of the Third Kind (1977) J. Allen...-Fifth Kind: Direct communications between aliens and humans.... Devil&#x27;s Tower...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eruditorumpress.com  
    Title: sensor scan close encounters of the third kind  
-   Link: <a href="https://www.eruditorumpress.com/blog/sensor-scan-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.eruditorumpress.com/blog/sensor-scan-close-encounters-of-the-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg quite evidently did his homework properly. Of course the aliens would point Lacombe&#x27;s research team to Devil&#x27;s Tower. And of...</p></details>
+   Link:<a href="https://www.eruditorumpress.com/blog/sensor-scan-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.eruditorumpress.com/blog/sensor-scan-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spielberg quite evidently did his homework properly. Of course the aliens would point Lacombe&#x27;s research team to Devil&#x27;s Tower. And of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly can&#x27;t blame them — they&#x27;re meeting a possibly dangerous...</p></details>
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Film/CloseEncountersOfTheThirdKind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly can&#x27;t blame them — they&#x27;re meeting a possibly dangerous...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: yahoo.com  
    Title: steven spielberg the first 10 years close encounters exclusive excerpt 195847036  
-   Link: <a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreyfus with Devil&#x27;s Tower in the background in Close Encounters of the...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/steven-spielberg-the-first-10-years-close-encounters-exclusive-excerpt-195847036.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreyfus with Devil&#x27;s Tower in the background in Close Encounters of the...</p></details>

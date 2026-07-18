@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-cold-war/
 description: Focused pages that expand on Cold War.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_cold_war_alien_fear_f86079
 parent_title: Cold War
@@ -16,7 +16,7 @@ parent_permalink: /cold-war/
 
 # Explore Topics in Cold War
 
-The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in.
 
 - [Body Snatchers Repla Cdec 2 B]({{ '/body-snatchers-repla-cdec-2-b/' | relative_url }})
 - [Fifties UFO Failed C Ef 04 B3]({{ '/fifties-ufo-failed-c-ef-04-b3/' | relative_url }})

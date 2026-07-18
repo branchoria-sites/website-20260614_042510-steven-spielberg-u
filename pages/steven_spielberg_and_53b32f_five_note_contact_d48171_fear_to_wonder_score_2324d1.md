@@ -264,24 +264,24 @@ image: /assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_
 
 ## Introduction
 
-One reason *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* remains distinctive within Steven Spielberg’s UFO films is that John Williams refuses to treat the unknown as either wholly terrifying or instantly uplifting. Instead, the score guides the audience through a gradual emotional transformation. Early scenes are filled with unstable harmonies, dissonant clusters and uncertain textures that make the UFO presence feel unsettling. By the finale, those same musical ideas evolve into clear melodic statements and tonal resolution. The result is not a sudden switch from fear to joy, but a carefully earned journey in which wonder emerges from uncertainty. Music becomes the mechanism that allows both the characters and the audience to reinterpret the alien presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+One reason *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* remains distinctive within Steven Spielberg’s UFO films is that John Williams refuses to treat the unknown as either wholly terrifying or instantly uplifting. Instead, the score guides the audience through a gradual emotional transformation. Early scenes are filled with unstable harmonies, dissonant clusters and uncertain textures that make the UFO presence feel unsettling. By the finale, those same musical ideas evolve into clear melodic statements and tonal resolution. The result is not a sudden switch from fear to joy, but a carefully earned journey in which wonder emerges from uncertainty. Music becomes the mechanism that allows both the characters and the audience to reinterpret the alien presence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-1-dark.svg" | relative_url }}" alt="Fear To Wonder Score 2324 D1 illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Threatening Clusters and Uncertainty
 
-Williams begins by placing listeners in a sonic world where certainty is deliberately withheld. Much of the score’s first half relies on textures rather than memorable melodies. Dense orchestral clusters, chromatic movement and ambiguous harmonies create a sense that something intelligent is present but cannot yet be understood. Critics and analysts have frequently noted that large portions of the score are far more modernist and atonal than the lush orchestral style commonly associated with Williams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-title">Atonality in Close Encounters</span><span class="citation-popover-snippet">Atonality in Close Encounters - General DiscussionSeptember 6, 2007 — 6 Sept 2007 — Discussions of the music from Close Encounters t...</span><span class="citation-popover-meta">Published: September 6, 2007</span></span></span>
+Williams begins by placing listeners in a sonic world where certainty is deliberately withheld. Much of the score’s first half relies on textures rather than memorable melodies. Dense orchestral clusters, chromatic movement and ambiguous harmonies create a sense that something intelligent is present but cannot yet be understood. Critics and analysts have frequently noted that large portions of the score are far more modernist and atonal than the lush orchestral style commonly associated with Williams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-title">Atonality in Close Encounters</span><span class="citation-popover-snippet">Atonality in Close Encounters - General DiscussionSeptember 6, 2007 — 6 Sept 2007 — Discussions of the music from Close Encounters t...</span><span class="citation-popover-meta">Published: September 6, 2007</span></span></span>
 
-This approach serves a dramatic purpose. The UFOs are not introduced as friendly visitors. [Witnesses]({{ 'witnesses/' | relative_url }}) encounter unexplained lights, electrical disturbances and experiences that challenge ordinary perception. Rather than reassuring the audience, Williams mirrors that confusion through music that often resists clear tonal centres. In scenes associated with visions and unexplained encounters, shimmering textures and dissonant sonorities create a feeling of mystery that is neither outright horror nor comfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">close encounters of the third kind john williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KINDMay 28, 2018 — 28 May 2018 — As Roy struggles to unlock the mystery of their shared visio...</span><span class="citation-popover-meta">Published: May 28, 2018</span></span></span>
+This approach serves a dramatic purpose. The UFOs are not introduced as friendly visitors. [Witnesses]({{ 'witnesses/' | relative_url }}) encounter unexplained lights, electrical disturbances and experiences that challenge ordinary perception. Rather than reassuring the audience, Williams mirrors that confusion through music that often resists clear tonal centres. In scenes associated with visions and unexplained encounters, shimmering textures and dissonant sonorities create a feeling of mystery that is neither outright horror nor comfort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moviemusicuk.us">[MOVIE MUSIC UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moviemusicuk.us</span><span class="citation-popover-title">close encounters of the third kind john williams</span><span class="citation-popover-snippet">MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KINDMay 28, 2018 — 28 May 2018 — As Roy struggles to unlock the mystery of their shared visio...</span><span class="citation-popover-meta">Published: May 28, 2018</span></span></span>
 
-What makes the score unusual is that these unsettling sounds are not simply musical warnings. In many science-fiction films, dissonance marks an enemy. In *Close Encounters*, dissonance instead marks the limits of human understanding. The music sounds strange because the phenomenon itself is strange. Fear arises from uncertainty rather than aggression. This distinction becomes crucial to the film’s eventual emotional payoff. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+What makes the score unusual is that these unsettling sounds are not simply musical warnings. In many science-fiction films, dissonance marks an enemy. In *Close Encounters*, dissonance instead marks the limits of human understanding. The music sounds strange because the phenomenon itself is strange. Fear arises from uncertainty rather than aggression. This distinction becomes crucial to the film’s eventual emotional payoff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lQJadmOaHvE" title="John Williams conducts Excerpts From Close Encounters Of The Third Kind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lQJadmOaHvE" target="_blank" rel="noopener noreferrer">John Williams conducts Excerpts From Close Encounters Of The Third Kind</a></p><p class="youtube-embed-meta">Channel: martyprod2 &middot; Views: 262.1K &middot; Uploaded: August 2011</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lQJadmOaHvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lQJadmOaHvE">Open on YouTube</a></p></div></div></div>
 
 ## The Motif as Emotional Bridge
 
-The famous five-note communication motif functions as a bridge between those two emotional states. It is simple enough to feel comprehensible, yet unusual enough to retain an aura of mystery. Instead of arriving as a fully developed theme, it gradually accumulates significance throughout the film. Scholars have described Williams’s broader design as a process in which small musical ideas grow in meaning across the narrative until they reach their fullest expression near the end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+The famous five-note communication motif functions as a bridge between those two emotional states. It is simple enough to feel comprehensible, yet unusual enough to retain an aura of mystery. Instead of arriving as a fully developed theme, it gradually accumulates significance throughout the film. Scholars have described Williams’s broader design as a process in which small musical ideas grow in meaning across the narrative until they reach their fullest expression near the end.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
 The motif therefore performs two tasks simultaneously.
 
@@ -291,11 +291,11 @@ The motif therefore performs two tasks simultaneously.
 * It preserves the aliens’ otherness because it does not sound like a conventional heroic melody.
 * It offers structure and recognisability, giving humans and aliens a shared pattern.
 * It transforms communication from a technological problem into a musical one.
-* It allows the audience to hear intelligence before fully understanding it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+* It allows the audience to hear intelligence before fully understanding it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
 </div>
 
-This gradual development is essential to the balance between fear and wonder. If Williams had introduced a sweeping, openly emotional theme from the beginning, the mystery would have disappeared. Conversely, if the score had remained entirely abstract and dissonant, the finale could have felt emotionally distant. The motif occupies a middle ground. It is the first musical sign that the unknown might be understandable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+This gradual development is essential to the balance between fear and wonder. If Williams had introduced a sweeping, openly emotional theme from the beginning, the mystery would have disappeared. Conversely, if the score had remained entirely abstract and dissonant, the finale could have felt emotionally distant. The motif occupies a middle ground. It is the first musical sign that the unknown might be understandable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7L1HHGNa5pI" title="CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condensed Score by tomekkobialka)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7L1HHGNa5pI" target="_blank" rel="noopener noreferrer">CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condensed Score by tomekkobialka)</a></p><p class="youtube-embed-meta">Channel: tomekkobialka &middot; Views: 63.4K &middot; Uploaded: November 2019</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7L1HHGNa5pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7L1HHGNa5pI">Open on YouTube</a></p></div></div></div>
@@ -306,207 +306,207 @@ This gradual development is essential to the balance between fear and wonder. If
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-2-dark.svg" | relative_url }}" alt="Fear To Wonder Score 2324 D1 illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_five_note_contact_d48171_fear_to_wonder_score_2324d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tonal Arrival in the Finale
 
-The climax at [Devils Tower]({{ 'devils-tower/' | relative_url }}) succeeds because Williams finally delivers the resolution that the score has been postponing. Musicologists have pointed out that the score’s overall trajectory moves from atonality associated with the initially threatening mystery toward increasingly tonal and celebratory writing once the visitors are revealed as benign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+The climax at [Devils Tower]({{ 'devils-tower/' | relative_url }}) succeeds because Williams finally delivers the resolution that the score has been postponing. Musicologists have pointed out that the score’s overall trajectory moves from atonality associated with the initially threatening mystery toward increasingly tonal and celebratory writing once the visitors are revealed as benign.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
-This shift is not merely a change in mood. It is the culmination of a long structural process. Earlier musical fragments become complete statements. Harmonic ambiguity gives way to clear tonal direction. The audience experiences relief because the music has spent so much time delaying it. Analysts have even highlighted Williams’s use of striking tonal arrivals after extended dissonant passages, making moments of consonance feel revelatory rather than routine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
+This shift is not merely a change in mood. It is the culmination of a long structural process. Earlier musical fragments become complete statements. Harmonic ambiguity gives way to clear tonal direction. The audience experiences relief because the music has spent so much time delaying it. Analysts have even highlighted Williams’s use of striking tonal arrivals after extended dissonant passages, making moments of consonance feel revelatory rather than routine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span>
 
-The communication sequence between humans and the mothership demonstrates this balance perfectly. The exchange retains an element of unpredictability—the aliens remain mysterious—but the musical dialogue is now governed by order rather than chaos. The same unknown force that once inspired anxiety now inspires curiosity and awe. Because the score has travelled so far emotionally, the audience is prepared to accept the film’s optimistic interpretation of first contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-snippet">Restored Isolated Score/Thematic Breakdown12 Oct 2020 — An overview of the main themes I&#x27;ll be referring to: The Five Notes: The mai...</span></span></span>
+The communication sequence between humans and the mothership demonstrates this balance perfectly. The exchange retains an element of unpredictability—the aliens remain mysterious—but the musical dialogue is now governed by order rather than chaos. The same unknown force that once inspired anxiety now inspires curiosity and awe. Because the score has travelled so far emotionally, the audience is prepared to accept the film’s optimistic interpretation of first contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jwfan.com">[JWFan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jwfan.com</span><span class="citation-popover-snippet">Restored Isolated Score/Thematic Breakdown12 Oct 2020 — An overview of the main themes I&#x27;ll be referring to: The Five Notes: The mai...</span></span></span>
 
-Williams’s achievement lies in making wonder feel earned. The finale is uplifting not because fear disappears, but because fear has been transformed into understanding. Within Spielberg’s vision of UFOs, music becomes the medium through which the unknown stops being a threat and becomes an invitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Musical analyses of film music tend to be concerned</span><span class="citation-popover-snippet">OUP AcademicAllusion and Teleological Genesis in John Williams&#x27;s Close...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusi...</span></span></span>
+Williams’s achievement lies in making wonder feel earned. The finale is uplifting not because fear disappears, but because fear has been transformed into understanding. Within Spielberg’s vision of UFOs, music becomes the medium through which the unknown stops being a threat and becomes an invitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Allusion and Teleological Genesis in John Williams&#x27;s Close</span><span class="citation-popover-snippet">Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</span><span class="citation-popover-meta">Published: January 1, 2014</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Musical analyses of film music tend to be concerned</span><span class="citation-popover-snippet">OUP AcademicAllusion and Teleological Genesis in John Williams&#x27;s Close...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kjQbJKYVGEY" title="This Might Be The GREATEST Movie Theme Of ALL Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kjQbJKYVGEY" target="_blank" rel="noopener noreferrer">This Might Be The GREATEST Movie Theme Of ALL Time</a></p><p class="youtube-embed-meta">Channel: Charles Cornell &middot; Views: 341.7K &middot; Uploaded: February 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kjQbJKYVGEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kjQbJKYVGEY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Fear To Wonder Score 2324 D1. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Fear To Wonder Score 2324 D1. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;"><img src="{{ '/assets/images/marketplace-covers/d262a6a773df06cf52ef.jpg' | relative_url }}" alt="Listing image for Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Unidentified Flying Objects/UFO Movie/Film Poster Art PICTURE / PRINT 12&quot; x 9.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="fear-to-wonder-score-2324-d1-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,131 +712,131 @@ Williams’s achievement lies in making wonder feel earned. The finale is uplift
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
    Title: Allusion and Teleological Genesis in John Williams's Close  
-   Link: <a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</p></details>
+   Link:<a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allusion and Teleological Genesis in John Williams&#x27;s Close...January 1, 2014 — This paper explores the musical techniques employ...</p></details>
    Published: January 1, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
    Title: Musical analyses of film music tend to be concerned  
-   Link: <a href="https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAllusion and Teleological Genesis in John Williams&#x27;s Close...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusi...</p></details>
+   Link:<a href="https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mq/article-pdf/97/1/98/3826775/gdu001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAllusion and Teleological Genesis in John Williams&#x27;s Close...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jwfan.com  
    Title: Atonality in Close Encounters  
-   Link: <a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atonality in Close Encounters - General DiscussionSeptember 6, 2007 — 6 Sept 2007 — Discussions of the music from Close Encounters t...</p></details>
+   Link:<a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F13709-atonality-in-close-encounters%2F=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atonality in Close Encounters - General DiscussionSeptember 6, 2007 — 6 Sept 2007 — Discussions of the music from Close Encounters t...</p></details>
    Published: September 6, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jwfan.com  
-   Link: <a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Restored Isolated Score/Thematic Breakdown12 Oct 2020 — An overview of the main themes I&#x27;ll be referring to: The [Five Notes](&amp;#123;&amp;#123; &#x27;five-notes/&#x27; | relative_url &amp;#125;&amp;#125;): The mai...</p></details>
+   Link:<a href="https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=" target="_blank" rel="noopener noreferrer nofollow">https://www.jwfan.com/forums/index.php?%2Ftopic%2F33009-restored-isolated-scorethematic-breakdown-close-encounters-of-the-third-kind%2F=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Restored Isolated Score/Thematic Breakdown12 Oct 2020 — An overview of the main themes I&#x27;ll be referring to: The [Five Notes](&amp;#123;&amp;#123; &#x27;five-notes/&#x27; | relative_url &amp;#125;&amp;#125;): The mai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/mq/article-abstract/97/1/98/1095560" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mq/article-abstract/97/1/98/1095560</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fulfillment: Allusion and Teleological Genesis in John...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusion and Teleologi...</p></details>
+   Link:<a href="https://academic.oup.com/mq/article-abstract/97/1/98/1095560" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mq/article-abstract/97/1/98/1095560</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fulfillment: Allusion and Teleological Genesis in John...by T Schneller · 2014 · Cited by 23 — Sweet Fulfillment: Allusion and Teleologi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ryan.p.stauffer/a-new-encounter-with-close-encounters-of-the-third-kind-26e545c8097b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ryan.p.stauffer/a-new-encounter-with-close-encounters-of-the-third-kind-26e545c8097b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Encounter with Close Encounters of the Third KindFor almost the entirety of the score, when Williams is not focused on pure texture...</p></details>
+   Link:<a href="https://medium.com/%40ryan.p.stauffer/a-new-encounter-with-close-encounters-of-the-third-kind-26e545c8097b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ryan.p.stauffer/a-new-encounter-with-close-encounters-of-the-third-kind-26e545c8097b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Encounter with Close Encounters of the Third KindFor almost the entirety of the score, when Williams is not focused on pure texture...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: briantibbsmusic.com  
    Title: close encounters how john williams wished upon a star  
-   Link: <a href="https://briantibbsmusic.com/blogs/what-the-jester-whispered/posts/7683343/close-encounters-how-john-williams-wished-upon-a-star" target="_blank" rel="noopener noreferrer nofollow">https://briantibbsmusic.com/blogs/what-the-jester-whispered/posts/7683343/close-encounters-how-john-williams-wished-upon-a-star</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: How John Williams Wished Upon a StarThis main theme is a variation of the first bar of When You Wish, in that both are...</p></details>
+   Link:<a href="https://briantibbsmusic.com/blogs/what-the-jester-whispered/posts/7683343/close-encounters-how-john-williams-wished-upon-a-star" target="_blank" rel="noopener noreferrer nofollow">https://briantibbsmusic.com/blogs/what-the-jester-whispered/posts/7683343/close-encounters-how-john-williams-wished-upon-a-star</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: How John Williams Wished Upon a StarThis main theme is a variation of the first bar of When You Wish, in that both are...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: This Might Be The GREATEST Movie Theme Of ALL Time  
-   Link: <a href="https://www.youtube.com/watch?v=kjQbJKYVGEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kjQbJKYVGEY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condensed Score by tomemekkobialka)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kjQbJKYVGEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kjQbJKYVGEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condensed Score by tomemekkobialka)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://www.youtube.com/watch?v=7L1HHGNa5pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7L1HHGNa5pI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Light Show&quot; by John Williams (Score Reduction and Analysis)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7L1HHGNa5pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7L1HHGNa5pI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Light Show&quot; by John Williams (Score Reduction and Analysis)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: John Williams conducts Excerpts From Close Encounters Of The Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=lQJadmOaHvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQJadmOaHvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - &quot;The Conversation&quot; - Transcription...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lQJadmOaHvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQJadmOaHvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - &quot;The Conversation&quot; - Transcription...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=g8_7r45wl2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g8_7r45wl2s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams Close Encounters of the Third Kind score analysis CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g8_7r45wl2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g8_7r45wl2s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams Close Encounters of the Third Kind score analysis CLOSE ENCOUNTERS OF THE THIRD KIND - Final Act by John Williams (Condense...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: moviemusicuk.us  
    Title: close encounters of the third kind john williams  
-   Link: <a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KINDMay 28, 2018 — 28 May 2018 — As Roy struggles to unlock the mystery of their shared visio...</p></details>
+   Link:<a href="https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/" target="_blank" rel="noopener noreferrer nofollow">https://moviemusicuk.us/2018/05/28/close-encounters-of-the-third-kind-john-williams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOVIE MUSIC UKCLOSE ENCOUNTERS OF THE THIRD KINDMay 28, 2018 — 28 May 2018 — As Roy struggles to unlock the mystery of their shared visio...</p></details>
    Published: May 28, 2018  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: filozofia.uni-miskolc.hu  
-   Link: <a href="https://filozofia.uni-miskolc.hu/wp-content/uploads/2020/03/KassabianAnahid2001-HearingFilm.TrackingIdentificationsInContemporaryHollywoodFilmMusic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://filozofia.uni-miskolc.hu/wp-content/uploads/2020/03/KassabianAnahid2001-HearingFilm.TrackingIdentificationsInContemporaryHollywoodFilmMusic.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film: Tracking Identifications in Contemporary...Each of those mean- ings corresponds to musical features that can be agglomerated to fo...</p></details>
+   Link:<a href="https://filozofia.uni-miskolc.hu/wp-content/uploads/2020/03/KassabianAnahid2001-HearingFilm.TrackingIdentificationsInContemporaryHollywoodFilmMusic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://filozofia.uni-miskolc.hu/wp-content/uploads/2020/03/KassabianAnahid2001-HearingFilm.TrackingIdentificationsInContemporaryHollywoodFilmMusic.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film: Tracking Identifications in Contemporary...Each of those mean- ings corresponds to musical features that can be agglomerated to fo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 273276987 Modal Interchange and Semantic Resonance in Themes by John Williams  
-   Link: <a href="https://www.researchgate.net/publication/273276987_Modal_Interchange_and_Semantic_Resonance_in_Themes_by_John_Williams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273276987_Modal_Interchange_and_Semantic_Resonance_in_Themes_by_John_Williams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modal Interchange and Semantic Resonance in...17 Jun 2016 — This article examines the semantic properties of several characteristi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/273276987_Modal_Interchange_and_Semantic_Resonance_in_Themes_by_John_Williams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273276987_Modal_Interchange_and_Semantic_Resonance_in_Themes_by_John_Williams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modal Interchange and Semantic Resonance in...17 Jun 2016 — This article examines the semantic properties of several characteristi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thefridacinema.org  
    Title: a little night music john williams and close encounters of the third kind  
-   Link: <a href="https://thefridacinema.org/2022/06/20/a-little-night-music-john-williams-and-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://thefridacinema.org/2022/06/20/a-little-night-music-john-williams-and-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Little Night Music: John Williams and Close Encounters...20 Jun 2022 — Close Encounters, to me, is very much an experience and experim...</p></details>
+   Link:<a href="https://thefridacinema.org/2022/06/20/a-little-night-music-john-williams-and-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://thefridacinema.org/2022/06/20/a-little-night-music-john-williams-and-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Little Night Music: John Williams and Close Encounters...20 Jun 2022 — Close Encounters, to me, is very much an experience and experim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thelistenersclub.com  
    Title: john williams close encounters of the third kind a cinematic tone poem  
-   Link: <a href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow">https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — John Williams&#x27; haunting, ethereal score is integral to the drama of Steve...</p></details>
+   Link:<a href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow">https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; “Close Encounters of the Third Kind”3 Jan 2020 — John Williams&#x27; haunting, ethereal score is integral to the drama of Steve...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eprints.soton.ac.uk  
-   Link: <a href="https://eprints.soton.ac.uk/414097/1/LIBRARY_COPY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/414097/1/LIBRARY_COPY.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Southampton Research Repositoryby E Audissino · 2017 · Cited by 1 — 33 Tom Schneller, &#x27;Sweet Fulfillment: Allusion and Teleological Ge...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/414097/1/LIBRARY_COPY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/414097/1/LIBRARY_COPY.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Southampton Research Repositoryby E Audissino · 2017 · Cited by 1 — 33 Tom Schneller, &#x27;Sweet Fulfillment: Allusion and Teleological Ge...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12635886412/posts/10164710619326413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12635886412/posts/10164710619326413/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I like the b side best, with the 5 tone theme building up to the climatic finale. The...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12635886412/posts/10164710619326413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12635886412/posts/10164710619326413/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I like the b side best, with the 5 tone theme building up to the climatic finale. The...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: filmtracks.com  
-   Link: <a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first act of the story offers lengthy sequences of atonal and discordant passages.Read more...</p></details>
+   Link:<a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first act of the story offers lengthy sequences of atonal and discordant passages.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
    Title: modal interchange and semantic resonance pdf  
-   Link: <a href="https://www.scribd.com/document/456128214/modal-interchange-and-semantic-resonance-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456128214/modal-interchange-and-semantic-resonance-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>64-75. Schneller, Tom. 2014. Sweet fulfillment: Allusion and teleological genesis in John Williams&#x27;s Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.scribd.com/document/456128214/modal-interchange-and-semantic-resonance-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456128214/modal-interchange-and-semantic-resonance-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>64-75. Schneller, Tom. 2014. Sweet fulfillment: Allusion and teleological genesis in John Williams&#x27;s Close Encounters of the Third Kind...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUgore3jJj2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUgore3jJj2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd Condensed Score /Composed John Willliams •Reducedby...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUgore3jJj2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUgore3jJj2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd Condensed Score /Composed John Willliams •Reducedby...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unitec.ac.nz  
    Title: The Musical Quarterly, 97, 98-131  
-   Link: <a href="https://www.unitec.ac.nz/epress/wp-content/uploads/2018/03/Matthew-Everingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unitec.ac.nz/epress/wp-content/uploads/2018/03/Matthew-Everingham.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Everingham Orchestrating Film - Unitecby OFB HERRMANN · Cited by 2 — Sweet fulfillment: Allusion and teleological genesis in John...</p></details>
+   Link:<a href="https://www.unitec.ac.nz/epress/wp-content/uploads/2018/03/Matthew-Everingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unitec.ac.nz/epress/wp-content/uploads/2018/03/Matthew-Everingham.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Everingham Orchestrating Film - Unitecby OFB HERRMANN · Cited by 2 — Sweet fulfillment: Allusion and teleological genesis in John...</p></details>

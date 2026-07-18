@@ -442,7 +442,7 @@ image: /assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151-ov
 
 ## Introduction
 
-*Close Encounters of the Third Kind* is Spielberg’s clearest UFO blueprint because it turns a flying-saucer sighting into a complete dramatic system: an ordinary witness is changed by what he sees, official institutions know more than they admit, isolated believers are treated as unstable, and the final answer is not war but communication. Released in 1977, the film did more than add aliens to the Hollywood blockbuster. It absorbed the language of UFO culture, including J. Allen Hynek’s “close encounter” classification, and reshaped it into a myth of awe, [secrecy]({{ 'secrecy/' | relative_url }}) and first contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+*Close Encounters of the Third Kind* is Spielberg’s clearest UFO blueprint because it turns a flying-saucer sighting into a complete dramatic system: an ordinary witness is changed by what he sees, official institutions know more than they admit, isolated believers are treated as unstable, and the final answer is not war but communication. Released in 1977, the film did more than add aliens to the Hollywood blockbuster. It absorbed the language of UFO culture, including J. Allen Hynek’s “close encounter” classification, and reshaped it into a myth of awe, [secrecy]({{ 'secrecy/' | relative_url }}) and first contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151-overview.webp" | relative_url }}" alt="Overview image for Close Encounters" loading="eager" decoding="sync" fetchpriority="high">
@@ -450,23 +450,23 @@ That is why *Close Encounters* still defines the Spielberg-UFO connection more t
 
 ## The Sighting Becomes a Life-Changing Event
 
-The film’s crucial move is to make the UFO sighting an inner rupture rather than a simple spectacle. [Roy Neary]({{ 'roy-neary/' | relative_url }}) is not a soldier, scientist or chosen action hero. He is an electrical lineman whose encounter with a UFO burns his face, disrupts his work, and gradually overwhelms his family life. BFI’s John Oliver notes that Spielberg deliberately shifted the central figure away from an armed-services or police protagonist towards an “Average Joe” type, making Roy’s disintegration easier for audiences to identify with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+The film’s crucial move is to make the UFO sighting an inner rupture rather than a simple spectacle. [Roy Neary]({{ 'roy-neary/' | relative_url }}) is not a soldier, scientist or chosen action hero. He is an electrical lineman whose encounter with a UFO burns his face, disrupts his work, and gradually overwhelms his family life. BFI’s John Oliver notes that Spielberg deliberately shifted the central figure away from an armed-services or police protagonist towards an “Average Joe” type, making Roy’s disintegration easier for audiences to identify with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
 That choice became foundational for Spielberg’s UFO grammar. The sighting is not treated as a puzzle to be solved from a safe distance. It invades ordinary life. Roy’s mashed-potato mound, his frantic model-building, and his fixation on an image he cannot name all turn UFO experience into a psychological and domestic event. The question is no longer only “what was in the sky?” but “what does seeing it do to a person?”
 
 This was a sharp contrast with much earlier flying-saucer cinema, where the alien presence often arrived as an external threat to be defeated. Spielberg instead makes the witness’s obsession the centre of the story. The terror lies partly in not being believed, partly in not understanding oneself, and partly in being drawn towards something that feels more important than normal responsibilities. That is why Roy’s behaviour can look selfish, ecstatic and frightening at once. He is not simply uncovering a mystery; he is being remade by it.
 
-Jillian Guiler’s story gives the same blueprint a more vulnerable form. Her UFO encounter ends with the abduction of her young son Barry, making the contact experience both wondrous and traumatic. The film therefore refuses to make awe easy. Its contact is beautiful, but it also tears holes in ordinary life before it becomes transcendent. BFI describes the film as interlacing Roy and Jillian’s “normal characters dealing with abnormal situations” with a scientific investigation and cover-up, which is exactly the structure later UFO stories would repeatedly borrow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+Jillian Guiler’s story gives the same blueprint a more vulnerable form. Her UFO encounter ends with the abduction of her young son Barry, making the contact experience both wondrous and traumatic. The film therefore refuses to make awe easy. Its contact is beautiful, but it also tears holes in ordinary life before it becomes transcendent. BFI describes the film as interlacing Roy and Jillian’s “normal characters dealing with abnormal situations” with a scientific investigation and cover-up, which is exactly the structure later UFO stories would repeatedly borrow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151-Illustration-1-dark.svg" | relative_url }}" alt="Close Encounters illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_close_encounters_blu_a20151-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## UFO Culture Enters the Blockbuster
 
-*Close Encounters* was not a documentary, but it was unusually close to real UFO discourse for a major Hollywood fantasy. The title came from astronomer and UFO researcher J. Allen Hynek’s hierarchy of encounter types. AFI’s production history records that Columbia purchased rights to Hynek’s book *The UFO Experience* and hired him as technical adviser after a dispute over the title and concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+*Close Encounters* was not a documentary, but it was unusually close to real UFO discourse for a major Hollywood fantasy. The title came from astronomer and UFO researcher J. Allen Hynek’s hierarchy of encounter types. AFI’s production history records that Columbia purchased rights to Hynek’s book *The UFO Experience* and hired him as technical adviser after a dispute over the title and concept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
-Hynek’s involvement mattered because it gave the film a bridge into UFO culture without forcing Spielberg to make a literal case for extraterrestrial visitation. Hynek had been associated with official UFO investigation through the US Air Force’s Project Blue Book and later became known for arguing that some cases deserved more serious study. Time’s account of Hynek’s role in UFO history describes him as an astronomer recruited to help examine reports, later developing the “close encounter” classification system and becoming more suspicious of official handling of UFO evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5492638/project-blue-book-tv-show-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Aliens and Cold War Paranoia Collide in Project Blue Book</span><span class="citation-popover-snippet">Air Force&#x27;s real-life investigation of UFO sightings during the post-World War II era, when tensions with the Soviet Union were high. J...</span></span></span>
+Hynek’s involvement mattered because it gave the film a bridge into UFO culture without forcing Spielberg to make a literal case for extraterrestrial visitation. Hynek had been associated with official UFO investigation through the US Air Force’s Project Blue Book and later became known for arguing that some cases deserved more serious study. Time’s account of Hynek’s role in UFO history describes him as an astronomer recruited to help examine reports, later developing the “close encounter” classification system and becoming more suspicious of official handling of UFO evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5492638/project-blue-book-tv-show-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Aliens and Cold War Paranoia Collide in Project Blue Book</span><span class="citation-popover-snippet">Air Force&#x27;s real-life investigation of UFO sightings during the post-World War II era, when tensions with the Soviet Union were high. J...</span></span></span>
 
-Spielberg also researched witness culture directly. AFI cites a 1977 *Los Angeles Times* report saying he interviewed “airline pilots, air traffic controllers, and housewives” while avoiding people he considered unreliable. That detail reveals the film’s balance: it wants the texture of testimony, radar rooms and official investigation, but it also filters the material through dramatic judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
+Spielberg also researched witness culture directly. AFI cites a 1977 *Los Angeles Times* report saying he interviewed “airline pilots, air traffic controllers, and housewives” while avoiding people he considered unreliable. That detail reveals the film’s balance: it wants the texture of testimony, radar rooms and official investigation, but it also filters the material through dramatic judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">Catalog AFI&#124;Catalog</span><span class="citation-popover-snippet">AFI CatalogAFI&#124;Catalog...</span></span></span>
 
 The result is a film that feels sourced from UFO belief without being trapped by it. The audience sees multiple kinds of evidence: visual sightings, electrical interference, missing aircraft, strange signals, witnesses converging on the same mental image, and an official operation that clearly knows more than it says. Yet Spielberg’s interest is not in proving a case file. He uses UFO culture as a storytelling architecture: fragments, denials, patterns, compulsions, then revelation.
 
@@ -475,7 +475,7 @@ The result is a film that feels sourced from UFO belief without being trapped by
 
 ## Secrecy Turns Witnesses into Outsiders
 
-The government cover-up in *Close Encounters* is not a side plot. It is one of the film’s central engines. Officials stage a public health emergency around Devil’s Tower to clear civilians away from the landing site, while scientists and military personnel prepare for contact behind a controlled perimeter. BFI links this strand to the post-Watergate mood of suspicion and to the belief that official bodies had concealed UFO activity since the 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+The government cover-up in *Close Encounters* is not a side plot. It is one of the film’s central engines. Officials stage a public health emergency around Devil’s Tower to clear civilians away from the landing site, while scientists and military personnel prepare for contact behind a controlled perimeter. BFI links this strand to the post-Watergate mood of suspicion and to the belief that official bodies had concealed UFO activity since the 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
 That historical mood is important. The film appeared in the late 1970s, after Vietnam and Watergate had damaged trust in government institutions. Spielberg does not portray the state as purely villainous; Claude Lacombe and the scientific team are curious, humane and serious. But the machinery around them is deceptive. It withholds information, isolates witnesses, and turns contact into a managed secret rather than a shared human event.
 
@@ -489,7 +489,7 @@ Roy and Jillian therefore become [outsiders]({{ 'outsiders/' | relative_url }}) 
 
 The film’s most radical choice is its emotional destination. *Close Encounters* begins with fear, confusion and abduction imagery, but it ends in music, light and mutual recognition. Spielberg does not remove danger from the UFO encounter; he redirects it towards awe. The unknown is terrifying because it is immense, not because it is malicious.
 
-John Williams’s five-note motif is the key to this transformation. It makes communication the climax of the film. Instead of translating alien contact into military confrontation, Spielberg and Williams translate it into call and response. The BFI notes that the climactic alien-contact sequence stands above the film’s earlier iconic images, with Williams’s score helping prevent the ending from collapsing into embarrassment or sentimentality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+John Williams’s five-note motif is the key to this transformation. It makes communication the climax of the film. Instead of translating alien contact into military confrontation, Spielberg and Williams translate it into call and response. The BFI notes that the climactic alien-contact sequence stands above the film’s earlier iconic images, with Williams’s score helping prevent the ending from collapsing into embarrassment or sentimentality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
 This was not simply a decorative musical idea. The five tones turn the first-contact scene into a ritual of listening. Human beings do not defeat the alien intelligence, decode it completely, or subordinate it to a government briefing. They answer it. The mothership’s arrival becomes a performance in which technology, music, colour and gesture merge.
 
@@ -502,9 +502,9 @@ That is the deepest Spielbergian blueprint in the film: contact is a test of rec
 
 *Close Encounters* changed UFO cinema by giving it a new emotional centre. The saucer was no longer just a threat, a hoax, or a [Cold War]({{ 'cold-war/' | relative_url }}) metaphor. It became a summons. The witness was no longer merely a victim or crank; he could be a damaged but necessary receiver of meaning. The cover-up was no longer just a thriller device; it became a way to dramatise the loneliness of knowing something that cannot be publicly said.
 
-The Library of Congress blog on the National Film Registry notes that *Close Encounters* was added to the Registry in 2007 and says the film “seemed to codify the popular depiction of space aliens.” That wording is useful because it captures the film’s broader cultural effect: Spielberg did not invent UFO mythology, but he gave it one of its most memorable screen forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Library of Congress blog on the National Film Registry notes that *Close Encounters* was added to the Registry in 2007 and says the film “seemed to codify the popular depiction of space aliens.” That wording is useful because it captures the film’s broader cultural effect: Spielberg did not invent UFO mythology, but he gave it one of its most memorable screen forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Its influence also comes from what it refuses to settle. The film does not offer a full alien ideology, a detailed explanation of the visitors, or a neat moral judgement on Roy’s abandonment of family life. Some critics have found that ambiguity troubling. BFI’s archive review argues that the film’s theme is almost identical to its plot mechanism: the process by which Roy is drawn from ordinary middle America into a transcendental experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">close encounter with steven spielberg</span><span class="citation-popover-snippet">close encounter with steven spielberg</span></span></span>
+Its influence also comes from what it refuses to settle. The film does not offer a full alien ideology, a detailed explanation of the visitors, or a neat moral judgement on Roy’s abandonment of family life. Some critics have found that ambiguity troubling. BFI’s archive review argues that the film’s theme is almost identical to its plot mechanism: the process by which Roy is drawn from ordinary middle America into a transcendental experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/interviews/close-encounter-with-steven-spielberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">close encounter with steven spielberg</span><span class="citation-popover-snippet">close encounter with steven spielberg</span></span></span>
 
 That critique points to the film’s power as well as its limitation. *Close Encounters* is less a policy argument about UFO disclosure than a cinematic model of enchantment. It asks what it would feel like if the signs were real, if the witnesses were right, and if the hidden pattern finally opened into a shared event. Its blueprint is emotional before it is evidential.
 
@@ -534,194 +534,194 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Close Encounters Rewired UFO Movies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Close Encounters Rewired UFO Movies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek&#x27;s encounter classifications inspired the film&#x27;s title and framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek&#x27;s encounter classifications inspired the film&#x27;s title and framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Focuses on J. Allen Hynek, a crucial influence on Spielberg&#x27;s UFO mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on J. Allen Hynek, a crucial influence on Spielberg&#x27;s UFO mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Directly examines the production, UFO influences and cultural impact of Close Encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the production, UFO influences and cultural impact of Close Encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g"><img src="{{ '/assets/images/marketplace-covers/8fe5e74848d1db2dc050.jpg' | relative_url }}" alt="Listing image for Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Hayabusa 1/32 Spacecraft Model Used Astro Probe, Similar to UFO, No.1 55g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/2d467856e3c5a4eb10ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/2d467856e3c5a4eb10ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/e8c02459afa8b95f12ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..."><img src="{{ '/assets/images/marketplace-covers/e8c02459afa8b95f12ff.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lo...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+spacecraft+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO spacecraft model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket" data-ebay-reference="close-encounters-how-close-encounters-rewired-ufo-movies-steven-spielberg-and-ufos-ufo-spacecraft-model-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,144 +927,144 @@ This is why *Close Encounters* remains Spielberg’s defining UFO work. It does 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogAFI|Catalog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bfi.org.uk  
-   Link: <a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
+   Link:<a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Title: Aliens and Cold War Paranoia Collide in <i>Project Blue Book</i>  
-   Link: <a href="https://time.com/5492638/project-blue-book-tv-show-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5492638/project-blue-book-tv-show-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s real-life investigation of UFO sightings during the post-World War II era, when tensions with the Soviet Union were high. J...</p></details>
+   Title: Aliens and Cold War Paranoia Collide in<i>Project Blue Book</i>  
+   Link:<a href="https://time.com/5492638/project-blue-book-tv-show-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5492638/project-blue-book-tv-show-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s real-life investigation of UFO sightings during the post-World War II era, when tensions with the Soviet Union were high. J...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bfi.org.uk  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster</a>  
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/reviews/close-encounters-third-kind-archive-review-startlingly-innovative-blockbuster</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Film InstituteThe American Film Institute (AFI) is a nonprofit organization with a mandate to champion the moving image as an ar...</p></details>
+   Link:<a href="https://www.afi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Film InstituteThe American Film Institute (AFI) is a nonprofit organization with a mandate to champion the moving image as an ar...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: j allen hynek ufos project blue book  
-   Link: <a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe film depicts the interconnected stories of Roy Neary (Dreyfuss), an everyday blue-collar worker...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindThe film depicts the interconnected stories of Roy Neary (Dreyfuss), an everyday blue-collar worker...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: twinpeaks.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: filmfestival.nl  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.filmfestival.nl/film/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.filmfestival.nl/film/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.filmfestival.nl/film/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.filmfestival.nl/film/close-encounters-of-the-third-kind</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/J-Allen-Hynek</a>  
+   Link:<a href="https://www.britannica.com/biography/J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/J-Allen-Hynek</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: everlist.me  
    Title: close encounters of the third kind  
-   Link: <a href="https://everlist.me/movie/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://everlist.me/movie/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://everlist.me/movie/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://everlist.me/movie/close-encounters-of-the-third-kind</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: johnloomis.org  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
+   Link:<a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Everything You Need To Know About Close Encounters of the Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=ra8ikzuPcCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ra8ikzuPcCA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Messiest Masterpiece: Close Encounters of the Third Kind (Movie Review)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ra8ikzuPcCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ra8ikzuPcCA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Messiest Masterpiece: Close Encounters of the Third Kind (Movie Review)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zkGBorUslUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zkGBorUslUc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need To Know About Close Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zkGBorUslUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zkGBorUslUc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need To Know About Close Encounters of the Third Kind...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z6rSwFk-Mk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z6rSwFk-Mk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Sparked Spielberg&#x27;s Interest in UFOs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: This Man Sparked Spielberg's Interest in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassifying Close Encounters of the Third Kind (1977), part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lIGQii6wA04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassifying Close Encounters of the Third Kind (1977), part 1...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10161972934591696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161972934591696/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2</a>  
+   Link:<a href="https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZbnKmCJst/?hl=he&amp;img_index=2</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: morningstar.com.au  
-   Link: <a href="https://www.morningstar.com.au/investments/security/ASX/AFI" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstar.com.au/investments/security/ASX/AFI</a>  
+   Link:<a href="https://www.morningstar.com.au/investments/security/ASX/AFI" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstar.com.au/investments/security/ASX/AFI</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: afi.com.au  
-   Link: <a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  
+   Link:<a href="https://www.afi.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com.au/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sfcrowsnest.info  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  

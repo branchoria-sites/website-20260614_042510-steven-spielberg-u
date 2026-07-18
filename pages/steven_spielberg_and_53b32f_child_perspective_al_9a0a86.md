@@ -446,19 +446,19 @@ Steven Spielberg’s alien films often make first contact feel most truthful whe
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-overview.webp" | relative_url }}" alt="Overview image for Child View" loading="eager" decoding="sync" fetchpriority="high">
-This matters within Spielberg’s UFO imagination because his aliens are rarely just “things in the sky”. They expose what humans bring to the encounter. In *E.T.*, Elliott’s openness turns the alien from an object of pursuit into a friend; in *Close Encounters*, Barry’s delighted response to uncanny forces makes the UFO visitation feel both terrifying and inviting; in *War of the Worlds*, Rachel’s terror strips away spectacle and leaves survival, parenthood and vulnerability at ground level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatson.bfi.org.uk">[BFI Southbank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatson.bfi.org.uk</span><span class="citation-popover-title">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span><span class="citation-popover-snippet">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+This matters within Spielberg’s UFO imagination because his aliens are rarely just “things in the sky”. They expose what humans bring to the encounter. In *E.T.*, Elliott’s openness turns the alien from an object of pursuit into a friend; in *Close Encounters*, Barry’s delighted response to uncanny forces makes the UFO visitation feel both terrifying and inviting; in *War of the Worlds*, Rachel’s terror strips away spectacle and leaves survival, parenthood and vulnerability at ground level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatson.bfi.org.uk">[BFI Southbank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatson.bfi.org.uk</span><span class="citation-popover-title">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span><span class="citation-popover-snippet">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-3-dark.svg" | relative_url }}" alt="Child View illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fear and Wonder from Below
 
-Spielberg’s most famous child-centred alien film, *E.T. the Extra-Terrestrial*, works because its science-fiction premise is filtered through the emotional logic of childhood. The alien is not introduced as a geopolitical event. He is found in a shed, hidden in a bedroom, dressed among toys, taught words, protected from grown-ups and loved before he is understood. The British Film Institute’s synopsis catches the essential structure: a stranded alien finds shelter with ten-year-old Elliott, who shows him the world and tries to protect him from adults, while the two develop a sensory bond and a friendship built around getting E.T. home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatson.bfi.org.uk">[BFI Southbank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatson.bfi.org.uk</span><span class="citation-popover-title">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span><span class="citation-popover-snippet">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span></span></span>
+Spielberg’s most famous child-centred alien film, *E.T. the Extra-Terrestrial*, works because its science-fiction premise is filtered through the emotional logic of childhood. The alien is not introduced as a geopolitical event. He is found in a shed, hidden in a bedroom, dressed among toys, taught words, protected from grown-ups and loved before he is understood. The British Film Institute’s synopsis catches the essential structure: a stranded alien finds shelter with ten-year-old Elliott, who shows him the world and tries to protect him from adults, while the two develop a sensory bond and a friendship built around getting E.T. home.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatson.bfi.org.uk">[BFI Southbank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatson.bfi.org.uk</span><span class="citation-popover-title">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span><span class="citation-popover-snippet">BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial &#124; BFI Southbank</span></span></span>
 
-That framing changes the viewer’s questions. A more conventional UFO film might ask where the visitor came from, what its biology is, or what government agencies will do. *E.T.* asks whether a child can recognise another vulnerable being before adults can classify it. The famous phrase “E.T. phone home” became one of American cinema’s best-known lines, but its power comes from the fact that the sentence is learned in a child’s space: the alien’s wish is not conquest, but reunion. AFI records the line among its major American movie quotations, an indication of how strongly the film’s childlike language entered popular memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-title">American Film Institute AFI&#x27;s 100 Years…100 Movie Quotes</span><span class="citation-popover-snippet">child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</span></span></span>
+That framing changes the viewer’s questions. A more conventional UFO film might ask where the visitor came from, what its biology is, or what government agencies will do. *E.T.* asks whether a child can recognise another vulnerable being before adults can classify it. The famous phrase “E.T. phone home” became one of American cinema’s best-known lines, but its power comes from the fact that the sentence is learned in a child’s space: the alien’s wish is not conquest, but reunion. AFI records the line among its major American movie quotations, an indication of how strongly the film’s childlike language entered popular memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-title">American Film Institute AFI&#x27;s 100 Years…100 Movie Quotes</span><span class="citation-popover-snippet">child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</span></span></span>
 
 The child’s view also allows Spielberg to combine terror and tenderness without resolving the alien too quickly. E.T. is strange, wrinkled, slow-moving and physically vulnerable. Elliott is frightened at first, but his fear does not harden into hostility. The friendship develops through small acts of experimentation: food, hiding, imitation, play, language and touch. This is not childish because it is simple; it is childlike because it treats contact as relational before it is analytical.
 
-*Close Encounters of the Third Kind* uses the child perspective differently. Barry Guiler is not the protagonist, but his scenes give the film some of its clearest signals about how Spielberg wants the audience to feel. The UFO presence animates toys, opens domestic spaces and draws Barry towards the unknown. AFI’s plot summary notes that three-year-old Barry wakes to find his toys operating on their own and later becomes the child at the centre of Jillian’s terrifying abduction sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
+*Close Encounters of the Third Kind* uses the child perspective differently. Barry Guiler is not the protagonist, but his scenes give the film some of its clearest signals about how Spielberg wants the audience to feel. The UFO presence animates toys, opens domestic spaces and draws Barry towards the unknown. AFI’s plot summary notes that three-year-old Barry wakes to find his toys operating on their own and later becomes the child at the centre of Jillian’s terrifying abduction sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span>
 
 Barry’s smallness matters. The encounter is frightening because the door, the light and the unseen visitors are enormous compared with him. Yet his response is not only panic. Spielberg’s visual grammar makes the unknown look like danger and invitation at once. The child does not “solve” the UFO; he feels its pull before the adults can explain it. In that sense, Barry becomes a tuning fork for the film’s larger mood: awe that has not yet been bureaucratised.
 
@@ -466,15 +466,15 @@ Barry’s smallness matters. The encounter is frightening because the door, the 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-1-dark.svg" | relative_url }}" alt="Child View illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_child_perspective_al_9a0a86-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Adults as Systems of Control
 
-Spielberg’s child perspective becomes sharper because adults often enter these films as systems before they enter as people. In *E.T.*, Elliott’s mother Mary is loving but overburdened and unaware; the more threatening adults are the faceless agents, scientists and authorities who close in on the house. A scholarly reading by Ilsa J. Bick, published in *Cinema Journal*, argues that from the child’s perspective adult males appear as faceless torsos or alien-like figures, a point that captures how strongly the film’s early visual field belongs to children rather than institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1225169" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">The Look Back in ET</span><span class="citation-popover-snippet">BickJune 13, 1992 — by IJ Bick · 1992 · Cited by 15 — Seen from a child&#x27;s perspective, all of the adult males are either faceless torsos...</span><span class="citation-popover-meta">Published: June 13, 1992</span></span></span>
+Spielberg’s child perspective becomes sharper because adults often enter these films as systems before they enter as people. In *E.T.*, Elliott’s mother Mary is loving but overburdened and unaware; the more threatening adults are the faceless agents, scientists and authorities who close in on the house. A scholarly reading by Ilsa J. Bick, published in *Cinema Journal*, argues that from the child’s perspective adult males appear as faceless torsos or alien-like figures, a point that captures how strongly the film’s early visual field belongs to children rather than institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1225169" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">The Look Back in ET</span><span class="citation-popover-snippet">BickJune 13, 1992 — by IJ Bick · 1992 · Cited by 15 — Seen from a child&#x27;s perspective, all of the adult males are either faceless torsos...</span><span class="citation-popover-meta">Published: June 13, 1992</span></span></span>
 
-This is not merely a camera trick. It is a moral arrangement. The adults have equipment, vehicles, containment procedures and medical authority, but they are late to the truth of the situation. Elliott and his siblings are not scientifically competent, yet they understand the most important fact: E.T. is a person-like being in need of help. AFI’s own Movie Club discussion prompts this contrast directly, asking why the children react differently to E.T. than the adults and why their approach to the alien visitor is so different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-title">American Film Institute AFI&#x27;s 100 Years…100 Movie Quotes</span><span class="citation-popover-snippet">child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</span></span></span>
+This is not merely a camera trick. It is a moral arrangement. The adults have equipment, vehicles, containment procedures and medical authority, but they are late to the truth of the situation. Elliott and his siblings are not scientifically competent, yet they understand the most important fact: E.T. is a person-like being in need of help. AFI’s own Movie Club discussion prompts this contrast directly, asking why the children react differently to E.T. than the adults and why their approach to the alien visitor is so different.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afi.com">[American Film Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afi.com</span><span class="citation-popover-title">American Film Institute AFI&#x27;s 100 Years…100 Movie Quotes</span><span class="citation-popover-snippet">child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</span></span></span>
 
-The production method supported that emotional priority. In a 1983 *American Cinematographer* interview, Spielberg said he avoided storyboards for most of *E.T.* because they might “smother the spontaneous reaction” of young children; he wanted to come to the set and respond more instinctively. He made an exception for special-effects work, where technical planning was unavoidable, but the key point is revealing: the film’s child perspective was not just written into the story, it shaped the way performances were captured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theasc.com">[The American Society of Cinematographers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theasc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The production method supported that emotional priority. In a 1983 *American Cinematographer* interview, Spielberg said he avoided storyboards for most of *E.T.* because they might “smother the spontaneous reaction” of young children; he wanted to come to the set and respond more instinctively. He made an exception for special-effects work, where technical planning was unavoidable, but the key point is revealing: the film’s child perspective was not just written into the story, it shaped the way performances were captured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theasc.com">[The American Society of Cinematographers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theasc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same interview explains why Spielberg’s fantasy feels domestic rather than decorative. He said he did not want a fairy-tale “Never-Neverland” atmosphere; he wanted viewers to believe E.T. could walk into their own backyards and homes. That decision is crucial to the child’s-eye mechanism. The alien is wondrous not because the world has become unreal, but because the ordinary suburban world is suddenly large enough to contain him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theasc.com">[The American Society of Cinematographers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theasc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same interview explains why Spielberg’s fantasy feels domestic rather than decorative. He said he did not want a fairy-tale “Never-Neverland” atmosphere; he wanted viewers to believe E.T. could walk into their own backyards and homes. That decision is crucial to the child’s-eye mechanism. The alien is wondrous not because the world has become unreal, but because the ordinary suburban world is suddenly large enough to contain him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theasc.com">[The American Society of Cinematographers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theasc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In *Close Encounters*, adults are not simply villains. Scientists, interpreters and UFO investigators are necessary to the final act of communication. AFI notes that Spielberg’s title drew on astronomer J. Allen Hynek’s hierarchy of alien encounters, and that Hynek’s book rights were purchased while Hynek served as technical adviser on the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span> Yet the film still contrasts institutional management with childlike receptivity. The authorities can build a landing site, manage [secrecy]({{ 'secrecy/' | relative_url }}) and decode signals, but they cannot generate wonder by procedure. Barry’s scenes remind the viewer what the bureaucratic machinery risks losing.
+In *Close Encounters*, adults are not simply villains. Scientists, interpreters and UFO investigators are necessary to the final act of communication. AFI notes that Spielberg’s title drew on astronomer J. Allen Hynek’s hierarchy of alien encounters, and that Hynek’s book rights were purchased while Hynek served as technical adviser on the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span> Yet the film still contrasts institutional management with childlike receptivity. The authorities can build a landing site, manage [secrecy]({{ 'secrecy/' | relative_url }}) and decode signals, but they cannot generate wonder by procedure. Barry’s scenes remind the viewer what the bureaucratic machinery risks losing.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0xWMqsZOYWg" title="E.T.: The Extra-Terrestrial (2/10) Movie CLIP - Getting Drunk (1982) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0xWMqsZOYWg" target="_blank" rel="noopener noreferrer">E.T.: The Extra-Terrestrial (2/10) Movie CLIP - Getting Drunk (1982) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 5.1M &middot; Uploaded: May 2011</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0xWMqsZOYWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0xWMqsZOYWg">Open on YouTube</a></p></div></div></div>
@@ -483,13 +483,13 @@ In *Close Encounters*, adults are not simply villains. Scientists, interpreters 
 
 The most important function of children in Spielberg’s alien films is not innocence in a vague sense. It is empathy under pressure. The child sees the alien clearly because the child has less invested in categories of control: citizen and foreigner, human and non-human, specimen and threat. Spielberg’s films repeatedly ask whether adults can recover enough of that openness to respond humanely.
 
-*E.T.* is the clearest version of this test. Elliott is lonely, bruised by family fracture and hungry for connection. AFI’s production history notes that earlier versions of the project were associated with titles such as *Growing Up*, *A Boy’s Life* and *E.T. and Me*, and that Columbia regarded the project as a “kid’s picture” before it moved to Universal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span> Those working titles matter because they show how deeply the alien story was tied to childhood before it became a global science-fiction landmark.
+*E.T.* is the clearest version of this test. Elliott is lonely, bruised by family fracture and hungry for connection. AFI’s production history notes that earlier versions of the project were associated with titles such as *Growing Up*, *A Boy’s Life* and *E.T. and Me*, and that Columbia regarded the project as a “kid’s picture” before it moved to Universal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-title">67160 CLOSE ENCOUNTERS OF THE THIRD KIND</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</span></span></span> Those working titles matter because they show how deeply the alien story was tied to childhood before it became a global science-fiction landmark.
 
 The children’s secrecy in *E.T.* is sometimes comic, but it also has ethical weight. They hide E.T. because disclosure would turn him into property of the adult world. Their house becomes a fragile sanctuary, and the bedroom becomes an alternative first-contact site: not a laboratory, not a military base, not a press conference, but a child’s room. Spielberg’s UFO imagination is at its most moving when the fate of the alien depends on whether a child’s private loyalty can survive public intrusion.
 
-In *War of the Worlds*, Spielberg darkens the same moral structure. Rachel is not a bridge to a friendly visitor; she is a child trying to survive an invasion she cannot interpret. The film’s emotional centre is not curiosity but terror, and that difference reflects Spielberg’s changed mode. Hannah Hamad’s study of the film argues that *War of the Worlds* is framed as a domestic crisis in which Ray Ferrier begins as a failing father and undergoes a form of paternal rehabilitation through the catastrophe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">War of the Worlds HH</span><span class="citation-popover-snippet">Extreme Parenting: Recuperating Fatherhood in Steven Spielberg’s War of the Worlds (2005)...</span></span></span>
+In *War of the Worlds*, Spielberg darkens the same moral structure. Rachel is not a bridge to a friendly visitor; she is a child trying to survive an invasion she cannot interpret. The film’s emotional centre is not curiosity but terror, and that difference reflects Spielberg’s changed mode. Hannah Hamad’s study of the film argues that *War of the Worlds* is framed as a domestic crisis in which Ray Ferrier begins as a failing father and undergoes a form of paternal rehabilitation through the catastrophe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">War of the Worlds HH</span><span class="citation-popover-snippet">Extreme Parenting: Recuperating Fatherhood in Steven Spielberg’s War of the Worlds (2005)...</span></span></span>
 
-Rachel’s child perspective matters because it prevents the invasion from becoming a clean spectacle. She asks practical, frightened questions. She sees adults fail. She experiences the alien attack through noise, crowds, panic, hiding and the collapse of parental certainty. Spielberg praised Dakota Fanning’s performance by saying she quickly understood how she would react in a real situation and “tells you the truth” when the camera rolls; he also said he did not talk to child actors as though they were lesser participants in the work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chud.com">[CHUD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chud.com</span><span class="citation-popover-title">INTERVIEW: TOM CRUISE AND STEVEN SPIELBERG (WAR OF THE WORLDS) &#124; CHUD.com</span><span class="citation-popover-snippet">INTERVIEW: TOM CRUISE AND STEVEN SPIELBERG (WAR OF THE WORLDS) &#124; CHUD.com</span></span></span>
+Rachel’s child perspective matters because it prevents the invasion from becoming a clean spectacle. She asks practical, frightened questions. She sees adults fail. She experiences the alien attack through noise, crowds, panic, hiding and the collapse of parental certainty. Spielberg praised Dakota Fanning’s performance by saying she quickly understood how she would react in a real situation and “tells you the truth” when the camera rolls; he also said he did not talk to child actors as though they were lesser participants in the work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chud.com">[CHUD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chud.com</span><span class="citation-popover-title">INTERVIEW: TOM CRUISE AND STEVEN SPIELBERG (WAR OF THE WORLDS) &#124; CHUD.com</span><span class="citation-popover-snippet">INTERVIEW: TOM CRUISE AND STEVEN SPIELBERG (WAR OF THE WORLDS) &#124; CHUD.com</span></span></span>
 
 That comment helps explain the continuity between *E.T.* and *War of the Worlds*. The films have opposite alien ethics — one visitor is vulnerable, the others are annihilating — but both depend on taking a child’s response seriously. Elliott’s empathy reveals E.T.’s personhood. Rachel’s fear reveals Ray’s inadequacy and forces his transformation. In both cases, the child is not decoration around the alien plot; the child is the measure of whether the adult world is behaving well.
 
@@ -524,194 +524,194 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Children See Spielberg&#x27;s Aliens Clearly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Children See Spielberg&#x27;s Aliens Clearly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
-        </h4>
-        <p class="fr-book-author">By William Kotzwinkle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open E.T., the Extra-Terrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4617864-M.jpg" alt="Cover for E.T., the Extra-Terrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="E.T., the Extra-Terrestrial">E.T., the Extra-Terrestrial</a>
+</h4>
+<p class="fr-book-author">By William Kotzwinkle</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Fiction, Human-alien encounters, Juvenile fiction, Life on other planets, Fiction, media tie-in.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=E.T.%2C+the+Extra-Terrestrial+William+Kotzwinkle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Ray Morton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Ray Morton</p>
         
-        <p class="fr-book-desc">Covers Barry and other child perspectives that shape the film&#x27;s sense of wonder.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Barry and other child perspectives that shape the film&#x27;s sense of wonder.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The child that books built on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581034-M.jpg" alt="Cover for The child that books built" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The child that books built">The child that books built</a>
-        </h4>
-        <p class="fr-book-author">By Francis Spufford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The child that books built on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581034-M.jpg" alt="Cover for The child that books built" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The child that books built">The child that books built</a>
+</h4>
+<p class="fr-book-author">By Francis Spufford</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Psychological aspects of Young adult literature, Psychological aspects of Fiction, Psychological aspects...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Psychological aspects of Young adult literature, Psychological aspects of Fiction, Psychological aspects...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+child+that+books+built+Francis+Spufford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
-        </h4>
-        <p class="fr-book-author">By Joseph McBride</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+</h4>
+<p class="fr-book-author">By Joseph McBride</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Motion picture producers and directors, Motion pictures, production and direction, Motion pictures, biogr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Motion picture producers and directors, Motion pictures, production and direction, Motion pictures, biogr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+child+that+books+built&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The child that books built</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+child+that+books+built&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The child that books built</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="child-view-why-children-see-spielberg-s-aliens-clearly-steven-spielberg-and-ufos-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,180 +917,180 @@ In *Close Encounters*, that truth is wonder before explanation. In *E.T.*, it is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catalog.afi.com  
    Title: 67160 CLOSE ENCOUNTERS OF THE THIRD KIND  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogAn item in the 5 Feb 1976 HR reported that Watch the Skies was the new...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: orca.cardiff.ac.uk  
    Title: War of the Worlds HH  
-   Link: <a href="https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Parenting: Recuperating Fatherhood in Steven Spielberg’s War of the Worlds (2005)...</p></details>
+   Link:<a href="https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/105219/1/War%20of%20the%20Worlds%20HH.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Parenting: Recuperating Fatherhood in Steven Spielberg’s War of the Worlds (2005)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afi.com  
    Title: American Film Institute AFI's 100 Years…100 Movie Quotes  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</p></details>
+   Link:<a href="https://www.afi.com/afis-100-years-100-movie-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movie-quotes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>child go. After her talk with Rhett, Melanie, who has become pregnant despite... &quot;E.T. phone home.&quot; E.T.: The Extra-Terrestrial (1982)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jstor.org  
    Title: The Look Back in ET  
-   Link: <a href="https://www.jstor.org/stable/1225169" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1225169</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BickJune 13, 1992 — by IJ Bick · 1992 · Cited by 15 — Seen from a child&#x27;s perspective, all of the adult males are either faceless torsos...</p></details>
+   Link:<a href="https://www.jstor.org/stable/1225169" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1225169</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BickJune 13, 1992 — by IJ Bick · 1992 · Cited by 15 — Seen from a child&#x27;s perspective, all of the adult males are either faceless torsos...</p></details>
    Published: June 13, 1992  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/news/afi-movie-club-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/afi-movie-club-[e-t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Film InstituteAFI Movie Club: E.T.: THE EXTRA-TERRESTRIAL7 Apr 2020 — -What makes Elliott and E.T.&#x27;s friendship so meaningful th...</p></details>
+   Link:<a href="https://www.afi.com/news/afi-movie-club-[e-t" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/afi-movie-club-[e-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Film InstituteAFI Movie Club: E.T.: THE EXTRA-TERRESTRIAL7 Apr 2020 — -What makes Elliott and E.T.&#x27;s friendship so meaningful th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catalog.afi.com  
    Title: Catalog AFI|Catalog  
-   Link: <a href="https://catalog.afi.com/Catalog/moviedetails/67140" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67140</a>  
+   Link:<a href="https://catalog.afi.com/Catalog/moviedetails/67140" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Catalog/moviedetails/67140</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: chud.com  
    Title: INTERVIEW: TOM CRUISE AND STEVEN SPIELBERG (WAR OF THE WORLDS) | CHUD.com  
-   Link: <a href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/</a>  
+   Link:<a href="https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/3532/interview-tom-cruise-and-steven-spielberg-war-of-the-worlds/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afi.com  
    Title: e t the extra terrestrial afi movie club  
-   Link: <a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
+   Link:<a href="https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/news/e-t-the-extra-terrestrial-afi-movie-club/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afi.com  
    Title: steven spielberg  
-   Link: <a href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/laa/steven-spielberg/</a>  
+   Link:<a href="https://www.afi.com/laa/steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/laa/steven-spielberg/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: catalog.afi.com  
    Title: 54865 THE SUGARLAND EXPRESS  
-   Link: <a href="https://catalog.afi.com/Film/54865-THE-SUGARLAND-EXPRESS?cxt=topsearches" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/54865-THE-SUGARLAND-EXPRESS?cxt=topsearches</a>  
+   Link:<a href="https://catalog.afi.com/Film/54865-THE-SUGARLAND-EXPRESS?cxt=topsearches" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/54865-THE-SUGARLAND-EXPRESS?cxt=topsearches</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afi.com  
    Title: s 100 years 100 movies 10th anniversary edition  
-   Link: <a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: catalog.afi.com  
    Title: 59466 BLACK TOTHEPROMISEDLAND  
-   Link: <a href="https://catalog.afi.com/Film/59466-BLACK-TOTHEPROMISEDLAND?cp=1&amp;pos=4&amp;sid=be6efd9b-a2c6-4b5e-a508-59273a38aa48&amp;sr=0.023235966" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/59466-BLACK-TOTHEPROMISEDLAND?cp=1&amp;pos=4&amp;sid=be6efd9b-a2c6-4b5e-a508-59273a38aa48&amp;sr=0.023235966</a>  
+   Link:<a href="https://catalog.afi.com/Film/59466-BLACK-TOTHEPROMISEDLAND?cp=1&amp;pos=4&amp;sid=be6efd9b-a2c6-4b5e-a508-59273a38aa48&amp;sr=0.023235966" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/59466-BLACK-TOTHEPROMISEDLAND?cp=1&amp;pos=4&amp;sid=be6efd9b-a2c6-4b5e-a508-59273a38aa48&amp;sr=0.023235966</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afi.com  
-   Link: <a href="https://www.afi.com/afis-100-years-of-film-scores/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-of-film-scores/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-of-film-scores/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-of-film-scores/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: afi.com  
    Title: s 100 years 100 cheers  
-   Link: <a href="https://www.afi.com/afis-100-years-100-cheers/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-cheers/</a>  
+   Link:<a href="https://www.afi.com/afis-100-years-100-cheers/" target="_blank" rel="noopener noreferrer nofollow">https://www.afi.com/afis-100-years-100-cheers/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: chud.com  
    Title: tugging on the beard close encounters of the third kind  
-   Link: <a href="https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://chud.com/174/tugging-on-the-beard-close-encounters-of-the-third-kind/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: whatson.bfi.org.uk  
    Title: BFI Southbank Buy cinema tickets for E.T. the Extra-Terrestrial | BFI Southbank  
-   Link: <a href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow">https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026</a>  
+   Link:<a href="https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026" target="_blank" rel="noopener noreferrer nofollow">https://whatson.bfi.org.uk/Online/article/et-the-extra-terrestrial-2026</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theasc.com  
-   Link: <a href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://theasc.com/article/spielberg-et-the-extraterrestrial/</a>  
+   Link:<a href="https://theasc.com/article/spielberg-et-the-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://theasc.com/article/spielberg-et-the-extraterrestrial/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: Steven Spielberg  
-   Link: <a href="https://www.instagram.com/p/DV6wv5Mju6t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV6wv5Mju6t/</a>  
+   Link:<a href="https://www.instagram.com/p/DV6wv5Mju6t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV6wv5Mju6t/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commonsensemedia.org  
    Title: close encounters of the third kind  
-   Link: <a href="https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind</a>  
+   Link:<a href="https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/movie-reviews/close-encounters-of-the-third-kind</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: imdb.com  
    Title: Barry Guiler  
-   Link: <a href="https://www.imdb.com/title/tt0075860/characters/nm0346533/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/characters/nm0346533/</a>  
+   Link:<a href="https://www.imdb.com/title/tt0075860/characters/nm0346533/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0075860/characters/nm0346533/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
+   Link:<a href="https://www.britannica.com/topic/ET-The-Extra-Terrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ET-The-Extra-Terrestrial</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lifeandnothingmore.wordpress.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://lifeandnothingmore.wordpress.com/2016/05/29/close-encounters-of-the-third-kind/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: broadway.org.uk  
    Title: E.T. The Extra-Terrestrial  
-   Link: <a href="https://www.broadway.org.uk/whats-on/et-extra-terrestrial-0" target="_blank" rel="noopener noreferrer nofollow">https://www.broadway.org.uk/whats-on/et-extra-terrestrial-0</a>  
+   Link:<a href="https://www.broadway.org.uk/whats-on/et-extra-terrestrial-0" target="_blank" rel="noopener noreferrer nofollow">https://www.broadway.org.uk/whats-on/et-extra-terrestrial-0</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: letterboxd.com  
    Title: close encounters of the third kind  
-   Link: <a href="https://letterboxd.com/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://letterboxd.com/film/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/close-encounters-of-the-third-kind/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: E.T.: The Extra-Terrestrial (2/10) Movie CLIP  
-   Link: <a href="https://www.youtube.com/watch?v=0xWMqsZOYWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0xWMqsZOYWg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Story of How Spielberg Changed Movies Forever | Unpacked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0xWMqsZOYWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0xWMqsZOYWg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Story of How Spielberg Changed Movies Forever | Unpacked...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Aliens at the doorbell  
-   Link: <a href="https://www.youtube.com/watch?v=DHew1mzR1jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DHew1mzR1jw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E.T.: The Extra-Terrestrial (2/10) Movie CLIP - Getting Drunk (1982) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DHew1mzR1jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DHew1mzR1jw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.T.: The Extra-Terrestrial (2/10) Movie CLIP - Getting Drunk (1982) HD...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
+   Link:<a href="https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318354252_Alien_Invasions_and_Identity_Crisis_Steven_Spielberg%27s_The_War_of_the_Worlds_2005</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVW_rmGkSpV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVW_rmGkSpV/</a>  
+   Link:<a href="https://www.instagram.com/reel/DVW_rmGkSpV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVW_rmGkSpV/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10162066933916696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162066933916696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10162066933916696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162066933916696/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: inlibra.com  
-   Link: <a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
+   Link:<a href="https://www.inlibra.com/10.5771/9781498518857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781498518857.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1rl7ayn/close_encounters_of_the_third_kind_roys_kids_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1rl7ayn/close_encounters_of_the_third_kind_roys_kids_were/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1rl7ayn/close_encounters_of_the_third_kind_roys_kids_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1rl7ayn/close_encounters_of_the_third_kind_roys_kids_were/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/onceuponatimeinhollywood/posts/1794524624217116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/onceuponatimeinhollywood/posts/1794524624217116/</a>  
+   Link:<a href="https://www.facebook.com/groups/onceuponatimeinhollywood/posts/1794524624217116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/onceuponatimeinhollywood/posts/1794524624217116/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/577478936403574/posts/2024189121732541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/2024189121732541/</a>  
+   Link:<a href="https://www.facebook.com/groups/577478936403574/posts/2024189121732541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/577478936403574/posts/2024189121732541/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/288415079410335/posts/1456221735962991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/288415079410335/posts/1456221735962991/</a>  
+   Link:<a href="https://www.facebook.com/groups/288415079410335/posts/1456221735962991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/288415079410335/posts/1456221735962991/</a>  

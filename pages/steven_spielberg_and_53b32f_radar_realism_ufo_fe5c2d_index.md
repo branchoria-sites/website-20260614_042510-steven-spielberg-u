@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-radar/
 description: Focused pages that expand on Radar Realism.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_radar_realism_ufo_fe5c2d
 parent_title: Radar Realism
@@ -16,7 +16,7 @@ parent_permalink: /radar-realism/
 
 # Explore Topics in Radar Realism
 
-The following pages expand on the main **[Radar Realism]({{ '/radar-realism/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Radar Realism]({{ '/radar-realism/' | relative_url }})** page and cover its key branches in.
 
 - [Ce 3 K Atc Near Miss 9 C9879]({{ '/ce-3-k-atc-near-miss-9-c9879/' | relative_url }})
 - [Faa UAP Reporting Ca 103 D]({{ '/faa-uap-reporting-ca-103-d/' | relative_url }})

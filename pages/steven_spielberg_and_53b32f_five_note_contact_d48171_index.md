@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-five-note/
 description: Focused pages that expand on Five Notes.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_five_note_contact_d48171
 parent_title: Five Notes
@@ -16,7 +16,7 @@ parent_permalink: /five-notes/
 
 # Explore Topics in Five Notes
 
-The following pages expand on the main **[Five Notes]({{ '/five-notes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Five Notes]({{ '/five-notes/' | relative_url }})** page and cover its key branches in.
 
 - [Diegetic Music Plot Afe 5 Ff]({{ '/diegetic-music-plot-afe-5-ff/' | relative_url }})
 - [Fear To Wonder Score 2324 D1]({{ '/fear-to-wonder-score-2324-d1/' | relative_url }})

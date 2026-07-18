@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-spielberg-and-53b32f-spielberg/
 description: Focused pages that expand on Belief Shift.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: steven_spielberg_and_53b32f_spielberg_belief_shi_340948
 parent_title: Belief Shift
@@ -16,7 +16,7 @@ parent_permalink: /belief-shift/
 
 # Explore Topics in Belief Shift
 
-The following pages expand on the main **[Belief Shift]({{ '/belief-shift/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Belief Shift]({{ '/belief-shift/' | relative_url }})** page and cover its key branches in.
 
 - [Circumstantial Evide 8 E378 E]({{ '/circumstantial-evide-8-e378-e/' | relative_url }})
 - [Colbert Turning Poin 7 Cfaa 2]({{ '/colbert-turning-poin-7-cfaa-2/' | relative_url }})

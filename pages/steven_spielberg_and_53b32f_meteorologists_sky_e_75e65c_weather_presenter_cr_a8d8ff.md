@@ -263,17 +263,17 @@ In Spielberg-style UFO storytelling, [credibility]({{ 'credibility/' | relative_
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-1-dark.svg" | relative_url }}" alt="Weather Presenter Cr A8 D8 Ff illustration 1" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That dynamic helps explain why a character such as Margaret Fairchild, a television meteorologist, can become a persuasive UFO witness. The drama does not come from expertise alone. It comes from the audience knowing that this is someone whose daily job is to reduce mystery rather than create it. When the professional explainer encounters something they cannot readily explain, the unexplained feels more significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span>
+That dynamic helps explain why a character such as Margaret Fairchild, a television meteorologist, can become a persuasive UFO witness. The drama does not come from expertise alone. It comes from the audience knowing that this is someone whose daily job is to reduce mystery rather than create it. When the professional explainer encounters something they cannot readily explain, the unexplained feels more significant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span>
 
 ## Public Trust in Familiar Weather Voices
 
 Weather presenters occupy a distinctive place in public life. Unlike many experts, they appear regularly in people's homes, often every day. Their relationship with viewers is built on repeated demonstrations of competence: forecasting storms, explaining changing conditions, and interpreting uncertain information in understandable language.
 
-Research and professional commentary consistently describe broadcast meteorologists as unusually trusted communicators. The Royal Meteorological Society notes that weather presenters hold a unique position as trusted public voices because of their daily visibility and their role in translating complex atmospheric information into practical guidance. Studies of weather communication similarly describe television meteorologists as key intermediaries between technical expertise and public understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span>
+Research and professional commentary consistently describe broadcast meteorologists as unusually trusted communicators. The Royal Meteorological Society notes that weather presenters hold a unique position as trusted public voices because of their daily visibility and their role in translating complex atmospheric information into practical guidance. Studies of weather communication similarly describe television meteorologists as key intermediaries between technical expertise and public understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span>
 
 That trust matters in UFO narratives because audiences unconsciously apply the witness's professional reputation to the sighting itself. A report from a random observer may be dismissed as a mistake. A report from someone known for interpreting the sky invites a different question: if this person cannot account for what they saw, should the audience be paying closer attention?
 
-Spielberg's films have often relied on this mechanism. Rather than asking viewers to trust government officials automatically, they frequently build belief through people whose expertise appears relevant to the phenomenon being observed. The witness becomes credible not because they claim certainty, but because they are expected to recognise ordinary explanations first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+Spielberg's films have often relied on this mechanism. Rather than asking viewers to trust government officials automatically, they frequently build belief through people whose expertise appears relevant to the phenomenon being observed. The witness becomes credible not because they claim certainty, but because they are expected to recognise ordinary explanations first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kMKZ5AQiPE4" title="Disclosure Day Full Interview: Steven Spielberg &amp; Emily Blunt on Aliens, Humanity and More | E! News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kMKZ5AQiPE4" target="_blank" rel="noopener noreferrer">Disclosure Day Full Interview: Steven Spielberg &amp; Emily Blunt on Aliens, Humanity and More | E! News</a></p><p class="youtube-embed-meta">Channel: E! News &middot; Views: 5.2K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kMKZ5AQiPE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kMKZ5AQiPE4">Open on YouTube</a></p></div></div></div>
@@ -291,7 +291,7 @@ In a Spielberg-inspired story, Margaret Fairchild's profession therefore perform
 
 This combination narrows the space for easy dismissal. The audience can reasonably assume that she knows about cloud formations, weather balloons, optical effects and other common causes of strange aerial reports. Her testimony gains force because viewers expect those possibilities to have been considered before she treats an event as unusual.
 
-The effect resembles Spielberg's use of astronomer and UFO researcher J. Allen Hynek in the background of *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*. Hynek's involvement gave the film a connection to real-world expertise and UFO investigation methods. Columbia Pictures acquired rights to Hynek's work and employed him as a technical adviser, reinforcing the idea that extraordinary claims should be examined through informed observation rather than pure fantasy. AFI Catalog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
+The effect resembles Spielberg's use of astronomer and UFO researcher J. Allen Hynek in the background of *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*. Hynek's involvement gave the film a connection to real-world expertise and UFO investigation methods. Columbia Pictures acquired rights to Hynek's work and employed him as a technical adviser, reinforcing the idea that extraordinary claims should be examined through informed observation rather than pure fantasy. AFI Catalog<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-snippet">Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-2-dark.svg" | relative_url }}" alt="Weather Presenter Cr A8 D8 Ff illustration 2" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,7 +305,7 @@ Because of that, a weather presenter saying "I do not know" carries unusual narr
 
 The audience understands that this conclusion was reached only after other possibilities were considered. The witness has already performed the filtering process that viewers expect. The story therefore moves beyond simple observation into a more unsettling territory: the possibility that familiar categories are inadequate.
 
-This is a recurring feature of Spielberg's UFO storytelling. Characters are often ordinary people, but the narrative repeatedly introduces knowledgeable observers whose inability to resolve the mystery increases tension. The question becomes not whether something strange happened, but why people who should have answers do not possess them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
+This is a recurring feature of Spielberg's UFO storytelling. Characters are often ordinary people, but the narrative repeatedly introduces knowledgeable observers whose inability to resolve the mystery increases tension. The question becomes not whether something strange happened, but why people who should have answers do not possess them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.afi.com">[AFI Catalog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.afi.com</span><span class="citation-popover-snippet">AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWcgJS6ODBk" title="What are lenticular clouds and how do they form?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer">What are lenticular clouds and how do they form?</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 1.1K &middot; Uploaded: November 2025 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWcgJS6ODBk">Open on YouTube</a></p></div></div></div>
@@ -314,11 +314,11 @@ This is a recurring feature of Spielberg's UFO storytelling. Characters are ofte
 
 The credibility of a weather presenter also depends on a practical reality: many UFO reports do have atmospheric explanations.
 
-Lenticular clouds provide a classic example. These smooth, lens-shaped formations can resemble the popular image of a flying saucer and are regularly cited by meteorological organisations as a source of UFO misidentification. The Met Office explains that they form when air flows over mountains and creates standing atmospheric waves, producing distinctive cloud shapes that can appear artificial to observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</span></span></span>
+Lenticular clouds provide a classic example. These smooth, lens-shaped formations can resemble the popular image of a flying saucer and are regularly cited by meteorological organisations as a source of UFO misidentification. The Met Office explains that they form when air flows over mountains and creates standing atmospheric waves, producing distinctive cloud shapes that can appear artificial to observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</span></span></span>
 
 The importance of this example is not merely that some UFO reports have mundane explanations. It is that weather professionals know this. They are trained to recognise phenomena that may appear extraordinary to the public.
 
-Consequently, when a meteorologist reports an unexplained sighting, audiences may assume that familiar atmospheric causes have already been checked. The witness's expertise does not prove a UFO is extraordinary, but it raises the threshold for dismissing the report as a simple misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrispage.co.uk">[Chris Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrispage.co.uk</span><span class="citation-popover-snippet">Lenticular Cloud (Altocumulus Lenticularis)Lens shaped stationary clouds formed in stable air when the Weather. They&#x27;re often mistaken fo...</span></span></span>
+Consequently, when a meteorologist reports an unexplained sighting, audiences may assume that familiar atmospheric causes have already been checked. The witness's expertise does not prove a UFO is extraordinary, but it raises the threshold for dismissing the report as a simple misunderstanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrispage.co.uk">[Chris Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrispage.co.uk</span><span class="citation-popover-snippet">Lenticular Cloud (Altocumulus Lenticularis)Lens shaped stationary clouds formed in stable air when the Weather. They&#x27;re often mistaken fo...</span></span></span>
 
 
 <img src="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-3-dark.svg" | relative_url }}" alt="Weather Presenter Cr A8 D8 Ff illustration 3" data-theme-src-dark="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/steven_spielberg_and_53b32f_meteorologists_sky_e_75e65c_weather_presenter_cr_a8d8ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,201 +330,201 @@ The character is not a secret government investigator, military commander or lab
 
 This balance helps Spielberg-style stories maintain wonder without abandoning plausibility. The audience is encouraged to believe that normal explanations have been considered, yet the witness remains human enough to experience awe, confusion and uncertainty.
 
-That is why a television meteorologist can make a UFO witness feel credible. The profession carries an implicit promise: this is someone whose job is to explain strange skies. When that promise fails, the mystery feels larger than the sighting itself. The unexplained object becomes compelling because the person most expected to explain it cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-title">Broadcast meteorologists are generally trusted sources of information.Read more</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsNot just the weather: How TV meteorologists influence...13 Dec 2021 — Television weathercasters are mor...</span></span></span>
+That is why a television meteorologist can make a UFO witness feel credible. The profession carries an implicit promise: this is someone whose job is to explain strange skies. When that promise fails, the mystery feels larger than the sighting itself. The unexplained object becomes compelling because the person most expected to explain it cannot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">role media communicating weather and climate stories and impacts</span><span class="citation-popover-snippet">The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-title">Broadcast meteorologists are generally trusted sources of information.Read more</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsNot just the weather: How TV meteorologists influence...13 Dec 2021 — Television weathercasters are mor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YBKWkbKnYv4" title="Emily Blunt on Learning Korean, Russian, Alien for &#x27;Disclosure Day&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YBKWkbKnYv4" target="_blank" rel="noopener noreferrer">Emily Blunt on Learning Korean, Russian, Alien for &#x27;Disclosure Day&#x27;</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 20.9K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YBKWkbKnYv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YBKWkbKnYv4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Weather Presenter Cr A8 D8 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Weather Presenter Cr A8 D8 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek created the close-encounter framework that inspired Spielberg&#x27;s film title and served as an adviser on the movie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the most influential books on UFO culture and the mystery-oriented approach echoed in Spielberg&#x27;s work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="weather-presenter-cr-a8-d8-ff-steven-spielberg-and-ufos-ufo-movie-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ That is why a television meteorologist can make a UFO witness feel credible. The
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ That is why a television meteorologist can make a UFO witness feel credible. The
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ That is why a television meteorologist can make a UFO witness feel credible. The
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ That is why a television meteorologist can make a UFO witness feel credible. The
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ That is why a television meteorologist can make a UFO witness feel credible. The
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,135 +730,135 @@ That is why a television meteorologist can make a UFO witness feel credible. The
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rmets.org  
    Title: role media communicating weather and climate stories and impacts  
-   Link: <a href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</p></details>
+   Link:<a href="https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/news/role-media-communicating-weather-and-climate-stories-and-impacts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of the Media in Communicating Weather and...26 Aug 2025 — Broadcast meteorologists and Weather Presenters hold a unique po...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catalog.afi.com  
-   Link: <a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
+   Link:<a href="https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND" target="_blank" rel="noopener noreferrer nofollow">https://catalog.afi.com/Film/67160-CLOSE-ENCOUNTERS-OF-THE-THIRD-KIND</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI CatalogClose Encounters of the Third Kind (1977) - AFI CatalogA settlement resulted in Columbia purchasing the rights to Hynek&#x27;s book...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: silver.afi.com  
-   Link: <a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFI Silver Theatre and Cultural CenterCLOSE ENCOUNTERS OF THE THIRD KIND in 70mmRoy Neary (Richard Dreyfuss) [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) a UFO on an abando...</p></details>
+   Link:<a href="https://silver.afi.com/movies/detail/0100000773" target="_blank" rel="noopener noreferrer nofollow">https://silver.afi.com/movies/detail/0100000773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFI Silver Theatre and Cultural CenterCLOSE ENCOUNTERS OF THE THIRD KIND in 70mmRoy Neary (Richard Dreyfuss) [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) a UFO on an abando...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thebulletin.org  
    Title: Broadcast meteorologists are generally trusted sources of information.Read more  
-   Link: <a href="https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin of the Atomic ScientistsNot just the weather: How TV meteorologists influence...13 Dec 2021 — Television weathercasters are mor...</p></details>
+   Link:<a href="https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2021/12/not-just-the-weather-how-tv-meteorologists-influence-the-publics-views-on-climate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin of the Atomic ScientistsNot just the weather: How TV meteorologists influence...13 Dec 2021 — Television weathercasters are mor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tcm.com  
-   Link: <a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</p></details>
+   Link:<a href="https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/18629/close-encounters-of-the-third-kind-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesClose Encounters Of The Third KindAs for the film, it was inspired by The UFO Experience by Dr. J. Allen Hynek who s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formationsIf there is enough moisture in the air, the rising motion of the wave will cause water vapour to conden...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: chrispage.co.uk  
-   Link: <a href="https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis" target="_blank" rel="noopener noreferrer nofollow">https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Cloud (Altocumulus Lenticularis)Lens shaped stationary clouds formed in stable air when the Weather. They&#x27;re often mistaken fo...</p></details>
+   Link:<a href="https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis" target="_blank" rel="noopener noreferrer nofollow">https://chrispage.co.uk/weather-words/f/lenticular-cloud-altocumulus-lenticularis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Cloud (Altocumulus Lenticularis)Lens shaped stationary clouds formed in stable air when the Weather. They&#x27;re often mistaken fo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekHynek acted as scientific advisor to UFO studies undertaken by the U.S. Air Force under three projects: Project Sign (19...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen HynekHynek acted as scientific advisor to UFO studies undertaken by the U.S. Air Force under three projects: Project Sign (19...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind den...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind den...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the shape of a &quot;flying saucer&quot;, with a charac...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the shape of a &quot;flying saucer&quot;, with a charac...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jhwikicollection-20.fandom.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indiana, whose life changes after...</p></details>
+   Link:<a href="https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://jhwikicollection-20.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindThe film depicts the story of [Roy Neary](&amp;#123;&amp;#123; &#x27;roy-neary/&#x27; | relative_url &amp;#125;&amp;#125;), an everyday blue-collar worker in Indiana, whose life changes after...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bfidatadigipres.github.io  
    Title: close encounters of the third kind  
-   Link: <a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — Allen Hynek (consultant for the US Air Force&#x27;s Project Blue Book, and technical advisor to Spielberg on Close Encounters) t...</p></details>
+   Link:<a href="https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://bfidatadigipres.github.io/member%20picks/2022/02/23/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — Allen Hynek (consultant for the US Air Force&#x27;s Project Blue Book, and technical advisor to Spielberg on Close Encounters) t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ghostarchive.org  
    Title: Lenticular clouds  
-   Link: <a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office17 Feb 2023 —... UFO sightings across the world. How do lenticular clouds form? When... Lenticular clouds are a visible sign...</p></details>
+   Link:<a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office17 Feb 2023 —... UFO sightings across the world. How do lenticular clouds form? When... Lenticular clouds are a visible sign...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAstronomer and ufologist J. Allen Hynek served as technical consultant on the film and made a brief cam...</p></details>
+   Link:<a href="https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/close-encounters-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Third KindAstronomer and ufologist J. Allen Hynek served as technical consultant on the film and made a brief cam...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hataripapers/posts/closer-encounters-of-the-third-kind/1615203103941418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hataripapers/posts/closer-encounters-of-the-third-kind/1615203103941418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closer Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind denot...</p></details>
+   Link:<a href="https://www.facebook.com/hataripapers/posts/closer-encounters-of-the-third-kind/1615203103941418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hataripapers/posts/closer-encounters-of-the-third-kind/1615203103941418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closer Encounters of the Third KindAllen Hynek&#x27;s classification of close encounters with extraterrestrials, in which the third kind denot...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sfcrowsnest.info  
    Title: steven spielberg close encounters ufo documentary explained  
-   Link: <a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
+   Link:<a href="https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/steven-spielberg-close-encounters-ufo-documentary-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters Of The Fact Kind: Spielberg&#x27;s UFO...4 Jun 2026 — New documentary reveals the UFO cases, researchers and real-world myst...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
    Title: Popularity Without Legitimacy?  
-   Link: <a href="https://arxiv.org/pdf/2606.09838" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2606.09838</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing Trust in...by JA Vera · 2026 — Research on severe weather risk communication has long emphasized trust as a prerequisite for e...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2606.09838" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2606.09838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing Trust in...by JA Vera · 2026 — Research on severe weather risk communication has long emphasized trust as a prerequisite for e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: themindreels.com  
    Title: close encounters of the third kind 1977 steven spielberg  
-   Link: <a href="https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) – Steven Spielberg22 Feb 2013 — The film follows an everyman, Roy Neary (Richard Dreyfuss) as h...</p></details>
+   Link:<a href="https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/" target="_blank" rel="noopener noreferrer nofollow">https://themindreels.com/2013/02/22/close-encounters-of-the-third-kind-1977-steven-spielberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) – Steven Spielberg22 Feb 2013 — The film follows an everyman, Roy Neary (Richard Dreyfuss) as h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theankler.com  
    Title: steven spielberg ufo aliens close encounters third kind  
-   Link: <a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — Today Joe explores the story behind Steven Spielberg&#x27;s Close Encounters o...</p></details>
+   Link:<a href="https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://theankler.com/steven-spielberg-ufo-aliens-close-encounters-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Aliens &amp; Steven Spielberg&#x27;s 20-Year Obsession9 Nov 2024 — Today Joe explores the story behind Steven Spielberg&#x27;s Close Encounters o...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ladbible.com  
    Title: Lenticular clouds look an awful lot like UFOs. BBC Weather Watchers.Read more  
-   Link: <a href="https://www.ladbible.com/community/met-office-reveals-weather-phenomenon-that-can-be-confused-for-ufo-20220518" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/community/met-office-reveals-weather-phenomenon-that-can-be-confused-for-ufo-20220518</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office Reveals Weather Phenomenon That Can Be...May 18, 2022 — Met Office Reveals Weather Phenomenon That Can Be Confused Fo...</p></details>
+   Link:<a href="https://www.ladbible.com/community/met-office-reveals-weather-phenomenon-that-can-be-confused-for-ufo-20220518" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/community/met-office-reveals-weather-phenomenon-that-can-be-confused-for-ufo-20220518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office Reveals Weather Phenomenon That Can Be...May 18, 2022 — Met Office Reveals Weather Phenomenon That Can Be Confused Fo...</p></details>
    Published: May 18, 2022  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: syfy.com  
    Title: project blue book close encounters flash forward  
-   Link: <a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Close Encounters of the Third Kind flash...24 Feb 2020 — The story jumps into the future with Aidan Gillen as Hynek ge...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/project-blue-book-close-encounters-flash-forward</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Close Encounters of the Third Kind flash...24 Feb 2020 — The story jumps into the future with Aidan Gillen as Hynek ge...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kMKZ5AQiPE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kMKZ5AQiPE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt Explores The Unknown In Steven Spielberg’s Sci‑fi Thriller ‘[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)’ | The View...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kMKZ5AQiPE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kMKZ5AQiPE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt Explores The Unknown In Steven Spielberg’s Sci‑fi Thriller ‘[Disclosure Day](&amp;#123;&amp;#123; &#x27;disclosure-day/&#x27; | relative_url &amp;#125;&amp;#125;)’ | The View...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: in close encounters of the third kind 1977 j  
-   Link: <a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worked for the governments official UFO investigation program Project Blue Book and came up with the Close Encounter scale...</p></details>
+   Link:<a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worked for the governments official UFO investigation program Project Blue Book and came up with the Close Encounter scale...</p></details>
