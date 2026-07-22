@@ -388,16 +388,16 @@ The enduring power of the scene comes from that inversion. Everything about the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Film+Music+of+John+Williams%3A+Reviving+Hollywood%27s+Classical+Style+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Film Music of John Williams: Reviving Hollywood&#x27;s Classical Style on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=John+Williams+Tim+Greiving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Williams on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Film+Music+of+John+Williams%3A+Reviving+Hollywood%27s+Classical+Style+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Film Music of John Williams: Reviving Hollywood&#x27;s Classical Style">The Film Music of John Williams: Reviving Hollywood&#x27;s Classic...</a>
+          <a href="https://www.amazon.com/s?k=John+Williams+Tim+Greiving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Williams">John Williams</a>
         </h4>
-        <p class="fr-book-author">By Emilio Audissino</p>
+        <p class="fr-book-author">By Tim Greiving</p>
 
-        <p class="fr-book-desc">Explains Williams&#x27;s motif-based storytelling and classical-Hollywood scoring methods.</p>
+        <p class="fr-book-desc">Gives context for the music that replaces weapons as the contact interface.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Film+Music+of+John+Williams%3A+Reviving+Hollywood%27s+Classical+Style+Emilio+Audissino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=John+Williams+Tim+Greiving&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
