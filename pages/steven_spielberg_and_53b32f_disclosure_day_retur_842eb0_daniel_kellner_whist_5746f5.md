@@ -350,16 +350,33 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent: Inside the Pentagon&#x27;s Hunt for UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent: Inside the Pentagon&#x27;s Hunt for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent: Inside the Pentagon&#x27;s Hunt for UFOs">Imminent: Inside the Pentagon&#x27;s Hunt for UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+
+        <p class="fr-book-desc">Matches the whistleblower, classified-program and hidden-evidence themes of the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51%3A+An+Uncensored+History+of+America%27s+Top+Secret+Military+Base+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51: An Uncensored History of America&#x27;s Top Secret Military Base on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51: An Uncensored History of America&#x27;s Top Secret Military Base" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Area+51%3A+An+Uncensored+History+of+America%27s+Top+Secret+Military+Base+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51: An Uncensored History of America&#x27;s Top Secret Military Base">Area 51: An Uncensored History of America&#x27;s Top Secret Milita...</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
 
         <p class="fr-book-desc">Fits the hidden-records and classified-access themes central to the character.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Area+51%3A+An+Uncensored+History+of+America%27s+Top+Secret+Military+Base+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -399,26 +416,9 @@ In that sense, Daniel Kellner is not simply the hero of a UFO story. He is the m
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent: Inside the Pentagon&#x27;s Hunt for UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent: Inside the Pentagon&#x27;s Hunt for UFOs">Imminent: Inside the Pentagon&#x27;s Hunt for UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-
-        <p class="fr-book-desc">Matches the whistleblower, classified-program and hidden-evidence themes of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent%3A+Inside+the+Pentagon%27s+Hunt+for+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent: Inside the Pentagon&#x27;s Hunt for UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51%3A+An+Uncensored+History+of+America%27s+Top+Secret+Military+Base&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51: An Uncensored History of America&#x27;s Top Secret Military Base</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

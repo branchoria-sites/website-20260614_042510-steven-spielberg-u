@@ -332,16 +332,16 @@ This approach distinguishes Spielberg from simpler stories in which aliens are e
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man%3A+How+One+Man+Made+the+World+Believe+in+UFOs+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man: How One Man Made the World Believe in UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man: How One Man Made the World Believe in UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man%3A+How+One+Man+Made+the+World+Believe+in+UFOs+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man: How One Man Made the World Believe in UFOs">The Close Encounters Man: How One Man Made the World Believe...</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Mark O&#x27;Connell</p>
 
-        <p class="fr-book-desc">Helps frame why even non-hostile encounters can be unsettling and hard to classify.</p>
+        <p class="fr-book-desc">Explores how wonder, credibility and fear overlap in UFO culture.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man%3A+How+One+Man+Made+the+World+Believe+in+UFOs+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -366,16 +366,16 @@ This approach distinguishes Spielberg from simpler stories in which aliens are e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind%3A+The+Making+of+Steven+Spielberg%27s+Classic+Film+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind: The Making of Steven Spielberg&#x27;s Classic Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B-ERraCGxkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind: The Making of Steven Spielberg&#x27;s Classic Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind%3A+The+Making+of+Steven+Spielberg%27s+Classic+Film+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind: The Making of Steven Spielberg&#x27;s Classic Film">Close Encounters of the Third Kind: The Making of Steven Spie...</a>
         </h4>
         <p class="fr-book-author">By Ray Morton</p>
 
         <p class="fr-book-desc">Shows how the film builds fear before resolving into wonder.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind%3A+The+Making+of+Steven+Spielberg%27s+Classic+Film+Ray+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -383,16 +383,16 @@ This approach distinguishes Spielberg from simpler stories in which aliens are e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Steven+Spielberg%3A+A+Biography+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Steven Spielberg: A Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13122625-M.jpg" alt="Cover for Steven Spielberg: A Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg">Steven Spielberg</a>
+          <a href="https://www.amazon.com/s?k=Steven+Spielberg%3A+A+Biography+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Steven Spielberg: A Biography">Steven Spielberg: A Biography</a>
         </h4>
         <p class="fr-book-author">By Joseph McBride</p>
 
         <p class="fr-book-desc">Places Spielberg&#x27;s blend of fear and warmth within his larger filmography.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Steven+Spielberg+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Steven+Spielberg%3A+A+Biography+Joseph+McBride&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -400,7 +400,7 @@ This approach distinguishes Spielberg from simpler stories in which aliens are e
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man%3A+How+One+Man+Made+the+World+Believe+in+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man: How One Man Made the World Believe in UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=E.T.%2C+the+Extra+Terrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">E.T., the Extra Terrestrial</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind%3A+The+Making+of+Steven+Spielberg%27s+Classic+Film&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind: The Making of Steven Spielberg&#x27;s Classic Film</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
