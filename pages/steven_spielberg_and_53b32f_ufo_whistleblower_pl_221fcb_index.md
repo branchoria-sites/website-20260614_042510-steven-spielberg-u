@@ -4,7 +4,7 @@ title_full: Whistleblowers Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /steven-spielberg-and-53b32f-ufo/
+permalink: /steven-spielberg-and-53b32f-ufo-whistleblowers/
 description: Focused pages that expand on Whistleblowers.
 date: '2026'
 layout: default
