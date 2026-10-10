@@ -4,7 +4,7 @@ title_full: Credibility Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /steven-spielberg-and-53b32f-witness/
+permalink: /steven-spielberg-and-53b32f-witness-credibility/
 description: Focused pages that expand on Credibility.
 date: '2026'
 layout: default
