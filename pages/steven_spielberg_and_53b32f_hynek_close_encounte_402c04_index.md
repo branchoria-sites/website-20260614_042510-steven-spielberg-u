@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 18:25:02'
 title: Hynek System Sub-Topic Index
 title_full: Hynek System Sub-Topic Index
 display_title: Sub-Topic Index
