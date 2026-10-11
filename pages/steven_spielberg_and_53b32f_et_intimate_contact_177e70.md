@@ -49,7 +49,7 @@ keywords:
 - e-t
 affiliate_category: steven-spielberg-and-ufos
 show_ads: true
-description: E.T.
+description: "E.T (e t)."
 hero_summary: E.T.
 layout: default
 permalink: /e-t/

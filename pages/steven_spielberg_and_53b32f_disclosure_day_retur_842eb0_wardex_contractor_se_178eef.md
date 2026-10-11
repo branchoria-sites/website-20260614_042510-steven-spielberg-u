@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /steven-spielberg-and-ufos/
 - /disclosure-day/
 nav_short_title: Wardex Contractor Se 178 Eef
-title: Wardex Contractor Se 178 Eef
+title: "Wardex Contractor Se 178 Eef (Why Disclosure Day Matters for Spielberg)"
 title_full: Wardex Contractor Se 178 Eef
 display_title_short: Wardex Contractor Se 178 Eef
 display_title: Wardex Contractor Se 178 Eef

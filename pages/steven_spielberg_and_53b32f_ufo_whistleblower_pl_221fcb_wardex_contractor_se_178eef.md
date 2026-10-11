@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /steven-spielberg-and-ufos/
 - /whistleblowers/
 nav_short_title: Wardex Contractor Se 178 Eef
-title: Wardex Contractor Se 178 Eef
+title: "Wardex Contractor Se 178 Eef (Why UFO Stories Now Need Whistleblowers)"
 title_full: Wardex Contractor Se 178 Eef
 display_title_short: Wardex Contractor Se 178 Eef
 display_title: Wardex Contractor Se 178 Eef
